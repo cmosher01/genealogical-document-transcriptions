@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher richards brook pine listing 1998</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_richards_1997/mosher_richards_brook_pine_listing_1998/p-000.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>mm.
+<lb/>41 Brookpine Drive
+<lb/>Huntington-Shelton, Ct
+<lb/>$ 294,900
+<lb/>Style: Colonial, Builder's own home full of thoughtful functional and
+<lb/>decorative features, wonderfully situated on a culdesac along with
+<lb/>property on 3 sides designated as permanent Open Space by the City of
+<lb/>Shelton. The lot is 1.23 acres of treed property with public water
+<lb/>supply and private septic system (garden plot in the rear yard is best
+<lb/>location for in-ground pool).
+<lb/>Home consists of: 8 rms, 4 bedrms, 2.5 baths, full basement with
+<lb/>walkout, 2 car garage under with 1 car garage under porch area.
+<lb/>3 season enclosed porch, rear deck for cooking grill.
+<lb/>• Wonderfully unique masterbedrm. design offers a 1st and 2"^ floor
+<lb/>option with access to full baths and big cioset sizes.
+<lb/>• Please note some of these special features: Random wide plank
+<lb/>pegged floors in kitchen &amp; family rm., 3 French doors (2 pocket
+<lb/>style off kitchen). Full crown mldg. in Living &amp; Din. rms. as well as
+<lb/>hand crafted beams &amp; base mldg. in family rm.. Solid 6 panel int.
+<lb/>doors, numerous ceiling fans, all light fixtures (dining rm. fixture
+<lb/>solid brass from Portugal).
+<lb/>• Kitchen has Oak cabinets, double sink, built in desk, closet pantry.
+<lb/>• Tempered glass used in big window at kitchen table &amp; fixed glass
+<lb/>skylite in hallway to porch.
+<lb/>•  Skylites in family rm. are opening type with shades.
+<lb/>• Rumford fireplace in family rm. has outside air draw venting for
+<lb/>efficiency, (Rumford was a compatriot of Ben Franklin who
+<lb/>originated a formula for the most efficient firebox configuration,
+<lb/>that formula was utilized in the this home's fireplace design.
+<lb/>• Exterior windows are longer style thermopane with removable grills.
+<lb/>• Main level laundry (storage shelving) in half bath off kitchen.
+<lb/>• Oil hot water baseboard heating, 3 zones, interior oil tank.
+<lb/>•  200 Amp electrical service, Amway security alarm system on doors.
+<lb/>• Automatic garage door opener in front unit only.
+<lb/>• Taxes $ 3,347 yearly.
+<lb/>• Appliances included: Electric oven-range, microwave, dishwasher.
+<lb/>Refrigerator, clothes washer &amp; dryer, all window treatments.
+<lb/>• Basement plumbed for additional half bath.
+<lb/>Marketed By
+<lb/>Paul Jensen, Broker 21 Yrs. Experience
+<lb/>William Raveis R.E. 203-929-6388, 924-SOLD (7653)
+<lb/>Information herein subject to errors, omission or change.
+<lb/>mnm tmts
+<lb/>; REAL ESTATE SERVICES i
+</ab>
+    </body>
+  </text>
+</TEI>

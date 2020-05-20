@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher harrison records</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_harrison_records/p-035.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+<pb n="1" facs="#page-000"/><lb/>—Married July 3, at eight-thirty P. M.
+  <lb/>in the St. Thomas Rectory by the Rever‐
+  <lb/>end Samuel F. Burhans, Mr. Fred C.
+  <lb/>Mosher of Hamilton, son of Mr. and Mrs.
+  <lb/>Louis Mosher and Miss Alice Harrison of
+  <lb/>Hornby. They were attended by Mr. and
+  <lb/>Mrs. John Harrison. They will be at home
+  <lb/>in the Hitchcock apartment on Madison
+  <lb/>Street after this week. Miss Alice Harrison
+  <lb/>is the daughter of Mr. and Mrs. Elmer
+  <lb/>Harrison of Hornby, New York.
+  <lb/>1934
+<pb n="2" facs="#page-001"/>
+  <lb/>2 Full Name of Child BARRY REXFORD MOSHER
+  <lb/>7 Date of birth SEPT 1 1937
+<pb n="3" facs="#page-002"/>
+  <lb/>Diocese of Central New York
+  <lb/>In the Name of the Father, and of the Son,
+  <lb/>and of the holy Ghost. Amen.
+  <lb/>This is to certify that
+  <lb/>Barry Rexford Mosher
+  <lb/>presented by
+  <lb/>Samuel F Burhans Rector
+  <lb/>received the Apostolic Rite of Laying on
+  <lb/>of Hands at a Confirmation held in
+  <lb/>St. Thomas Church
+  <lb/><date when="1949-03-13">Sunday Mar. 13, 1949 A.D.</date>
+  <lb/>By the Right Reverend
+  <lb/>Bishop
+<pb n="4" facs="#page-003"/>
+  <lb/>The
+  <lb/>Class of 1959
+  <lb/>requests the honor of your presence
+  <lb/>at the
+  <lb/>153rd Commencement Exercises
+  <lb/>of
+  <lb/>Rensselaer Polytechnic Institute
+  <lb/>on Friday, June the fifth
+  <lb/>at two-fifteen o'clock
+  <lb/>R. P. I. Field House
+  <lb/>Troy, New York
+<pb n="5" facs="#page-004"/>
+<pb n="6" facs="#page-005"/>
+<pb n="7" facs="#page-006"/>
+<pb n="8" facs="#page-007"/>
+<pb n="9" facs="#page-008"/>
+<pb n="10" facs="#page-009"/>
+  <lb/>MOSHERS ANTIQUES
+  <lb/>Fred Mosher
+  <lb/>45 North Main St.
+  <lb/>Earlville, New York
+  <lb/>PHONE OW 1‒4203
+  <lb/>Glass
+  <lb/>China
+  <lb/>Furniture
+  <lb/>Primitives
+<pb n="11" facs="#page-010"/>
+  <lb/>NEW YORK STATE DEPARTMENT OF TAXATION AND FINANCE - SALES TAX BUREAU
+  <lb/>CERTIFICATE OF AUTHORITY
+  <lb/>IDENTIFICATION NUMBER
+  <lb/>11 6050086SS
+  <lb/>(USE THIS NUMBER ON ALL RETURNS
+  <lb/>AND CORRESPONDENCE)
+  <lb/>MOSHERS ANTIQUES
+  <lb/>9-EATON ST
+  <lb/>HAMILTON NY 13346
+  <lb/>VALIDATED
+  <lb/>SALES TAX
+  <lb/>BUREAU
+  <lb/>10-03-75
+  <lb/>DEPT. OF TAX
+  <lb/>AND FINANCE
+  <lb/>is authorized to collect sales and use taxes under Articles 28 and 29 of the New York State Tax Law.
+  <lb/>NOT TRANSFERABLE
+  <lb/>This Certificate must be prominently displayed in your place of business
+  <lb/>ST—105 (8-74)
+<pb n="12" facs="#page-011"/>
+  <lb/>ST—105 BACK (8-74)
+<pb n="13" facs="#page-012"/>
+  <lb/>Your Polk County Voters Registration qualifies
+  <lb/>YOU TO VOTE IN ALL NATIONAL, STATE, and
+  <lb/>COUNTY elections as well as elections held in
+  <lb/>THE Municipality in which you reside.
+  <lb/>You ARE PERMANENTLY registered in Polk
+  <lb/>County, Florida as long as you vote at least
+  <lb/>once in any election in the County within two
+  <lb/>years.
+  <lb/>POLLING LOCATION:
+  <lb/>INWOOD BAPTIST CHURCH
+  <lb/>1302 34TH. STREET NW.
+  <lb/>WINTER HAVEN, FLORIDA
+  <lb/>(CHECK NEWSPAPERS FOR ANY CHANGES AND FOR CITY ELECTIONS)
+  <lb/>1980-1981 VOTER ID CARD
+  <lb/>POLK COUNTY, FLORIDA
+  <lb/>VOTER'S NAME AND ADDRESS
+  <lb/>MOSHER, FRED
+  <lb/>350 24TH STREET NW
+  <lb/>APT 761
+  <lb/>WINTER HAVEN FL. 33880
+  <lb/>PREC. NO. 47
+  <lb/>PARTY I
+  <lb/>CITY I
+  <lb/>ID NUMBER 270227
+  <lb/>RACE W
+  <lb/>SEX M
+  <lb/>DATE REGISTERED 05/06/80
+  <lb/>DATE OF BIRTH 05/28/11
+  <lb/>SIGNATURE
+  <lb/>OF VOTER
+<pb n="14" facs="#page-013"/>
+<pb n="15" facs="#page-014"/>
+  <lb/>FLORIDA
+  <lb/>DRIVER LICENSE
+  <lb/>OERATOR
+  <lb/>04 26 88
+  <lb/>SAFE DRIVER
+  <lb/>FRED MOSHER
+  <lb/>905 THOMPSON CIRCLE
+  <lb/>WINTER HAVEN FL 33880-0000
+  <lb/>5-10
+  <lb/>W
+  <lb/>M
+  <lb/>05 08 11
+<pb n="16" facs="#page-015"/>
+[A transcription of this page is not available.]
+<pb n="17" facs="#page-016"/>
+<lb/>GENERAL INSTRUCTIONS TO CLAIMANT
+<lb/>1. Keep this book even if you get a [ob. You may
+<lb/>need it again.
+<lb/>2. Bring it v/ith you every time you report to an
+<lb/>insurance office or a placement office of the Division
+<lb/>of Employment.
+<lb/>3. In the pocket of this book keep any Record of
+<lb/>Employment slips (Form lA 12.3) given you by em
+<lb/>ployers. Your employer is required to give you a
+<lb/>Record of Employment slip if you lose or quit a job,
+<lb/>and you are required to present all slips received in
+<lb/>the past 52 weeks whenever you file a ijew benefit
+<lb/>claim.
+<lb/>4. Read and learn the instructions in the booklet
+<lb/>''Claimant's Booklet of Information" so you will know
+<lb/>your rights under the Unemployment Insurance taw
+<lb/>and what you must do to obtain and protect them.
+<lb/>5. If you have any questions, seek the answers at
+<lb/>your local insurance office. This will ensure that you
+<lb/>receive correct information. You should not rely on
+<lb/>unemployment insurance information you get from
+<lb/>anyone not connected with the Division of Employ
+<lb/>ment.
+<lb/>AlWAYS GIVE YOUR SOCIAL SECURITY ACCOUNT
+<lb/>NUAABER WHEN MAKING INQUIRY.
+<lb/>IMPORTANT NOTICE
+<lb/>The law provides severe penalties for
+<lb/>false statements wilfully made to obtain
+<lb/>benefits.
+<lb/>to 318 (4-59)
+<lb/>NEW YORK STATE
+<lb/>DEPARTMENT OF LABOR
+<lb/>fx
+<lb/>Division of Employment
+<lb/>CLAIMANT'S
+<lb/>INSURANCE BOOK
+<pb n="18" facs="#page-017"/>
+<lb/>SOCIAL
+<lb/>SECURITY
+<lb/>ACCOUNT
+<lb/>NUMBER
+<lb/>C'.'
+<lb/>REPORT FOR UNEMPLOYMENT INSURANCE
+<lb/>TO THE LOCAL OFFICE ATi
+<lb/>Pivision of Enployra
+<lb/>123 Phelps Street
+<lb/>Oneida, N. Y.
+<lb/>snt
+<lb/>) i,  , - Date ofT"'' ' • ■
+<lb/>On Each Between... And Change;
+<lb/>On Each Between And
+<lb/>On Each Between .And...
+<lb/>and at other times as necessary or directed
+<lb/>BENEFIT YEAR ENDS:
+<lb/>Name.
+<lb/>(NOT TO BE USED FOR IDENTIFICATION PURPOSESI
+<lb/>REPORT FOR EMPLOYMENT SERVICE
+<lb/>TO THE PLACEMENT OFFICES AT:
+<lb/>Sec.
+<lb/>Occ.
+<lb/>Code
+<lb/>□ VETERAN
+<lb/>□ KOREAN VETERAN
+<lb/>□ NON-VETERAN
+<lb/>The Placement Office of
+<lb/>Additional RegUtrdtion Is oti
+<lb/>Occ. 2.
+<lb/>SP STATUS
+<lb/>REPORT TO THE PLACEMENT OFFICES
+<lb/>ON THE DATES SHOWN BELOWs
+<lb/>NOTICE OF BENEFIT RATE
+<lb/>WEEKLY BENEFIT RATE $ $ $
+<lb/>FOR THE BENEFIT YEAR ENDING 19
+<lb/>19
+<lb/>YOUR BASE PERIOD IS THE 52 WEEK PERIOD ENDING
+<lb/>19 19 19
+<lb/>NUMBER OF WEEKS WORKED IN BASE PERIOD S'Z
+<lb/>TOTAL BASE PERIOD WAGES
+<lb/>„  d-d
+<lb/>THIS INITIAL DETERMINATION IS ISSUED ON 19^ 19 19
+<lb/>INITIALS OF STAFF MEMBER
+<lb/>I
+<lb/>Your benefit rote Is based on your overage weemy wuge. uu....a
+<lb/>wont o further explanation of the way your rate Is figured, ask the Insurance interviewer.
+<lb/>If you disagree wltli tills determination and wish a hearing before an impartial referee,
+<lb/>you must request the hearing within thirty days from the dote the determination is moiled
+<lb/>or delivered to you personally. . . .
+<lb/>If you request a hearing you most continue to report as directed during the
+<lb/>period you are claiming benefits In order to protect your rights.
+<pb n="19" facs="#page-018"/>
+<lb/>nz oi
+<lb/>•g a-JoqoT &gt;o jdaa-'A N (090 Z'SIE OI
+<lb/>iisawnN iNnoDDV Aiianoas ividos
+<lb/>aavoa qnv wooa jo jmvA qnv sdii aaniDNi onv SNOiianaja ̂
+<lb/>jaojja soNiNava aixjjm aw aav nmohs siNnowv 3hi.
+<lb/>„o„ a3)iavw SAva no SNOSvaa aaHio ao ss3N&gt;idis
+<lb/>dO 3snvD3a &gt;iaoM oi aiav ao ONiniM ion svm i
+<lb/>(ON) ,-N„ aaaavw SAva
+<lb/>NO xaoM ION aia i
+<lb/>o
+<lb/>M
+<lb/>(S3A) a3)iavw
+<lb/>SAVa NO a3&gt;iaOM I
+<lb/>LLOL68Z99
+<lb/>y.
+<lb/>VZZIIEOE6S
+<lb/>&gt;cOcso
+<lb/>8ZLZ9Z9SVZESSS
+<lb/>IZOS6181Zl9191
+<lb/>VIeiZlLIOL68
+<lb/>L99VESI
+<lb/>leoe6Z82ZS9S9S
+<lb/>c
+<lb/>Ch
+<lb/>o
+<lb/>vzzzZZISOS618L
+<lb/>Zl9191t'lElSILL
+<lb/>0168I991 V
+<lb/>"iNI
+<lb/>N3&gt;IV1 NOIiDV
+<lb/>a3X80d3^
+<lb/>3iva
+<lb/>180d3d
+<lb/>oi 3iva
+<lb/>3iva ONV
+<lb/>liasdD
+<lb/>SONINdVS
+<lb/>A1&gt;I33M*
+<lb/>NflSiVSI8dHHla3M3niNOW
+<lb/>lN3W3DV1dSDNVdnSNI
+<lb/>INSURANCE2PLACEMENT
+<lb/>( MOJ^' TUE WEDSUN
+<lb/>^WEEKLY
+<lb/>EARNINGS
+<lb/>CREDIT
+<lb/>AND DATE
+<lb/>DATE TO
+<lb/>REPORT
+<lb/>DATE
+<lb/>REPORTEDACTION TAKENINT.
+<lb/>1418
+<lb/>2630
+<lb/>101316
+<lb/>171820212223
+<lb/>242529
+<lb/>31
+<lb/>o
+<lb/>z
+<lb/>11ViKIIU-7 &lt;£0
+<lb/>^ I DID NOT WORK ON rj^
+<lb/>1 DAYS MARKED "N" (NO) [i&gt;L
+<lb/>I WORKED ON DAYS
+<lb/>MARKED "Y" (YES)
+<lb/>I WAS NOT WILLING OR ABLE TO WORK BECAUSE OF
+<lb/>SICKNESS OR OTHER REASONS ON DAYS MARKED "O"0
+<lb/>y
+<lb/>SOCIAL SECURITY ACCOUNT NUMBER
+<lb/>LO 217
+<lb/>♦THE AMOUNTS SHOWN ARE MY WEEKLY EARNINGS BEFORE
+<lb/>DEDUCTIONS AND INCLUDE TIPS AND VALUE OF ROOM AND BOARD,
+<pb n="20" facs="#page-019"/>
+<lb/>az oi
+<lb/>aaawnN inooddv AiianDas ivoos
+<lb/>iT
+<lb/>oiivog aNv wooii jo amvA qnv sjii aamoNi qnv sNoiiDnaaa ̂
+<lb/>aaojaa soNiNava ai&gt;i33m AW3av na\ohs siNnowv 3H1.
+<lb/>„o„ a3»avw SAva no SNOsvaa aaHio ao sssnmdis
+<lb/>JO asnvoaa xmom oi aiav ao ONiniM ion svm i
+<lb/>(ON) „N„ aaaavw SAva
+<lb/>NO &gt;iaoM J.ON aia i
+<lb/>o
+<lb/>(S3A) „A„ a3&gt;iavw
+<lb/>SAva NO a3&gt;iaoM i
+<lb/>¥1JJzn1
+<lb/>7/9* iwr &lt;7T
+<lb/>H
+<lb/>ItIT%
+<lb/>¥XM
+<lb/>t!
+<lb/>mr ij
+<lb/>N3&gt;IVi NOIIDV
+<lb/>a9J.»Od3^
+<lb/>3iva
+<lb/>ldOd9d
+<lb/>01 9iva
+<lb/>iva QNV SONINdVa
+<lb/>'iiaaiiD Ai)i33M«
+<lb/>NnsiVSNOW
+<lb/>lN3W3DV1d— e —3DNVdnSNI
+<lb/>INSURANCEPLACEMENT
+<lb/>MONTUEWEDTHUFRISATSUN
+<lb/>*WEEKLY
+<lb/>EARNINGS
+<lb/>CREDIT
+<lb/>AND DATE
+<lb/>DATE TO
+<lb/>REPORT
+<lb/>4
+<lb/>DATE
+<lb/>REPORTED
+<lb/>ACTION TAKENINT.
+<lb/>19¥El/i£
+<lb/>U MUtLtiMWR e &gt;81
+<lb/>¥¥
+<lb/>tIIZL
+<lb/>STh
+<lb/>iLM
+<lb/>U.L
+<lb/>I WORKED ON DAYS
+<lb/>MARKED "Y" (YES)
+<lb/>I DID NOT WORK ON
+<lb/>DAYS MARKED "N" (NO)
+<lb/>I WAS NOT WILLING OR ABLE TO WORK BECAUSE OF
+<lb/>SICKNESS OR OTHER REASONS ON DAYS MARKED "O'
+<lb/>'THE AMOUNTS SHOWN ARE MY WEEKLY EARNINGS BEFORE
+<lb/>DEDUCTIONS AND INCLUDE TIPS AND VALUE OF ROOM AND BOARD,
+<lb/>SOCIAL SECURITY ACCOUNT NUMBER
+<lb/>LO 217
+<pb n="21" facs="#page-020"/>
+<lb/>nz oi
+<lb/>iiaawnN iNnoDDv AiianDas ividos
+<lb/>■aavoa aNv wooa jo amvA onv sjii aamsNi qnv sNoixDnaaa^
+<lb/>jiiojaa soNiNava AixaaM aw aav nmohs sinpowv aHi,
+<lb/>„o„ aaaavw SAva no SNOSvaa aaHio ao ssaNaois
+<lb/>JO 3snvD39 aaoM oi aiav ao oniiiim ion svm i
+<lb/>(ON) „N„ aaaavw SAva
+<lb/>NO &gt;iaoM ION am i
+<lb/>o
+<lb/>M
+<lb/>(S3A) „A„ aaaavw
+<lb/>SAva NO aaaaoM i
+<lb/>8LZL9191ClZl
+<lb/>OL
+<lb/>l€oe6Z
+<lb/>82IZ92
+<lb/>IT8L jfSzm (NL2
+<lb/>&lt;5/8 M
+<lb/>77VI
+<lb/>-n
+<lb/>¥
+<lb/>q
+<lb/>S AHJ
+<lb/>Ifzz
+<lb/>X92Yz
+<lb/>¥¥XL
+<lb/>01 fr
+<lb/>•IN IN3)IV1 NOIiDVaaiaodaa laodaa aiva aNV soNiNava nps xvs laj phi aaM
+<lb/>aiva Oi aiva iiaaaa AixaaM,
+<lb/>a PiNOW
+<lb/>iN3W3DV1d
+<lb/>INSURANCE
+<lb/>s —EONVUnSNI
+<lb/>6PLACEMENT
+<lb/>MONTUEWEDTHUFRISATSUN
+<lb/>*WEEKLY
+<lb/>EARNINGS
+<lb/>CREDIT
+<lb/>AND DATE
+<lb/>DATE TO
+<lb/>REPORT
+<lb/>DATE
+<lb/>REPORTEDACTION TAKENINT.
+<lb/>Ui
+<lb/>Z
+<lb/>3
+<lb/>19202122232425
+<lb/>262728293012
+<lb/>3
+<lb/>3456789
+<lb/>10111213141516
+<lb/>17181920212223
+<lb/>24252627282930
+<lb/>31123456
+<lb/>63
+<lb/>&lt;
+<lb/>78910111213
+<lb/>14151617181920
+<lb/>21222324252627
+<lb/>I DID NOT WORK ON
+<lb/>DAYS MARKED "N" (NO)
+<lb/>I WORKED ON DAYS
+<lb/>MARKED "Y" (YES)
+<lb/>I WAS NOT WILLING OR ABLE TO WORK BECAUSE OF
+<lb/>SICKNESS OR OTHER REASONS ON DAYS MARKED "O"
+<lb/>•THE AMOUNTS SHOWN ARE MY WEEKLY EARNINGS BEFORE
+<lb/>DEDUCTIONS AND INCLUDE TIPS AND VALUE OF ROOM AND BOARD.
+<lb/>0SOCIAL SECURITY ACCOUNT NUMBER
+<lb/>LO 217
+<pb n="22" facs="#page-021"/>
+<lb/>nz oi
+<lb/>naawnN inooddv AiiynDas ividos
+<lb/>anvoa QNV woon iO amvA qnv sdii aaniDNi qnv SNOiiDnaaa
+<lb/>anodaa soNiNuva ai)!33m aw aav nmohs siNnowv 3Hi
+<lb/>o
+<lb/>/,0,/ a3&gt;*yvw SAVa no SNOSVay l!3HiO ao SS3N)IDIS
+<lb/>JO 3SnVD39 )iaOM Ol 319V yO ONmiM iON SVM I
+<lb/>M
+<lb/>(ON) M, a3)iavw SAva
+<lb/>NO &gt;IHOM ION GIG I
+<lb/>(S3A) a3)lilVW
+<lb/>SAVG NO G3)lllOM I
+<lb/>8LZL919LClZl
+<lb/>IGOG
+<lb/>-«r
+<lb/>8Z9393G3
+<lb/>6181
+<lb/>01
+<lb/>93tz
+<lb/>G33303ZL
+<lb/>•IN I
+<lb/>N3)1V1 NOIXDV
+<lb/>a3iyod3ii laodaa aiva gnv soNiNav3 Nns ivs idj ohi 03m am now
+<lb/>3iVa Oi 31VQ iiaadD A1)I33M»
+<lb/>iN3W3DV1d5SDNVdnSNI
+<lb/>INSURANCE6PLACEMENT
+<lb/>MONTUETHUFRISATSUN
+<lb/>•WEEKLY
+<lb/>EARNINGS
+<lb/>CREDIT
+<lb/>AND DATE
+<lb/>DATE TO
+<lb/>REPORT
+<lb/>DATE
+<lb/>REPORTEDACTION TAKEN
+<lb/>2223
+<lb/>30
+<lb/>10131516
+<lb/>1820212223
+<lb/>tr- 27282930
+<lb/>101213
+<lb/>1420
+<lb/>212223
+<lb/>I WORKED ON DAYS
+<lb/>MARKED "Y" (YES)
+<lb/>I DID NOT WORK ON
+<lb/>DAYS MARKED "N" (NO)
+<lb/>I WAS NOT WILLING OR ABLE TO WORK BECAUSE OF
+<lb/>SICKNESS OR OTHER REASONS ON DAYS MARKED "O"0SOCIAL SECURITY ACCOUNT NUMBER
+<lb/>LO 217
+<lb/>•THE AMOUNTS SHOWN ARE MY WEEKLY EARNINGS BEFORE
+<lb/>DEDUCTIONS AND INCLUDE TIPS AND VALUE OF ROOM AND BOARD.
+<pb n="23" facs="#page-022"/>
+<lb/>.i^r OF LABOR
+<lb/>. . »r Employment
+<lb/>SUMMARY OF INTERVIEW
+<lb/>ISSUE ^ """
+<lb/>MARRIED AGES OF CHIldREN
+<lb/>WAGES LAST JOB
+<lb/>PER
+<lb/>UNION LOCAL
+<lb/>HOURS PER DAY DAYS PER WEEK
+<lb/>O-
+<lb/>DATE
+<lb/>xu.
+<lb/>10 413 (6-59)
+<pb n="24" facs="#page-023"/>
+<lb/>NEW YORK STATE DEPARTMENT OF LABOR
+<lb/>Division of Employment
+<lb/>SUMMARY OF INTERVIEW
+<lb/>LOG. OFF. NO.
+<lb/>i2_
+<lb/>ISSUE MARRIED AGES OF CHILDREN UNION LOCAL
+<lb/>WAGES LAST JOB HOURS PER DAY DAYS PER WEEK
+<lb/>$ PER
+<lb/>y
+<lb/>PAGE NO.
+<pb n="25" facs="#page-024"/>
+<lb/>tJkri'1 " liV\:j .i
+<lb/>CwLtAlf &lt;«.
+<lb/>^ UiXt'if-
+<lb/>JT —
+<lb/>•A
+<lb/>V-
+<lb/>1  -O
+<pb n="26" facs="#page-025"/>
+<lb/>S108-32-4321S
+<lb/>SOCI^
+<lb/>mcoumt^
+<lb/>SECDR^y
+<lb/>W NUMGEJI
+<lb/>HAS BEEN ESTABUSHED FOR
+<lb/>ATirft H. MoBbPT
+<lb/>FOR SOCIAL SECURITY PURPOSES • NOT FOR IDENTIFICATION
+<pb n="27" facs="#page-026"/>
+<lb/>Health Insurance
+<lb/>SOCIAL SECURITY ACT
+<lb/>NAME OF BENEFICIARY
+<lb/>ALICE H MOSHER
+<lb/>CLAIM NUMBER
+<lb/>108-32-4321-A
+<lb/>IS ENTITLED TO
+<lb/>HOSPITAL INSURANCE
+<lb/>BENEFITS ONLY
+<lb/>FEMALE
+<lb/>EFFECTIVE DATE
+<lb/>9-1-70
+<pb n="28" facs="#page-027"/>
+<lb/>IDENTIFICATION CARDSTATE OF NEW YORK HEALTH INSURANCECARRY THIS CARD WITH YOUIDENTIFICATION CARDSTATE OF NEW YORK HEALTH INSURANCECARRY THIS CARD WITH YOU. PRESENT IT TO YOUR DOCTORAI ice Mosher1/11THE NON-PROFITHOSPITAL SERVICEPS-422 (REV. 8-65)Alice MosherIDENTIFICATIONGROUPEFFECTIVE DATEIDENTIFICATIONEFFECTIVE DATEGROUPNUMBERNUMBERMO.DAYYR.■[NUMBERMO.DAYYR.NUMBERPA 108-32-43216161101541PA 108-32-4321101646161HOSPITALS IN NEW YORK STATESHOULD SUBMIT CLAIMS TO THEIRLOCAL BLUE CROSS PLANS.HOSPITALS OR BLUE CROSS PLANSOUTSIDE OF NEW YORK STATESHOULD SUBMIT CLAIMS TO ALBANYBLUE CROSS PLANINTER PLAN BANK #300FORDOCTORH B ttTHE NON-PROFITMEDICAL-SURGICAL SERVICEPS-423 REV. 8-65DOCTORS SHOULD SUBMITMEDICAL REPORTS TO THEIRLOCAL BLUE SHIELD PLANS INNEW YORK STATE* SEE REVERSE 
+<pb n="29" facs="#page-028"/>
+<lb/>* INFORMATION FOR THE DOCTORPARTICIPATINGBLUE SHIELDPLANSTYPE OF CERTIFICATEINDIVIDUALFAMILYALBANYPLAN BPLAN BBUFFALOCLASS 46CLASS 47JAMESTOWNSERVICE BENEFITSSERVICE BENEFITSNEW YORK CITY
+<lb/>SUFFIX C-3'
+<lb/>SUFFIX S-3ROCHESTERSERVICE BENEFITSSERVICE BENEFITSSYRACUSESERIES 54SERIES 55UTICAPLAN S 6PLAN S6CONTROL PLAN;BLUE SHIELD OF NORTHEASTERN NEW YORK, INC.135 WASHINGTON AVE., ALBANY, N. Y. 12210TPRESENT THIS CARD UPON ADMISSION TO THE HOSPITALBENEFITS WILL BE PROVIDED SUBJECT TO VERIFICATIONBY BLUE CROSS.READ YOUR CERTIFICATE,
+<lb/> IT S
+<lb/>ETS FORTH,THE TERMS ANDBENEFITS THAT APPLY.PARTICIPATING BLUE CROSS PLANS LOCATED AT
+<lb/>Albany
+<lb/>BuffaloJamestownNew
+<lb/> York City
+<lb/>Rochester
+<lb/>Syracuse
+<lb/>UticoWotertownCONTROL PLAN: BLUE CROSS OF NORTHEASTERN NEW YORK, INC.135 WASHINGTON AVE., ALBANY, N. Y. 12210
+<pb n="30" facs="#page-029"/>
+<lb/>The violet's dark blue ■ " v
+<lb/>And the gentle sons of- Harvard'-: '
+<lb/>To the Grimson' rose ore. trae'l. ' 'r
+<lb/>.We will' own the Illlies slender
+<lb/>Nor honor shall they lack 5
+<lb/>■While Northside stands defender" ;
+<lb/>-  ■ -Ot the Orange and the Black. (
+<lb/>When' the cares-of life o'erfake us
+<lb/>Mingling fast ■ our locks with gray
+<lb/>Should our dearest hopes betray us
+<lb/>False fortune fall away;
+<lb/>Still we- banish care -and sadness- ■:
+<lb/>■ As we turn our mem-'ries back;
+<lb/>And rectall.-.thise d^s of gladness -
+<lb/>'Neat-h the Orange and the, BIqcIe.''
+<lb/>'-'"tell MS the, tales that to me were ,so: :de&lt;x- V':
+<lb/>Of Noft'hSlde Migh, Idng;. long ago; ,;. rr:
+<lb/>Sing nie -the songs I -delighted to teat -
+<lb/>'In North side, .-'fiifgh, long .ago. '1 G.GiSJiji
+<lb/>. Noiy we are' here let d-ll grief be removed - ' ■ / '
+<lb/>'  ■-- Let us forget that so long;, Ws have lived
+<lb/>Let US believa Ihgf we -look .gs we looked
+<lb/>In Northside High Igfig ago. ,
+<lb/>-Do you remeinber the--halls -where -we .M.et -
+<lb/>-In Northside High lortg,' long .ago? , :- .rc-,-
+<lb/>- A-hf y'es. you told Me you .'ne'er-would forget- , . - ,.0"
+<lb/>-  -- ■ -In Northside High, long- ago. - ' -/ 'ig
+<lb/>-Though there were others, my smile yoii preferred;';
+<lb/>Love, when you spoke gave a chdrrn to each wotdr;;
+<lb/>Still my heart treasures the loved words 1 heard, - ; c
+<lb/>'In North.side halls, long ago.
+<lb/>The Sixty-Eighth
+<lb/>...Annual Dinner and Reunion
+<lb/>of'ffe
+<lb/>Alumni Association
+<lb/>-o.f tlie
+<lb/>Corning Northside High School
+<lb/>..Saturday, June 20, 1S64
+<lb/>Masonic Cathedral
+<lb/>Corning; New York
+<pb n="31" facs="#page-030"/>
+<lb/>THE CQUNCIL ELECT
+<lb/>of the
+<lb/>Northside High School Alumni Association
+<lb/>OFFICERS 1963-64
+<lb/>President ..-.vj. Kenneth D. Brueilly '52
+<lb/>Virc..pres.ident . Dcminick E. Carlineo '36
+<lb/>S&amp;cre.tary _, wC Wilma Clark "Wisner '42
+<lb/>Tfeasuier Clarence J. Bonneli, Sr. '29.
+<lb/>Assistant: Treasurer- Dorothy Kelly DeWolfe '28
+<lb/>P^cording SoGretary 'Dorothy Neiso.ri Scheb '35
+<lb/>Directors for One Year
+<lb/>Eloiso Spencer: Kershn.er '41 Peter J. Bovisotto '28
+<lb/>C.. Edward .CoGU '30 Anthony Tamm.aro^39
+<lb/>Theodore Gallahan '39 ■ Allen Park '34
+<lb/>Deor.othy Nelson Scheb: '35 ■ . Clara Wolcott Fan '33
+<lb/>Wilma Clark Wisner '41' ■ Doininick Garlineo '36
+<lb/>.  Joan Rogers Schaller '51
+<lb/>Director for Three Years
+<lb/>Clarence.:J. Bonneli, Sr.. 7.9 Louise Crocker Kosty '42
+<lb/>Kenneth; ,D, Breuilly '52. George M. Hunt '41
+<lb/>Dorothy Kelly .DeWolfe '28 Peter Giarnbrone '43
+<lb/>Maxine High Biackwell '40 Anselene Sherer Potter '41
+<lb/>•Marguerite Kieq.ler Laqerbom '30
+<lb/>Directors for Two Years
+<lb/>Helen Hammond Rodburne '32 Doris. B, Gorman '35
+<lb/>Betty Armslroa Wilkins '3.9 Rose Darcangelo '29
+<lb/>Rosalind" Foster James '40 Blmer Lindbloom '30
+<lb/>Joseph F. Roche,. Jr. '47
+<lb/>Next year will mark the armiversari.es of the Northside
+<lb/>High School qraduatmg .oJasses.of 1905, 1915, 1925, 1935,
+<lb/>.1040, 194-5 and 1955. We are looking lor volunteer re
+<lb/>union organizers-and your new president will be only too,-
+<lb/>glad, to receive your names tonight, - , ^
+<lb/>DciTt Jorqot your GOLDEN ANNIVERSARY SCHOI-
+<lb/>■ ARSHIP FUND, now worth S2,000. Money is available to".
+<lb/>f locm at. once to worthy N.H.S, grads. Interest is nominal
+<lb/>and red tap© is minor. Miss Doris Gorman will accept loan
+<lb/>applications and Treasurer C. J. Bonneli will accept dona-r
+<lb/>■lions to the Fund:. .Sons g-nd daughters of N.H.S. grads are
+<lb/>PROGRAM
+<lb/>Invoco.lion
+<lb/>-Dinner By tb,e Amaranth
+<lb/>Welcom.e Pi^esident .Kenne-th p. Brueilly
+<lb/>The Aimc Mater
+<lb/>Introduction of Special Guests
+<lb/>■ "ReeogBijion ol Heuruoa Classes oi 1954, 1944,. 1934, 1.92-4,
+<lb/>1§39 and L914"
+<lb/>Awards -
+<lb/>REGAL K. WHITCOMB
+<lb/>Synonymous wiiii ttie history of any Alma -M:alei-
+<lb/>has always been its teachers, its coaches, its admimstxa^
+<lb/>tors, Us tradiiions and nvalnes; Us "hrsi" and its... "lasts."..
+<lb/>Of such people and tyvents are ineraones built.
+<lb/>A year ago, the last class graduated irom our Almc
+<lb/>M.ater. Our G,nly other Ndl.S. ad.nunistTato,rs, -Hugh. Vv
+<lb/>Gregg and the late A;ba M. Blcdgett preceden this mile
+<lb/>stone. Now, tonight as we Alumni of a North aid© Hied
+<lb/>School that is no "more. - xneel a-gam . .tor recollections and
+<lb/>to pay homage • to. yet another fine teacher, onncipaL
+<lb/>father and pal — Regal K. Whitcomb. Over the years,
+<lb/>your Alurrmi A.ssociation has nod. no -better supporters on
+<lb/>the official side oi the schocl systems.
+<lb/>Retiremont comes after 34 years devoted ro Corning
+<lb/>area students and. comes at. a time when we hope he. ca.n
+<lb/>still, live scores of years to enjoy it with Mm©,:. V/hiicomO
+<lb/>who was hkevxise a learned and aeaicaied French teach
+<lb/>er at Old© Northside.
+<lb/>"Yes, Louise, there always will be a Northside High
+<lb/>School Alumni Association."
+<lb/>Attend your annual Alumni reunion dinner.
+<pb n="32" facs="#page-031"/>
+<lb/>V
+<lb/>OPEN HOUSE PARTICIPANTS — George Wetherell, center, con
+<lb/>gratulates Dr. George AngeU, guest speaker at Monday evening's open
+<lb/>house at ECS, following the meeting. Dr. AngeU was introduced by
+<lb/>EUsworth W. Knapp, at the left. Next to Mr. Knapp stands Mrs. Alice
+<lb/>Mosher, president of the Earlvilie Teachers Association. Clifford
+<lb/>Nower, president of the Board of Education, watches from the right.
+<pb n="33" facs="#page-032"/>
+<lb/>Ihe Bdta Kappa iamma hckt^Iliis attilki that—1^.was initiated onChapter of the Delta Kappa Qamma Society in the State ofShe is, therefore, entitled to all the honors and privilegesof membership in this Society.In token thereof, we hereunto set our hands and seal.Ndtional PresidentChapter PresidenteJ-dJkZi
+<pb n="34" facs="#page-033"/>
+[A transcription of this page is not available.]
+<pb n="35" facs="#page-034"/>
+<lb/>THE INATIOlNTAL SOCIETY OP f H h:cettifie^ thatof  J f/rrtS'^H.ca/nxrhS^riyCO/n-€x&gt;exri^xxcfnliyteaJames MadisonyAwvfeAlice Harrison Masher
+<lb/>f(yr
+<lb/>ha^&amp;r?zxnOthniel Sands Mfcy/UH/^ffl l. cfxxi4'me7%c&lt;xn ^yxi cte&gt;/t
+<lb/>otlo
+<lb/>9xa
+<lb/>/?n
+<lb/>Xf^
+<lb/>oifi
+<lb/>ufe
+<lb/>xef
+<lb/>' 'fri
+<lb/>xtte
+<lb/>^xiw
+<lb/>lMt Private /C&amp;C&lt;my^Vy
+<lb/>icnA
+<lb/>fex'
+<lb/>y€x
+<lb/>xr-/
+<lb/>fxt9
+<lb/>txf y
+<lb/>amx
+<lb/>ci-/
+<lb/>ixzz
+<lb/>yt/zli seventeenth xfmxxzf October 46ty\^iiona/Af
+<lb/> '■ 
+<lb/>V:. .t\aL.of(^President Gjif362058 If^Wif'October 17thV.■■yieralRecording Secretary GeneralRe^iftr^r General
+<pb n="36" facs="#page-035"/>
+<lb/>Heui fork #tatp olfartjfra Sptirpuipnt §ptpm
+<lb/>Olprtificat? of m\h prinr
+<lb/>Sljis \B tn OlFrtifg ti^at
+<lb/>is a member of the New York State Teachers Retirement System
+<lb/>registered as number 114216 in the office of the Retirement
+<lb/>Board Albany N Y and that she is credited with the following
+<lb/>service in public schools prior to...2,6 .FebrM?Z...l946
+<lb/>New York State - years - months
+<lb/>Outside of State - years - months
+<lb/>Total prior service .9. years 9 months
+<lb/>Dated 26 February 19
+<lb/>NOTE — This certificate should be carefully preserved. It is final and conclusive for retirement purposes
+<lb/>unless modified by the Retirement Board within one year. When raerabership ceases, certificate is void. Should
+<lb/>membership be resumed by teacher such teacher shall enter system as a *Oiew entrant.'* In all future corres
+<lb/>pondence please mention your " membership number."
+<lb/>E  lOM 12-45
+</ab>
+    </body>
+  </text>
+</TEI>

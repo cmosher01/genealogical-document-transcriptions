@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher kramer wedding newspaper 1989</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_kramer_1988/mosher_kramer_wedding_newspaper_1989/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_kramer_1988/mosher_kramer_wedding_newspaper_1989/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>KRAMER-MOSHERStephanie Beth Kramer and Christopher Alan Mosherwere married Oct. 21 in Oneonta Country Club, NewYork
+<lb/>. Th
+<lb/>eir parents are Mr. and Mrs. Alexander Belokur,Mr. and Mrs. Gerald Kramer, all of Sidner. andMrs. James R. Rapp of Chadds Ford, Pa Barry R.Mosher of Newark.The bride, a graduate of Sidney Central High Schooland Syracuse University, Is assistant manager withLord and Taylor. A graduate of Mount Pleasant HighSchool and Syracuse University, the groom Is a computer. programmer with Survey Sampling Inc. The couple will live In Bridgeport, Conn.
+<pb n="2" facs="#page-001"/><lb/>"fflli® .irir.S"Tsm=S$El^
+<lb/>CONTINUING- TIIK SIDNEY RECORD, THE BAINBRIDGE NEWS,
+<lb/>rilE UNADILLA TIMES, THE AETON ENTERPRISE, AND HARPURSVILLE BUDGET
+<lb/>SrDNEY, NEW YORK, WEDNESDAY, JANUARY 4,1989 SECTION aT)
+<lb/>Stephanie Kramer,
+<lb/>Christopher Mosher
+<lb/>To Wed in October
+<lb/>SIDNEY — The parents of
+<lb/>Stephanie Beth Kramer of Sidney
+<lb/>and Christopher Alan Mosher of
+<lb/>Bridgeport, CT are pleased to
+<lb/>announce the engagement of their
+<lb/>children.
+<lb/>Stephanie is the daughter of Mr.
+<lb/>and Mrs. Alex Belokur and Mr.
+<lb/>and Mrs. Gerald Kramer, all of
+<lb/>Sidney. Christopher is the son of
+<lb/>Mr. and Mrs. James Rapp of
+<lb/>Wilmington, Delaware and Barry
+<lb/>Mosher of Newark, Delaware.
+<lb/>A graduate of the Sidney
+<lb/>Central School, Stephanie will
+<lb/>earn a degree in Retailing and
+<lb/>Merchandising from Syracuse
+<lb/>University in 1989.
+<lb/>Chris is a graduate of Mt.
+<lb/>Pleasant High School in
+<lb/>Wilmington, Delaware and a 1987
+<lb/>graduate of Syracuse University in
+<lb/>Computer Science. He is
+<lb/>employed by Survey Sampling
+<lb/>Inc. of Fairfield, CT.
+<lb/>An October 1989 wedding is
+<lb/>planned.
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher fred bank book 1962</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_bank_book_1962/p-007.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>MORTGAGE ACCOUNTTHE ONEIDA VALLEYNational BankOF ONEIDAESTABLISHED VSfilBRANCHESHAMILTON, N. Y. SHERRILr., N. Y.ONEIDA. New York
+<pb n="2" facs="#page-001"/><lb/>The oneida Valley National bank 
+<lb/>jOF OneidaOneida, New YorkOFFERS THE FOLLOWING BANKINGSERVICES FOR ITS DEPOSITORS:F. H.A. MODERNIZATION &amp; REPAIR LOANSTRAVELERS CHECKSSAFE DEPOSIT BOXESBRANCHESHAMILTON, N. Y. SHERRIUL, N. Y.PERSONAL LOANSAUTOMOBILE LOANS — NEW &amp; USED CARSAPPLIANCE LOANS iv\CHECKING ACCOUNTSINTEREST ACCOUNTSCHRISTMAS CLUBi
+<pb n="3" facs="#page-002"/>
+<lb/>ill uj
+<lb/>"is2?- IlluklI-uPRESERVE THIS BOOK AS AN AUDITOF PAYMENTS MADE ON YOUR MORTGAGE. IT SERVES AS A BOUND RECORDOF PAYMENTS MADE ON ACCOUNT OFPRINCIPAL. AND INTEREST AND IS YOURRECEIPT FOR SAME. THEREFORE THISBOOK MUST AUWAYS BE PRESENTEDWHEN MAKING ANY PAYMENTS.The Oneida ValleyNational BankOF ONEIDAONEIDA, NEW YORK
+<pb n="4" facs="#page-003"/>
+<lb/>MORTGAGE ACCOUNT
+<lb/>Office.
+<lb/>Hamilton
+<lb/>No.
+<lb/>273
+<lb/>MnpT^AF-np. Mosher. Fred G. &amp; Alice
+<lb/>Residence
+<lb/>P
+<lb/>ROPERTY:-
+<lb/>Address:-
+<lb/>45 N, Main St., Earlville, N, Y.
+<lb/>Payment of S_ 66.62
+<lb/>Monthly
+<lb/>xirnxxiisx
+<lb/>23 Feb.
+<lb/>JAN25-62 &gt;6.000.00
+<lb/>121314151617181920212223
+<lb/>DATE
+<lb/>PRINCIPAL
+<lb/>PAYMENT
+<lb/>INTEREST
+<lb/>PAYMENT
+<lb/>The Oneida Valley National Bank
+<lb/>ONEIDA, NEW YORK
+<lb/>EVERY ENTRY HEREIN SHOULD BE EXAMINED BY THE DEPOSITOR IMMEDIATELY
+<lb/>AND IF NOT CORRECT REPORTED AT ONCE FOR CORRECTION.
+<pb n="5" facs="#page-004"/>
+<lb/>Mortgage Account
+<lb/>DEPOSITOR'S NAME ON PAGE ONE
+<lb/>PRINCIPAL
+<lb/>PAYMENT
+<lb/>INTEREST
+<lb/>PAYMENT
+<lb/>**2Bmmsz
+<lb/>mzy62
+<lb/>12
+<lb/>13
+<lb/>H  _
+<lb/>15 ^^2342
+<lb/>16 JUII21-62
+<lb/>11 buL23-62
+<lb/>18 bc23-62
+<lb/>19 SEPZ4-62
+<lb/>20 pCT19-62
+<lb/>21 |«0¥23-62
+<lb/>22 rtEC20-62
+<lb/>22
+<lb/>S»*3a62
+<lb/>^9-25
+<lb/>t9m
+<lb/>0.88
+<lb/>:p.69
+<lb/>v8.50
+<lb/>28.31
+<lb/>miz
+<lb/>*10.23
+<lb/>11.23
+<lb/>12.23
+<lb/>122.
+<lb/>*5.961.30
+<lb/>*5-924.56
+<lb/>*5-887.56
+<lb/>^850.38
+<lb/>*5-813.01
+<lb/>*5.775.46
+<lb/>*5-737.72
+<lb/>*5-699-79
+<lb/>*5-661.67
+<lb/>*5-623.36
+<lb/>*5-584.86
+<lb/>*5-54616
+<lb/>npiK
+<lb/>The Oneida Valley National Bank
+<lb/>ONEIDA, NEW YORK
+<lb/>EVERY ENTRY HEREIN SHOULD BE EXAMINED BY THE DEPOSITOR IMMEDIATELY
+<lb/>AND IF NOT CORRECT REPORTED AT ONCE FOR CORRECTION.
+<pb n="6" facs="#page-005"/>
+<lb/>Mortgage account
+<lb/>DEPOSITOR'S NAME ON PAGE ONE
+<lb/>PRINCIPAL
+<lb/>PAYMENT
+<lb/>INTEREST
+<lb/>PAYMENT
+<lb/>lAR 21-63
+<lb/>21-63
+<lb/>PR22-63
+<lb/>hAY 23-63
+<lb/>IjUN 24-63
+<lb/>JUL 23-63
+<lb/>AUC26-63
+<lb/>OCT 23-63
+<lb/>N0V25-63
+<lb/>DEC 2 0-63
+<lb/>JAN23-6lj
+<lb/>«5.507.27
+<lb/>*5468.18
+<lb/>*5-428.90
+<lb/>*5.389.42
+<lb/>*5.349.74
+<lb/>*5.309.66
+<lb/>*5.269.70
+<lb/>*5.229.51
+<lb/>*5-189.04
+<lb/>*5-148.36
+<lb/>*5-107.48
+<lb/>'Jssf
+<lb/>'mi
+<lb/>mr.
+<lb/>The Oneida Valley National Bank
+<lb/>ONEIDA, NEW YORK
+<lb/>EVERY ENTRY HEREIN SHOULD BE EXAMINED BY THE OEPOSITOR IMMEDIATELY
+<lb/>AND IF NOT CORRECT REPORTED AT ONCE FOR CORRECTION.
+<pb n="7" facs="#page-006"/>
+<lb/>r Mortgage account
+<lb/>DEPOSITOR'S NAME ON PAGE ONE
+<lb/>DATE
+<lb/>PRINCJPAU
+<lb/>PAYMENT
+<lb/>INTEREST
+<lb/>PAYMENT
+<lb/>BALANCE
+<lb/>^  1.98 1**1.23c mzA-m
+<lb/>1  |fEB23-67
+<lb/>mMi91011
+<lb/>JAN23-6»J12
+<lb/>13
+<lb/>16 muWi
+<lb/>17 JUN23-61^
+<lb/>18
+<lb/>liUG24-61^19
+<lb/>20
+<lb/>21 (iCT23-64
+<lb/>22 floV24-6ll
+<lb/>liEC21-6M23
+<lb/>^-12.33
+<lb/>1 ?J06
+<lb/>.854 07
+<lb/>THE ONEiDA VALLEY NATIONAL BANK
+<lb/>ONEIDA, NEW YORK
+<lb/>EVERY ENTRY HEREIN SHOULD BE EXAMINED BY THE DEPOSITOR IMMEDIATELY
+<lb/>AND IF NOT CORRECT REPORTED AT ONCE FOR CORRECTION.
+<pb n="8" facs="#page-007"/>
+<lb/>MORTGAGE ACCOUNT
+<lb/>DEPOSITOR'S NAME ON PAGE ONE
+<lb/>!  DATE PRINCIPAL
+<lb/>PAYMENT
+<lb/>INTEREST
+<lb/>PAYMENT
+<lb/>PAID TO BALANCE TRANS.
+<lb/>The Oneida Valley National Bank
+<lb/>ONEIDA, NEW YORK
+<lb/>EVERY ENTRY HEREIN SHOULD BE EXAMINED BY THE DEPOSITOR IMMEDIATELY
+<lb/>AND IF NOT CORRECT REPORTED AT ONCE FOR CORRECTION.
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Camp Irvine, Gettysburg, Civil War Letter, 1862</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>William N[elson] Harrison</author> (Gettysburg, Pennsylvania, USA)
+          to <title level="u">Dear Mother</title> [Mary E. Sands] (Hornby, New York, USA),
+          letter, 9 Feb 1862;
+          Harrison Documents, Archive of Historical Family Documents, Christopher A. Mosher, Shelton, Connecticut, USA.
+          Received from Barry Mosher, who received it from his mother Alice Harrison, descendant of Mary E. Sands.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_william_gettysburg_letter_1862/p-000.ptif/150,3500,4800,2850/full/!270/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_william_gettysburg_letter_1862/p-001.ptif/150,3400,4800,2850/full/90/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_william_gettysburg_letter_1862/p-001.ptif/150,410,4800,2850/full/90/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_william_gettysburg_letter_1862/p-000.ptif/150,320,4800,3000/full/!270/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+<ab rend="grid">
+<pb n="1" facs="#page-000"/>
+<ab>
+<lb/><hi rend="underline">Camp Irvine</hi>
+<lb/>Gettysburg Sunday Feb 9<hi rend="sup">th..</hi> 1862
+</ab>
+<p>
+<lb/>Dear Mother
+</p>
+<p>
+<lb/>Once more
+<lb/>I’ll endeaver to write a few
+<lb/>lines to you.
+</p>
+<p>
+<lb/>I’m well and getting along
+<lb/>finely and I hope these few
+<lb/>lines will find you enjoying
+<lb/>the same blessings.
+</p>
+<p>
+<lb/>I was some what disapointed
+<lb/>last Eve in not receiving
+<lb/>a letter from Hornby. But
+<lb/>I suppose you’re all like my<pc>&#x2010;</pc>
+<lb break="no"/><pc>=</pc>self have to wait till sunday
+<lb/>before you cand find time to write.
+</p>
+<p>
+<lb/>Friday Eve I received a letter
+<lb/>from Uncle Williams folks.
+<lb/>They seem to remember me oc<pc>&#x2010;</pc>
+<lb break="no"/><pc>=</pc>casionally. I’ve written to them once.
+</p>
+<pb n="2" facs="#page-001"/>
+<p>
+<lb/>I guess you would all
+<lb/>laugh if you should see my
+<lb/>writing desk. But you know that
+<lb/>necesity is the mother of invention.
+</p>
+<p>
+<lb/>This morning is cold and windy
+<lb/>and it reminds me of the
+<lb/>cold and bleak Februray mornings
+<lb/>that I’ve seen in old Hornby.
+</p>
+<p>
+<lb/>And when I think of one
+<lb/>thing it reminds me of many
+<lb/>others, of the kind and loving
+<lb/>Mother kind Brothers, and tender
+<lb/>Sisters, that I’ve left in my
+<lb/>own childhood home, to go forth
+<lb/>to fight the battles of my own
+<lb/>loved Country. Of the many
+<lb/>kind friend that I’ve spent
+<lb/>my youthful days among. I cannot
+<lb/>help of<del rend="overstrike">f</del> thinking off them nor neither
+<lb/>do I wish too. And I hope
+<lb/>that I shall so conduck myself
+<lb/>that when I return it may be
+<pb n="3" facs="#page-002"/>
+<lb/>with a clear conscience that
+<lb/>I’ve done my duty.
+</p>
+<p>
+<lb/>How little did I think
+<lb/>one short year ago that I should
+<lb/>now be a soldier and undergoing
+<lb/>the <subst><del>rigors of</del><add type="overwrite">privatation</add></subst> of camp life, how
+<lb/>different is the situations of
+<lb/>men. How cheqered is life.
+</p>
+<p>
+<lb/>But amoung the so<subst><del>de</del><add type="overwrite">ldi</add></subst>ers
+<lb/><choice><sic>ome</sic><corr>one</corr></choice> can find many friends
+<lb/>who will stand by him until
+<lb/>the last. There one finds all
+<lb/>kinds o<subst><del>f</del><add type="overwrite">a</add></subst>nd classes. it is a
+<lb/>place where m<subst><del>a</del><add type="overwrite">e</add></subst>n will show
+<lb/>their dispositions, each one
+<lb/>for himself is the most prevailing
+<lb/>complaint. But there is a light
+<lb/>as well as a dark side. there
+<lb/>are many pleasures, and if one
+<lb/>makes up his mind to take
+<lb/>things easy and make the best
+<lb/>of it he will get along well enough
+</p>
+<pb n="4" facs="#page-003"/>
+<p>
+<lb/>We have moved into our barracks
+<lb/>and have been paid off up till
+<lb/>the first of January and the
+<lb/>first of next month we are
+<lb/>to be paid again. I guess I’ll
+<lb/>wait until next pay day before
+<lb/>I send any mony home. It
+<lb/>cost so much to send by Express
+<lb/>and the time is so short is why I
+<lb/>wait. We only get $ 13.00 per
+<lb/>month. I rec<hi rend="sup">d...</hi> $ 27.30 we got
+<lb/>pay from time of enlistment.
+</p>
+<p>
+<lb/>There was a considerable dissatisfaction
+<lb/>in regard to pay as they all enlisted
+<lb/>with the expectations of getting $ 14.00
+<lb/>per month. There was some talk
+<lb/>of our being sent in Gen. Lanes
+<lb/>Expedition to Texas Arizonia and
+<lb/>New Mexico. I wish <subst><del><unclear>they</unclear></del><add>they</add></subst> would send
+<lb/>us as I want to go. Good Bye
+</p>
+<ab>
+<lb/>This from your Unworthy Sone William N. Harrison
+</ab>
+</ab>
+    </body>
+  </text>
+</TEI>

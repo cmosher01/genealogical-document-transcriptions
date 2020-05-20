@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher vitals</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_vitals/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_vitals/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_vitals/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_vitals/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_vitals/p-004.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_vitals/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_vitals/p-006.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+        <pb n="1" facs="#page-000"/>
+<lb/>STATE OF NEW YORK
+<lb/>DEPARTMENT OF HEALTH
+<lb/>Corning Tower The Governor Nelson A. Rockefeller Empire State Plaza Albany, New York 12237
+<lb/>Antonia C. Novello, M.D., M.P.H.
+<lb/>Commissioner
+<lb/>Dennis P. Whalen
+<lb/>Executive Deputy Commissioner
+<lb/>September 18, 2001
+<lb/>CHRISTOPHER MOSHER
+<lb/>41 BROOK PINE DRIVE
+<lb/>SHELTON, CT 06484
+<lb/>Re: Genealogy Record
+<lb/>Requested Name: WILLIAM D. MOSHER
+<lb/>Relationship: Direct-line Ancestor
+<lb/>Date Range: 04/12/1885 - 04/12/1885
+<lb/>Type: DEATH: Uncertified
+<lb/>Dear CHRISTOPHER MOSHER
+<lb/>NO RECORD CERTIFICATION
+<lb/>This is to certify that a diligent search of vital records on file with the New York State
+<lb/>Department of Health has been made for the person listed above.
+<lb/>The record has not been found. It is hereby certified, pursuant to requirements of Rule
+<lb/>4521 of the Civil Practice Law and Rules, legal custody of the above specified official records
+<lb/>belongs to the New York State Department of Health.
+<lb/>Further inquiries may be made of the registrar of vital statistics in the district in which
+<lb/>it is believed the event occurred.
+<lb/>If a refund is issued, a check will be forwarded to you in about 12 weeks from the Office
+<lb/>of the State Comptroller.
+<lb/>If you have further questions in this matter, please refer to the CR # indicated in the
+<lb/>lower light comer of this letter in all future correspondence.
+<lb/>Thank you,
+<lb/>Certification Unit
+<lb/>Vital Records Section
+<lb/>P.O. Box 2602
+<lb/>Albany, NY 12220-2602
+<lb/>DOCUMENTATION: (NR )
+<lb/>jmtOl C011070072-1 (04861)
+<lb/>DOH-2798 (2/99)
+<pb n="2" facs="#page-001"/><lb/>STATE OF NEW YORK
+<lb/>DEPARTMENT OF HEALTH
+<lb/>Corning Tower The Governor Nelson A. Rockefeller Empire State Plaza Albany, New York 12237
+<lb/>Antonia C. Novello, M.D.. M.P.H., Dr.P.H.
+<lb/>Commissioner
+<lb/>Dennis P. Whalen
+<lb/>Executive Deputy Commissioner
+<lb/>September 18, 2001
+<lb/>CHRISTOPHER MOSHER
+<lb/>41 BROOK PINE DRIVE
+<lb/>SHELTON, CT 06484
+<lb/>Re: Genealogy Record
+<lb/>Requested Name: WILLIAM D. MOSHER
+<lb/>Relationship: Direct-line Ancestor
+<lb/>Reason: Other
+<lb/>Type: DEATH: Uncertified
+<lb/>Dear CHRISTOPHER MOSHER
+<lb/>Your vital records copy request was processed. If copies for more than one person
+<lb/>or several types of records (i.e., birth, marriage, death) were requested, and those
+<lb/>copies are not enclosed, they will be sent separately. If you need to contact us about
+<lb/>this request, please be certain to include the transaction number appearing at the
+<lb/>bottom right of this page.
+<lb/>Thank you,
+<lb/>Certification Unit
+<lb/>Vital Records Section
+<lb/>P.O. Box 2602
+<lb/>Albany, NY 12220-2602
+<lb/>DOCUMENTATION: (NR )
+<lb/>Yrs Searched 1884-1886 No Record
+<lb/>jmtOl C011070072-1 (04861)
+<lb/>CRT040 (8/95)
+<pb n="3" facs="#page-002"/>
+<lb/>MARGIN RESERVED FOR BINDING.
+<lb/>NO MUTILATED CERTIFICATE WILL BE RECEIVED.
+<lb/>County of Madison
+<lb/>Town of Hamilton
+<lb/>Village of
+<lb/>City of
+<lb/>20653
+<lb/>Registered No.
+<lb/>State of New York&#x2014;Bureau of Vital Statistics.
+<lb/>Certificate and Record of Death.
+<lb/>OF
+<lb/>FOR GENEALOGICAL RESEARCH ONLY
+<p>
+<lb/>I hereby certify that I attended deceased from about <date when="1900-04-02">Apr 2 1900</date>,
+to <date when="1900-05-14">May 14<hi rend="sup">th</hi> 1900</date>,
+<lb/>that I last saw him alive on the <date when="1900-05-12">1<subst><del>1</del><add type="overwirte">2</add></subst>
+day of May 1900</date>, that he died on the
+<lb/><date when="1900-05-19">19 day of May 1900</date>, about 12 o’clock, A.M., and that to the best of my
+<lb/>knowledge and belief, the cause of his death was as hereunder written.
+</p>
+<lb/>Duration of Disease.
+<lb/>Chief Cause, Senile debilt<unclear><del>a</del></unclear>y
+<lb/>Contributing Cause, Bronchitus
+<lb/>Sanitary Observations,
+<lb/>Witness my hand this <date when="1900-05-21">21 day of May 1900</date>
+<lb/>(Signature),
+<lb/>Geo B Palmer M. D.
+<lb/>Residence,
+<lb/>East Hamilton NY
+<lb/>Place of Burial, Ham Centre
+<lb/>Date of Burial, <date when="1900-05-21">May 21 1900</date>
+<lb/>Undertaker, C F Foster
+<lb/>Residence Earlville
+<lb/>Date of Death. <date when="1900-05-19">May 19<hi rend="sup">th</hi>
+1<subst><del>8</del><add type="overwirte">9</add></subst>00</date>
+<lb/>Full Name. William G Mosher
+<lb/>Age, in years, mos. and days. 93 yrs
+<lb/>Color. W
+<lb/>Widowed.
+<lb/>Occupation. Farmer
+<lb/>Birthplace. Saratoga NY
+<lb/>How long in U.S. if foreign born.
+<lb/>How long resident here. 20 yrs
+<lb/>Father’s Name. David Mosher
+<lb/>Father's Birthplace. Dont Know
+<lb/>Mosher's Name. Betsey Mosher
+<lb/>Mother's Birthplace. Cannot Tell
+<lb/>Place of Death. South Hamilton
+<lb/>Last Place of Residence. ” ”
+<lb/>Direct cause of Death. Bronchitus old age
+<lb/>Indirect cause of Death.
+<lb/>Date of Record. <date when="1900-05-21">May 21</date>
+<lb/>FOR GENEALOGICAL RESEARCH ONLY
+<pb n="4" facs="#page-003"/>
+<lb/>NEW YORK STATE DEPARTMENT OF HEALTH
+<lb/>Vital Records Section, Genealogy Unit
+<lb/>Corning Tower Building, Empire State Plaza
+<lb/>Albany, New York 12237-0023
+<lb/>General Information and Application
+<lb/>for Genealogical Services
+<lb/>Partially searched
+<lb/>VITAL RECORDS COPIES CANNOT BE PROVIDED FOR COMMERCIAL PURPOSES.
+<lb/><hi rend="underline">2 searches</hi>
+<lb/>1. FEE - $11.00 includes search and uncertified copy or notification of no record.
+<lb/>2. Original records of births and marriages for the entire state begin with 1881, deaths begin with 1880, EXCEPT for records
+<lb/>filed in Albany, Buffalo and Yonkers prior to 1914. Applications for these cities should be made directly to the local office.
+<lb/>3. The New York State Department of Health does not have New York City records except for births occurring in Queens and
+<lb/>Richmond counties for the years 1881 through 1897.
+<lb/>4. Please read the Administrative Rule Summary on the reverse side of this sheet which specifies years available for genealogical
+<p>
+  <lb/>not searched
+  <lb/>Birth
+  <lb/>Name at Birth Frederick Colvin Mosher
+  <lb/>SEARCH <hi rend="underline">Date of Birth 1911</hi> 1910 1912} N/R supps
+  <lb/>Place of Birth Lebanon
+  <lb/>Father's Name Lewis William Mosher
+  <lb/>Mother's Maiden Name Pearl Mae Colvin
+</p>
+<p>
+  <lb/>Death
+  <lb/>Name at Death William Mosher
+  <lb/>Date of Death Dec. 4, 1885 Age at Death 31
+  <lb/>Place of Death Binghamton
+  <lb/>Names of Parents William &amp; Mary
+  <lb/>Name of Spouse Alta
+  <lb/>CERT#s 27562–3
+</p>
+<p>
+  <lb/>Death
+  <lb/>Name at Death William George Mosher
+  <lb/>Date of Death May 19, 1900 Age at Death 93
+  <lb/>Place of Death S. Hamilton
+  <lb/>Names of Parents David &amp; Betsey
+  <lb/>Name of Spouse Angelina
+  <lb/>CERT# 20653
+</p>
+<pb n="5" facs="#page-004"/>
+<lb/>Write plainly with unfading ink&#x2014;This is a permanent record
+<lb/>PLACE OF REGISTRY
+<lb/>County of Madison
+<lb/>Town of Hamilton
+<lb/>STATE OF NEW YORK
+<lb/>Department of Health&#x2014;Bureau of Vital Statistics
+<lb/>35598
+<lb/>CERTIFICATE AND RECORD OF DEATH
+<lb/>Registered No. 309
+<lb/>FOR GENEALOGICAL RESEARCH ONLY
+<lb/>Full Name of Deceased Davi<subst><del><gap/></del><add type="overwrite">d</add></subst> G. Mosher.
+<lb/>(If an infant not namd give family name.)
+<cb n="1"/>
+<lb/>PERSONAL AND STATISTICAL PARTICULARS
+<lb/>PLACE OF DEATH Town Hamilton.
+<lb/>HOW LONG RESIDING HERE 24 yr.
+<lb/>AGE 68 years
+<lb/>SEX M COLOR W.
+<lb/>SINGLE, MARRIED, WIDOWED OR DIVORCED Single.
+<lb/>OCCUPATION Retired.
+<lb/>BIRTHPLACE STATE OR COUNTRY N. Y. S.
+<lb/>NAME OF FATHER W<hi rend="sup underline">m</hi> Mosher.
+<lb/>BIRTHPLACE OF FATHER STATE OR COUNTRY N. Y. S.
+<lb/>MAIDEN NAME OF MOTHER Not. Known.
+<lb/>BIRTHPLACE OF MOTHER STATE OR COUNTRY ” ”
+<lb/>THE ABOVE STATE PERSONAL PARTICULARS ARE TRUE TO THE
+<lb/>BEST OF MY KNOWLEDGE AND BELIEF
+<lb/>(Informant) E Douglass.
+<lb/>(Address) Poolville.
+<cb n="2"/>
+<lb/>MEDICAL CERTIFICATE OF DEATH
+<lb/>DATE OF DEATH May 12 1910
+<p>
+<lb/>I HEREBY CERTIFY, that I attended deceased from
+<lb/>Sept 17 1909 to May 12 1910
+<lb/>and that death occurred on the date stated above at
+<lb/>8:30 A.M. To the best of my knowledge and
+<lb/>belief the cause of death was as follows:
+</p>
+<lb/>CHIEF CAUSE
+<lb/>General tuberculosis
+<lb/>(DURATION) unknown DAYS
+<lb/>CONTRUBUTORY Organic Heart
+<lb/>disease (DURATION) unknown DAYS
+<lb/>(Signed) C. H. <unclear>O</unclear>atman M.D.
+<lb/>May 12 1910 (Address) Poolville, N.Y.
+<lb/>PLACE OF BURIAL OR REMOVAL Hamilton Center
+<lb/>DATE OF BURIAL May 14 1910
+<lb/>UNDERTAKER C. F. Foster
+<lb/>ADDRESS Earlville
+<pb n="6" facs="#page-005"/>
+<lb/>Form V.S. 63 (8/68)
+<lb/>NO RECORD CERTIFICATION
+<lb/>FOR GENEALOGICAL PURPOSE ONLY
+<lb/>- DEATH -
+<lb/>STATE OF NEW YORK
+<lb/>DEPARTMENT OF HEALTH
+<lb/>District No. 3463
+<lb/>THIS IS TO CERTIFY that a search has been made in this office for the death
+<lb/>record of Elethur Mosher (Moshier),
+<lb/>which death is said to have occurred on 1842 - 1900
+<lb/>(Date of Death)
+<lb/>at Town of south Bristol, State of New York and that such
+<lb/>(Place of Death)
+<lb/>record is not on file in this office. Search has been made for the period
+<lb/>from 1883 (when our records start) to 1900.
+<lb/>Witness my signature this 11th day of August 1994
+<lb/>Betty Collins
+<lb/>Registrar of Vital Statistics
+<lb/>Town of South Bristol, New York
+<pb n="7" facs="#page-006"/>
+<lb/>27562
+<lb/>CERTIFICATE OF DEATH
+<lb/>W<hi rend="sup underline">m</hi> Mosher
+<lb/>Pokeepsie NY
+</ab>
+    </body>
+  </text>
+</TEI>

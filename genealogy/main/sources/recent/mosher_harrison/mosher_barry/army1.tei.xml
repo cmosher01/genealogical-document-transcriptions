@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Barry Mosher army-related documents, #1</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2020</date>
+        <availability status="restricted">
+          <p>Copyright © 2020, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_barry/army1/20200425_143659.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_barry/army1/20200425_143718.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_barry/army1/20200425_143736.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_barry/army1/20200425_143755.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_barry/army1/20200425_143816.ptif/full/full/90/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+        <pb n="1" facs="#page-000"/>
+          <lb/>This is to Certify that on <date when="1957-04-06">the 6<hi rend="sup">th</hi> day of April, 1957</date>
+          <lb/>Barry Rexford Mosher was initiated a Brother in the
+          <lb/>Zeta Psi Fraternity
+          <lb/>and as such is entitled to all the privileges and immunities
+          <lb/>of the same
+          <lb/>ΖΨ
+        <pb n="2" facs="#page-001"/>
+          <lb/>DEPARTMENT OF THE ARMY
+          <lb/><hi rend="sc">Reserve Officers’ Training Corps</hi>
+          <lb/>The Title of
+          <lb/>DISTINGUISHED MILITARY GRADUATE
+          <lb/>Is Awarded To
+          <lb/>BARRY REXFORD MOSHER <hi rend="sc">of</hi> RENSSELAER POLYTECHNIC INSTITUTE, TROY, NEW YORK
+          <lb/>For
+          <hi rend="sc">
+            <lb/>displaying outstanding qualities of leadership, high moral character,
+            <lb/>noteworthy academic achievement, and exceptional
+            <lb/>aptitude for military service
+            <lb/>headquarters, FIRST united states army, GOVERNORS ISLAND, NEW YORK 4, NEW YORK
+          </hi>
+          <lb/><hi rend="sc">this</hi> <date when="1959-06-05">5th <hi rend="sc">day of</hi> JUNE <hi rend="sc">19</hi> 59</date>
+          <lb/>B. M. BRYAN, LIEUTENANT GENERAL, USA
+          <lb/>COMMANDING
+        <pb n="3" facs="#page-002"/>
+          <lb/>Army Security Agency School
+          <lb/>Certificate
+          <lb/>This is to certify that
+          <lb/>SECOND LIEUTENANT BARRY R. MOSHER
+          <lb/>has satisfactorily completed the course of instruction in
+          <lb/>and
+          <lb/>is hereby declared a graduate of the
+          <lb/>US ARMY SECURITY AGENCY INSTRUCTOR TRAINING COURSE
+          <lb/>given at Fort Devens, Massachusetts, this <date when="1959-09-04">4th day of September 1959</date>
+        <pb n="4" facs="#page-003"/>
+          <lb/><hi rend="sc">the</hi>
+          <lb/>PRESIDENT
+          <lb/><hi rend="sc">of</hi>
+          <lb/>THE UNITED STATES OF AMERICA
+          <lb/>To all who shall see these presents, greeting:
+          <lb/>Know Ye, that reposing special trust and confidence in the patriotism, valor, fidelity
+          <lb/>and abilities of Barry Rexford Mosher, I do
+          <lb/>appoint him a Reserve Commissioned Officer in the
+          <lb/>grade of Second Lieutenant
+          <lb/>in the
+          <lb/>Army of the United States
+          <lb/>to date as such from <date when="1959-06-05">the fifth day of June, nineteen
+          <lb/>hundred and fifty‐nine</date>. This Officer will therefore carefully and diligently
+          <lb/>discharge the duties of the office to which appointed by doing and performing all
+          <lb/>manner of things thereunto belonging.
+          <lb/>And I do strictly charge and require those Officers and other personnel of lesser
+          <lb/>rank to render such obedience as is due an officer of this grade and position. And
+          <lb/>this Officer to observe and follow such orders and directions, from time to time, as
+          <lb/>may be given by me, or the future President of the United States of America, or other
+          <lb/>Superior Officers acting in accordance with the laws of the United States of America.
+          <lb/>This commission is to continue in force during the pleasure of the President of
+          <lb/>the United States of America, for the time being, under the provisions of those Public
+          <lb/>Laws relating to Officers of the Armed Forces of the United States of America
+          <lb/>and the component thereof in which this appointment is made.
+          <lb/>Done at the City of Washington, this <date when="1959-06-05">fifth day of June,
+          <lb/>in the year of our Lord one thousand nine hundred and fifty‐nine</date>, and of the
+          <lb/>Independence of the United States of America the one hundred and eighty‐third
+          <lb/>By the President:
+        <pb n="5" facs="#page-004"/>
+          <lb/><hi rend="sc">the</hi>
+          <lb/>PRESIDENT
+          <lb/><hi rend="sc">of</hi>
+          <lb/>THE UNITED STATES OF AMERICA
+          <lb/>To all who shall see these presents, greeting:
+          <lb/>Know Ye, that reposing special trust and confidence in the patriotism, valor, fidelity
+          <lb/>and abilities of Barry Rexford Mosher, I do
+          <lb/>appoint him a Reserve Commissioned Officer in the
+          <lb/>grade of First Lieutenant
+          <lb/>in the
+          <lb/>Army of the United States
+          <lb/>to date as such from <date when="1961-06-30">the thirtieth day of June, nineteen
+          <lb/>hundred and sixty‐one</date>. This Officer will therefore carefully and diligently
+          <lb/>discharge the duties of the office to which appointed by doing and performing all
+          <lb/>manner of things thereunto belonging.
+          <lb/>And I do strictly charge and require those Officers and other personnel of lesser
+          <lb/>rank to render such obedience as is due an officer of this grade and position. And
+          <lb/>this Officer to observe and follow such orders and directions, from time to time, as
+          <lb/>may be given by me, or the future President of the United States of America, or other
+          <lb/>Superior Officers acting in accordance with the laws of the United States of America.
+          <lb/>This commission is to continue in force during the pleasure of the President of
+          <lb/>the United States of America, for the time being, under the provisions of those Public
+          <lb/>Laws relating to Officers of the Armed Forces of the United States of America
+          <lb/>and the component thereof in which this appointment is made.
+          <lb/>Done at the City of Washington, this <date when="1962-02-19">ninteenth day of February,
+          <lb/>in the year of our Lord one thousand nine hundred and sixty‐two</date>, and of the
+          <lb/>Independence of the United States of America the one hundred and eighty‐sixth.
+          <lb/>By the President:
+      </ab>
+    </body>
+  </text>
+</TEI>

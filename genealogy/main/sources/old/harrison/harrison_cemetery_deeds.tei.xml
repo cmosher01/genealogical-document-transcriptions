@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison cemetery deeds</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_cemetery_deeds/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_cemetery_deeds/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_cemetery_deeds/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_cemetery_deeds/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_cemetery_deeds/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_cemetery_deeds/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_cemetery_deeds/p-006.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>ss0t4U0o■osoH
+<lb/>Steuben County, ss.—
+<lb/>On this- -day of- -before uie personally
+<lb/>came- -Presideit of Harrison Cemetery Association, and
+<lb/>-Secretary of said Association, to me known wbo being duly
+<lb/>sworn, did depose and say, that they were such officers, and that they executed the annexed con
+<lb/>veyance, as such officers, and that the seal affixed thereto is the seal of such Association, and that
+<lb/>such conveyance is made by authority of said Association.
+<pb n="2" facs="#page-001"/>
+<lb/>=»» HARRISON
+<lb/>CEMETERY ASSOCIATION of Hornby, N. y., tn consideration of
+<lb/>the si^m of dtA&lt;. Dt &gt; 11 a rs. pa id. to them by ^
+<lb/>I  ̂7
+<lb/>I he redeipt whereof is hereby acknowledged^ have granted,
+<lb/>barg(iiiy.ed^ sold^ conveyed^ and by these prese1^ts do grants bar
+<lb/>gain^ fit and convey to the said
+<lb/>^  I
+<lb/>heirs and assigns. Lot A o. 2,.? of Land, in the saul Ceme
+<lb/>tery of said Association^ called HARRIS ON CEMETERY situate in
+<lb/>the zovun of Jdtorriby, CouvLiy of Bieuoav. ani Bzoia of ffa^oo ITorlz.
+<lb/>which Lot A delineated and laid down on the ma-p of
+<lb/>said Cemetery^ and therein designated by the number £ f
+<lb/>containing superficial feet.
+<lb/>the herein above granted premises la sccid
+<lb/>heirs and assigns forever^ subject however.y to conditions^ limi-
+<lb/>ations and regulations hereto annexed, and to such further reg
+<lb/>ulations as shccll from lime lo time be moude by the Trustees
+<lb/>of said Associcction.
+<lb/>^ In Testimony whereof the said Harrison
+<lb/>Cemetery Association have caused this instrument to oe
+<lb/>signed Oy their (President and Secyetjary, and their oom-signea oy tneir fJrresiaent ana isecretyiry, and tneir
+<lb/>mon seal hereurUo affiased, this
+<lb/>day of_ one thousand eiqM hundred
+<lb/>^  j/to/r
+<lb/>\Orj - (X'xAA^ (hJl Secretary,
+<lb/>RULES AND CONDITIONS.
+<lb/>1. All Lots shall be held in pursuance of "Act, authorizing the incorporation of rural Cemetery Association,"
+<lb/>passed April 27, 1847; and of the incorporation of the HARRISON CEMETERY ASSOCIATION, under the
+<lb/>authority of the said Act on the 19th day of September, 1885, and shaii not be used for any other purpose, than
+<lb/>as a place of burial for the dead.
+<lb/>3, The proprietor of each lot shall have the right to enclose the same with any fence made wholly of iron, or
+<lb/>they may enclose the lot with a single railing of iron or white pine, or white oak, not to exceed three inches in
+<lb/>diameter, with posts of either of the foregoing material, and placed not less than seven feet apart, the railing
+<lb/>and posts to be pianed or turned, and kept heavily coated with paint. No other enclosure except such as above
+<lb/>designated, will be allowed, unless by permission of two-thirds of the Trustees, so long as the outside fence of
+<lb/>the cemetery is in good repair.
+<lb/>3. Any proprietor may seil and convey his lot at any time. But no such conveyance shali be valid until a_
+<lb/>certficate of such sale, statuig the names of the parties, and the consideration, signed and acknowledged by alf
+<lb/>the parties thereto, shall have been delivered to the secretary of the Association.
+<lb/>4. No disinterment shall be allowed without permission being obtained of the Secretary of the Association.
+<lb/>5. The proprietor of each lot shall have a right to erect any proper stones, monuments or sepulchral struct
+<lb/>ures thereon, and to cultivate trees, shrubs and plants in the same. But no tree growing within the lot or border
+<lb/>shaU be cut down or destroyed without the consent of the Trustees.
+<lb/>6. If any trees or shrubs, situated in any lot, shall by the means of their roots, branches or otherwise, become
+<lb/>detrimental to the adjacent lots or avenues, or d tngerous or inconvenient to passengers, or any tree or shrub
+<lb/>within the lines of any lot, which shall have been set out by the owner thereof, and then left neglected and not
+<lb/>properly trimmed or cultivated, it shall be the duty of the Trustees and they shall have the right to enter the
+<lb/>said lot and remove the said trees and shrubs, or such parts thereof as are detrimental, dangerous, inconvenient
+<lb/>or unsightly.
+<lb/>7. If any monument, effigy or enclosure, or any structure whatever, or any inscription be placed in or upon
+<lb/>any lot which shall be determined by the major part of the Trustees, for the time being, to be offensive or im
+<lb/>proper, or injurious to the appearance of surrounding lots or grounds, the said Trustees or a major part of them
+<lb/>shali have the right, and it shall be their duty to enter upon such lot and remove the said offensive or improper
+<lb/>object or objects.
+<lb/>8. The Board of Trustees from time to time,may lay out or alter such avenues or walk8,and make such rules and
+<lb/>regulations for the government of the grounds as they may redeem requisite and proper to to secure and pro
+<lb/>mote the general objects of the Cemetery.
+<lb/>9. The proprietors of lots and their families shall be allowed access to the grounds at all times; observing the
+<lb/>rules which are or may be adopted for the regulation of visitors.
+<pb n="3" facs="#page-002"/>
+<lb/>/I •
+<lb/>AUU0O
+<lb/>Steitben Cotnm, ss.—
+<lb/>On this- -day of- -before me personally
+<lb/>came- - Preside Lit of Harrison Cemetery Association, and
+<lb/>—Secretary of said Association, to me known wbo being duly
+<lb/>sworn, did depose and say, that they were such officers, and that they executed the annexed con
+<lb/>veyance, as such officers, and that the seal affixed thereto is the seal of such Association, and that
+<lb/>such conveyance is made by authority of said Association.
+<pb n="4" facs="#page-003"/>
+<lb/>^ That the HAREISOU
+<lb/>3* V
+<lb/>GEMETlilliy ASSOCIATION of Hornby, N. K., in consideration of
+<lb/>the si'M of \(f^ Dollars faid to them by
+<lb/>currt I uc
+<lb/>the receipt f hereof is hereby acknowledged^ have granted;
+<lb/>bargaineci\^ sold^ conveyed^ and by these presents do grants bar
+<lb/>gain^ sell and convey to the said (^c/rirvyfy
+<lb/>heirs and assigns.^ot A o. of!.and^ in the said Ceme-^
+<lb/>tery of said Association^ called //^^HARIIIS ON CEMETERY situate in
+<lb/>ilsie ioujn of JzCorriby, CouTLiy of BteuboTL ond. Btozo of }fo''JO Y'or'k.
+<lb/>which Lot delineated and laid down on the map of
+<lb/>said Cemetery^ and therein designated by the numder
+<lb/>containing superficial feet,
+<lb/>Sijf the herein above granted premises lo sceid
+<lb/>heirs and assigns forever^ subject however^ to conditions^ limi-
+<lb/>ations and regulations hereto annexed, and to such further reg-
+<lb/>utations as shocll from lime io time be made by the Trustees
+<lb/>of said Association.
+<lb/>In Testimony whereof the said Harrison
+<lb/>Cemetery Assoeiation have caused this instrument to oe
+<lb/>signed 'toy t'neir (President and Secretary, and t'neir com
+<lb/>mon seal hereunto afixed, this rYAT
+<lb/>day of 'Pm&gt; Ley ^ one tl^^isaaA eighty n' undred%
+<lb/>and
+<lb/>ffacsXU )Xyv Secretary,
+<lb/>President
+<lb/>RULES AND CONDITIONS.
+<lb/>1. All Lots shall be held in pursuance of "Act, authorizing the incorporation of rural Cemetery Association"
+<lb/>passed April 27, 1847; and of the incorporation of the HARRISON CEMETERY ASSOCIATION, under the
+<lb/>authority of the said Act on the 19th day of September, 1885, and shall not be used for any other purpose, than
+<lb/>as a place of burial for the dead.
+<lb/>2. The proprietor of each lot shall have the right to enclose the same with any fence made wholly of iron, or
+<lb/>they may enciose the lot with a single railing of iron or white pine, or white oak, not to exceed three inches in
+<lb/>diameter, with posts of either of the foregoing material, and placed not less than seven feet apart, the railing
+<lb/>and posts to be planed or turned, and kept heavily coated with paint. No other enclosure except such as above
+<lb/>designated, will be allowed, unless by permission of two-thirds of the Trustees, so long as the outside fence of
+<lb/>the cemetery is in good repair.
+<lb/>3. Any proprietor may sell and convey his lot at any time. But no such conveyance shall be valid until a
+<lb/>certflbate of such sale, stating the names of the partiesi-aard the consideration, signed and acknowledged by all-
+<lb/>the parties thereto, shall have been delivered to the secretary of the Association,
+<lb/>4. No disinterment shall be allowed without permission being obtained of the Secretary of the Association.
+<lb/>5. The proprietor of each lot shall have a right to erect any proper stones, monuments or sepulchral struct
+<lb/>ures thereon, and to cultivate trees, shrubs and plants in the same. But no tree growing within the lot or border
+<lb/>shall be cut down or destroyed without the consent of the Trustees.
+<lb/>0. If any trees or shrubs, situated in any lot, shall by the means of their roots, branches or otherwise, become
+<lb/>detrimental to the adjacent lots or avenues, or d tngerous or inconvenient to passengers, or any tree or shrub
+<lb/>within the lines of any lot, which shall have been set out by the owner thereof, and then left neglected and not
+<lb/>properly trimmed or cultivated, it shall be the duty of the Trustees and they shall have the right to enter the
+<lb/>said lot and remove the said trees and shrubs, or such parts thereof as are detrimental, dangerous, inconvenient
+<lb/>or unsightly.
+<lb/>7. If any monument, eiBgy or enclosure, or any structure whatever, or any inscription be placed in or upon
+<lb/>any lot which shall be determined by the major part of the Trustees, for the time being, to be offensive or im
+<lb/>proper, or injurious to the appearance of surrounding lots or grounds, the said Trustees or a major part of them
+<lb/>shall have the right, and it shall be their duty to enter upon such lot and remove the said offensive or improper
+<lb/>object or objects,
+<lb/>8. The Board of Trustees from time to time,raay lay out or alter such avenues or walks.and make such rules and
+<lb/>regulations for the government of the grounds as they may redeem requisite and proper to to secure and pro
+<lb/>mote the general objects of the Cemetery,
+<lb/>9. The proprietors of lots and their families shall be allowed access to the grounds at all times; observino-the
+<lb/>rules which are or may be adopted for the regulation of visitors. "
+<pb n="5" facs="#page-004"/>
+<lb/>0MUbtftem
+<lb/>Steuben County, ss.—
+<lb/>On this- _day of_
+<lb/>came-
+<lb/>before me personaliy
+<lb/>.President of Harrison Cemetery Association, and
+<lb/>—Secretary of said Association, to me known, who being duly
+<lb/>sworn, did depose and say, that they were such officers, and that they executed the annexed con
+<lb/>veyance, as such officers, and that the seal affixed thereto is the seal of such Association, and that
+<lb/>such conveyance is made by authority of said Association.
+<pb n="6" facs="#page-005"/>
+<lb/>t titit HAERISOU
+<lb/>CEMETERY ASSOCIATION of Hornby, N. K"., i.n consideration oj
+<lb/>the shm of Dtd.lars. paid to them hv (7) tfeeHf
+<lb/>'  I ^
+<lb/>the recfipt whereof is hereby acknowledged^ have granted,
+<lb/>bargained^ sold-, conveyed^ and by these presents do grants bar
+<lb/>gain^ fit and convey to the said
+<lb/>heirs and assigns. Lot Xo. P _of Land^ m the said Ceme
+<lb/>tery of said Association^ called HARRISON CEMETERY situate in
+<lb/>the iovuTL oj JforrLby, Counfy of Sievibou ond Biozo of ffs-oo Xorhz.
+<lb/>which Lot La delineated and laid down on the map of
+<lb/>said Cemetery^ and therein designated by the number I- fr
+<lb/>containing supeifcial feet.
+<lb/>the herein above granted premises to said
+<lb/>(D
+<lb/>heirs and assigns forever^ subject however^ to conditions^ limi-
+<lb/>ations and regidations hereto annexed, and to such further reg-
+<lb/>utations as shall from time io time be made by the Trustees
+<lb/>of said Association.
+<lb/>In I&amp;stimony whereof the said Harrison
+<lb/>Gemetery Assoeiation n' ave caused this instrument to \e
+<lb/>signed dy their (President and Secretary, and their com
+<lb/>mon seal hereunto affixed, this Ay '
+<lb/>day of— one thousand eight hundred
+<lb/>ff. H Cl i l/J f /^r - Secretary, (President
+<lb/>RULES AND CONDITIONS.
+<lb/>1. All Lots shall be held in pursuance of "Act, authorizing the incorporation of rural Cemetery Association "
+<lb/>passed April 27, 1847; and of the incorporation of the HARRISON CEMETERY ASSOCIATION, under the
+<lb/>authority of the said Act on the 19th day of September, 1885, and shall not be used for any other purpose, than
+<lb/>as a place of burial for the dead.
+<lb/>2. The proprietor of each lot shall have the right to enclose the same with any fence made wholiy of iron or
+<lb/>they may enclose the lot with a single railing of iron or white pine, or white oak, not to exceed three inches in
+<lb/>diameter, with posts of either of the foregoing material, and placed not less than seven feet apart, the railing
+<lb/>and posts to be planed or turned, and kept heavily coated with paint. No other enclosure except such as above
+<lb/>designated, will be allowed, unless by permission of two-thirds of the Trustees, so long as the outside fence of
+<lb/>the cemetery is in good repair.
+<lb/>3. Any proprietor may sell and convey his lot at any time. But no such conveyance shall 'be valid until a
+<lb/>certflcate of such sale, stating the names of the parties, and the consideration, signed and acknowledged by all
+<lb/>the parties thereto, shall have been delivered to the secretary of the Association.
+<lb/>4. No disinterment shall be allowed without permission being obtained of the Secretary of the Association.
+<lb/>5. The proprietor of each lot shall have a right to erect any proper stones, monuments or sepulchral struct
+<lb/>ures thereon, and to cultivate trees, shrubs and plants in the same. But no tree growing within the lot or border
+<lb/>shall be cut down or destroyed without the consent of the Trustees.
+<lb/>6. If any trees or shrubs, situated in any lot, shall by the means of their roots, branches or otherwise, become
+<lb/>detrimental to the adjacent lots or avenues, or dangerous or inconvenient to passengers, or any tree or shrub
+<lb/>within the lines of any lot, which shall have been set out by the owner thereof, and then left neglected and not
+<lb/>properly trimmed or cultivated, it shall be the duty of the Trustees and they shall have the right to enter the
+<lb/>said lot and remove the said trees and shrubs, or such parts thereof as are detrimental, dangerous, inconvenient
+<lb/>or unsightly.
+<lb/>7. If any monument, effigy or enclosure, or any structure whatever, or any inscription be placed in or upon
+<lb/>any lot which shall be determined by the major part of the Trustees, for the time being, to be offensive or im
+<lb/>proper, or injurious to the appearance of surrounding lots or grounds, the said Trustees or a major part of them
+<lb/>shall have the right, and it shall be their duty to enter upon such lot and remove the said offensive or improper
+<lb/>object or objects.
+<lb/>8. The Board of Trustees from time to time,raay lay out or alter such avenues or walks,and make such rules and
+<lb/>regulations for the government of the grounds as they may redeem requisite and proper to to secure and pro
+<lb/>mote the general objects of the Cemetery.
+<lb/>9. The proprietors of lots and their families shall be allowed access to the grounds at all times; observing the
+<lb/>rules which are or may be adopted for the regulation of visitors.
+<pb n="7" facs="#page-006"/>
+<lb/>ICttrtiiti TAci^ the HAREISOITg5|,'^»"VW
+<lb/>CEMETERY ASSOCIATION ̂ / Hornby, N. K, ui consideraiwn oj
+<lb/>the sum oflS^ ^Dollars, paid to the^n by __ __ _
+<lb/>the receipt whereof is hereby acknowledgedt have granted,
+<lb/>.bargained, sold, conveyed, and by these presents do grant, bar
+<lb/>gain, sell, and convey to the said
+<lb/>cfi c^o,
+<lb/>heirs and assigns. Lot Xo. Hc^.H'.of Land, in the said Ceme
+<lb/>tery of said Association, callea ///^HARRISON CEMETERY situate in
+<lb/>the tovun of Jdornby, County of Bieubon and Btots of Jfow Cork,
+<lb/>which Lot X^ delineated and laid down on the map of
+<lb/>said Cemetery, and therein designated by the number
+<lb/>containing superfcial feet.
+<lb/>®jce the herein above granted premises to said
+<lb/>heirs and assigns forever, subject however, to conditions, tinn-
+<lb/>ations and regulations hereto annexed, and to such further reg-
+<lb/>iitations as shall from time to time be made by the Trustees
+<lb/>of said Association. ■
+<lb/>In Testimony whereof, the said Harrison
+<lb/>Cemetery Association have caused this instrument to oe
+<lb/>signed by their (President and Segy,ary,,and ihydycom
+<lb/>mon seal hereuntgaflxed, this 11^ &gt; cff. ̂
+<lb/>day of CjdA Ch An X one tT^usand eight hundred
+<lb/>and
+<lb/>IfhSecretary,
+<lb/>RULES AND CONDITIONS.
+<lb/>1. All Lots shall be held in pursuance of''Act, authori&lt;ing the incorporation of rural Ceiiieterv Association"
+<lb/>passed April 27. 1847; and of the incorporation of the HARRISON CEMETERY ASSOCIATION, under the
+<lb/>authority of the said Act on the 19th day of September, 1885, and shall not be used for any other purpose, than
+<lb/>as a place of burial for the dead.
+<lb/>2, The proprietor of each lot shall have the right to enclose the same with any fence made wholly of irc.n, or
+<lb/>they may enclose the lot with a single railing of iron or white pine, or white oak, not to exceed three inches in
+<lb/>diameter, with posts of either of the foregoing material, and placed not less than seven feet apart, the railing
+<lb/>and posts to be planed or turned, and kept heavily coated with jjaiiit. No other enclosure except such as above
+<lb/>designated, will be allowed, unless by permission of two-thirds of the Trustees, so long as the outside fence of
+<lb/>the cejuotory is in good repair.
+<lb/>8. Any proprietor may sell and convey his lot at any-Wrne. But no such conveyance shall be valid until a
+<lb/>certilcate of such sjvle, stiating the names of the parties, and the coiisideration, signed and uckuowleilgLMf by all
+<lb/>the parties thereto, shall have been delivered to the secretary of the Association.
+<lb/>4. No disinterment shall be allowed without permission being obtained of the Secretary of the As.sociatiori.
+<lb/>5. The proprietor of each lot shall have a right to erect any proper stones, monuments or sepulchral struct
+<lb/>ures thereon, and to cultivate trees, shrubs and plants in the same. But no tree growing witiiin the lot or bortler
+<lb/>shall be cut down or destroyed witliout the consent of the Trustees.
+<lb/>0. If any trees or shrubs, situated iii any lot, shall by the means of their roots, branches or otherwise, become
+<lb/>detrimental to the adjacent lots or avenues, or dangerous or iuconvenicnt to passengers, or any tree or .shrub
+<lb/>within the lines of any lot, which shall have been set out by the owner thereof, and tiicn left neglected a:ui not
+<lb/>properly trimmed or cultivated, it shall be the duty of the Trustees and they slmll iiave the right to enter the
+<lb/>said Jot and remove the said trees and shrubs, or such parts thereof us are detrimental, dangerous, inco.uvenient
+<lb/>or unsightly.
+<lb/>7. If any monument, etiigy or enclosure, or any structure whatever, or any inscription be placed in or n|)un
+<lb/>any lot which shall be determined by the major part of the Trustees, for the time being, to be oirensiv or im
+<lb/>proper, or injurious t&lt;j the appearance of surrounding lots or grounds, the saiil Trustees or a major par' of them
+<lb/>shall have the right, and it shall bo their duty to enter upon such lot and remove the said ollen.sive or improper
+<lb/>object or objects.
+<lb/>8. The Board of Trustees from time to time,may lay out or alter such avenues or walks,ami make sucl.* rules ami
+<lb/>regulations for the government of the grounds as they may redeem rotiuisite and proper to b» secure and pro
+<lb/>mote the general objects of the Cemetery.
+<lb/>U. The proprietors of lots and their faiiiilles shall be allowed access to the grounds at all times; observing ihe
+<lb/>rules wliicli are or may be adopteil for the regulation of visitors.
+</ab>
+    </body>
+  </text>
+</TEI>

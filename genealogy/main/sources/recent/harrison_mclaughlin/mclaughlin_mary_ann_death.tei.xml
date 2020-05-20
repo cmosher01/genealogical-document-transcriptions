@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In Loving Memory of Mary Anne Harrison</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="u">In Loving Memory of Mary Anne Harrison</title>, funeral booklet,
+          6 May 1953, Corning, New York, USA.
+          All non‐blank pages and cards removed from original booklet, for archiving and digitization.
+          Original pages are unnumbered.
+          Includes guest list that appears to be actual signatures.
+          Includes a record of events and family written by unknown author, possibly her daughter Alice Harrison;
+          Harrison/McLaughlin Documents, Archive of Historical Family Documents, Christopher A. Mosher, Shelton, Connecticut, USA.
+          Received from Barry Mosher, who received it from his mother Alice Harrison.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-002.ptif/full/full/180/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-017.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+
+<pb n="1" facs="#page-000"/>
+<lb/>To live
+<lb/>in the hearts
+<lb/>of those we leave behind
+<lb/>is not to die
+
+<pb n="2" facs="#page-001"/>
+<p>
+<lb/>The Lord is my shepherd; I shall not want,
+<lb/>He maketh me to lie down in green pastures;
+<lb/>He leadeth me beside the still waters,
+<lb/>He restoreth my soul; He leadeth me on the
+<lb/>paths of righteousness for His name's sake.
+</p>
+<p>
+<lb/>Yea, though I walk through the valley of
+<lb/>the shadow of death, I will fear no evil;
+<lb/>for thou are with me, thy rod and thy staff
+<lb/>they comfort me.
+</p>
+<p>
+<lb/>Thou preparest a table before me in the
+<lb/>presence of mine enemies; Thou anointest
+<lb/>my head with oil; my cup runneth over.
+<lb/>Surely goodness and mercy shall follow
+<lb/>me all the days of my life; and I will
+<lb/>dwell in the house of the Lord for ever.
+</p>
+
+<pb n="3" facs="#page-002"/>
+<lb/>with our Sympathy
+<lb/>Senior Class
+<lb/>Hamilton
+
+<pb n="4" facs="#page-004"/>
+<lb/>with our Sympathy
+<lb/>Neighbors of Hamilton
+
+<pb n="5" facs="#page-006"/>
+<lb/>With Sympathy . . .
+<lb/>Tuscarora Lodge
+
+<pb n="6" facs="#page-008"/>
+<lb/>with our Sympathy
+<lb/>Ralph Purdy
+<lb/>Henry Brustad
+<lb/>Carl Schlimner
+
+<pb n="7" facs="#page-010"/>
+<lb/>Not till the loom is silent
+<lb/>And the shuttles cease to fly,
+<lb/>Shall God unroll the curtain
+<lb/>And explain the reason why;
+<lb/>The dark threads are as needful,
+<lb/>In the Weaver's skillful hand.
+<lb/>As the threads of gold and silver
+<lb/>In the pattern He has planned.
+
+<pb n="8" facs="#page-011"/>
+<head rend="center"><lb/>In Loving Memory of</head>
+<lb/>Full Name of Deceased <hi rend="underline">Mary Anne Harrison</hi>
+<lb/>Place of Birth <hi rend="underline">Hornby, New York</hi> Date <hi rend="underline">July 23, 1870</hi>
+<lb/>Place of Death <hi rend="underline">Hamilton, New York</hi> Date <hi rend="underline">May 2, 1953</hi>
+<lb/>Age <hi rend="underline">82</hi> Years <hi rend="underline">[blank]</hi> Months <hi rend="underline">[blank]</hi> Days
+<head rend="center"><lb/>Services</head>
+<lb/>Held at <hi rend="underline">St. Vincent De Pauls</hi> Clergyman <hi rend="underline">Father Hogan</hi>
+<lb/>Date <hi rend="underline">May 6, 1953</hi> Time <hi rend="underline">9:00 o’clock</hi>
+<head rend="center"><lb/><hi rend="sc">interment</hi></head>
+<lb/>Cemetery <hi rend="underline">Hornby Forks</hi>
+<lb/>Section <hi rend="underline">Center</hi> Block <hi rend="underline">[blank]</hi> Lot <hi rend="underline">Front</hi>
+<lb/>City <hi rend="underline">Hornby, New York</hi> State <hi rend="underline">New York</hi>
+<lb/>Date <hi rend="underline">May 6, 1953</hi> Time <hi rend="underline">10:15 A.M.</hi>
+<head rend="center"><lb/>Escorts</head>
+<lb/>Name
+<lb/><hi rend="underline">John McLaughlin</hi> <hi rend="underline">Joseph McLaughlin</hi>
+<lb/><hi rend="underline">Arthur McLaughlin</hi> <hi rend="underline">William D. McLaughlin</hi>
+<lb/><hi rend="underline">Dudley McLaughlin</hi> <hi rend="underline">Basil Hendrick</hi>
+<p>
+<lb/>No one could tell where my soul might be,
+<lb/>I searched for God but He eluded me;
+<lb/>I sought you out,—and found all three.
+</p>
+
+<pb n="9" facs="#page-012"/>
+<head rend="center"><lb/>Family Record</head>
+<lb/>Full Name of Deceased <hi rend="underline">Mary Anne Harrison</hi>
+<lb/>Born <hi rend="underline">July 23, 1853</hi> Died <hi rend="underline">May <choice><sic>4</sic><corr>2</corr></choice>, 1953</hi>
+<lb/>Mother <hi rend="underline">Margaret Dougherty</hi>
+<lb/>Born <hi rend="underline">Ireland</hi> Died <hi rend="underline">Hornby, N.Y.</hi>
+<lb/>Father <hi rend="underline">William McLaughlin</hi>
+<lb/>Born <hi rend="underline">Ireland</hi> Died <hi rend="underline">Hornby, N.Y.</hi>
+<p>
+<lb/>Life is eternal;
+<lb/>and love is immortal,
+<lb/>And death is only a horizon,
+<lb/>and a horizon is nothing—
+<lb/>save the limit of our sight.
+<lb/>― R. W. Raymond
+</p>
+
+<pb n="10" facs="#page-013"/>
+<head rend="center"><lb/>Friends Who Called</head>
+<lb/>Name
+<lb/>Mrs. William Bixby.
+<lb/>Quinie Bixby.
+<lb/>Mrs. Russell Lauedeman.
+<lb/>Mrs Louann Green
+<lb/>Dana Burt
+<lb/>Eva Robin Hooker Corning
+<lb/>Mr. &amp; Mrs. E. B. Stephens
+<lb/>Mrs. Margaret Dixon
+<lb/>Margaret Frost
+<lb/>Mr and Mrs Clara M<hi rend="sup">c</hi>Carty
+<lb/>John M<hi rend="sup">c</hi>Laughlin
+<lb/>Mr. &amp; Mrs. Ernest Prosser
+<lb/>Mr. &amp; Mrs. Harry M<hi rend="sup">c</hi>Mahon
+<lb/>Mrs Silas Waberton
+<lb/>Mr &amp; Mrs. Allen Frost &amp; Anita
+<lb/>Mrs Julia E. Thompson
+<lb/>Mrs Walter Schoonover
+<lb/>Mrs Mary Schoonover
+<lb/>Earl E Scudder
+<lb/>Lee Scudder
+<lb/>Mr. and Mrs. Arthur E. Wardner
+<lb/>Mrs Glenn Flasphaler
+<lb/>Mr &amp; Mrs Joseph Cox
+<lb/>Mr &amp; Mrs Earle T. Keenan
+<lb/>Mr &amp; Mrs Mike Kane
+
+<pb n="11" facs="#page-014"/>
+<head rend="center"><lb/>Friends Who Called</head>
+<lb/>Name
+<lb/>Evelyn Carey
+<lb/>Mr &amp; Mrs Arthur Devenport Jr.
+<lb/>Mrs Lester Lowery
+<lb/>Mrs Artie Lowery.
+<lb/>Blanche R. Onyan—Hamilton, N.Y.
+<lb/>Mariann Henny.
+<lb/>Mr. &amp; Mrs. John Kniffin
+<lb/>Mrs Jane Ferguson
+<lb/>Mabel Breen
+<lb/>Frances Personius
+<lb/>Gertrude McLaughlin
+<lb/>William M<hi rend="sup">c</hi>Laughlin
+<lb/>Patricia McLaughlin
+<lb/>Edith Wheaton
+<lb/>Ruth Wheaton Clark
+<lb/>Eunice V. Stephens
+<lb/>Delea Kniffin
+<lb/>Dick Lowery
+<lb/>Geo. C. Keenan
+<lb/>Mrs Elma Bigelow
+<lb/>Alva Bigelow
+<lb/>Mr. &amp; Mrs. Herbert Lowery
+<lb/>W. B. Sanford
+<lb/>Audrey Cloos
+
+<pb n="12" facs="#page-015"/>
+<head rend="center"><lb/>Friends Who Called</head>
+<lb/>Name
+<lb/>Mrs Raymond Hickey.
+<lb/>Mr. &amp; Mrs. A. C. Moran.
+<lb/>Shirley &amp; Kay Frost
+<lb/>Eva Ripley
+<lb/>Mr. &amp; Mrs. Raymond Frost
+<lb/>Eva Ripley
+<lb/>Mr &amp; Mrs Thos M<hi rend="sup">c</hi>Laughlin
+<lb/>Ethel Keenan
+<lb/>Mrs Madelyn Personius
+<lb/>Mrs Margaret Culp
+<lb/>Mr &amp; Mrs C M Bulkley
+<lb/>Mrs C. D. M<hi rend="sup">c</hi>Carty
+<lb/>Mrs Arthur Doran
+<lb/>Mr &amp; Mrs. Donald Hendrick
+<lb/>Mr &amp; Mrs. John Easterbrook
+<lb/>Mr &amp; Mrs Eldred Easterbrook
+<lb/>Mr &amp; Mrs Maynard M<hi rend="sup">c</hi>Laughlin
+
+<pb n="13" facs="#page-016"/>
+<head><hi rend="center"><lb/>In My Father’s House
+<lb/>“In my Father’s House there are many rooms”</hi>
+<lb/>― John 14:2</head>
+<p>
+<lb/>No, not cold beneath the grasses,
+<lb/>Not close‐walled within the tomb;
+<lb/>Rather, in my Father’s mansion,
+<lb/><hi rend="italic">Living</hi> in another room.
+</p>
+<p>
+<lb/>Living, like the one who loves me,
+<lb/>Like my child with cheeks abloom,
+<lb/>Out of sight, at desk or school‐book,
+<lb/><hi rend="italic">Busy</hi> in another room.
+</p>
+<p>
+<lb/>Nearer than my son whom fortune
+<lb/>Beckons where the strange lands loom;
+<lb/>Just behind the hanging curtain,
+<lb/><hi rend="italic">Serving</hi> in another room.
+</p>
+<p>
+<lb/>Shall I doubt my Father’s mercy?
+<lb/>Shall I think of death as doom,
+<lb/>Or the stepping o’er the threshold
+<lb/>To a bigger, brighter room?
+</p>
+<p>
+<lb/>Shall I blame my Father’s wisdom?
+<lb/>Shall I sit enswathed in gloom,
+<lb/>When I know my loves are happy,
+<lb/><hi rend="italic">Waiting</hi> in the other room?
+</p>
+<lb/>― <hi rend="sc">robert freeman</hi>
+
+<pb n="14" facs="#page-017"/>
+<hi rend="center">
+<p>
+<lb/>Thoughtfully
+<lb/>Dedicated
+<lb/>To Those
+<lb/>We Serve
+</p>
+<hi rend="sc">
+<p>
+<lb/>a. w. beilby &amp; son
+<lb/>funeral service
+<lb/>corning, new york
+</p>
+</hi>
+</hi>
+<p>
+<lb/>Bereavement Card Service
+<lb/>Milwaukee 10, Wisconsin
+</p>
+
+</ab>
+    </body>
+  </text>
+</TEI>

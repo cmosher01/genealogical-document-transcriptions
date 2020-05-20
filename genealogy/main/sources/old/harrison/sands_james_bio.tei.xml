@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>sands james bio</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/sands_james_bio/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/sands_james_bio/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/sands_james_bio/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/sands_james_bio/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/sands_james_bio/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/sands_james_bio/p-005.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>JAMI^S SANDS OF 3LCGK ISIAND, R. I.
+<lb/>and sonie of his descendants in U.S.
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+<lb/>ivI/W 2 0 !3i2
+<lb/>J A li E 3 3 A M D S.
+<lb/>It appears fron '-Nile's J-'rench Indirr: V/rrs",
+<lb/>rjutlior 01 v/hich v/as a graisdsoii of Janes o.rj-ids, Lh;A Sands
+<lb/>was a cs.rpentsr ayA v/as erecting a house for Lirs.. Ann Hutch-
+<lb/>insOii, in East/Cluster, Me\7 York, when he was driven off by
+<lb/>the Ind i ans, C e h fv i
+<lb/>Til is must ho-ve been in 1642 or early in 1643, for Mrs.
+<lb/>I-ratchinson did not leave Rhode Island until after the death
+<lb/>of her husband ,\vhiah occured in 1642, and she vzas killed by
+<lb/>Indians in 1643, and Sands received a grant of 1 and in Ports-
+<lb/>ET-outh on Ocloher 5th., 1645. These are the earliest notices
+<lb/>of Sands that hascCQme to tlie writer's notice in the records
+<lb/>of Ne-w EPiglJird. He married Ssi.rrdi,a daughter of John and
+<lb/>Eatherine V/aLker,of Portsmouth,
+<lb/>James Sands did not go to Block Island with the first
+<lb/>settlers, but went presumbly fro-m Portsmouth within the year
+<lb/>of the first settlement a.nd was admitted to a proprietor
+<lb/>ship among the purchasers of the Island, .and was on. of the?^'"
+<lb/>cipcl men among the proprietors and contributed la,rgely to
+<lb/>the establishing and growth of the Colony,
+<lb/>He erected a connedious house which served a garri-
+<lb/>tior: house, when the Islanders vfere sttsnked in 1689 and in
+<lb/>1690 during King IVillism's War^ This house he devised to
+<lb/>his son Edward, who gave it to his daughter Sarah in condi
+<lb/>tion that she did not mai'ry Samuel Denuiison^ she .mari^ied
+<lb/>Dr. Tiddenian 1-Rp.l, and this estate pa.ssed ini o the Hkll fam
+<lb/>ily, and t.he house was standing long v/ithin the memory of
+<lb/>the writer.
+<lb/>There v/as a John Sands at Portsmouth, who received a
+<lb/>grant of 1 arxl there in 1641. He wns not the son of J/snes i
+<lb/>as it has sometimes been said,, for James Sands at that tinie
+<lb/>was but tAventy two years of age, but he was probably the
+<lb/>John Sr.:
+<lb/>might 1. easily corjectured that this John might
+<lb/>have bee.n a. brother of Jumes from the fact thB,t tliey were
+<lb/>in Portsmouth at the sa:ce time, and had nearly cotenporary
+<lb/>gra.ntsoi land, and weie the only persons in New England of
+<lb/>the Name of Sands, save a widoAv residing in Boston , who may
+<lb/>have been theirmother, to whom the tov/n treasury was ordered
+<lb/>on the 5th.of I'eburary, 1651 to refund twenty five of the
+<lb/>fifty shillings she had paid in taxes.
+<pb n="4" facs="#page-003"/>
+<lb/>Blocic IslJ^vDcl at the time ox the Settlement was claimed
+<lb/>to be .Avithiii the jurisdiction of Massachusetts. An expedi
+<lb/>tion hod been sent from th^t Colony in 1637 to punish the
+<lb/>Island Indians for the murder of John Oldham, This exp^i-
+<lb/>tion \7as under the Corx'snd of John Endicott, after wards jov-
+<lb/>exTior of the Mass^xchusetts Colony. The Indians concealed
+<lb/>themselves in tlio swamps upon the landing of their enipiies^
+<lb/>o-nd the Massachusetts troops after bux-ning some wigwams, and
+<lb/>destroying some fields of corn,finding no Indians^returned.
+<lb/>That Colony aftemvards claimed the Island by right of Con
+<lb/>quest and granted it to Endicott and some of his officers
+<lb/>in that expedition; These granteoi'sold the Isl;iiid to a num
+<lb/>ber o!" proprietors , including John .Mcock, the. nam;e since
+<lb/>changed .to Alcott, and has been more conspicuous in New Eng-
+<lb/>1 ani literature, Simon Ray, Samuel Bearing, Peter Gtxorge,
+<lb/>Philip Whfekon, Thomas Hugh V/illiams, Thomas Faxon.
+<lb/>These proprietors commieixoed the settlement of the Islaid
+<lb/>in April 16G1.
+<lb/>By the Charter of Rhode Isl aixd of 1663, Block Island
+<lb/>was specifically granted to Rhode Island. The fact that
+<lb/>Janes Sands had resided at Portsmouth some fifteen years and
+<lb/>his then recent departure from that place, aoupied vxith the
+<lb/>fact tiicit his wife's father, John V/alker, had in Massachusetts
+<lb/>put under the bar of judgement of the General Court ofNn-
+<lb/>1G57. which forced the early settlers Rhode Island -
+<lb/>picpcme^A oands to bccOme the leader of the settlers in adopt
+<lb/>-ing themselves to their^new Colonial relations, a work in
+<lb/>which next to Simoix Ray ,bore tixe most conspicuous part.-
+<lb/>James Sands and his vxife Saralx had children a.s follows ;
+<lb/>JOHiT born in 1652, who married Sybil , the daughter of Simon
+<lb/>Ray and moved to Long Island, 3ARj\h, who married Nathaniel
+<lb/>Niles, and became the mother of the Rev. Samuel iTileswho wa.3
+<lb/>settled at Braintree ani was the author of the Frenclx and
+<lb/>Iiidif-ii \/ars, &lt;and otliep books, MERCY who married Joshua Rayw'JA.ci
+<lb/>moved and removed, to New London, Connecticut, JAIvES, married
+<lb/>Mary Cornell arid went to Long Islarj.^ Ssijiuel who married
+<lb/>Dorothy another daughter of Simon Ra,y, and upon her decease
+<lb/>ne had a second 'vife Elizabeth "■n'tTat-,rs — - - - ..
+<lb/>,  . .w oorn in ioy&lt;i ?married,^!;-- daughter of John and (Alcock) .Williax:..
+<lb/>Edward remained cix Block Island, they l\ad a daughter Sarah
+<lb/>1708^^^^^^^ Tiddeman ^Edward died at Block Island in
+<lb/>2
+<pb n="5" facs="#page-004"/>
+<lb/>The Saiids brolliers that reriovud to Lone Isl ani left
+<lb/>nunerous decendants, sone of which renoved fron Lone Island
+<lb/>to the city, and other parts of the State, ard sone in west
+<lb/>ern Connecticut. Amone these desQ end ants-were David Sai\ds,
+<lb/>. p Confort Sands, aid othec prominent persons v«ho were residents
+<lb/>X' , of the city of New York-
+<lb/>^  JOiIN Sands, son of John, married Catharine Gutteredes,
+<lb/>dauehter of Robert, of Block Island, they had a son EDWARD
+<lb/>January I2th 1712^who (EDWARD) imarried Hannah Treadavell of
+<lb/>Great Neck, Lone Island about 1734 and they removed to Block
+<lb/>Island. They had Ray Sands born JunedL8th 1759 PEGGY, born
+<lb/>July 18th 1742, JOHN, Augirst 13th 1745 aid EDVL)RD April 13th
+<lb/>1748 and CATlR^RINE who married Nathaniel Littlefeild.
+<lb/>Hfinnah Treadwell, wife of Edward Sands died January 18 ,
+<lb/>1760. Her husba.d Edwaid Sands marriei a second wife Lucy
+<lb/>Clarke of South Kinestown September 15 1763.
+<lb/>Captain Edward Sands died October 2Ist., 1778 in his
+<lb/>67th year.
+<lb/>Ray SandS iSon of Edward
+<lb/>Had RAY Thoma.s, who married Anna daiehter of Edward
+<lb/>S and s.
+<lb/>HAi^Hs^AiI, who married Robinson of South Kinestowr.
+<lb/>I.IARY Niles who married Arcliibcld Millikin,
+<lb/>ROBERT.
+<lb/>WILLIA.M C,
+<lb/>JOI-DI E. who married Ihmcy dauehter of John Paij.e
+<lb/>NANCY who married Edward Gortoi. of John 2or.d. A. ■ IrithaiAui
+<lb/>Littlefieid .
+<lb/>John Sends c d Edward, married 1st. Elizabeth Paine Julydth,
+<lb/>1776 tjiey liad Treadwell, aid second he married Pheb;- LiLtie-
+<lb/>field daujjhtei' oi' John, and sister of Mrs. Nathaniel Greene
+<lb/>they had Catharine who mari'ied William Pitt Sauuls-
+<lb/>NathanieJ. C-reene who ist. married Fanny Hunting of Lor.ij Is
+<lb/>land ai'd liad .John R. H. Maithanioj. G-- married 2ond. Sally
+<lb/>Hoxie of Chari^^stown, they liad H. Louisa .and I-.lary II, v/ho are
+<lb/>yet livinjd,
+<lb/>ELW./\RD sands married Deborah, daughter of Paul Niies Dec. 14
+<lb/>1769 they had Anna, bnrn November 25,1770 she married Ray T,
+<lb/>S arU s
+<lb/>\/iliic^'i'i Pit L born Aug. 2bth., 1774 viho marritd Catharine
+<lb/>daugiitej" of John ■ Sands.
+<pb n="6" facs="#page-005"/>
+<lb/>Hap-nsh Traydwell born Jan. 1st., 1770 vJio man^ied Feieg
+<lb/>Thoirpson of Charl est ovv'n.
+<lb/>Col. Ray Sands aid Edv/aid Sands rt-a-oved to South Kinustov/n
+<lb/>during thv Revolution and both held offices in the nil it any
+<lb/>forces and participated in several skiiriishes with the ei";-eriy
+<lb/>upon fora^'es node into Vva^hirctoi' County.
+<lb/>Will ic'OT Pitt Sands v;as a dignified , modest, intelli
+<lb/>gent and worthy gentleman. He presid...- for maiiy years at the
+<lb/>town meetings and was head warden aid represented li e town is
+<lb/>the General Assembly for several years.
+<lb/>Nathaiiiel Greene Sands was a. gentienarL of high social
+<lb/>qxiaiities, generous , given to hospitality, intelligent and
+<lb/>upright ch.aracter. He was town clerk for several yeai's.'
+<lb/>Ray Sands the brother of Hathanriol was the agent ofthe
+<lb/>family of his ureJ.G General Greene, a d managed tlieir pia. ta
+<lb/>-tion in Georgia and their estate in Tennessee. He spent
+<lb/>his suiTimer vacations on his na,tive Isla.nd hi' was a kind
+<lb/>hearted genial anl charitable man always happy in the com
+<lb/>panionship of his friends. He lived ai..:, died without eni-
+<lb/>mi es.
+<lb/>The men virho once knew these men and others I ha^^e not
+<lb/>named revisiting thisIsl and admires its increase of wealth
+<lb/>and in the comforts ajid necessities of life, but in the ab-
+<lb/>Gcence of the gsiii^nen and women whom wr once kr;e\y but ere
+<lb/>now gone, a sadness ajd loneliness comes over him and forces
+<lb/>him to retire from thesources of so many meloncholly reflec
+<lb/>tions. In every vale, .li-i every field there is something to
+<lb/>remind that the cords which once bound him to home and frierd
+<lb/>have been broken. Not a single comprnion of his youth, not
+<lb/>a friend who had st-lrted with him inthe race of life re
+<lb/>mains to bring up a pleass-nt memory: all axe gone ard in
+<lb/>sorrow he retires recalling the mournful fact that he must
+<lb/>soon follow.
+<lb/>Thus the observer turns from the home of his childhood
+<lb/>and from -the recollections of the friends of his youth to
+<lb/>the home of his manhood and the household he has gathered
+<lb/>around him with which the affections of his maturer life
+<lb/>have been interwoven to w-ai.ci h'e. looks for solace and suppoit
+<lb/>in his age.
+</ab>
+    </body>
+  </text>
+</TEI>

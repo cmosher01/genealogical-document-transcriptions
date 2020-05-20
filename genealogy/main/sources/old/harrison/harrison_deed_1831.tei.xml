@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison deed 1831</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_deed_1831/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_deed_1831/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_deed_1831/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_deed_1831/p-003.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>-'r
+<lb/>r
+<pb n="2" facs="#page-001"/><lb/>b-v"'tir--
+<lb/>pprfvj
+<lb/>lyryj lO-^^ IPV^
+<lb/>^ 72?
+<pb n="3" facs="#page-002"/><lb/>u
+<lb/>•WATlkTLMMT"^
+<lb/>This Indenture, m.ae
+<lb/>the Year of our Lord one thousand eight hundred andrj ^ 5
+<lb/>„  y. M''
+<lb/>of the fi rst part, and U&lt;^cn:a-- , ^ , V . ,WITNESSETH, That the said partu^&gt; of the first part, to
+<lb/>Dollars lawful money of the United States, to ptoyr^ mhais hereby confessed and acknowledged; Bai^e. granted, bar
+<lb/>these presents Do grant, bargain, sell, remi^, ah^, arid
+<lb/>and assigns forever, ALL cAyttli^ nL^
+<lb/>TOGETHER with all and singular the hereditaments and t
+<lb/>the reversion and reversions, remainder and remainders, re
+<lb/>claim and demand whatsoever, of the said parti^^ oi the tii
+<lb/>premises, with the said hereditaments and appurtenances :
+<lb/>hereby granted premises, with the said hereditaments and e
+<lb/>said part^ of the second part, heirs and assigns, t
+<lb/>of the se^nd part, heirs and assigns, forever. A
+<lb/>heirs, executors and administrators, do covenant, grar
+<lb/>ond part, heirs and assigns, that immedia^k befori
+<lb/>ises of an estate in fee simple therein and also to
+<lb/>■ every part and parcel tliet eof against the said ^h«
+<lb/>against all and every other person or persons claiming or t
+<lb/>IN WITNESS WHEREOF, the said part of the prst
+<lb/>written.
+<lb/>■££ALED ANO DBIilVEHED IN PSESENCE
+<pb n="4" facs="#page-003"/>
+<lb/>Vrmtc^bv B. F, SME^T» BATH.
+<lb/>the
+<lb/>BETWEEN .^.
+<lb/>1 ^;r OLit-CX,
+<lb/>I
+<lb/>j  X " - of the second part
+<lb/>r and in consideration of the sum of G^hx- }iAx4-i l/i^Cl ^
+<lb/>]d paid, by the said part^ of the second part, the receipt whereof
+<lb/>gained, sold, remised, released, aliened, and confirmedj^ and by
+<lb/>confirm, unto the said part^ of the second part, and to , heirs
+<lb/>^ /&gt;-, krtf^ , nx c£'i jM^ ni^ tIZ.QmIXjlj P/^. CO-L, •^U^OU yxtZZOiXju (X^
+<lb/>partenances theveur-to belonging, or In any wise appertaining, and
+<lb/>s, issues and profits tliereof; and all the estate, right, title, interest,
+<lb/>, part, or either in law or equity, of. in and to the above bargained
+<lb/>ho HAVE AND TO HOLD all and singular the above described and
+<lb/>ourtenances thereunto belonging or in any wise appertaining to ye
+<lb/>:he sole and only proper use, benefit and behoof of the y^jpart
+<lb/>D the said hCGHZ p r- band f&lt;n .teirbargain, p'romise and agree, to and with the said part^ of the sec-
+<lb/>he ensealing and delivery hereof yiNitr:- seized of the said prem-
+<lb/>If I; and forever to the above bargained premises, and
+<lb/>,rst part, heirs, executors, administrators and assigns, anclaim the said premises, or any part thereof. *
+<lb/>art ha hereunto set hand and seal the day and yeat firs a o ^
+<lb/>'&gt;-1
+<lb/>'il
+<lb/>i
+</ab>
+    </body>
+  </text>
+</TEI>

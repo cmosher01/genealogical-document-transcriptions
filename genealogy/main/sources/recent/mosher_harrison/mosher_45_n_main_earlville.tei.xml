@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher 45 n main earlville</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_45_n_main_earlville/p-011.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>€mnt^ (^xxix^u^tt as in ®ax:es
+<lb/>OWNER hXeXX^. B ̂;L.dj^i.n,
+<lb/>STATE OF NEW YORK
+<lb/>COUNTY OF MADISON
+<lb/>ss.
+<lb/>I, Alvin J. White, Treasurer of the county of Madison, State of New York, do HEREBY
+<lb/>CERTIFY that as such official I am custodian and have charge of the records and files in this
+<lb/>office relating to taxes, tax sales and unredeemed tax sales; that I have caused examination and
+<lb/>search of such records and files to be made this day, covering the period from 7.?.....
+<lb/>to date and find no unpaid taxes against or tax sales affecting the property known and described
+<lb/>as:
+<lb/>Baldwin, Aletta, Res., h5 North Main St., Bounded N. by Morgan, E. by Main St.,
+<lb/>S. by M. S. Parsonage, W. by Hinckley, Dist. 2, Val. $2250.
+<lb/>Except as follows: N one.
+<lb/>While the undersigned has endeavored to insure
+<lb/>accuracy in the above statement neither he nor the
+<lb/>County of Madison guarantees the same. It is subject
+<lb/>to be verified or corrected free of expense by reference
+<lb/>to records in the County Treasurer's Office.
+<lb/>IN WITNESS WHEREOF, I have hereunto
+<lb/>subscribed my name and affixed my official seal at
+<lb/>Wampsville, N. Y., this 5^^. day of
+<lb/>June,
+<lb/>TREASURER OF MADISON COUNTY
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+<lb/>CREDIT FINANCIAL STATEMENT AS OF. _19_ DEBIT
+<lb/>Paid on signing Contract
+<lb/>1 St Mortgage
+<lb/>2nd Mortgage
+<lb/>Int. from
+<lb/>Purchase Money Mortgage ,
+<lb/>Security on Lease
+<lb/>Rent from..
+<lb/>Taxes
+<lb/>Water Rates
+<lb/>Sewer Rents
+<lb/>Assessments
+<lb/>Total Credit
+<lb/>Purchase Price
+<lb/>Insurance
+<lb/>T.
+<lb/>Water Rates
+<lb/>Sewer Rents
+<lb/>Fuel
+<lb/>Total Debit
+<lb/>Total Credit
+<lb/>Balance Paid
+<lb/>Closing of title under the within contract is hereby adjourned to
+<lb/>o'clock, at
+<lb/>as of 19 .
+<lb/>Dated, 19
+<lb/>19 , at
+<lb/>; title to be closed and all adjustments to be made
+<lb/>For value received, the within contract and all the right, title and interest of the purchaser thereunder are hereby assigned,
+<lb/>transferred and set over unto
+<lb/>and said assignee hereby assumes all obligations of the purchaser thereunder.
+<lb/>Dated, ,
+<lb/>n. OfifGi. i ?.
+<lb/>19
+<lb/>Purchaser
+<lb/>Assignee of Purchaser
+<lb/>E-
+<lb/>h
+<lb/>I
+<lb/>-ilLT
+<lb/>c-=c-
+<lb/>THE OBSERVANCE OF THE FOLLOWING SUGGESTIONS WILL SAVE TIME
+<lb/>AND TROUBLE AT THE CLOSING OF THIS TITLE
+<lb/>The SELLER should bring with him all insurance policies and duplicates, receipted bills for taxes, assessments and
+<lb/>water rates, and any leases, deeds or agreements affecting the property.
+<lb/>When there is a water meter on the premises, he should order it read, and bring bills therefor to the closing.
+<lb/>If there arc mortgages on the property he should produce receipts showing to what date the interest has been P^'d,
+<lb/>the principal or rate of interest has been reduced, he should produce certificates of such reduction signed and acknowledged by
+<lb/>the holders of the mortgages.
+<lb/>He should furnish to the purchaser a full list of tenants, giving the names, rent paid by each, and date to which the rent
+<lb/>has been paid.
+<lb/>The PURCHASER should be prepared with cash or a certified check drawn to his own order. The check may be
+<lb/>certified for an approximate amount and cash may be provided for the balance of the settlement.
+<lb/>Startdard N. Y. B.T. U. Form 8041 *2-61-50M—Contract of Sale.
+<lb/>CONSULT YOUR LAWYER BEFORE SIGNING THIS INSTRUMENT-THIS INSTRUMENT SHOULD BE USED BY LAWYERS ONLY.
+<lb/>THIS AGREEMENT, made the day of nineteen hundred and SiXty-OB©
+<lb/>BETWEEN
+<lb/>MjURIOM WHISHT MOHfGOMlRy, as Executrix of the Will of
+<lb/>BOMSfk ORCILIA BMJ3WIH, deceasedi, residing at 24 Konroe Place,
+<lb/>Borough of Brooklyn, City and State of Hew York,
+<lb/>.v.,A _
+<lb/>-I
+<lb/>hereinafter described as the seller, and I • ■ '
+<lb/>PHEDERICK e. KOSHER and ALICE H, KOSHER, hi# wife,
+<lb/>of Earlville, Kadison County, New York, ■ Y Y
+<lb/>hereinafter described as the purchase© ,
+<lb/>WITNESSETH, that the seller agrees to sell and convey, and the purchaser agrees to purchase, all that certain plot, piece
+<lb/>or parcel of land, with the buildings and improvements thereon erected, situate, lying and being in theTOWn of
+<lb/>Hamilton, County of Kadison and State of Mew York, and lying and
+<lb/>being on the west side of North Kain St, in the Village of Earlville,
+<lb/>Kadison Co., Mew York, aad-bo«wid©d'-«ad--4@eer^sb©#'«««-fo3.iow«^
+<lb/>jofsHEbarM-s- w-^Jhe^ wNSdit-day- -oaliod-- layette-#fc,
+<lb/>4UL 4^ dKmth-4:&gt;y^ -owned-hy- 43h«a^
+<lb/>■of- f-.-r Ar hr -of- Krai- Ar.- -Carri-o9r=i5fie- -east- -by .
+<lb/>4da©-her©tof-€H?©- «a4i»-/-St-.-i- -eam^
+<lb/>jcxtiw©y.©d--te- 4 Broee- •OoOTiel-l-ar
+<lb/>M-e- dated-■Sei)t%-•l-aV^-907-&gt;--apeeorded--in-Ifedi-eon--Oo-,
+<lb/>Xa,©rtC^©---0«Hl"Ce-Bept-i---e^,--I-907,. premises to be conveyed hereunder ^
+<lb/>being house and lot occupied by Aletta Orcelia Baldwin as her resi
+<lb/>dence at the time of her death.
+<lb/>Said premises also known as 45 Morth Kain Street, Earlville, Kadison
+<lb/>County, Mew York.
+<lb/>■  '.i
+<lb/>This sale includes all right, title and interest, if any, of the seller in and to any land lying in the bed of any street, road or
+<lb/>avenue opened or proposed, in front of or adjoining said premises, to-the center line thereof, and all right, title and interest
+<lb/>of the seller in and to any award made or to be made in lieu thereof and in and to any unpaid award for damage to said
+<lb/>premises by reason of change of grade of any street; and the seller will execute and deliver to the purchaser, on closing of
+<lb/>title, or thereafter, on demand, all proper instruments for the conveyance of such title aiid the "assi^meht and "collection of
+<lb/>any such award.
+<pb n="4" facs="#page-003"/>
+<lb/>The price is I^IIH THOUSAMD AMD FIVE HWRED (|9,500.00)
+<lb/>Dollars, payable as follows:
+<lb/>OHE THOUSAND (|l,000.00) "Dollars,
+<lb/>on the signing of this contract, by check subject to collection, the receipt of which is hereby acknowledged;
+<lb/>EIQHT THOUSAND AND FIVE HDNDRID ($8,500.00) Dollars,
+<lb/>in cash or good certified check on the delivery of the deed as hereinafter provided;
+<lb/>sdMboK
+<lb/>" :8::IS!Oigdus!Q£#!igde^:3m:tx»xicko3id£9jSQsdeJS»9te^
+<lb/>sdjcxxbcxxgixgucKi^ogQj^sssckxxiissxxAiRj^xxxiiua^scERXbscKHsi^BKiitx^
+<lb/>Xgdkael)0l^teXXjil!dk!O!9btk3@d!tnXXXXXXXXXXXXKK3S2{9CXQi2^XXXXXX^UC!CXXXXXXXXXtXXeKKl^^
+<lb/>:;dxRK&amp;@sgb[!!caoxxoe!ts»i!^3^cxxiidMac9dass3q0exxxkigdKgas}dx3«Q^
+<lb/>x«3ffi«!)gx3dmofaacxabdx6ejadittKAKki!aiexxaxsKdiac«i^^^
+<lb/>3dxKi6dmdo!SBd;xg!«ai6dk«SQic5bdicxscBEA3d3B!mB»KxkisM5dBi*x$dH3aBHko^
+<lb/>skximxkeds^xgi^xssKXK^iQ^xgiodii^affiidxscxQi^
+<lb/>xllscmxXEKgclitijxxssgtxiXBSSXXgixdsxxxQ^M^racKs^^
+<lb/>Said premises are sold and are to be conveyed subject tb:
+<lb/>I. Zoning regulations and ordinances of the city, town or village in which the premises lie which are not violated by
+<lb/>existing structures. . i
+<lb/>Consents by the seller or any former o'wner of premises, for the erection of any structure or structures on, under
+<lb/>or .above any street or streets on which said premises may abut.
+<lb/>_3. Encroachments of stoops, areas, cellar steps, trim and cornices, jf any, upon any street or highway.
+<lb/>H ■
+<lb/>:; •rjiizoAeoK-fSp fjw.icou nc,' 9!^q pi".Tc? jg ('pc.;,.
+<lb/>3 2Cj| Jfua i;iiLiACA' r|K bi,ac|iBSGt t'SUtir !:: brtrcp~:'r.* •
+<lb/>5^
+<lb/>If there be a mortgage on the premises the seller agrees to deliver to the purchaser at the time of delivery of the deed a proper
+<lb/>certificate executed and acknowledged by the holder of such mortgage and in form for recording, certifying as to the amount
+<lb/>of the unpaid principal and interest ther.eon, date of maturity thereof and rate of interest thereon, and the seller shall pay the
+<lb/>fees for recording such certificate.
+<lb/>All notes or notices of violations of law or municipal ordinances, orders or requirements noted in or issued by the Depart
+<lb/>ments of Housing and Buildings, Fire, Labor, Health, or other State or Municipal Department having jurisdiction against
+<lb/>or affecting the premises at the date hereof, shall be complied with by the seller and the premises shall be conveyed free of
+<lb/>the same, and this provision of this contract shall survive delivery of the deed hereunder. The seller shall furnish the purchaser
+<lb/>with an authorization to make the necessary searches therefor.
+<lb/>If, at the time of the delivery of the deed, the premises or any part thereof shall be or shall have been affected by an assess
+<lb/>ment or assessments which are or may become payable in annual installments, of which the first installment is then a charge
+<lb/>or lien, or has been paid, then for the purposes of this contract all the unpaid installments of any such assessment, including
+<lb/>those which are to become due and payable after the delivery of the deed, shall be deemed to be due and payable and
+<lb/>to be liens upon the premises affected thereby and shall be paid and discharged by the seller, upon the delivery of the deed.
+<lb/>The following are to be apportioned:
+<lb/>_ [3) Premiums on existing transferable insurance policies
+<lb/>or renewals of those expiring prior to the cIosing.~X'^) Taxes and sewer rents, if any, on the basis of the fiscal year for
+<lb/>which assessed. (5) Water charges on the basis of the calendar year. (6) Fuel, if any.
+<lb/>If the closing of the title shall occur before the tax rate is fixed, the apportionment of taxes shall be upon the basis of the
+<lb/>tax rate for the next preceding year applied to the latest assessed valuation.
+<lb/>If there be a water meter on the premises, the seller shall furnish a reading to date not more than thirty days prior to the time
+<lb/>herein set for closing title, and the unfixed meter charge and the unfixed sewer rent, if any, beised thereon for the intervening
+<lb/>time shall be apportioned on the basis of such last reading.
+<lb/>The deed shall be the usual Bargain EJid Sal© With Covenants against Qrantor'a Acts
+<lb/>deed in proper statutory short form for record and shall be duly executed, acknowledged, and have revenue stamps in the
+<lb/>proper amount affixed thereto by the seller, at the seller's expense, so as to convey to the purchaser the fee simple of the said
+<lb/>premises, free of all encumbrances, except as herein stated, and shall also contain the covenant required by subdivision 5 of
+<lb/>Section 13 of the Lien Law.
+<lb/>xsidicx^iSKxxsdbciiHsxx
+<lb/>lig^eT to pay and discharge,
+<lb/>with the interest and penalties thereon to a date not less than two business days after the date of closing title, may at the
+<lb/>option of the seller be allowed to the purchaser out of the balance of the purchase price, provided official bills therefor with
+<lb/>interest and penalties thereon figured to said date are furnished by the seller at the closing. If at the date of closing title there may
+<lb/>be any other liens or encumbrances which the seller is obligated to pay and discharge, the seller may use any portion of the
+<lb/>balance of the purchase price to satisfy the same, provided the seller shall have delivered to the purchaser at the closing of title
+<lb/>instruments in recordable form and sufficient to satisfy such liens and encumbrances of record, together with the cost of recording
+<lb/>or filing said instruments. The purchaser, if request is inade within a reasonable time prior to the date of closing of title, agrees
+<lb/>to provide at the closing separate certified checks as requested, aggregating the amount of the balance of the purchase price, to
+<lb/>facilitate the satisfaction of any such liens or encumbrances. The existence of any such taxes or other liens and eticumbrances
+<lb/>shall not be deemed objections to title if the seller shall comply with the foregoing requirements.
+<lb/>If a search of the title discloses judgments, bankruptcies or other returns against other persons having names the same as or
+<lb/>similar to that of the seller, the seller will on request deliver to the purchaser an affidavit showing that such judgments, bank
+<lb/>ruptcies or other returns are not against the seller.
+<lb/>In the event that the seller is unable to convey title in accordance with the terms of this contract, the sole liability of the seller
+<lb/>will be to refund to the purchaser the amount paid on account of the purchase price and to pay the net cost of examining the
+<lb/>title, which cost is not to exceed the charges fixed by the New York Board of Title Underwriters, and the net cost of any
+<lb/>survey made in connection therewith incurred by the purchaser, and upon such refund and payment being made this contract
+<lb/>shall be considered canceled.
+<lb/>The deed shall be delivered upon the receipt of said payments at the office of T * B » Lull » lOGAtQdi At
+<lb/> ed HEM
+<lb/>All sums paid on account of this contract, and the reasonable expenses of the examination of the title to said premises and
+<lb/>of the survey, if any, made in connection therewith are hereby made hens thereon, but such hens shall not continue after
+<lb/>default by the purchaser under this contract.
+<lb/>All fixtures and articles of personal property attached or appurtenant to or used in connection with said premises are repre
+<lb/>sented to be owned by the seller, free from all liens and encumbrances except as herein stated, and are included in this sale;
+<lb/>without limiting the generality of the foregoing, such fixtures and articles of personal property include plumbing, heating,
+<lb/>lighting and cooking fixtures, air conditioning fixtures and units, ranges, refrigerators, radio and television aerials, bathroom
+<lb/>and kitchen cabinets, mantels, door mirrors, Venetian blinds, shades, screens, awnings, storm windows, window boxes, storm
+<lb/>doors, mail boxes, weather vanes, flagpoles, pumps, shrubbery and outdoor statuary. if included, in
+<lb/>the sale all household goods as per list dated May 15, 1961# except 1
+<lb/>©irlville. New Yorkato'clock on July IStj19 61.
+<lb/>The parties agree that Frederick BaUSr
+<lb/>brought about this sale and the seller agrees to pay the commissiol^ at the rates established or adopted by the Board of Real
+<lb/>Estate Brokers in the locality where the property is situated.
+<lb/>It is understood and agreed that all understandings and agreements heretofore had between the parties hereto are merged in this
+<lb/>contract, which alone fully and completely expresses their agreement, and that the same is entered into after full investigation,
+<lb/>neither party relying upon any statement or representation, not embodied in this contract, made by the other. The purchaser has
+<lb/>inspected the buildings standing on said premises and is thoroughly acquainted with their condition.
+<lb/>This agreement may not be changed or terminated orally. The stipulations aforesaid are to apply to and bind the heirs,
+<lb/>executors, administrators, successors and assigns of the respective parties.
+<lb/>if two or more persons constitute either the seller or the purchaser, the word "seller" or the word "purchaser" shall be
+<lb/>construed as if it read "sellers" or "purchasers" whenever the sense of this agreement so requires.
+<lb/>IN WITNESS WHEREOF, this agreement has been duly executed by the parties hereto,
+<lb/>Sellers
+<lb/>In pr^ence^of: ^
+<lb/>'fChjf£xriK^lmir!up&gt;^ , Marion ¥plght(75o.ntgom@ry#(^/as Ixecutrls!
+<lb/>of %ii@ Will of Aletta Oreelia BsLldwir
+<lb/>^ deceased,
+<lb/>Furehaaerss
+<lb/>R.
+<lb/>F^derl^ ^MoSher
+<lb/>Alice W. Mosher
+<lb/>NOTE: FIRE LOSSES. This form of contract contains no express provision as to risk of loss by fire or other casualty
+<lb/>before delivery of the deed. Unless express provision is made, the provisions of Section 240-a of the Real Property
+<lb/>Law will apply. This section also places risk of loss upon purchaser if title or possession is transferred prior to closing.
+<pb n="5" facs="#page-004"/>
+<lb/>William L. Burke
+<lb/>Attdrney-at- Law
+<lb/>Hamilton, New York
+<lb/>Madisdn County Attorney
+<lb/>May 5, 1967
+<lb/>Mr, Fred Mosher,
+<lb/>Earlville, New York
+<lb/>Dear Fred:
+<lb/>Enclosed is your discharge of mortgage which has been
+<lb/>recorded, which you have already paid for, and I de
+<lb/>sire to thank you for the same, j
+<lb/>ilQ.xy truly yours, &gt;&lt;
+<lb/>William L, Burke,
+<lb/>wlb/h
+<lb/>End,
+<pb n="6" facs="#page-005"/>
+[A transcription of this page is not available.]
+<pb n="7" facs="#page-006"/>
+<lb/>im 14i mcEtiai Denblanx registered u. s. pat. officeDENNIS LAW BLANK CO.. PUBLISHERS. BUFFALO. N. Y.
+<lb/>FORM 664 N. Y. DISCHARGE OF MORTGAGE (FROM A CORPORATION)
+<lb/>(Laws of 1917, Chap. 681, Statutory Form L L)
+<lb/>^.mW eU M\m % iktm
+<lb/>That The Oneida Val ley National Bank of Oneida, New York
+<lb/>does hereby certify that a certain indenture of mortiage, hearing date the
+<lb/>25th day o/January Mneteen Hundred and Sixty-Two
+<lb/>made and executed by
+<lb/>FREDERICK C. MOSHER and ALICE MOSHER
+<lb/>to secure payment of the principal sum of
+<lb/>- - - - SIX THOUSAND and - - -00/100 - Dollars,
+<lb/>and interest, and duly recorded in the office of County Clerk of the
+<lb/>County of Madison , -T". Y., in Liber 349 of mortgages,
+<lb/>page 557 , on the 29th day of January Nineteen
+<lb/>Hundred and Sixty-Two , which mortgage has not been ̂ assigned,
+<lb/>is paid, and does hereby consent that the same be discharged of record.
+<lb/>^fn ot The party of
+<lb/>the first part has caused its corporate seal to be
+<lb/>hereunto affixed, and these presents to be signed
+<lb/>by its duly authorized officer this 1 8th
+<lb/>day of Apr i 1 Xineteen Hundred
+<lb/>and Sixty-Seven
+<lb/>ONEIDA VALLEY NATlONA^i BANK OF ONEIDA
+<lb/>aniel M. Warne,
+<lb/>Y(kK ..T
+<lb/>Pres i dent
+<lb/>O) . If the mortgage has not ̂ en otsigh^d, the certificate shall so state. If the mortgage has been assigned, in whole or in part, strike oui the words "has not.
+<lb/>been" and insert "was,-"' and set forth the date of each ossignment in the chain of title of the person or persons signing the certificate, the names of the assignor
+<lb/>and assignee, the interest assigned, and, if the assignment has been recorded, the book and page where it has been recorded, or the serial number of such record;
+<lb/>or if the assignment is beina recorded simultaneously with the certificate of discharge, the certificate shall so state. Reel Property Law, §321, Subc.
+<pb n="8" facs="#page-007"/>
+<lb/>of ̂tw ̂Jork
+<lb/>(Coiittty of Mad i son
+<lb/>of
+<lb/>00.1
+<lb/>On this l8th d&lt;^y of
+<lb/>Sixty-Seven before me personally came
+<lb/>Apr I 1 M'ineteen Hundred and
+<lb/>Daniel M. Warne
+<lb/>to me personally known who, being by me duly sworn did depose and say
+<lb/>that he resides in Hamilton, New York
+<lb/>that he is the\\c&amp; Presidento/ The Oneida Valley National Bank of Oneic
+<lb/>the corporation described in and which executed the above Instrument; that he
+<lb/>knows the seal of said corporation; that the seal affixed to said Instrument is
+<lb/>such corporate seal; that it was so affixed by order of the Board of Directors
+<lb/>of said corporation, and that he signed his name thereto by like order.
+<lb/>fmpiwftf
+<lb/>Adelaide c. peckham
+<lb/>Notary Public, Sir; ' YotH
+<lb/>Appointed in N.y. .,, 'ounly / yj
+<lb/>My rnmmisiian axpitoj 3Q^ jp u j
+<lb/>&lt;CGOq;oLUo
+<lb/>aeLU Q
+<lb/>oLU
+<lb/>IE
+<lb/>_J —
+<lb/>o73O&gt; O
+<lb/>Cs:en:LUtoLU
+<lb/>&lt;C Li.
+<lb/>Q OQLUOLU
+<lb/>ae—12
+<lb/>Ll.&lt;cO
+<lb/>z -
+<lb/>.0 olHf
+<lb/>LU
+<lb/>J S g
+<lb/>141
+<pb n="9" facs="#page-008"/>
+<lb/>FORM 508 LW N. Y. CONTRACT PROPERTY TUTBLANX registered u. s. pat. offic
+<lb/>TUTTI-E LAW PRINT. PUBUSHERS. RUTLAND, VT. OS?'
+<lb/>Made this 14 th day of Nov&amp;mber in the year
+<lb/>Mneteen Hundred and Seventy-two,
+<lb/>^^^ttlt^^ltFREDERICK C. MOSHER, of 45 N. Main Street, Village of
+<lb/>Earlville, County of Madison, State of New York,
+<lb/>party of the first part, and
+<lb/>RICHARD L. ALGER, of Sherburne (no street address).
+<lb/>County of Chenango, State of New York, party
+<lb/>of the second part, in the manner following:—The said parties have and hereby do
+<lb/>mutually covenant and agree as follows: The par^ of the first part to sell, and
+<lb/>the part y of the second part to purchase AU tljat nr )larrel of Canb
+<lb/>sit Cuate in the
+<lb/>of Madison
+<lb/>Village of Earlvi1le ounty
+<lb/>and State of Jfew York, briefly described as follows:
+<lb/>a house and lot located at 45 N, Main Street in the Village of Earl
+<lb/>villeand Town of Hamilton, County of Madison, State of New York,
+<lb/>for the sum of fen thousand, five hundred ($10,500,00) dollars
+<lb/>which sum the said party of the second part hereby agree^ to pay to the party
+<lb/>of the first part, as follows:
+<lb/>Two thousand ($2,000,00) dollars down and the balance of eight
+<lb/>thousand, five hundred ($8,500,00) dollars on the closing
+<lb/>which is to take place in the office of William L, Burke at
+<lb/>his office at 29 Lebanon Street, Village of Hamilton, on or
+<lb/>about the 15th day of December, 1972,
+<lb/>It is understood and agreed between the parties hereto that
+<lb/>the within transaction is predicated upon the purchaser being
+<lb/>able to obtain financing from a duly licensed lending
+<lb/>institution.
+<lb/>In the event that the purchaser is unable to obtain financing,
+<lb/>then in that event, the seller agrees to return to the purchaser
+<lb/>that portion of the pxirchase price and the status of the parties
+<lb/>shall be the same as if the within contract had never been
+<lb/>entered into.
+<lb/>Said. 4iart of JJi&amp;. .second ..pnrl'.QisQ jogrec &gt; io..p.cLy. JLLL. fCanes jmd Assessments
+<lb/>which .shalL heJnxed. oz ..assessed, upon. said, piewises. fiom
+<lb/>taxes shall be pro-rated as of the date of the closing.
+<pb n="10" facs="#page-009"/>
+<lb/>And the said part y of the first part, on receiving such payment
+<lb/>at the time and in the manner
+<lb/>above mentioned, shall, at his ovm proper cost and expense, execute
+<lb/>and deliver to the said part y of the second part, or to his assigns, a
+<lb/>Warranty deed, forty year abstract of title, current tax
+<lb/>receipts, ten year tax search, Villap.e tax search.
+<lb/>It is agreed that the part y of the second part shall have possession of
+<lb/>said premises from and after the closincr.
+<lb/>Aw&amp; it y sgrwis that the stipulations aforesaid are to apply to and
+<lb/>birvd the heirs, executors, administrators and assigns of the respective parties.
+<lb/>seals the day and year first above written.
+<lb/>The parties have hereunto set hands and
+<lb/>3ln xrf
+<lb/>Frederick C. Mosher
+<lb/>Richard L. Alger
+<lb/>%
+<lb/>m
+<lb/>88.:
+<lb/>ison
+<lb/>Village Earlville j
+<lb/>On this 14th day of November H^ineteen Hundred and
+<lb/>Seventy-two before me, the subscriber, personally appeared
+<lb/>FREDERICK C. MOSHER
+<lb/>to me personally known and known to me to be the same person described
+<lb/>in and who executed the within Instrument, and he duly
+<lb/>acknowledged to me that he executedjthe same
+<lb/>7. STATE OF NEW YORK ) _
+<lb/>COUNTY OF CHENANGO) / I'u, .Notary Rfiblic
+<lb/>VILLAGE ) ss.: On tM^Z/ day o1972,
+<lb/>before me, the subscriber, peT(gx&gt;nany appeared
+<lb/>RICHARD L. ALGER
+<lb/>to me personally known and known tojne to be the same person
+<lb/>described in and who executed the iptljiin Instrument and he duly
+<lb/>acknowledged to me that he executecKthe same.
+<lb/>^ Iccu-r*COos:ucccaQcuDCU.0Ha:LUCJ3nJQq:&lt;XuocCvJa:)2
+<lb/>7^- /Not^y Public
+<lb/>lU
+<lb/>D ̂ I m i 5
+<lb/>I i u
+<lb/>J ■r z u -
+<lb/>■5 Z z
+<lb/>^ d; p
+<lb/>&lt; P
+<lb/>J h S
+<lb/>=1 ' I
+<pb n="11" facs="#page-010"/>
+<lb/>AGREEMENT
+<lb/>WHEREAS, FREDERICK C. MOSHER, of 45 N. Main Street,
+<lb/>Village of Earlville, Town of Hamilton, County of Madison,
+<lb/>State of New York and RICHARD L, ALGER, of Sherburne (no
+<lb/>street address). County of Chenango, State of New York, have
+<lb/>entered into an agreement for the purchase of property owned
+<lb/>by Frederick C, Mosher situate at 45 N, Main Street, in the
+<lb/>Village of Earlville, Town of Hamilton, County of Madison,
+<lb/>State of New York, and
+<lb/>WHEREAS, Frederick C. Mosher, the seller, is an
+<lb/>antif i! j dealer who has acquired many items of personal property
+<lb/>for tia purposes of resale, which are currently stored in his
+<lb/>house at 45 N, Main Street in the Village of Earlville, and
+<lb/>WHEREAS, Richard L, Alger has no place to live, it
+<lb/>is mutually covenanted and agreed that Frederick C. Mosher
+<lb/>shall have until March 1, 1973 to clear the items of personal
+<lb/>property hereinabove referred to, and it is further
+<lb/>AGREED, that Frederick C. Mosher agrees to rent a
+<lb/>room at a nominal rent to the purchaser, Richard L, Alger,
+<lb/>until the closing, and it is further
+<lb/>AGREED, that Richard L, Alger shall be allowed to
+<lb/>tear down the barn curr&gt;.ntly standing on the property for
+<lb/>salvage value, however, it is further
+<lb/>AGREED, that all the contents of the barn are
+<lb/>property belonging to the seller, Frederick C. Mosher.
+<pb n="12" facs="#page-011"/>
+<lb/>T M H V 3 .1 n n A
+<lb/>nifiM .M 3o .3 :«3Tfl3Cs3fi3 ,aA3f}3HW
+<lb/>,no8ibi^ 3o yJnuoD .nolIxmsH 3o rrwoT .slliviiBa 3o agBinV
+<lb/>on) 9fiTud*rari3 3o ,^a3JA ,J G?iAH3Ta bns ;ItoY waM lt&gt; 31bJ2
+<lb/>©VBfi , MtoY wsM 3o sJgJH jO^ifrBnadD 3o vjnuoD .(aesibba JsaiJe
+<lb/>bsnwo y^TSffoiq to ssBdaTuq aril to^ Xnamaetge ns oJni; bsTsJaii-
+<lb/>arfj ni jJasTdP nif&gt;M ,H gA Jb a^sijjfe larizoM ,3 /}Di-xabaT3 yd
+<lb/>,fi08fbsM 3o ylnuoD ,noJlxfrrBH lo nwoT ,aIliviTB3 3o agsIIiV
+<lb/>bnfi ,){foY waK 3o a3BJ8
+<lb/>fiB ai .tallaz add .teriaoM .3 jfoiTebaTa ,aA3«3HW
+<lb/>yJtaqoirq lBfTo?T©q 3o emaJi ynam ba-riupDB aari oriw lolnah I 'iJnB
+<lb/>eld rri bsioJe ylJna-ntuD ©tb rioiriw ,alB897 lo gaeoqioq f .J
+<lb/>fans ,allivli£a 3o agBHiV aril ni tasrtP nisH .H gA Ib aauori
+<lb/>,9vil o.t aDJBlq on end Ta«iA .J bTsdoiJ! ,RA3JI3nw
+<lb/>-rarizoM .3 jfoitabaTa i&amp;dl basT^B bne balnsnavoo yllBulom ai
+<lb/>isnoejQq Jo amaJi adJ tssIo oJ £561 ,I rioii^ I iJnu avBri IIaria
+<lb/>lariliul ai Jx bne ,oJ b9-na3ai avodBrrxaiari yJiaqotq
+<lb/>•• ,-f9!»IA »J bTBfiDxIi , raaBxioTijq aril oJ Inai iBnxmon b Ib mooi
+<lb/>'X9rilTu3 ex tx bfiE ,gnxeoIo aril Ixinu
+<lb/>ol bswol Ib ad llBJe isgIA .J biBrioxd IbHI ,033If3A
+<lb/>to3 yliaqoTq aril no gnibnBla ylln.iTUD nisd aril nwob tBdl
+<lb/>-xariiTu3 ax ix ,7avawori ,9uIbv agBVlsa
+<lb/>aiB HTBd aril 3o alnalnoo aril 11b iBril .QdaPDA
+<lb/>.larieoM ,3 jJoxiabaid ,i9ilae aril ol gnxgnolad yliaqoiq
+<lb/>f.?,
+<lb/>[.3,
+<lb/>Jl
+<lb/>T
+<lb/>ij A:
+<lb/>jVXV
+<lb/>hbjumJIIUA
+</ab>
+    </body>
+  </text>
+</TEI>

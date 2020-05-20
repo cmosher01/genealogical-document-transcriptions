@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison leo teacher 1935</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_leo_teacher_1935/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_leo_teacher_1935/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>TrTEACHER'S CONTRACTIrBETWEENISole trustee, hoard of trustees, board dyeducationlof district notown ofcounty ofparties of the first partANDJ"!'{Teacher}
+<pb n="2" facs="#page-001"/><lb/>TEACHER'S CONTRACT
+<lb/>To be executed in duplicate
+<lb/>one
+<lb/>oard of education}
+<lb/>Slljta Asmmpttt made the^
+<lb/>thousand nine hundred and.,
+<lb/>[Insert sole trustee, board of trustees,
+<lb/>of distri^ qp. of the town of , county
+<lb/>,  of the first part, and
+<lb/>, residing
+<lb/>Tearner s name]
+<lb/>county of . rc , party of the second part,
+<lb/>jt That the said party of the second part covenants and agrees to and
+<lb/>with the party of the first part to teach in the public school of said district for
+<lb/>the term of....(j..J^...consec^ve wjgieks, except as hereinafter provided, commencing
+<lb/>on the...^..&lt;^..day , 19.c?c^^
+<lb/>Atlh the said party of the first part covenants and agrees to pay unto the said
+<lb/>party of the second part in consideration of such service so to be performed the
+<lb/>sum of ..a week, payable at the end of each 30 days during the term of
+<lb/>such employment. It is mutually understood that 4 per cent of the amount of
+<lb/>each order or warrant issued in payment of the compensation required to be paid
+<lb/>hereunder shall be deducted by the party of the first part, as provided by article
+<lb/>43-B of the Education Law relative to the State Teachers Retirement Fund.
+<lb/>Anh the said party of the second part further covenants and agrees with said
+<lb/>party of the first part that the said party of the first part may provide for a vaca
+<lb/>tion or vacations of not more than....j!:?....weeks in the aggregate during the afore
+<lb/>said term of employment for which no compensation shall be paid by the said party
+<lb/>of the first part and which shall not count as a part of the term of service above
+<lb/>referred to.
+<lb/>A«h the said party of the second part hereby covenants with the said party of
+<lb/>the first part that ....he is duly licensed under the Laws of the State of New York
+<lb/>and the rules and regulations of the State Education Department to teach in the
+<lb/>public school of said district and is fully competent to perform the services required
+<lb/>under this contract. ^ . ^ _
+<lb/>Jtt tutittPBa the parties to these presents have hereunto set their hands
+<lb/>the day and year first above written.
+<lb/>Trustees
+<lb/>Teacher
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin dozens of cousins 1977 additions corrections</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1977_additions_corrections/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1977_additions_corrections/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>ADDKioi^s a: coBiriscTXoris TO " D0S.E1IS OF covsm,
+<lb/>A son Cliad to John &amp; Sue McLaughlin^ July 31, 1973
+<lb/>A son David to Guy &amp; Bernadette Hill, February 13s 197^
+<lb/>A daughter Gliriatine to Joiin &amp; Mary Ar&amp;nda, August 19# 197^
+<lb/>A son Kathan to Thorns &amp; HoseAnn McLaughlin, February 26, 1975
+<lb/>A son Joseph to Daniel &amp; Carol Divens, April 10, 1975
+<lb/>A son Christopher to Jean &amp; Jeff Barrrcm, October 197^
+<lb/>A daughter Stephen!e to MTo &amp; Mrso ®ioms Becker, July 8, 1975
+<lb/>A daugher Sarah Jane to Guy &amp; Bernadette Hill, October 31, 1975
+<lb/>A daugl'iter Anna to Thoia&amp;s &amp; RossAxin McLaughlin, February 25, 1976
+<lb/>A son John to John Ss Jaaie liorovich, Jtme 23, 1976
+<lb/>A daughter Mlch.elle to Joiin 2c Mary Aranda, July 21, 197^
+<lb/>A son Terry to Terry &amp; Eileen 0®Brim, July 15a 197^
+<lb/>A son Alan to Michael &amp; Debbie Frost, December 15, 1975
+<lb/>A son Daniel to Daniel &amp; Carol Divens, October 27, 1976
+<lb/>A son William and a daughter Jennifer to John &amp; Sue McLau^lin «
+<lb/>September 21, 1976
+<lb/>A scoi Mark to James &amp; Evelyn Landolf, January 22, 1977
+<lb/>A son Hollimd to Thomas &amp; RoseAnn ̂ &amp;:Laughlin, June 2k, 19?7
+<lb/>A son Todd to Daciel &amp; Kathy Bjlkley, July 11, 197?
+<lb/>CORRECTIONS
+<lb/>Evelyn Carey died in 1:^2
+<lb/>Hay Carey ifW,s bom in 1901
+<lb/>Katherine Kehler should be Catherine
+<lb/>A Bcm Jon to Batherlne &amp; Charles Kehler December, 1964
+<lb/>A son James to Sharon &amp; Thcams Ifard 1969
+<pb n="2" facs="#page-001"/>
+<lb/>MAEEIAGSS
+<lb/>II &gt;1 III! llHIIIII ' " *■
+<lb/>Jane McLaughlin to John Morcfvich# Noveffiher 16^ 197'^
+<lb/>Terry Frost to Edward Abadia^ Hovember# 197^-
+<lb/>I4ichael Frost to Debra Stanford, June 3, 1975
+<lb/>Ma^ry Kay McRae to John Brennan, August, 197^
+<lb/>Ann McRae to Michael Murphy, Septesiber, 1976
+<lb/>Michael McLaughlin to Nancy Goodrieh, March 12, 1977
+<lb/>Jean McLaughlin to Jeff Barren
+<lb/>DEATHS
+<lb/>Carl Terry - July 11, 197^
+<lb/>Arthur McLaughlin, June 11, 1975
+<lb/>Christopher Barron, July 10, 1975
+<lb/>Justin McCarty, July, 1975
+</ab>
+    </body>
+  </text>
+</TEI>

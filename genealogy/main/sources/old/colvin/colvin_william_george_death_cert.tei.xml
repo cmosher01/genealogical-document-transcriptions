@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>colvin william george death cert</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/colvin/colvin_william_george_death_cert/p-000.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+<pb n="1" facs="#page-000"/>
+<lb/>County of Madison
+<lb/>STATE OF NEW YORK.
+<lb/>CERTIFICATE OF DEATH.
+<lb/>In the Town of Smithfield
+<lb/>1. Full Name of Deceased W George Colvin
+<lb/>2. Age 36 years No months 21 days. Sex M Color
+<lb/>3. Married 4. Occupation Laborer
+<lb/>5. Birthplace Cazenovia NY
+<lb/>6. Father’s Name and Birthplace James Colvin (State or Country) Ireland
+<lb/>7. Mother’s Name and Birthplace Henrietta (Cranston) Colvin (State or Country) New York
+<lb/>8. Place of Death Brothers residence Jas Colvin (How long resident here.) 4 weeks
+(If dying away from Home, give Home Residence below) Oneida Castle, NY
+<lb/>9. Date and Hour of Death:&#x2014;Died on the 1 day of Mch 1894, at about 1015 A.M.
+<lb/>10. I hereby report this Death, and certify that the foregoing statements are true according to the best of my knowledge.
+<lb/>(Signature and residence of Reporter) James Colvin Siloam N.Y.
+<lb/>11. I Hereby Certify, That I attended the deceased from Feb 9 1894, to Mch 1 1894, that I last saw
+<lb/>him March 2<unclear>d</unclear> 1894, that he died on the 1st day of March 1894,
+about 1015 o’clock A.M., and that to the
+<lb/>best of my knowledge and belief the Cause of his death was as hereunder written:
+<lb/>Cause of Causes of Death.
+<lb/>Chief and Determining} Cancer of Stomach not known duration
+<lb/>Witness my hand this 3 day of March 1894.
+<lb/>(Signature,) F E Dewey M.D.
+<lb/>Residence, Peterboro N.Y.
+<lb/><gap><supplied>Place</supplied></gap> of Burial Oneida Castle NY
+<lb/><gap><supplied>Date</supplied></gap> of Burial Mch 3<hi rend="sup">d</hi> 1894
+<lb/><gap/> of Undertaker E B French Oneida NY
+</ab>
+    </body>
+  </text>
+</TEI>

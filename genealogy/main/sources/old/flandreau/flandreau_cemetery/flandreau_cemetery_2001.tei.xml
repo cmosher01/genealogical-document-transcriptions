@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Flandreau Cemetery, (Chester Place, New Rochelle, New York, USA)</title>
+                <author/>
+                <principal>Christopher Alan Mosher</principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Christopher Alan Mosher</authority>
+                <pubPlace>Shelton, CT, USA</pubPlace>
+                <date>2001</date>
+                <availability status="restricted">
+                    <p>Copyright © 2001, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Flandreau Cemetery, (Chester Place, New Rochelle, New York, USA)</author>;
+                    personally read, photographed, and fully transcribed all gravestones in 2001.
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction status="medium">
+                    <p>Rough transcription in person, later verified and corrected from photograph.</p>
+                </correction>
+                <normalization method="markup">
+                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                </normalization>
+                <punctuation marks="all" placement="internal">
+                    <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+                    <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+                </punctuation>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+                </quotation>
+                <hyphenation eol="all">
+                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                </hyphenation>
+                <interpretation>
+                    <p>Dates, places, and names may be marked up, where useful.</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+
+
+
+
+
+
+<facsimile>
+<graphic xml:id="g-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/FlandreauBenjamin1800.jpg.ptif/full/full/0/default.jpg"/>
+<graphic xml:id="g-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/FlandreauBenjamin1807.jpg.ptif/full/full/0/default.jpg"/>
+<graphic xml:id="g-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/MullineauxJoseph1807.jpg.ptif/full/full/0/default.jpg"/>
+<graphic xml:id="g-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/RusselSarah1829.jpg.ptif/full/full/0/default.jpg"/>
+<graphic xml:id="g-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/SeacordMagdalen1840.jpg.ptif/full/full/0/default.jpg"/>
+<graphic xml:id="g-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/SeacordJames1842.jpg.ptif/full/full/0/default.jpg"/>
+<graphic xml:id="g-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/FlandreauBenjamin1844.jpg.ptif/full/full/0/default.jpg"/>
+<graphic xml:id="g-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/flandreau/flandreau_cemetery/unknown.jpg.ptif/full/full/0/default.jpg"/>
+</facsimile>
+
+
+
+<text xml:lang="en">
+<body>
+
+
+<ab xml:id="no-facs"/>
+
+
+<p>
+<lb/>This is a list of people burried at the cemetery, based on several different sources,
+<lb/>including a <ref target="dar.tei.xml">DAR-compiled list</ref>, Florence Bennett, Mr. Spies,
+<lb/>Peter Gunn, and Christopher A. Mosher.
+</p>
+
+
+
+
+
+<ab rend="grid">
+
+
+
+
+
+<pb n="1" facs="#g-001"/>
+<lb/>Benjamin Flandreau (1718-09-04–1800-02-19)
+
+<hi rend="center">
+<lb/>In
+<lb/>Memory of
+<lb/>BENJAMIN FLANDRAU,
+<lb/>who departed this life
+<lb/>Feb<hi rend="sup">ry</hi>. 19<hi rend="sup">th</hi>, 1800
+<lb/>Aged 81 Years 5 months
+<lb/>and 15 days.
+<lb/>Exult my Soul with Joys that flow
+<lb/>From GOD,s Almighty hand.
+<lb/>Whilst here my m[oulding body] lies
+<lb/>To rise at his command.
+</hi>
+
+
+<pb n="2" facs="#g-002"/>
+<lb/>Benjamin Flandreau (1803-10-13–1805-08-20)
+
+<hi rend="center">
+<lb/>In
+<lb/>[m]emory of
+<lb/>[BENJA]MIN FLANDRAU
+<lb/>[who dep]arted this life
+<lb/>[Aug 27]<hi rend="sup">th</hi> 1807 aged 45
+<lb/>[years 2 mont]hs &amp; 10 days.
+<lb/>[Also of his] son
+<lb/>[BENJAM]IN,
+<lb/>[who departed th]is life
+<lb/>[Aug 20<hi rend="sup">th</hi> 1805 age]d 1
+<lb/>[year 10 months &amp; 7 da]ys
+</hi>
+
+
+
+
+
+<pb n="3" facs="#g-003"/>
+<lb/>Joseph Mullineaux (1724-09-15–1807-10-28)
+
+<hi rend="center">
+<lb/>IN
+<lb/>Memory of
+<lb/>Joseph Mullinex
+<lb/><hi rend="sup">W</hi>Hoo Departed This
+<lb/>Life october the 28 day
+<lb/>1807 AGeb 83 years
+<lb/>1 month 13 days.
+</hi>
+
+
+
+
+
+<pb n="4" facs="#g-004"/>
+<lb/>Sarah Ester Russel (1815-??-??–1829-10-16)
+
+<hi rend="center">
+<lb/>SARAH ESTHER,
+<lb/>daughter of Laban
+<lb/>&amp; Sarah Russel,
+<lb/>departed this life
+<lb/>Oct. 16. 1829,
+<lb/>in her 15. year.
+<lb/>---------
+<lb/>Ah: lovely appearance of death,
+<lb/>What sight upon earth is so fair.
+</hi>
+
+
+
+
+<pb n="5" facs="#g-005"/>
+<lb/>Magdelene Seacord [née Flandreau] (1759-09-29–1840-01-30)
+
+<hi rend="center">
+<lb/>In
+<lb/>memory of
+<lb/>MAGDALEN,
+<lb/>wife of
+<lb/>Daniel Seacord,
+<lb/>who died
+<lb/>Jan. 30, 1840,
+<lb/>aged 80 y'rs 4 mo,
+<lb/>&amp; 1 day.
+</hi>
+
+
+<pb n="6" facs="#g-006"/>
+<lb/>James A. Seacord (1837-05-13–1842-10-13)
+
+<hi rend="center">
+<lb/>IN
+<lb/>memory of
+<lb/>JAMES. A.
+<lb/>son of
+<lb/>Leonard &amp; Maria
+<lb/>Seacord.
+<lb/>who died
+<lb/>Oct. 13, 1842.
+<lb/>aged 5 Years and
+<lb/>5 Mos.
+<lb/>----
+</hi>
+
+
+
+
+<pb n="7" facs="#g-007"/>
+<lb/>Benjamin Flandreau (1810-02-22–1844-11-21)
+
+<hi rend="center">
+<lb/>IN
+<lb/>memory of
+<lb/>Benjamin Flandreau
+<lb/>Born Feb. 22, 1810.
+<lb/>Died Nov. 21, 1844.
+<lb/>----
+<lb/>Affliction sore long time I bore
+<lb/>Phycians were in vain
+<lb/>Till God alone did hear my moan
+<lb/>And eased me of my pain.
+</hi>
+
+
+
+
+
+<pb n="8" facs="#g-008"/>
+<lb/>[unknown]
+
+<hi rend="center">
+<lb/>[???]
+<lb/>[???I suffer out my threescore years???]
+<lb/>[???Till my de]liverer co[me]
+<lb/>[???And wipe awa]y his servant's [tears]
+<lb/>[???And take his] exile home.
+</hi>
+
+
+
+<pb n="9" facs="#no-facs"/>
+<p>
+    <lb/>The following stones could no longer be found, as of 2001.
+</p>
+<lb/>Benjamin Flandreau (1762-06-17–1807-08-27)
+<lb/>John Flandreau (1771-04-02–1809-01-27)
+<lb/>Esther Flandreau [née Badeau] (1730-??-??–1811-05-08)
+<lb/>Amelia Flandreau (1811-??-??–1811-08-08)
+<lb/>Phoebe (1794-??-??–1812-02-11)
+<lb/>John Badeau (1741-??-??–1815-12-11)
+<lb/>Susan Badeau (1750-??-??–1817-12-08)
+<lb/>Elizabeth Flandreau (1771-??-??–1822-08-15)
+<lb/>Esther Stillwell [née Flandreau] (1757-??-??–1832-04-26)
+<lb/>Ann Eliza Flandreau (1810-12-09–1835-03-04)
+<lb/>Benjamin Badeau Flandreau (1835-02-13–1835-03-25)
+<lb/>John W. Seacord (1797-05-28–1838-07-10)
+<lb/>Daniel Seacord (1759-03-13–1843-06-13)
+<lb/>Catherine Irene Flandreau (1805-09-15–1845-10-08)
+<lb/>Elisha Harsen (1841-04-05–1864-08-05)
+<lb/>Theodore Flandreau (1844-07-05–1866-11-21)
+<lb/>Susan Flandreau (1800-08-24–1868-11-05)
+<lb/>Isabella Flandreau (1810-??-??–1892-11-19)
+
+
+
+
+
+
+
+
+
+
+</ab>
+</body>
+</text>
+</TEI>

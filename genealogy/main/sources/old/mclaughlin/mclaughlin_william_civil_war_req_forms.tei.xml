@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin william civil war req forms</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_req_forms/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_req_forms/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_req_forms/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_req_forms/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_req_forms/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_req_forms/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_req_forms/p-006.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>NATIONAL ARCHIVES TRUST FUND BOARD NATF Form 80 (rev. 9-97) 0MB Control No. 3095-0032 Expires 9-30-98
+<lb/>NATIONAL ARCHIVES ORDER FOR COPIES OF VETERANS RECORDS
+<lb/>(See Instructions page before completing this form)
+<lb/>INDICATE BELOW THE TYPE OF FILE DESIRED.
+<lb/>1. FILE TO BE SEARCHED
+<lb/>(Check one box only)
+<lb/>□ PENSION □ BOUNTY-LAND WARRANT
+<lb/>APPLICATION (Service before 1856 only)
+<lb/>MILITARY
+<lb/>REQUIRED MINIMUM IDENTIFICATION OF VETERAN - MUST BE COMPLETED OR YOUR ORDER CANNOT BE SERVICED
+<lb/>2. (Give last, first and middle names) { H ? 1 7 3. BRANCH OF SERVICE IN WHICH HE SERVED
+<lb/>'  2^ MU'f-S PffNfyifjq □ marine corps
+<lb/>4. STATE FROM WHICH H^ SERVED 5. WAR IN WHICH, OR DATES BETWEEN WHICH. HE SERVED 16. IF SERVICE WAS CIVIL WAR,
+<lb/>^ f^P tgptf- UNION □ CONFEDERATE
+<lb/>PLEASE PROVIDE THE FOLLOWING ADDITIONAL INFORMATION, IF KNOWN
+<lb/>7. UNIT IN WHICH HE SERVED {Name of regiment or number, company, etc, name of ship)
+<lb/>f r rvf &amp; ^ eee-j R-PWm 5
+<lb/>8. IF SERVICE WAS ARMY. ARM IN WHICH HE SERVED if other, specify:
+<lb/>S INFANTRY □ CAVALRY □ ARTILLERY
+<lb/>Rank *-
+<lb/>n OFFICER ENLISTED
+<lb/>9. KIND OF SERVICE
+<lb/>□ VOLUNTEERS □ REGULARS
+<lb/>10. PENSION/BOUNTY-LAND FILE NO, 11. IF VETERAN LIVED IN A HOME FOR SOLDIERS, GIVE LOCATION (City
+<lb/>and State)
+<lb/>12. PLACE(S) VETERAN LIVED AFTER SERVICE
+<lb/>13. DATE OF BIRTH 14. PLACE OF BIRTH (City, County, State, etc.) 17. NAME OF WIDOW OR OTHER
+<lb/>CLAIMANT
+<lb/>15. DATE OF DEATH
+<lb/>1^0 2.
+<lb/>16. PLACE OF DEATH (City. County. State, etc.)
+<lb/>THIS SPACE IS FOR OUR REPLY TO YOU
+<lb/>I  I NO-We were unable to locate the file you
+<lb/>requested above. No payment is required.
+<lb/>DATE SEARCHED
+<lb/>0 REQUIRED MINIMUM IDENTIFICATION OF
+<lb/>VETERAN WAS NOT PROVIDED. Please
+<lb/>complete blocks 2 (give full name), 3, 4, 5, and 6
+<lb/>and resubmit your order.
+<lb/>□ A SEARCH WAS MADE BUT THE FILE YOU
+<lb/>REQUESTED ABOVE WAS NOT FOUND. When
+<lb/>we do not find a record for a veteran, this does
+<lb/>not mean that he did not serve. You may be able
+<lb/>to obtain information about him from the archives
+<lb/>of the State from which he served.
+<lb/>1  I See attached forms, leaflets, or information
+<lb/>sheets.
+<lb/>I  I YES-We located the file you requested above. We
+<lb/>have made copies from the file for you. The cost for
+<lb/>these copies is $10.
+<lb/>DATE SEARCHED SEARCHER
+<lb/>FILE DESIGNATION
+<lb/>Make your check or money order payable to NATIONAL
+<lb/>ARCHIVES TRUST FUND. Do not send cash. Return this
+<lb/>form and your payment in the enclosed envelope to:
+<lb/>NATIONAL ARCHIVES TRUST FUND
+<lb/>P.O. BOX 100221
+<lb/>ATLANTA, GA 30384-0221
+<lb/>PLEASE NOTE: We will hold these copies awaiting receipt of
+<lb/>payment for only 45 days from the date completed, which is
+<lb/>stamped below. After that time, you must submit another form
+<lb/>to obtain photocopies of the file.
+<lb/>INDICATE BELOW THE METHOD OF PAYMENT PREFERRED.
+<lb/>3 CREDIT CARD^or IMMEDIATE SHIPMENT of copies
+<lb/>(see Instructipnk fa/credit cards wes^n a
+<lb/>Daytime
+<lb/>Phone: 2ol S€&gt;otxp. Date:Signature
+<lb/>BILL ME
+<lb/>(No credit card)
+<lb/>THIS IS
+<lb/>YOUR
+<lb/>MAILING
+<lb/>LABEL.
+<lb/>PRESS
+<lb/>FIRMLY.
+<lb/>Last Name ^plOSHEfi. First Name Ml . .Ch^^STOPHelL A A 569979
+<lb/>Street
+<lb/>State ZIP or Postal Code Country (if not USA)
+<lb/>This edition is usable
+<lb/>until August 31, 2000.
+<lb/>INVOICE/REPLY COPY - DO NOT DETACH
+<pb n="2" facs="#page-001"/>
+<lb/>NATIONAL ARCHIVES TRUST FUND BOARD NATF Form 80 (rev. 9-97) 0MB Control No. 3095-0032 Expires 9-30-98
+<lb/>NATIONAL ARCHIVES ORDER FOR COPIES OF VETERANS RECORDS
+<lb/>TYPE OF FILE REQUESTED
+<lb/>1. FILE TO BE SEARCHED
+<lb/>(Check one box only) □ PENSION □ BOUNTY-LAND WARRANTAPPLICATION (Service before 1856 only)
+<lb/>B, MILITARY
+<lb/>REQUIRED MINIMUM IDENTIFIGATION OF VETERAN
+<lb/>2. VETERAN (Give last, first, and middle names)
+<lb/>M c L au pUi Ik, ^ vV ; iha
+<lb/>3. BRANCH OF SERVICE IN WHICH HE SERVED
+<lb/>ARMY □ NAVY □ MARINE CORPS
+<lb/>4. STATE FROM WHICH hL SERVED 5. WAR IN WHICH, OR DATES BETWEEN WHICH, HE SERVED 6. IF SERVICE WAS CIVIL WAR.
+<lb/>UNION □ CONFEDERATE
+<lb/>ADDITIONAL INFORMATION, IF KNOWN
+<lb/>7. UNIT IN WHICH HE SERVED {Name of regiment or number, company, etc, name of ship) 8. IF SERVICE WAS ARMY, ARM IN WHICH HE SERVED
+<lb/>H INFANTRY □ CAVALRY □ ARTILLERY
+<lb/>If other, specify:
+<lb/>Rank
+<lb/>□ OFFICER ENLISTED
+<lb/>9. KIND OF SERVICE
+<lb/>□ VOLUNTEERS □ REGULARS
+<lb/>10. PENSION/BOUNTY-LAND FILE NO. 11. IF VETERAN LIVED IN A HOME FOR SOLDIERS. GIVE LOCATION (City
+<lb/>and State)
+<lb/>12. PLACE(S) VETERAN LIVED AFTER SERVICE
+<lb/>13. DATE OF BIRTH
+<lb/>lif 1 i
+<lb/>14. PLACE OF BIRTH (City, County, Stale, etc.) 17. NAME OF WIDOW OR OTHER
+<lb/>CLAIMANT
+<lb/>15. DATE OF DEATH 16. PLACE OF DEATH (City, County, State, etc.)
+<lb/>IMPORTANT INFORMATION ABOUT YOUR ORDER
+<lb/>We can only search for a record based on the Information you provided in blocks 2-17. The success and accuracy of our search is
+<lb/>determined by the information you provide. Often there are many files for veterans of the same or nearly the same name, if there are
+<lb/>five or fewer files for men with the same name as the individual in whom you gre interested, we will examine ail the relevant files and
+<lb/>compare their contents with the information that you have provided us. if the veteran's identity seems obvious, we will furnish you a
+<lb/>copy of the file we think is the correct one. , , ^ .
+<lb/>if there are more than five files, we will not make a fiie-by-file check to see if the information in the numerous files matches that
+<lb/>provided for the veteran in whom you are interested, in such cases, we suggest that you visit the National Archives and examine the
+<lb/>various flies, or hire a professional researcher to examine the files for you. We do not maintain a list of persons who do research for
+<lb/>a fee; however, many researchers advertise their services in genealogical periodicals, usually available in libraries.
+<lb/>PLEASE NOTE: This mail order photocopying service is available ONLY from Old Military and Civil Records (NWCTB-P&amp;S) at the
+<lb/>address below. Please address all inquiries about your order to Old Military and Civil Records at this address or call us at
+<lb/>202-501-5170. When you send more than one form at a time, each form is handled separately. Therefore, you may not receive all of
+<lb/>your replies at the same time. Allow a minimum of 8 to 10 weeks for processing your order. More information about the availability of
+<lb/>records pertaining to military service or family histories may be found in our free genealogical information leaflets and forms. You
+<lb/>may request these, as well as order additional copies of this form, by writing to:
+<lb/>Old Military and Civil Records (NWCTB-P&amp;S)
+<lb/>National Archives and Records Administration
+<lb/>700 Pennsylvania Avenue NW.
+<lb/>Washington, DC 20408
+<lb/>CREDIT CARDTor IMMEDIATE SHIPMENT of copies
+<lb/>METHOD OF PAYMENT PREFERRED
+<lb/>□
+<lb/>BILL ME
+<lb/>(No credit card)
+<lb/>THIS IS
+<lb/>YOUR
+<lb/>MAILING
+<lb/>LABEL.
+<lb/>Last Name
+<lb/>moSNeR
+<lb/>First Name Ml
+<lb/>^ h 1! isWPh^k A A 56997
+<lb/>Street
+<lb/>m R p O o fc P ( M E b .R
+<lb/>Street
+<lb/>City .
+<lb/>SMELTonj
+<lb/>State ZIP or Postal Code
+<lb/>a 6 M- M-
+<lb/>Country (if not USA)
+<lb/>This edition is usable
+<lb/>until August 31, 2000.
+<lb/>CUSTOMER COPY - KEEP FOR YOUR RECORDS
+<pb n="3" facs="#page-002"/>
+<lb/>NATIONAL ARCHIVES TRUST FUND BOARD NATF Form 85 (9-2000) 0MB Control No. 3095-0032 Expires 12-31-2001
+<lb/>F141856 FOR ALL INQUIRIES. BOUNTY LAND WARRANT APPLICATIONS
+<lb/>SECTION A. 1. INDICATE BELOW THE TYPE OF FILE TO BE SEARCHED (Check ONE box only)
+<lb/>If we locate ttie file yoiJ identify belc®j we will make copies as indicated, tfiere is no charge for an unsuccessful seai-Qh.^
+<lb/>Full Pension Application File;
+<lb/>The cost for copies is $37.
+<lb/>I  I Pension Documents Packet: (See instruc
+<lb/>tions.) The cost for copies is $14.75.
+<lb/>I  I Bounty-Land Warrant Application: The
+<lb/>cost for copies is $17.25.
+<lb/>REQUIRED MINIMUM IDENTIFiC
+<lb/>t
+<lb/>ATION OF VETERAN- MUST BE COMPLETED OR YOUR ORDER CANNOT BE SERVICED ]
+<lb/>2. VETERAN (Give last, first, and middle names) 3. 3RANCH OF SERVICE
+<lb/>ARMY
+<lb/>. IN WHICH HE SERV
+<lb/>NAVY
+<lb/>ED
+<lb/>MARINE CORPS
+<lb/>4. STATE FROM WHICH HE SERVED
+<lb/>5. WAR IN WHICH, OR DATES BETWEEN WHICH, HE SERVED
+<lb/>Y 5 FP i 4 — i &gt; J I-.S ! ft T f iv.
+<lb/>If service was Civil War, UNION SERVICE ONLY.
+<lb/>See reverse of instructions page.
+<lb/>PLEASE PROVIDE THE FOLLOWING ADDITIONAL INFORMATION, IF KNOWN
+<lb/>6. UNIT IN WHICH HE SERVED {Name of regiment or number, company, etc., name of ship) 7. IF SERVICE WAS ARMY, ARM IN WHICH HE SERVED
+<lb/>INFANTRY CAVALRY ARTILLERY
+<lb/>1
+<lb/>If Other, specify:
+<lb/>8. Rank
+<lb/>OFFICER ENLISTED
+<lb/>9. KIND OF SERVICE
+<lb/>VOLUNTEER REGULARS
+<lb/>10. PENSION/BOUNTY-LAND FILE NO. 11. IF VETERAN LIVED IN A HOME FOR SOLDIERS, GIVE LOCATION (City and
+<lb/>State)
+<lb/>12. PLACE(S) VETERAN LIVED AFTER SERVICE
+<lb/>13. DATE OF BIRTH
+<lb/>! 9ult
+<lb/>14. PLACE OF BIRTH (City, County, State, etc.)
+<lb/>17. NAME OF WIDOW OR OTHER
+<lb/>CLAIMANT
+<lb/>15. DATE OF DEATH
+<lb/>s  '1 O 1
+<lb/>16. PLACE OF DEATH (City, County, State, etc.)
+<lb/>V  U f f.y\f
+<lb/>SECTION B. IMPORTANT INFORMATION ABOUT YOUR ORDER
+<lb/>We can only search for a record based on the information you provided In blocks 2-17. The success and accuracy of our search is
+<lb/>determined by the information you provide. Often there are many files for veterans of the same or nearly the same name. If there are
+<lb/>three or fewer files for men with the same name as the Individual in whom you are interested, we will examine the relevant files and
+<lb/>compare their contents with the information that you have provided us. If the veteran's Identity seems obvious, we will furnish you a
+<lb/>copy of the file we think is the correct one.
+<lb/>We can not make a file-by-file check to see if the information in the numerous files matches that provided for the veteran in whom you
+<lb/>are interested. In such cases, we suggest that you visit the National Archives and examine the various files, or hire a professional
+<lb/>researcher to examine the files for you. We do not maintain a list of persons who do research for a fee; however, many researchers
+<lb/>advertise their services in genealogical periodicals, usually available In libraries.
+<lb/>PLEASE NOTE: This mail order photocopying service is available ONLY from Old Military and Civil Records (NWCTB-Pension) at the
+<lb/>address below. Please address all Inquiries about your order to Old Military and Civil Records at this address or call us at
+<lb/>301-713-6800. When you send more than one form at a time, each form is handled separately. Therefore, you may not receive all of
+<lb/>your replies at the same time. Allow 8 to 10 weeks for processing your order. More information about the availability of records
+<lb/>pertaining to military service or family histories may be found in our free genealogical Information leaflets and forms. You may request
+<lb/>these, as well as- order additional copies of this form, by writing to: Old Military and Civil Records (NWCTB-Pension), Textual Archives
+<lb/>Services Division, National Archives and Records Administration, 700 Pennsylvania Avenue, NW., Washington, DC 20408-0001.
+<lb/>SECTION C. METHOD OF PAYMENT PREFERRED AND YOUR SHIPPING ADDRESS (REQUIRED)
+<lb/>CREDIT CARD for IMMEDIATE SHIPMENT of copies □
+<lb/>BILL ME
+<lb/>(No credit card)
+<lb/>OT &lt;
+<lb/>Last Name
+<lb/>M O fr
+<lb/>First Name Ml
+<lb/>C  Y 4
+<lb/>Street
+<lb/>'-i 1 B kooK PIM fc
+<lb/>Street
+<lb/>State ^
+<lb/>CT
+<lb/>ZIP or Postal Code Country (if not USA)
+<lb/>This edition is usable
+<lb/>until October 31, 2001.
+<lb/>CUSTOMER COPY - KEEP FOR YOUR RECORDS
+<pb n="4" facs="#page-003"/>
+<lb/>0MB Control No. 3095-0032 Expires 12-31-2001
+<lb/>NATIONAL ARCHIVES ORDER FOR COPIES OF
+<lb/>FEDERAL PENSION OR BOUNTY LAND WARRANT APPLICATIONS
+<lb/>Dear Researcher,
+<lb/>Before completing the form, please read both sides of this page for ordering Instructions and general information about the
+<lb/>types of records that can be ordered with this form. Mail order photocopying service by using this form is available ONLY
+<lb/>from Old Military and Civil Records (NWCTB-Pension), Textual Archives Services Division, National Archives and Records
+<lb/>Administration, 700 Pennsylvania Avenue NW., Washington, DC 20408-0001. For more information, please write to us at
+<lb/>the address above.
+<lb/>IMPORTANT INFORMATION ABOUT YOUR ORDER
+<lb/>DO NOT use this form for any request relating to military service in World War I or II, or subsequent service. Write to :
+<lb/>National Personnel Records Center, Military Personnel Records, 9700 Page Avenue, St. Louis, MC 63132-5100.
+<lb/>For additional information about these later records, visit www.nara.gov/regional/mpr.html
+<lb/>The success of our search depends on the completeness and accuracy of the information you provide in blocks 2-17 on
+<lb/>this form. Often there are many files for veterans of the same or nearly the same name. If there are three or fewer files for
+<lb/>men with the same name as the individual in whom you are interested, we will examine the relevant files and compare
+<lb/>their contents with the information that you have provided us. If the veteran's Identity seems obvious, we will furnish you a
+<lb/>copy of the file we think is the correct one. Please note that each NATF Form 85 is handled separately. When you send
+<lb/>more than one form at a time, you may not receive all of your replies at the same time.
+<lb/>We can not make a file-by-flle check to see If the information in the numerous files matches that provided for the veteran
+<lb/>in whom you are interested. In such cases, we suggest that you visit the National Archives and examine the various files,
+<lb/>or hire a professional researcher to examine the files for you. We do not maintain a list of persons who do research for a
+<lb/>fee; however, many researchers advertise their services in genealogical periodicals, usually available in libraries.
+<lb/>USE NATF FORM 86 TO OBTAIN COPIES OF MILITARY SERVICE RECORDS.
+<lb/>INSTRUCTIONS FOR COMPLETING THIS FORM
+<lb/>Use a separate NATF Form 85 for each file that you request. Remove this instruction sheet. You must complete blocks
+<lb/>2-5 or we cannot search for the file. Print your name (last, first, middle) and address In the block provided at the bottom of
+<lb/>the form, which is your mailing label. Because of the volume of requests we receive, we are not able to write names and
+<lb/>addresses on the form for you. We will return forms without return addresses when we are able. If the form is separated
+<lb/>from the envelope, we will be forced to destroy requests without return addresses. The information must be legible on all
+<lb/>copies. Keep the customer (pink) copy of the form for your records. Mail the original (white) copy of the form to: CId
+<lb/>Military and Civil Records (NWCTB-Penslon), Textual Archives Services Division, National Archives and Records
+<lb/>Administration, 700 Pennsylvania Avenue NW., Washington, DC 20408-0001 .Please allow 8 to 10 weeks for processing
+<lb/>your order. DO NOT SEND PAYMENT WITH THIS FORM. When we search your order, we will make photocopies of
+<lb/>records that relate to your request. For credit card orders, we will mail the copies immediately. We accept MasterCard,
+<lb/>VISA, American Express, and NOVUS (Discover, Bravo, Private Issue) credit cards. For other types of orders, we will
+<lb/>Invoice you for the cost of these copies and hold them up to 45 days pending receipt of your payment.
+<lb/>SEE THE REVERSE OF THIS PAGE FOR DESCRIPTIONS OF
+<lb/>THE TYPES OF RECORDS THAT CAN BE ORDERED WITH THIS FORM.
+<lb/>PRIVACY ACT STATEMENT AND PAPERWORK REDUCTION ACT PUBLIC BURDEN STATEMENT ON REVERSE OF THIS PAGE.
+<lb/>NATIONAL ARCHIVES TRUST FUND BOARD NATF Form 85 (9-2000)
+<lb/>INSTRUCTIONS
+<pb n="5" facs="#page-004"/>
+<lb/>TYPES OF RECORDS THAT CAN BE ORDERED WITH THIS FORM
+<lb/>FEDERAL PENSION APPLICATION FILES
+<lb/>Full Pension Application File ($37): Pension application flies generaiiy are most useful to those who are doing genealogical
+<lb/>research and contain the most complete information regarding a soldier's military career. We suggest that you first request copies of
+<lb/>a soldier's pension file. You should request copies of a bounty-land warrant file or a military record only when no pension file exists. If
+<lb/>the veteran's service was during the Revolutionary War, bounty-land warrant applications have been consolidated with pension
+<lb/>application papers. You can obtain both files by requesting the pension file only. Military service records rarely contain family
+<lb/>information. Use NATF Form 86 to obtain copies of military service records.
+<lb/>Pension application files, based on Federal (not State or Confederate) service before World War I, usually include an official
+<lb/>statement of the veteran's military service, as well as information of a personal nature. Pensions based on military service for the
+<lb/>Confederate States of America were authorized by some Southern States but not by the Federal Government until 1959. Inquiries
+<lb/>about State pensions should be addressed to the State archives or equivalent agency at the capital of the veteran's State of
+<lb/>residence after the war. See the special notes below about Confederate pensions.
+<lb/>Pension Documents Packet ($14.75): The pension documents package will contain, to the extent that these documents are
+<lb/>present in the file, 8 documents that contain genealogical information about the pension applicant. Not all of these documents will be
+<lb/>found In every file. The package will include any of the following items that are in the file: (1) declaration of pension, (2) declaration of
+<lb/>widow's pension, (3) Adjutant General statements of service, (4) questionnaires completed by applicants (numbered forms), (5)
+<lb/>"Pension Dropped" cards, (6) marriage certificates, (7) death certificates, (8) discharge certificate. We will not provide a count of the
+<lb/>remaining pages; if you wish to obtain a full pension file after reviewing the pension documents packet, you will need to order the
+<lb/>complete file. If the entire pension file Is no more than 10 pages, we will mark the order "Complete file provided."
+<lb/>BOUNTY-LAND WARRANT APPLICATION FILES
+<lb/>Bounty-land warrant application files ($17.25) are based on Federal (not State) service before 1856. Documents in a bounty-land
+<lb/>warrant application file are similar to those in a pension application file. In addition, these files usually give the veteran's age and place
+<lb/>of residence at the time the application was made. For a copy of the surrendered Bounty-Land Warrant, you will need to submit a
+<lb/>request on NATF Form 84, National Archives Order for Copies of Land Entry Files.
+<lb/>SPECIAL NOTES ABOUT CONFEDERATE PENSIONS
+<lb/>The following Southern State Archives have Confederate pension records. Write to the addresses below for more
+<lb/>Alabama Department of Archives &amp; History, 624 Washington Avenue, Montgomery, AL 36130-0100
+<lb/>Arkansas History Commission &amp; State Archives, One Capitol Mall, Little Rock, AR 72201
+<lb/>Florida State Archives, R.A. Gray Building, 500 South Bronough Street, Tallahassee, FL 32399-0250
+<lb/>Georgia Department of Archives &amp; History, 330 Capitol Avenue, SE, Atlanta, GA 30334
+<lb/>Kentucky Department for Libraries &amp; Archives, Kentucky State Archives, P.O. Box 537, 300 Coffee Tree Road, Frankfort,
+<lb/>KY 40602-0537
+<lb/>Louisiana State Archives, 3851 Essen Lane, Baton Rouge, LA 70809-2137
+<lb/>Mississippi Department of Archives &amp; History, Charlotte Capers Building, 100 South State Street, Jackson, MS 39205
+<lb/>Missouri State Archives, State Information Center, P.O. Box 778, Jefferson City, MO 65102
+<lb/>North Carolina State Archives, 109 East Jones Street, Raleigh, NC 27601-2807
+<lb/>Oklahoma Department of Libraries, State Archives, 200 N.E. 18th Street, Oklahoma City, OK 73105-3298
+<lb/>South Carolina Department of Archives &amp; History, South Carolina History Center, 8301 Parklane Road, Columbia, SC 29211
+<lb/>Tennessee State Library &amp; Archives, 403 North 7th Avenue, Nashville, TN 37219
+<lb/>Texas State Library &amp; Archives Commission, P.O. Box 12927, Austin, TX 78711-2927
+<lb/>The Library of Virginia, 800 East Broad Street, Richmond, VA 23219-1905
+<lb/>PRIVACY ACT STATEMENT
+<lb/>Collection of this information is authorized by 44 U.S.C. 2108. Disclosure of the information is voluntary; however, we will be unable to respond to your request if you do not
+<lb/>furnish your name and address and the minimum required information about the records. The information is used by NARA employees to search for the record; to respond
+<lb/>to you; to maintain control over information requests received and answered; and to facilitate preparation of internal statistical reports. If you provide credit card information,
+<lb/>that information is used to bill you for copies.
+<lb/>PAPERWORK REDUCTION ACT PUBLIC BURDEN STATEMENT
+<lb/>A Federal agency may not conduct or sponsor, and a person is not required to respond to a collection of information unless it displays a current valid 0MB control number.
+<lb/>The 0MB Control No. for this information collection is 3095-0032. Public burden reporting for this collection of information is estimated to be 10 minutes per response. Send
+<lb/>comments regarding the burden estimate or any other aspect of the information collection, including suggestions for reducing this burden, to National Archives and Records
+<lb/>Administration (NHP), 8601 Adelphi Road, College Park MD 20740. DO NOT SEND COMPLETED FORMS TO THIS ADDRESS. SEND COMPLETED FORMS TO THE
+<lb/>ADDRESS INDICATED ON THE FORM ITSELF.
+<lb/>NATIONAL ARCHIVES TRUST FUND BOARD NATF Form 85 (9-2000)
+<pb n="6" facs="#page-005"/>
+<lb/>i-orm Number hi4ibbti
+<lb/>hiAiiCiVM.ssvnivi:;; liius? H.nd stWiRD nr
+<lb/>I
+<lb/>LJ;1&gt;{ ? 3 Ptt j r J i
+<lb/>F1 / -n O C NATIONAL ARCHIVES ORDER FOR COPIES OF I tDhHAt PENSION"^
+<lb/>i H I O J 1 BOUNTY LAND WARRANT APPl|UA HONS 1 I't i(T~'jii ■! ' I'c rjmwielw t&gt; &gt;s
+<lb/>Fuy PohStO/J /.C»p?i
+<lb/>Tno Cc:t! I f ^ p e--
+<lb/>^ c. Lawg'Kl
+<lb/>T iuTf'FproTJCuTiT
+<lb/>1_
+<lb/>'la PEMSIl^fi'oCiJMry-LiflD » !.i Wj
+<lb/>IDSMTIF
+<lb/>PRQViDc
+<lb/> &gt;ocnJ
+<lb/>EESEARChED iCi,&amp;lh 0W£bo*on//i
+<lb/>:Tlia B 311 j cSia » r -T unsj.irf'ssM s«amk. "
+<lb/>Rsjuivtv-Lsnd Warrant AppJisattOri; Tt»»
+<lb/>c-i-st for i»A®5 s5 S17 2fl.
+<lb/>cMPLSTEDOHYQui 'j' naf f-AN:?JOiT-ge 1
+<lb/>' I til •'! I F 1. • I * h lE &lt;CKvf'
+<lb/>'  I ' N'^w f ]jS!5EB555Ei,
+<lb/>h=^=RVE3 ,, lus was mar SJ-HWCi. onay,
+<lb/>C!Y. "• ' fiiKJf JrasilMfCrwiWIMgfl.
+<lb/>cnai INjjTfiLVflOK =a.NO(VN ^ "^71' .
+<lb/>-r*5= BCiri.VnD7. IF sr..:- ii n ^iNsSYi.
+<lb/>i^i IF i NTIiY i 1 aA-YALKY f ' ARTILLERY
+<lb/>; RS F, 19 KiF® Of SEtl-Hee
+<lb/>i T'3 OFFICER |&gt;^ ERUSrESi r'7 '■■'"'■ LlNTfrR O REaULARS
+<lb/>' 1- I? vi.' iTfTy-vf iYpi A Ha-.v= FDR aaiDLFHE, oi'/j lotr. now iC i- b&gt;-.:i ! - s r- ',i pi v tfia). &lt;, mm after
+<lb/>ISSCTl'oS 0L This aF-ACe - r-OR OU t RtPU TO tQU PLEALC SO TO 0. Cl-ON C, _ _ _ nzzj
+<lb/>r?y4.
+<lb/>DATE SEARCHED
+<lb/>//,
+<lb/>SEARCHER
+<lb/>□ NO-We were unable to locate the file you
+<lb/>requested above. No payment Is required.
+<lb/>Q Seethe attached form, leaflet, or information sheet.
+<lb/>□ A search was made but there are several soldiers
+<lb/>with the same name who served from the same State. We are unable to dsteimine which of them is your subject using the Information that
+<lb/>you provided. If you can provide the naine and/cr number of the specific unit in which the soicier served, we will be pleased to search again.
+<lb/>□ A search was made but there are several soldiers v/ith the same or very simi lar names sen/ing in the same unit. We are unable to
+<lb/>determine which of thern is your subject using the information that you provided. The military ser-vice records do not normally contain
+<lb/>personal information about a soldier or his family. In such cases, we suggest that you visit the National Archives and examine the various
+<lb/>files or hire a profes.sional researcher to examine tlie files forvou.
+<lb/>□ We did not locate a file which matches exactly the information that you provided, however, we did locate a compiled military service
+<lb/>record for a soldier named , who served in the ._war in unit
+<lb/>CD
+<lb/>CD
+<lb/>cn
+<lb/>He enlisted at He discharged at
+<lb/>He dit at If this is your subject, please fill out the
+<lb/>enclosed NATFfomi and resubmit.
+<lb/>□ We did not locate a file which matches exactly the information that you provided, however, we did locate a pension application file
+<lb/>^  for a soldier named ^iivho served in for the
+<lb/>atwar. He was bom at and died
+<lb/>o
+<lb/>His widow was Ifthisisyoursubject, please fill out
+<lb/>the enclosed NAIF form and resubmit.
+<lb/>Q The file that you requested (C or XC _ is not among the records in the National Archives. You must request
+<lb/>the file from the Department of Veterans' Affairs. Attached is a list of the VA offices including the one in your region.
+<lb/>O
+<lb/>OFF83083
+<lb/>Christopher A Mosher
+<lb/>41 Brook Pine Dr
+<lb/>Sheiton, CT 06484
+<lb/>USA
+<lb/>NWCTB
+<lb/>Order Information (NARA use only):
+<lb/>Master Number: 296854
+<lb/>OFF00000000083083
+<lb/>1/29/01
+<lb/>95373
+<lb/>NWCTB
+<lb/>SOP Number:
+<lb/>Order Date:
+<lb/>Image ID:
+<lb/>Site ID:
+<pb n="7" facs="#page-006"/>
+<lb/>06/25/2001 11:07:32AMm 85A Federal Pension F Packing Slip
+<lb/>Form Number F141856
+<lb/>218^66 ZOiliJA^'^3 fK bu
+<lb/>Pi 1 0 C C NATIONAL ARCHIVES ORDFR FOR COFSES OF FfcDfcKAL PENSION OR_riq 10 0D eOUNJXUND WARRANT APFLICAJIONS
+<lb/>ji""* ' SfeC-nOPJA.I NoicATe B£x.Cft7*'Er'PCQFrU!;-'O0E-3EARChEOrCVtMMtON£'feo*OJir&gt;? " T|
+<lb/>I  ̂ f lyia a^jgts ft 'if tpg HUPiSjfy &gt;!&lt;; ■}!&gt;. ft- rs '9 ropiBs .as iiu,; ~ w » 4 vig gg'^prg" gn6..:p585f,)j -i^j
+<lb/>j p^5pisfw^pfTlCi«T' fHn P^is-Jor Dac»*rront« jt &lt;.r« Ajap
+<lb/>P  RECrUWi»WlNlVUMJD|iriF{5ATtCNbrVpii|^W.vLSTBEUOMPirreDORVOUWOmft OANHOTBslfcRvio^''
+<lb/>New Y«R:K y i KF IJ T"!*?!! Ifif £«« Wv'ivai} &lt;ir.)i«s»,v;ftws
+<lb/>_J PPgASE PflOVipfc' THg FQULOWINGl AtiK'-iCMAL iNFaSMATipN- IF ANOWN
+<lb/>h iV f H W ^ I "t W T ♦ TF I * «jy f f, ** IF-iiJ *&lt;''.'■1 Vftmcit:*®-: .riJiWV!!:!.!
+<lb/>i  iKFAMTRY !"n SAVAlRV i i AStSLLERV
+<lb/>eN:Pir'i;EAT AieAlwlF*'?
+<lb/>F ICS? Stsi
+<lb/>. . ►'C .MrrR i ^iauuts
+<lb/>i  'il If Vl5':ri?5^A^&lt; A f^CiR saD!E!'3Si om iOC^^IGN iftSpi*&gt;'-i:- J ■? 2. LMitt SStfWK
+<lb/>!  i
+<lb/>PtM"? vff B^F.rrl 1«. &lt; nf f imx.
+<lb/>SECTIOK 8, mS space sS FOR OU'S^REMtC YOU PLEASE SO TO STC'ION 0.
+<lb/>Item Nbr Item Description
+<lb/>FORM85A NATF 85: Full Pension File
+<lb/>Qty Ordered
+<lb/>1
+<lb/>Qty Fulfilled
+<lb/>1
+<lb/>OFF83,083
+<lb/>Christopher A Mosher
+<lb/>41 Brook Pine Dr
+<lb/>Sheiton, CT 06484
+<lb/>USA
+<lb/>06/25/2001 NWCTB
+<lb/>wmlv
+<lb/>.wimewa^elv
+<lb/>Order Information (NARA use only):
+<lb/>Master Number: 296854
+<lb/>SOP Number: OFF00000000083083
+<lb/>Order Date: 1/29/01
+<lb/>Image ID: 95373
+<lb/>Site: NWCTB
+</ab>
+    </body>
+  </text>
+</TEI>

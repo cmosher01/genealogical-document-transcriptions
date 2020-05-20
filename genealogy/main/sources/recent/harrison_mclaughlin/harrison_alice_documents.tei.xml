@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison alice documents</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_documents/p-019.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>fa.^^. 9i ayi4-xrvL OEDER OF THE PATRONS OF HUSBANDRYM^JA13J_&gt;uiys^AjiJXzz7W/lZ/S7mm
+<pb n="2" facs="#page-001"/><lb/>UAaM.1 JA.\JjynVbeen ̂ul^ 3nvc«ic^ wtt^ tb'kyOtM/S/Xrf.Order of The Patrons of Husbandry,'d̂dW7/^SrAT
+<lb/>f' G
+<lb/>fiAAfGfy{mr/omiG/fANGf_cfeMaster, State GrangeSecreta/y,State Grange■liililmiiiiiiiiiMiiBiiiiiiiiiiiilil
+<pb n="3" facs="#page-002"/>
+<lb/>STATE NORMAL SCHOOL
+<lb/>GENESEO, N. Y.
+<lb/>SUMMER SESSION, 1931
+<lb/>Name Home
+<lb/>COURSES
+<lb/>Semester
+<lb/>Hours
+<lb/>Credit
+<lb/>Grade
+<lb/>Btural CttrrioaloB 3 B
+<lb/>History Melhuds a 1
+<lb/>lUioiiossics £
+<lb/>A-Superior; B-above average; C-average;
+<lb/>D-below average; E-failure;
+<lb/>I Incoaiplete
+<lb/>WINFIELD A. HOLCOMB, Principal
+<lb/>2-16-31-2000 {7Q-548S)
+<pb n="4" facs="#page-003"/>
+<lb/>I lijcojjt;efe
+<lb/>Q-pGjoM ffAeLg-gG; j3-i[3-irniG!
+<lb/>c
+<lb/>3t  "2) '
+<lb/>C0nKgE3 jjoni.8
+<lb/>gGIU68^61
+<lb/>Qisqe
+<lb/>&gt;19iiie
+<lb/>yqqi.e2a
+<lb/>Hoojs
+<lb/>-  CEMEaKO* M- A'
+<lb/>3XVXE MOKWYT ECHOOF
+<lb/>gflWyiEK aE88IOM* Id3I
+<pb n="5" facs="#page-004"/>
+<lb/>STATE NORMAL SCHOOL
+<lb/>GENESEO, N. Y.
+<lb/>SUMMER SESSION, 1930
+<lb/>Name
+<lb/>Harrison, Alice
+<lb/>Home
+<lb/>Address - Cviii3 I H. Y.
+<lb/>COURSES
+<lb/>Semester
+<lb/>Hours
+<lb/>Credit
+<lb/>Grade
+<lb/>History of M. 2 A
+<lb/>Reading, Grammar Gr. 3 c
+<lb/>A-Superior; B-above average; C-average;
+<lb/>D-below average; E-failure;
+<lb/>I-Incomplete
+<lb/>WINFIELD A. HOLCOMB, Principal
+<lb/>3-17-30-2000 (70-5535)
+<pb n="6" facs="#page-005"/>
+<lb/>1-19-26-5000 (75-3956) STATE NORMAL SCHOOL, GENESEO, N. Y.
+<lb/>To Parents or Guardians: _ Harrison iillce
+<lb/>The following report of work done during the past semester by S .!
+<lb/>is sent for your information:
+<lb/>COURSE
+<lb/>Hours
+<lb/>Credit
+<lb/>Mark COURSE
+<lb/>Hours
+<lb/>Credit
+<lb/>Mare
+<lb/>Health 3-A 1 B Health 3cA 1 G
+<lb/>Eng. 3, Literature 3 B Hist. 1, E^lropean 3 &gt; . A
+<lb/>Ed. 21, Psychology 4 B Library 1 1' 3 .
+<lb/>Masic 1 &amp; 2 5 G English 2 3 G
+<lb/>II ^ aj-4
+<lb/>A-superior, „ „-
+<lb/>D - below average; E - failure;
+<lb/>I - Incomplete.
+<lb/>Date --JAB rincipal
+<pb n="7" facs="#page-006"/>
+<lb/>1-19-26-5000 (75-3956) STATE NORMAL SCHOOL, GENESEO, N. Y.
+<lb/>To Parents or Guardians:
+<lb/>The following report of work done during the past semester by.
+<lb/>is sent for your information:
+<lb/>Harrison, Alice
+<lb/>COURSE
+<lb/>Hours
+<lb/>Credit
+<lb/>Mark COURSE
+<lb/>Hours
+<lb/>Credit
+<lb/>Mare
+<lb/>Ed. 2, Technic of Tchg. 3 B Health 3B 1 r%
+<lb/>Ed. 5, Tests &amp; Scales 3 A Health 4A 2 B
+<lb/>Hist. 4, Current 3 A Eng. 13, A m. Lit. 3 B
+<lb/>Fine Arts jJC ^ 3 B Health 4cB 2 B
+<lb/>A-superior; B-above average; C-average;
+<lb/>D-below average; E-failure;
+<lb/>I - Incomplete.
+<lb/>Date
+<pb n="8" facs="#page-007"/>
+<lb/>VALID IN SCHOOL DISTRICTS NOT MAINTAINING ACADEMIC DEPARTMENTS
+<lb/>Be it known that Alice I. Harrison of Hornby, NY
+<lb/>having completed a one-year approved professional course in the teachers training class at
+<lb/>Corning following graduation from an approved four-year high school course at
+<lb/>Northside H.S. Corning and having met the full requirements as to character and ability to teach,
+<lb/>is therefore entitled, under the rules prescribed by the Regents of the University, to this certificate
+<lb/>which is a valid license to teach for three years from August 1, .1925 when indorsed by a district
+<lb/>superintendent of schools. This certificate is not renewable but may be applied toward advanced
+<lb/>standing in a state normal school.
+<lb/>No. 27983
+<lb/>Given under my hand this 10th day of August 1925
+<lb/>Frank B. Gilbert
+<lb/>Acting Commissioner of Education
+<pb n="9" facs="#page-008"/>
+<lb/>VALID IN ANY ELEMENTARY SCHOOL
+<lb/>Be it known that ALICE I. HARRISON of Hornby, N.Y.
+<lb/>having completed in good standing the first two years of the three-year professional course in the State
+<lb/>Normal School at Geneseo, specializing in grammar grades is
+<lb/>therefore entitled, under the rules prescribed by the Education Department, to this certificate which
+<lb/>is a valid license to teach for three years from August 1, 1929. This certificate is not renewable but
+<lb/>may be extended for two years upon the completion of twelve semester hours' credit in advanced
+<lb/>professional courses of the third year.
+<lb/>In witness whereof, for and on behalf of the State Education
+<lb/>Department, I have hereunto set my hand at the city of
+<lb/>Albany this 19th day of August 1929
+<lb/>J. Cayce Morrison
+<lb/>Assistant Commissioner of Education
+<pb n="10" facs="#page-009"/>
+<lb/>The within certificate is issued and made valid in the
+<lb/>second supervisory district of Steuben county.
+<lb/>Dated Sept. 7, 1929.
+<lb/>Winford Morrow,
+<lb/>District Superintendent.
+<pb n="11" facs="#page-010"/>
+<pb n="12" facs="#page-011"/>
+<pb n="13" facs="#page-012"/>
+<lb/>New York State Department of Health
+<lb/>DIVISION OF VITAL STATISTICS
+<lb/>CERTIFICATE OF BIRTH
+<lb/>Dist. No. 5065 <lb/>(To be inserted by Registrar)
+<lb/>Registered No. 295
+<lb/>1 PLACE OF BIRTH
+<lb/>County Steuben
+<lb/>Township Hornby
+<lb/>2 Full name of child Alice Irene Harrison
+<lb/>3 Sex of child female
+<lb/>6 Legitimate? yes
+<lb/>7 Date of birth Sept. 3 ‐ 1905
+<lb/>8 Full name FATHER Geo. Elmer Harrison
+<lb/>9 Residence (Usual place of abode) Hornby N.Y.
+<lb/>10 Colder or race white
+<lb/>11 Age at last birthday 31 (Years)
+<lb/>12 Birthplace Hornby, N.Y.
+<lb/>13 Occupation Nature of Industry Farmer
+<lb/>14 Full maiden name MOTHER Mary Ann Mc Laughlin
+<lb/>15 Residence (Usual place of abode) Hornby, N.Y.
+<lb/>16 Colar or race white
+<lb/>17 Age at last birthday 34 (Years)
+<lb/>18 Birthplace Hornby, N.Y.
+<lb/>19 Occupation Nature of Industry Housewife
+<lb/>20 Number of children born to this mother, including present birth 3
+<lb/>21 Children of this mother born alive 3 Stillborn [0] Total now living 2
+<lb/>CERTIFICATE OF ATTENDING PHYSICIAN OR MIDWIFE
+<lb/>I hereby certify that I attended the birth of this child, who was born alive
+<pb n="14" facs="#page-013"/>
+<lb/>Physicians are required lo report ophthalmia neomtonm^ (iabies' sore eyes) to local health officer within 24 hours from the time
+<lb/>_^hett first seen.—^Ai^iTARS Code, Chap^ II, Reg. i. A mid- rife, nurse, or other person having charge must report immediately to _
+<lb/>neatth ofiicer. or physician-iyejcanrbdl-rcddirKd 'cfiHr-if -i-KfcLr.^ icct 'tir e weeks:—Penai. Law, §482.
+<lb/>UNITED STATES STAND ̂ID CERTIFICATE OF BIRTH
+<lb/>All births in the State of New York (exclusive of New A'ck
+<lb/>City) are to be registered on this bia.n]&lt;. This includes not oily
+<lb/>ail living births (children bom alive) but also ail stillbirths
+<lb/>(children dead when born) provided that the latter (stiilbor ll
+<lb/>need not be registered unless advanced to the fifth (5th) monih
+<lb/>of uterogestation. Stillbirths must also be registered as desit! 3,
+<lb/>and a burial permit obtained in the regular way. See footni'le
+<lb/>and ext-racts from the law below. i
+<lb/>All birth certificates (including those of stillbirths) must ie
+<lb/>PILED with the Local Registrar of the town, village, or city.n
+<lb/>which the birth occurred within five (5) days thereafter. ■ Nc ie
+<lb/>that the certificate must be filed; it may be mailed, at the ri ik
+<lb/>of the sender, but to mail as late as the fifth day after birh
+<lb/>does not comply with the law unless the certificate actual ,y
+<lb/>reaches the Local Registrar within five days from the date ri
+<lb/>birth. ' ' i
+<lb/>These certificates form the Legal P^accrds which may
+<lb/>great importance to the ciiildren bom. It is essential that thVy..
+<lb/>be complete and correct when filed, because no alteration /[r |
+<lb/>SECTIONS OE STATISTICS LAW
+<lb/>§ 376. Registration of StUlborn Childreri. A stillborn child .shall be rc^t.i-
+<lb/>trated as a birth and also as a death, and separate certilicates of both the bi^.th
+<lb/>and the death shall be filed with the registrar of vital statistics in the usfjil
+<lb/>erasures will be p
+<lb/>midvdfe or person ac
+<lb/>ermitted after they become a part of the State
+<lb/>Records. Hencs Registrars arc instmcted to refuse certificates—
+<lb/>(1) -Omitting information required by law;
+<lb/>(2) Not v/ritten throughout "legibly, in durable black
+<lb/>ink," as the law expressly requires;
+<lb/>(3) Mutilated, grossly soiled or defaced, inaccurate;
+<lb/>(4) Containing any erasure, interlineation, correction, or
+<lb/>alteration of anjrthing printed or written upon the certificate.
+<lb/>Note.—If a mistake is made and observed before the certifi
+<lb/>cate is accepted for registration, another blanlc may be filled out
+<lb/>correctly and substituted for the erroneous certificate; but no
+<lb/>certificate of birth or death after its acceptance for registration
+<lb/>by the registrar, and no pthei record made in pursuance of this
+<lb/>article, shall be altered or changed in any respect otherwise than
+<lb/>by amendments properly dated, signed and witnessed: (See §387.)
+<lb/>tS"A blank (Forrii VS' No. 33) will be supplied bv tfi ru-
+<lb/>correction of an erroneous birth record.
+<lb/>form and manner, the certificate of birth to contain in place of the iiame'lf
+<lb/>the child, the word "stillbirth"; provided, that a certificate of birth aijl
+<lb/>a certificate of death shall not he required for a child that has not adi-V^ncedJ
+<lb/>the fifth month of uterogestation. The state commisdoncr of health
+<lb/>furnish a combined hirih ajid ceath ceriificaie for the recording of siillbir.
+<lb/>and may require it to be used instead of the separate birth and death cerHficcttell*
+<lb/>The medical certificate of the cause of death shall be signed by the attendin^
+<lb/>physician, if any, and shall state the cause of death as "stillborn," with t'ie
+<lb/>cause of the stillbirth, if knowr;, whether a premature birth, and, if born ii'4-
+<lb/>maturely, the period of uterogfstation, in monthvS, if known; and a buriallhr
+<lb/>removal permit of the prescrib'd form shall be required. Midwives sliall iw
+<lb/>sign certificates of death for stillborn children; but such cases, and stillbir™
+<lb/>occurring without attendance oi; either physician or midwife shall be treated M
+<lb/>deaths without medical attendance, as hereinafter provided in this article.
+<lb/>§ 3S2. Registration of Births. The birth of each and every child born in
+<lb/>this state shall be registered within five days after the date of each birtb^, tlFihe
+<lb/>shall be filed with the registrar of the district in which the birth occurrr
+<lb/>"  " " - - -- -certificate of such birth, which certificate ̂ hail be upon the form
+<lb/>therefor by the state comniissioaei* of heaitn. In each case where a physxC''
+<lb/>ting as midwife, was in atteudance upon the birth .it
+<lb/>shall be the duty of .such physician, midwife or person acting as midwife, to
+<lb/>file said certificate. In each case where there was no physician, midwife, or
+<lb/>person acting as midwife, in attendance upon the birth, it shall be the duty of
+<lb/>the father or mother of the child, the householder or owner of the premises
+<lb/>whore the birth occurred, or the morugcr or superintendent of the public or
+<lb/>private institution-wdiere the birth occrirred, each in the order named, within
+<lb/>five days after the date of such birth to report to the local registrar the fact
+<lb/>of such birth. In such case and in ciko the phy.sieian, midwife or person act
+<lb/>ing as midwife in attehdance upon the birth is unable, by diligent inquiry, to
+<lb/>obtain any item or items of information required in this article, it shall then
+<lb/>]?e the duty of the registrar to secure from the person so reporting, or from any
+<lb/>other person having the required knowledge, such information as will enable
+<lb/>him to prepare the certificate of birth herein required, and it shall be the dut-y
+<lb/>of the person reporting the birth or v.d;o may be interrogated in relation thereto
+<lb/>to answer correctly and to the be.st oi his knowledge all questions put to him
+<lb/>by the rogistrac which may be calcuhted to elicit any information needed to^
+<lb/>make a complete record of the birth as contemplated by this article, and it-
+<lb/>^hnll be the" di^:^ of tlie informanJ- r.- to any statement made in accordan^f; ,
+<lb/>*Form V.S. No. 32, a comHned birth and death certificate for recQrdfny of ;.-Ur:btrths, to bo distributep for use after Oct.- 1, 1925.
+<pb n="15" facs="#page-014"/>
+<lb/>FOR GENEALOGICAL RESEARCH ONLY
+<lb/>38859
+<lb/>New York State Department of Health
+<lb/>Bureau of Vital Statistics
+<lb/>CERTIFICATE AND RECORD OF BIRTH
+<lb/>Alice Irine Harrison
+<lb/>Sept: 3<hi rend="sup">d</hi> ‐ 1905
+<lb/>Hornby N.Y.
+<lb/>George Elmer Harrison
+<lb/>Mary Anna Harrison
+<lb/>” ” McLaughlin
+<pb n="16" facs="#page-015"/>
+<lb/>Class of Nineteen Hundred Twenty Four
+<lb/>Corning Northside High School
+<lb/>announces its Commencement
+<lb/>Tuesday evening, June twenty‐fourth
+<lb/>at eight o’clock
+<pb n="17" facs="#page-016"/>
+<lb/>STATE OF NEW YORKDEPARTMENT OF HEALTHBureau of Vital RecordsESP Tower Bldg.Albany, N.Y. 12237APPLICATION FOR GENEALOGICAL SEARCHESTYPE OF RECORD DESIRED (Check One)1X| Birth I I DeathYears to be searched__Name Lswis Yilliaii MosiispI I Marr i a^1884TYPE OF RECORD DESIRED (Check One)(Other spellings or versions of this nameDate or approximate year of birth June 8, I884Place of birth Madison County, Nevv YQi'k.T Name of spouse, if anyPearl Mae Colvinmarriage Juldeath Nov. 2Date or approximate year ofDate or approximate year ofPlace of deathName of father Vv'illiam George MosherMaiden name of mother Alta Amelia Lpve.ioyHamilton. Madison Co-gnty.YearI [ DeathsearchedI I Marriaj1 3b2New York(other spellings or versionsor approximate year of birthof birthof spouse, if anyor approximate yearDate or approximate yearPlace of deathName of fatherMaiden name of motherofofmarr 1 a^de athof this name)TYPE OF RECORD DESIRED (Check One),□Birth De athMarri aYears to be searchedName AliceIrenege19C1;OF RECORD DESIRED (Check One[ I MarriageI I DeathHarrisonI [ BirthYears to beNames earched(Other spellings or versions of this name)Date or approximate year of birth Sept. i. ^Place of birth Hornby. Steuben County. Hew York—Name of spouif any Frederick Colvin Mosher^—Date or approximate year of marriage July 8. 1984Date or approximate year of death A,jril 8. 1971Place of death Wilmington. Nevv Castle County. DName of father G-eorge Elmer Harrison ^Maiden name of mother M3.rv Ann iViCL3.U&gt;:&lt;l
+<lb/>ilin
+<lb/>(Other spellings or versions of this nameDate or approximate year of birthPlace of birthName of spouse, if any ^Date or approximate year ofDate or approximate year ofPlace of deathName of fatherMaiden name of mothermarriadeathPlease printbe s ent:nameand address where record shouldNameChris MosherAddress^City1211 Brook DriveVi'ilminvtonstate DETo the best of my knowledge the personsrecords of birth and marriage requestedapplication are decease,d. y} named inin thisthe/(StGNATURE OF APPLICANT)VS-34G(Rev.3/79:
+<pb n="18" facs="#page-017"/>
+<lb/>[facsimile copy of portrait photograph possibly of Alice Harrison]
+<pb n="19" facs="#page-018"/>
+<lb/>[facsimile copy of portrait photograph possibly of Mabel Luella Upham]
+<pb n="20" facs="#page-019"/>
+<lb/>THE ORIGINAL IS IN A CARDBOARD HOLDER THAT SAYS
+<lb/>"MABEL 1921"
+<lb/>I DON'T KNOW OF ANY MABEL.
+<lb/>Could be Mabel Upham Wissick
+<lb/>friend &amp; neighbor in Lebanon [she probably meant Hamilton].
+<lb/>[Alta Mosher Benedict]
+</ab>
+    </body>
+  </text>
+</TEI>

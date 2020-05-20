@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher fred ssa records</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_ssa_records/p-010.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>REQUEST FOR SOCIAL SECURITY EARNINGS INFORMATION
+<lb/>Form Approved
+<lb/>0MB No. 0960-0525
+<lb/>Form SSA-7050-F4 (2-96) (Formerly SSA-7050-F3 Destroy prior editions) Printed on recycled paper
+<lb/>2. Certified Yearly Totals of Earnings
+<lb/>Includes total earnings for each year but does not include
+<lb/>the names and addresses of employers.
+<lb/>PRIVACY ACT NOTICE: We are authorized to collect this information under section 205 of the Social Security Act, and the Federal Records Act of 1 950
+<lb/>(64 Stat. 583). It is needed so we can identify your records and prepare the statement you request. Vou do not have to furnish the information, but failure
+<lb/>to do so may prevent your request from being processec^.
+<lb/>The Paperwork Reduction Act of 1995 requires us to notify.You that this information collection is in accordance vvith the clearance requirements of
+<lb/>section 3507 of the Paperwork Reduction Act of 1995. We may not conduct or sponsor, and you are not required to respond to, a collection of
+<lb/>InformatiorMjnless it displays a valid .t. —
+<lb/>TIME IT TAKES TO COMPLETE THIS FORM
+<lb/>We estimate that it will take you about 11 minutes to com]
+<lb/>facts and fill out the form. If you have comments or suggestions on
+<lb/>Officer; l-A-21 Operations BIdg., Baltimore, MD 21235-0001. Send only comments relating to our
+<lb/>requests for Social Security cards and other claims-related Information should be sent to your Iccc!
+<lb/>Social Security Administration In the U.S. Government section of your telepjione^directonn
+<lb/>INFORMATION ABOUT YOUR REQUEST
+<lb/>iplete this form. This includes the time it will take to read the instructions, gather the necessary
+<lb/>this estimate, write to the Social Security Administration, ATTN: Reports Clearance
+<lb/>z-r "time It takes" estimate to the office listed above. All
+<lb/>local Social Security office, whose address Is listed under
+<lb/>*Use This Form If You Need
+<lb/>1. Certified/Non-Certified Detailed Earnings Information
+<lb/>includes periods of employment or self-employment and the
+<lb/>names and addresses of employers.
+<lb/>How Do I Get This Information?
+<lb/>You need to complete the attached form to tell
+<lb/>us what information you want.
+<lb/>Can I Get This Information For Someone Else?
+<lb/>Yes, if you have their written permission. For
+<lb/>more information, see page 3.
+<lb/>Who Can Sign On Behalf Of The Individual?
+<lb/>The parent of a minor child, or the legal guardian
+<lb/>of an individual who has been declared legally
+<lb/>incompetent, may sign if he/she is acting on
+<lb/>behalf of the individual.
+<lb/>Is There A Fee For This Information?
+<lb/>1. Certified/IMon-Certified-Detailed
+<lb/>Earnings Information
+<lb/>i^ally charge a fee for detailedYes, we u3|ially charge a fee for detailed
+<lb/>information. In most cases, this information
+<lb/>is used for purposes NOT directly related to
+<lb/>Social Security such as for a private ^
+<lb/>pension plan or personal injury suit. The fee
+<lb/>chart on page 3 gives the amount of the
+<lb/>charge.
+<lb/>Sometimes, there is no charge for detailed
+<lb/>information. If you have reason to believe
+<lb/>your earnings are not correct (for example,
+<lb/>you have previously received earnings
+<lb/>information from us and it does not agree
+<lb/>with your records), we will supply you with
+<lb/>more detail for the period in question.
+<lb/>Occasionally, earnings amounts are wrong
+<lb/>because an employer did not correctly
+<lb/>2. Certified Yearly Totals of Earnings
+<lb/>Yes, there is a fee of $15 to certify yearly
+<lb/>totals of earnings. Certification is usually not
+<lb/>necessary unless you plan to use the
+<lb/>Information in court.
+<lb/>3. Method of Payment
+<lb/>Enclose a check or money order for the entire
+<lb/>fee required. Payment can also be made by
+<lb/>credit card. To do so, complete page 4 of this
+<lb/>form and return it with your request form.
+<lb/>• Can The Fee Be Waived or Reduced?
+<lb/>Yes, if you show that giving the information to
+<lb/>you will benefit the general public. Send your
+<lb/>explanation with this form to the Freedom of
+<lb/>Information Officer, Social Security
+<lb/>Administration, Baltimore, Maryland 21235.
+<lb/>DO NOT USE THIS FORM FOR;
+<lb/>Non-certified yearly totals of earnings
+<lb/>This service is free to the public.
+<lb/>These totals can be obtained by dalling '
+<lb/>1-800-772-1213 to receive Form SSA-7004,
+<lb/>Request for Earnings and Benefit Estimate
+<lb/>Statement.
+<lb/>report earnings or earnings are credited to
+<lb/>the wrong person. In situations like these,
+<lb/>we will send you detailed information, at no
+<lb/>charge, so we can correct your record.
+<lb/>Be sure to show the year(s) involved on the
+<lb/>request form and explain why you need the
+<lb/>information. If you do not tell us why you
+<lb/>need the information, we will charge a fee.
+<lb/>We will certify the detailed earnings
+<lb/>information for an additional fee of $15.00.
+<lb/>Certification is usually not necessary unless
+<lb/>you plan to use the information in court.
+<pb n="2" facs="#page-001"/>
+<lb/>1. From whose record do you need the earnings Information?
+<lb/>Print the Name, Social Security Number (SSN), and date of birth below.
+<lb/>Your Reference Number
+<lb/>h  Colviio
+<lb/>Social Security , , / ^ ̂
+<lb/>Number OOgb
+<lb/>Other Name(s) Used
+<lb/>(Include Maiden Name)
+<lb/>2. What kind of information do you need?
+<lb/>Detailed Earnings Information I
+<lb/>(If you check this block, tell us befevw
+<lb/>why you need this information.)
+<lb/>$bAR CH
+<lb/>Date of Birth
+<lb/>For the period(s) / year(s):
+<lb/>CH Certified Total Earnings For Each Year. For the year(s):
+<lb/>(Check this box only if you want the information
+<lb/>certified. Otherwise, call 1-800-772-1213
+<lb/>to request Form SSA-7004, Request for Earnings
+<lb/>and Benefit Estimate Statement)
+<lb/>3. If you owe us a fee for this detailed earnings information, enter the amount due
+<lb/>using the chart on page A $
+<lb/>Do you want us to certify the information? Cj! Yes 0
+<lb/>If yes, enter $15.00 ... . B
+<lb/>ADD the amounts on lines A and B, and
+<lb/>enter the TOTAL amount
+<lb/>^ Loo
+<lb/>Lo o
+<lb/>•  You can pay by CREDIT CARD by completing and returning the form on page 4, or
+<lb/>•  Send your (3HECK or MONEY ORDER for the amount on line C with the request
+<lb/>and make check or money order payable to "Social Security Administration."
+<lb/>•  DO NOT SEND CASH.
+<lb/>4. I am the individud to whom the record pertains (or a person who is authorized to sign on behalf of that individual). I
+<lb/>understand that ̂ y false representation to knowingly and willfully obtain information from Social Security records is
+<lb/>punishable by a fine of not more than $5,000 or one year in prison.
+<lb/>^^ p..
+<lb/>SIGN your name here I I
+<lb/>(Do not print) &gt; /X s Date j?/ l&amp;fl&amp;cxo
+<lb/>5. Tell us where you want the information sent. (Please print)
+<lb/>Name Mo &lt; H sf-
+<lb/>Address U\ pt/yg pR
+<lb/>6. Mail Completed Form(s) To:
+<lb/>Social Security Administration
+<lb/>Office of Central Records Operations
+<lb/>P.O. Box 129
+<lb/>Baltimore, Maryland 21235
+<lb/>City, State &amp; ZIP Code $HE&gt;-TohJ CT Q i "4 gH
+<pb n="3" facs="#page-002"/>
+<lb/>REQUEST FOR SOCIAL SECURITY EARNINGS INFORMATION
+<lb/>How Much Do I Have To Pay For Detailed Earnings?
+<lb/>1- Count the number of years for which you need detailed earnings information. Be sure to add in both the first and
+<lb/>last year requested. However, do not add in the current calendar year since this information is not yet available.
+<lb/>2. Use the chart below to determine the correct fee.
+<lb/>Number of Years
+<lb/>Requested
+<lb/>Number of Years
+<lb/>Requested
+<lb/>Number of Years
+<lb/>Requested
+<lb/>$15.00
+<lb/>17.50 'n t
+<lb/>20.00
+<lb/>22.50
+<lb/>25.00
+<lb/>27.00
+<lb/>29.00
+<lb/>31.00
+<lb/>33.00
+<lb/>35.00
+<lb/>36.75
+<lb/>38.50
+<lb/>40.25
+<lb/>42.00
+<lb/>$43.75
+<lb/>45.50
+<lb/>47.25
+<lb/>49.00
+<lb/>50.75
+<lb/>52.50
+<lb/>54.00
+<lb/>55.50
+<lb/>57.00
+<lb/>58.50
+<lb/>60.00
+<lb/>61.50
+<lb/>63.00 40 ''I
+<lb/>$64.50
+<lb/>66.00
+<lb/>67.50
+<lb/>68.75
+<lb/>70.00
+<lb/>71.25
+<lb/>72.50
+<lb/>73.75
+<lb/>75.00
+<lb/>76.25
+<lb/>77.50
+<lb/>78.75
+<lb/>80.00
+<lb/>For Requests Over 40 Years, Please Add 1 Dollar For Each Additional Year.
+<lb/>• Whose Earnings Can Be Requested?
+<lb/>1. Your Earning
+<lb/>You can request earnings information from your own
+<lb/>record by completing the attached form; we need your
+<lb/>handwritten signature. If you sign with an "X", your
+<lb/>mark must be witnessed by two disinterested persons
+<lb/>who must sign their name and address.
+<lb/>2. Someone Else's Earnings
+<lb/>You can request earnings information from the record
+<lb/>of someone else if that person tells us in writing to give
+<lb/>the information to you. This writing or "authorization"
+<lb/>must be presented to us within 60 days of the date it
+<lb/>was signed by that person.
+<lb/>3. A Deceased Person's Earnings
+<lb/>You can request earnings information from the record
+<lb/>of a deceased person if you are the legal representative
+<lb/>of the estate, a survivor (that is, the spouse, parent,
+<lb/>child, divorced spouse or divorced parent), or an
+<lb/>individual with a material interest (example - financial)
+<lb/>who is an heir at law, next of kin, beneficiary under the
+<lb/>will or donee of property of the decedent.
+<lb/>Proof of death must be included with your request.
+<lb/>Proof of appointment as representative or proof of your
+<lb/>relationship to the deceased must also be included.
+<pb n="4" facs="#page-003"/>
+<lb/>YOU CAN MAKE YOUR PAYMENT BY CREDIT CARD
+<lb/>As a convenience, we offer you the option to make your payment by credit card. However, regular credit card rules will apply.
+<lb/>You may also pay by check or money order.
+<lb/>We Only Accept MasterCard and VISA
+<lb/>Please fill in all the information below and return this form along with your request to;
+<lb/>Social Security Administration
+<lb/>Office of Central Records Operations
+<lb/>P.O. Box 129
+<lb/>Baltimore, Maryland 21235
+<lb/>Note: Ploasefread Paperwork/Privacy Act Notice
+<lb/>NUMBER HOLDER'S SSN
+<lb/>{If more than one request, only list one SSN)
+<lb/>CHECK ONE MasterCard □ VISA □
+<lb/>Credit Card Holder's Name
+<lb/>{Enter the name from the credit card)
+<lb/>Credit Card Holder's Address
+<lb/>Daytime Telephone Number
+<lb/>First, Middle Initial, Last Name
+<lb/>Number &amp; Street
+<lb/>City, State, Zip Code
+<lb/>Amount Charged $
+<lb/>Telephone Number
+<lb/>Credit Card Number
+<lb/>Credit Card Expiration Date
+<lb/>Year
+<lb/>Credit Card Holder's Signature
+<lb/>DO NOT WRITE IN THIS SPACE
+<lb/>OFFICE USE ONLY &gt;
+<lb/>Authorisation
+<lb/>Name
+<lb/>PAPERWORK/PRIVACY ACT NOTICE
+<lb/>The Social Security Administration (SSA) has authority to collect the information requested on this form under section
+<lb/>205 of the Social Security Act. Giving us this information is voluntary. You do not have to do it. We will need this
+<lb/>information only if you choose to make payment by credit card. You do not need to fill out this form if you choose
+<lb/>another means of payment (for example, by check or money order).
+<lb/>If you choose the credit card payment option, we will provide the information you give us to the banks handling your
+<lb/>credit card account and SSA's account. We may also provide this information to another person or government agency
+<lb/>to comply with federal laws requiring the release of information from our records. You can find these and other routine
+<lb/>uses of information provided to SSA listed in the Federal Register. If you want more information about this, you may call
+<lb/>or write any Social Security Office.
+<lb/>Form SSA-7050-F4 (2-96) *U.S. Government Printing Office: 1996 - 404-816/40034
+<pb n="5" facs="#page-004"/>
+<lb/>Social Security Administration
+<lb/>Retirement, Survivors and Disability Insurance
+<lb/>Earnings Record Information
+<lb/>From: Office of Central Operations
+<lb/>300 North Greene Street, Baltimore, Maryland 21201
+<lb/>FREDERICK C MOSHER
+<lb/>41 BROOK PINE DR
+<lb/>SHELTON CT 06484
+<lb/>Date: "JUN 29 2000
+<lb/>Refer to: S2RB1A/
+<lb/>Your Reference:
+<lb/>We are sending you the statement of earnings you requested for the number holder shown below.
+<lb/>Number Holder's Name:
+<lb/>FREDERICK C MOSHER
+<lb/>Social Security Number:
+<lb/>116-05-0086
+<lb/>If we recently received earnings information, it may not yet be shown on this statement.
+<lb/>Please read the back of this letter for more information about Social Security records.
+<lb/>If you have any questions, you should call, write or visit any social Security office. If you visit,
+<lb/>please bring this letter. It will help us answer questions.
+<lb/>Enclosures:
+<lb/>Original Letter
+<lb/>Earnings Statement
+<lb/>Control Number:
+<lb/>Remittance CTL Number:
+<lb/>Department of Health and Human Services
+<lb/>Social Security Administration
+<lb/>Form SSA-L460 (4-91) Destroy Prior Editions
+<pb n="6" facs="#page-005"/>
+<lb/>INFORMATION ABOUT SOCIAL SECURITY RECORDS
+<lb/>Our records show the amount of earnings reported, not the amount of Social Security taxes
+<lb/>which were paid.
+<lb/>Wages were first covered under Social Security in 1937. Therefore, 1937 is the first year for
+<lb/>which earnings may be shown on our records. Employers were required to report earnings
+<lb/>semi-annually in 1937, and on a quarterly basis for the years from 1938 through 1977.
+<lb/>Beginning with 1978, employers are required to report earnings annually.
+<lb/>Our records do not show the exact dates of employment (month and day) because we don't
+<lb/>need this information to figure Social Security benefits. Employers do not give us this
+<lb/>information.
+<lb/>Our records may not show earnings from last year because it takes some time to process
+<lb/>earnings reports from employers.
+<lb/>Each year, there is a maximum amount of earnings which are subject to Social Security taxes
+<lb/>and are used to compute benefits. If a person earns more than this maximum amount, the
+<lb/>earnings statement will usually show the maximum rather than the total earnings.
+<lb/>Maximum Yearly
+<lb/>Earnings Taxed
+<lb/>for Social Security Years
+<lb/>Maximum Yearly
+<lb/>Earnings Taxed
+<lb/>for Social Security
+<lb/>$ 3,000
+<lb/>$ 3,600
+<lb/>$ 4,200
+<lb/>$ 4,800
+<lb/>$ 6,600
+<lb/>$ 7,800
+<lb/>$ 9,000
+<lb/>$10,800
+<lb/>$13,200
+<lb/>$14,100
+<lb/>$15,300
+<lb/>$16,500
+<lb/>$17,700
+<lb/>$22,900
+<lb/>$25,900
+<lb/>$29,700
+<lb/>$32,400
+<lb/>$35,700
+<lb/>$37,800
+<lb/>$39,600
+<lb/>$42,000
+<lb/>$43,800
+<lb/>$45,000
+<lb/>$48,000
+<lb/>$51,300
+<lb/>•  Beginning in 1951, self-employed persons could also receive Social Security credit for their
+<lb/>work. The maximum amounts of self-employment earnings that are subject to Social
+<lb/>Security taxes and are used to compute benefits are the same as those shown above.
+<lb/>[] Please read the enclosed pamphlet(s) for more information.
+<lb/>•  In 1991, the maximum yearly earnings taxed for Hospital Insurance is $125,000.
+<lb/>Form SSA-L460 (4-91)
+<pb n="001" facs="#page-006"/>
+<lb/>SSA-1826 ITEMIZED STATEMENT OF EARNINGS
+<lb/>VERSION 1984.002 * * * FOR SSN 116-05-0086 ^
+<lb/>FROM: SOCIAL SECURITY ADMINISTRATION
+<lb/>OFFICE OF CENTRAL RECORDS OPERATIONS
+<lb/>BALTIMORE, MARYLAND 21235-0000
+<lb/>FREDERICK MOSHER
+<lb/>41 BROOK PINE DRIVE
+<lb/>NUMBER HOLDER NAME
+<lb/>FREDERICK C MOSHER
+<lb/>SHELTON CT 06484
+<lb/>PERIOD REQUESTED JANUARY 1937 THRU DECEMBER 1992
+<lb/>YEAR JAN - MARCH APRIL -JUNE JULY - SEPT OCT - DEC
+<lb/>EMPLOYER NUMBER: 15-0273440
+<lb/>COLGATE INN INC
+<lb/>PAYNE NY 00000-0000
+<lb/>1937 104.05 41.55 $
+<lb/>EMPLOYER NUMBER: 94-0313318
+<lb/>BECHTEL PRICE CALLAHAN
+<lb/>220 BUSH ST
+<lb/>SAN FRANCISCO CA 00000-0000
+<lb/>1943
+<lb/>1944 406.50
+<lb/>1 ,339.88 1 ,599.31 1 ,298.81 $
+<lb/>$
+<lb/>EMPLOYER NUMBER: 94-0295280
+<lb/>GUY F ATKINSON CO
+<lb/>1001 BAYHILL DR 2ND FLR
+<lb/>SAN BRUNO CA 94066-3061
+<lb/>1944 1 ,293.00
+<lb/>EMPLOYER NUMBER: 15-0527427
+<lb/>JOHN J HARVEY CO INC
+<lb/>496 FRENCH RD
+<lb/>UTICA NY 13502-0000
+<lb/>1953 48. 18
+<lb/>595.50
+<lb/>PAGE 001
+<pb n="002" facs="#page-007"/>
+<lb/>SSA-1826 ITEMIZED STATEMENT OF EARNINGS
+<lb/>VERSION 1984.002 * * * FOR SSN 116-05-0086 * * *
+<lb/>YEAR JAN - MARCH APRIL -JUNE JULY - SEPT OCT - DEC
+<lb/>EMPLOYER NUMBER: 13-1522353
+<lb/>CONSOLIDATED CONSTRUCTORS INC -DEL-
+<lb/>616 CONGRESS ST
+<lb/>PORTLAND ME 04101-0000
+<lb/>1953
+<lb/>1958
+<lb/>1959
+<lb/>1 ,560.00
+<lb/>1 ,560.00
+<lb/>1 ,690.00
+<lb/>1 ,690.00
+<lb/>EMPLOYER NUMBER: 04-1758595
+<lb/>EDMUND J RAPPOLI CO
+<lb/>515 MOSS AVE
+<lb/>CAMBRIDGE MA 00000-0000
+<lb/>714.18
+<lb/>950.00
+<lb/>910.00
+<lb/>225.60 $
+<lb/>1954 347.88
+<lb/>15-0238325EMPLOYER NUMBER: 15-0238325
+<lb/>FA BALLARD
+<lb/>FRED BALLARD CONSTRUCTION CO
+<lb/>320 BRIDGE ST
+<lb/>SOLVAY NY 13209-0000
+<lb/>1 ,386.00 396.00 $
+<lb/>1954 811.63 $
+<lb/>EMPLOYER NUMBER: 04-2042955
+<lb/>BEACON CONST CO OF MASS INC
+<lb/>102 HANO ST
+<lb/>ALLSTON MA 02134-0000
+<lb/>1955 193.88
+<lb/>EMPLOYER NUMBER: 11-0629257
+<lb/>CLAYBURN CONTRACTING CORP
+<lb/>3 HUNTER ST
+<lb/>LONG ISLANDCITY NY 11101-0000
+<lb/>1955 845.00
+<lb/>PAGE 002
+<pb n="003" facs="#page-008"/>
+<lb/>SSA-1826 ITEMIZED STATEMENT OF EARNINGS
+<lb/>VERSION 1984.002 * * * FOR SSN 116-05-0086 * * *
+<lb/>YEAR JAN - MARCH APRIL -JUNE JULY - SEPT OCT - DEC
+<lb/>EMPLOYER NUMBER: 15-0528258
+<lb/>D H FELLOWS CONSTRUCTION CORP
+<lb/>PO BOX 98
+<lb/>MINOA NY 13116-0000
+<lb/>1955
+<lb/>1956
+<lb/>23.00
+<lb/>EMPLOYER NUMBER: 13-1790095
+<lb/>INGARDIA CONSTRUCTION CO INC
+<lb/>26 EAST 1ST ST
+<lb/>MOUNT VERNON NY 10550-0000
+<lb/>1955
+<lb/>1956 51 .75
+<lb/>EMPLOYER NUMBER: 15-0348537
+<lb/>IRISH CONSTRUCTION CO INC
+<lb/>205 ONEIDA ST
+<lb/>SYRACUSE NY 13202-0000
+<lb/>1956 670.86
+<lb/>EMPLOYER NUMBER: 13-5493340
+<lb/>VENATOR GROUP SPECIALTY INC
+<lb/>% PAYROLL TAX &amp; ACCOUNTING
+<lb/>PO BOX 2663
+<lb/>HARRISBURG PA 17105-2663
+<lb/>1956
+<lb/>EMPLOYER NUMBER: 15-0515302
+<lb/>MCKAY CONSTRUCTION CO INC
+<lb/>1 12 FARRIER AVE
+<lb/>ONEIDA NY 13421-0000
+<lb/>1956
+<lb/>1957 1 ,440.00 1 ,680.00
+<lb/>1 ,567.45
+<lb/>902.00
+<lb/>762.85 $
+<lb/>1 ,030.25 $
+<lb/>720.00
+<lb/>1 ,080.00
+<lb/>148.00 $
+<lb/>PAGE 003
+<pb n="004" facs="#page-010"/>
+<lb/>SSA-1826 ITEMIZED STATEMENT OF EARNINGS
+<lb/>VERSION 1984.002 * * * FOR SSN 116-05-0086
+<lb/>YEAR JAN - MARCH APRIL -JUNE JULY - SEPT OCT - DEC TOTAL
+<lb/>EMPLOYER NUMBER: 15-0570311
+<lb/>BERSANI REALTY &amp; CONSTRUCTION INC
+<lb/>700 E WATER ST
+<lb/>SYRACUSE NY 13210-0000
+<lb/>1 ,505.00
+<lb/>4,800.002,275.00 2,275.00 250.00
+<lb/>SELF EMPLOYMENT
+<lb/>2,570.17
+<lb/>1  ,971.74
+<lb/>2,620.77
+<lb/>1  ,855.00
+<lb/>1  ,965.00
+<lb/>481 .00
+<lb/>2,857.00
+<lb/>2,964.00
+<lb/>3,303.00
+<lb/>702.00
+<lb/>3, 156.00
+<lb/>596.00
+<lb/>3,005.00
+<lb/>2,182.00
+<lb/>871 .00
+<lb/>PAGE 004
+<pb n="005" facs="#page-009"/>
+<lb/>SSA-1826 ITEMIZED STATEMENT OF EARNINGS
+<lb/>VERSION 1984.002 * * * FOR SSN 116-05-0086 ^
+<lb/>YEAR JAN - MARCH APRIL -JUNE JULY - SEPT OCT - DEC
+<lb/>1971
+<lb/>1972
+<lb/>1978
+<lb/>1981
+<lb/>1982
+<lb/>1983
+<lb/>1984
+<lb/>1985
+<lb/>OUR RECORDS DO NOT SHOW THE AMOUNT OF EARNINGS IN EACH QUARTER
+<lb/>OF 1937 BECAUSE EMPLOYERS WERE REQUIRED TO FILE REPORTS ONLY TWICE
+<lb/>IN THAT YEAR
+<lb/>THERE ARE NO OTHER EARNINGS RECORDED UNDER THIS SOCIAL SECURITY
+<lb/>NUMBER FOR THE PERIOD(S) REQUESTED.
+<lb/>EARNINGS FOR THE YEARS AFTER 1998 MAY NOT BE SHOWN, OR ONLY
+<lb/>PARTIALLY SHOWN, BECAUSE THEY MAY NOT YET BE ON OUR RECORDS.
+<lb/>PAGE 005 END
+</ab>
+    </body>
+  </text>
+</TEI>

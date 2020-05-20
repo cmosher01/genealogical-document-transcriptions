@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>spohner strough adle genealogy nolan</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-035.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-036" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-036.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-037" url="https://mosher.mine.nu/images/genealogy/main/sources/old/spohner/spohner_strough_adle_genealogy_nolan/p-037.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>NjNf
+<lb/>y
+<lb/>/ g
+<pb n="2" facs="#page-001"/><lb/>Descendants of Mary Eleanor Spohner
+<lb/>U Mary Eleanor Spohner b; June 29, 1863 in Smithfield Township, Madison Co., NY d: January 16, 1941 in
+<lb/>Canastota, New York
+<lb/>.. +James D. Moon b: October 05, 1852 in Smithfield Township, Madison Co., NY m: May 13, 1885 in
+<lb/>Morrisville, New York d: June 13, 1922 in Oneida, New York
+<lb/>.... 2 Edward James Moon b: April 10, 1886 in Pratts Hollow, New York d: February 07, 1979 in Waterville,
+<lb/>New York
+<lb/>+Ida Roseltha Adams b: December 28, 1887 in Fenner, New York m: January 26, 1910 in Madison
+<lb/>County, New York d: May 23, 1976 in Earlville, New York
+<lb/>3 Harold Dudley Moon b: April 21, 1912 in Morrisville, New York d; October 01, 1976 in Eustis,
+<lb/>Florida
+<lb/>3 Doris Gertrude Moon b: October 12, 1914 d: April 28, 1944 in Madison, New York
+<lb/>+Arthur Leland Godfrey b: 1916 m: March 07, 1935 in Madison Coimty, New York d: 1984
+<lb/>4 Howard Raymond Godfrey b: July 06, 1934 d: May 28, 1993
+<lb/>+Mary Calhoun
+<lb/>4 Dolores Godfrey b: January 23, 1938
+<lb/>+Donald Lynn Williams b: August 31, 1928 in Kenwood, New York m: January 02, 1956 d:
+<lb/>March 01, 1984 in Eustis, Florida
+<lb/>5 Dianne Williams b: September 10, 1956 in Hamilton, New York
+<lb/>+Steven Algustowski m: April 28, 1979 in Utica, New York
+<lb/>6 Amy Lynn Algustowski b: in Utica, New York
+<lb/>6 Michelle Lee Algustowski b: Febmary 10, 1975 in Utica, New York
+<lb/>7 Gabriel A. Walls b: July 08, 1994 in Utica, New York
+<lb/>7 Alexandra Machaela Walls b: January 16, 1997 in Utica, New York d: March 02,
+<lb/>1997 in Utica, New York
+<lb/>5 Danial Leland Williams b: December 21, 1959 in Hamilton, New York
+<lb/>5 Dale John Williams b: November 20, 1961 in Utica, New York
+<lb/>+Amy Lyim Baumgarten b: Febmary 15, 1960 m: December 01, 1993 in West Jordan,
+<lb/>Utah
+<lb/>6 Morgan Jessica Williams b: April 01, 1997
+<lb/>*2nd Husband of Dolores Godfrey:
+<lb/>+Robert A. Dodge b: September 08, 1934 in Schuyler, New York m: November 02, 1991 in
+<lb/>Illion, New York
+<lb/>4 James Lee Godfrey b: December 20, 1942
+<lb/>+Georgena Cook
+<lb/>5 Paula Kay Godfrey
+<lb/>5 Carrie Godfrey
+<lb/>+Michael Gobi m: May 1998 in Rome, New York
+<lb/>*2nd Wife of James Lee Godfrey:
+<lb/>+Joaime Reed
+<lb/>5 James Joseph Godfrey b: March 1981
+<lb/>5 Michael James Godfrey
+<lb/>3 Howard Edgar Moon b: August 29, 1916 in Pine Woods, New York d: May 09, 1989 in
+<lb/>Hubbardsville, New York
+<lb/>+Jants Louise Eastman b: October 31 in Waterville, New York m: November 01, 1936 in Smyrna,
+<lb/>New York d: April 19, 1999 in Termesse
+<lb/>4 Rosemary Louise Moon b: July 09, 1937 in Poolville, New York
+<lb/>4 Judy Caroline Moon b: Febmary 04, 1939 in Poolville, New York
+<lb/>+Wayne Ronley Black b: August 12, 1938 m: June 1957
+<lb/>5 Jodi Lynn Black
+<lb/>H-Ron Ogden m: July 03, 1976
+<lb/>6 Daniel Elmous Ogden b: October 13, 1976
+<lb/>6 Brandon Ewald Ogden b: March 09, 1978
+<lb/>5 Kari Sue Black b: September 24, 1959
+<lb/>+Gary Pedrick
+<lb/>6 Michael Leigh Pedrick b: January 21, 1979
+<lb/>5 Kelly Jo Black b: July 11, 1961
+<lb/>+John Leon Maine m: September 12, 1981
+<lb/>6 Joshua James Maine b: September 08, 1980
+<lb/>6 Jamie Lynn Maine b: October 18, 1982
+<lb/>5 Karen Dee Black b: March 04, 1963
+<lb/>+Michael Ritenour m: June 29, 1985
+<lb/>6 Kenneth Michael Ritenour b: January 1987
+<lb/>6 Joanna Caroline Ritenour b: September 07, 1992
+<lb/>*2nd Husband of Judy Caroline Moon:
+<lb/>+George Flummer m: Abt. 1977
+<lb/>4 Arm Lee Moon b: July 01, 1942 in Hamilton, New York
+<pb n="3" facs="#page-002"/><lb/>+Donald Henry Staelens, Sr. b: January 09, 1939 in Madison, New York m; June 30, 1959 in
+<lb/>Hubbardsville, New York
+<lb/>.. 5 Dolli Ann Staelens b: July 10, 1960 in Hamilton, New York
+<lb/>+Stanley Niles m: September 1978 in West Edmeston, New York
+<lb/>6 Matthew Niles
+<lb/>6 Amanda Niles
+<lb/>6 Thomas Niles
+<lb/>.. *2nd Husband of Dolli Arm Staelens:
+<lb/>+Guy Allen Urben b: July 09, 1962 m: July 05, 1987
+<lb/>6 Thomas Urben
+<lb/>6 Katrina Urben b: April 20, 1991
+<lb/>5 Donald Heiuy Staelens, Jr. b: February 01, 1962 in Norwich, New York
+<lb/>+Victoria Tice b: March 23, 1970 m: September 15, 1991 in Oriskany Falls, New York
+<lb/>5 Howard Paul Staelens b: September 30, 1964 in Norwich, New York
+<lb/>+Debra Jean Hicks b: January 19, 1965 m; May 25, 1987 in Norwich, New York
+<lb/>6 Paul Joseph Staelens b: June 04, 1988
+<lb/>6 Kayla Lorain Staelens b: June 19, 1991
+<lb/>5 Joleen Ellen Staelens b: October 16, 1970 in Hamilton, New York
+<lb/>+John Anthony Geruntino b: April 03, 1971 in Syracuse, New York m: May 08, 1993 in
+<lb/>Hamilton, New York
+<lb/>6 Janeen Ellen Gemntino b: July 12, 1996 in Nashville, Termesse
+<lb/>5 Gregory Allyn Staelens b: March 09, 1972 in Hamilton, New York
+<lb/>+Frances Eastwood b: April 20, 1970 m: January 08, 1994 in Sherbume, New York
+<lb/>6 Anthony Staelens b: July 23, 1992
+<lb/>6 Randall Staelens b: October 08, 1993
+<lb/>.. 3 Kermeth James Moon b; September 30, 1918 in Morrisville, New York
+<lb/>+Dorothy Irene Williams b: September 23, 1927 in Sherrill, New York m: June 21, 1946 in
+<lb/>Bouckville, New York
+<lb/>4 Edward John Moon b: March 23, 1947
+<lb/>+Nancy Lee Crawford m: March 14, 1969
+<lb/>5 Kenneth Franklin Moon b: January 07, 1970 in Elgin Air Force Base, Florida
+<lb/>5 David Edward Moon b: July 18, 1972 in Eustis, Florida
+<lb/>*2nd Wife of Edward John Moon:
+<lb/>+Gwendolyn Carol Broome b: April 18, 1942 m: May 21, 1978 in Eustis, Florida
+<lb/>5 Jeffery Scott Moon b: October 15, 1978
+<lb/>4 William James Moon b: January 29, 1953 in Hamilton, New York
+<lb/>+Beverly Rae Cassick b: January 21, 1954 in Quincy, Massachusetts m: June 09, 1973 in
+<lb/>Bartow, Florida
+<lb/>5 Jason Allen Moon b: September 25, 1974 in Bartow, Florida
+<lb/>+Rose Fordham b: Febmary 19, 1976 in Boyton Beach, Florida m: August 30, 1996 in
+<lb/>Rowan Co., North Carolina
+<lb/>6 Kimber Celeste Moon b: July 27, 1997
+<lb/>5 Christine Marie Moon b: November 08, 1977 in Bartow, Florida
+<lb/>6 Jared Austin Moon b: September 21, 1998 in Mooresville, North Carolina
+<lb/>5 Marissa Dawn Moon b: October 19, 1992 in Lakeland, Florida
+<lb/>4 Allen Clifford Moon b: July 29, 1960 in Eustis, Florida
+<lb/>+Janice Coil b: November 03, 1956 m: May 23, 1983 in Eustis, Florida
+<lb/>5 Tiffany Renee Moon b: November 05, 1993 in Eustis, Florida
+<lb/>5 Seth Allen Moon b: July 13, 1999 in Eustis, Florida
+<lb/>Aaron Eugene Moon b: March 26, 1887 in Morrisville, New York d: August 21, 1887 in Pratts Hollow,
+<lb/>New York
+<lb/>Ella May Moon b: August 19, 1888 in Morrisville, New York d: July 02, 1963
+<lb/>+Herbert Fenwick
+<lb/>Myrtle Moon b: September 21, 1890 d: November 08, 1984
+<lb/>+Floyd J. Wood b: June 21, 1885 m: September 17, 1910 d: December 18, 1963
+<lb/>.. 3 Floyd Llewellyn Wood b: September 06, 1914
+<lb/>+Hazel Keister b: November 11 m: May 02, 1940
+<lb/>4 Thomas Wood b: March 05, 1949
+<lb/>4 James Wood b: September 27, 1951
+<lb/>.. 3 Benjamin James Wood b: June 26, 1911 d: July 30, 1971
+<lb/>+Adalaide Adela Barber b: 1912 m: June 07, 1933
+<lb/>4 Wellington Wood b: August 11, 1934
+<lb/>4 Rebeka Marie Wood b: June 10, 1941
+<lb/>+Frederick Allen Derochie II b: Febmary 21, 1943 in Syracuse, New York m: April 13, 1963
+<lb/>in New Woodstock, New York
+<lb/>5 Frederick Allen Derochie III b: July 14, 1968 in Syracuse, New York
+<pb n="4" facs="#page-003"/><lb/>+Tammi Lyn Burgess b: September 04, 1971 in Syracuse, New York m: in Lebanon, New
+<lb/>York
+<lb/>6 Natalie Elizabeth Derochie b: September 04, 1991 in Hamilton, New York
+<lb/>6 Jacob Frederick Derochie b: June 02, 1993 in Hamilton, New York
+<lb/>6 Nichalas Dale Derochie b: September 21, 1995 in Hamilton, New York
+<lb/>6 Gregory Allen Derochie b: September 21, 1995 in Hamilton, New York
+<lb/>5 Wendy Anne Derochie b: July 12, 1969 in Syracuse, New York
+<lb/>5 Brian Scott Derochie b: December 28, 1970 in Fayetteville, New York
+<lb/>+SusanMae Manwarren b: February 13, 1972
+<lb/>4 Benjamin Jerome Wood b: September 28, 1949
+<lb/>4 AnnabellWood b: July 02, 1952
+<lb/>3 Marion Wood b: November 14, 1912 d: June 21, 1994 in Inverness, Florida
+<lb/>+Arthur Davis b: 1903 d: January 1971 in Inverness, Florida
+<lb/>2 Fred Henry Moon b: April 12, 1892 in Morrisville, New York d: March 1970 in Hamilton, New York
+<lb/>... +Bertha Catherine Hendrickson b: December 14, 1895 m: June 19, 1916 d: June 29, 1970
+<lb/>3 Theodore H. Moon b: March 26, 1917 d: August 04, 1975
+<lb/>+Stephania R. Roussock b: April 03, 1916 m: September 11, 1937 d: July 15, 1994 in Hamilton,
+<lb/>New York
+<lb/>4 William Theodore Moon b: February 25, 1940 in Oneida, New York
+<lb/>+Constance Arm Dejaneiro b: Febmary 14, 1941 in Batavia, New York m: April 21, 1961 in
+<lb/>Batavia, New York
+<lb/>5 Todd William Moon b: January 23, 1962 in Batavia, New York
+<lb/>+Noelia Lee Millan
+<lb/>6 Alexandria Elizabeth Moon b: February 14, 1992
+<lb/>5 Suzanne Moon b: May 12, 1964 in Batavia, New York
+<lb/>5 John Martin Moon b: May 19, 1966 in Batavia, New York
+<lb/>+Della Fay Pease
+<lb/>6 Rebecca Lyrm Moon b: September 07, 1989
+<lb/>6 John William Moon b: September 17, 1991
+<lb/>6 Jessica Lee Moon b: April 30, 1994
+<lb/>5 Timothy Edward Moon b: July 22, 1974 in Batavia, New York
+<lb/>4 Beverly Ann Moon b: February 18, 1947
+<lb/>+Gordan Wales Miner b: March 06, 1944
+<lb/>5 Renee Stephanie Miner b: June 29, 1971
+<lb/>+Brad Anthony
+<lb/>6 Dominic Justin Anthony b: February 18, 1992
+<lb/>6 Mersadi Anthony b; July 21, 1997
+<lb/>*2nd Husband of Renee Stephanie Miner;
+<lb/>+Terence Curtis m: March 1992
+<lb/>6 Terence Curtis b: July 04, 1993
+<lb/>5 Sherri Beverly Miner b: June 04, 1972
+<lb/>4 Connie Marie Moon b: May 31, 1950
+<lb/>+Michael Rodger Woods b: February 22, 1950 m: April 04, 1970
+<lb/>5 Wanda Carol Woods b: March 27, 1971
+<lb/>+Daniel Allen Nolan b: February 21, 1968
+<lb/>6 Anna Nicole Nolan b: February 13, 1992
+<lb/>6 Amanda Catilyn Nolan b: July 27, 1993
+<lb/>5 Betty Arm Woods b: September 11, 1972
+<lb/>+Eric Thomas Schachtler b: October 23, 1965
+<lb/>6 Chelsea Marie Schachtler b: January 01, 1993
+<lb/>*Friend of Betty Ann Woods: b: September 11, 1972
+<lb/>+Bruce Fredric Jones b: May 29, 1969 in Syracuse, New York
+<lb/>6 Sabrina Arme Jones b: February 11, 1997 in Saranac Lake, New York
+<lb/>5 Wayne Michael Woods b: June 24, 1977
+<lb/>4 Jaqueline Mary Moon b: November 16, 1953 in Hamilton, New York
+<lb/>+Bradley Paul Pelky, Sr. b: April 13, 1951 in Saranac Lake, New York m: May 15, 1970 in
+<lb/>Saranac Lake, New York
+<lb/>5 Bradley Paul Pelky, Jr. b: August 16, 1970 in Saranac Lake, New York
+<lb/>+Gail Marie Clark m: December 10, 1994 in Madison, New York
+<lb/>6 Dustin John Pelky b: July 03, 1994
+<lb/>5 Theodore Paul Pelky b: October 31, 1972 in Saranac Lake, New York
+<lb/>+Lucinda Arm Crumb m: December 31, 1995 in Hamilton, New York
+<lb/>3 Alfred (Bud) Anchor Moon b: March 16, 1919 in Morrisville, New York d: May 14, 1993 in
+<lb/>Oriskany Falls, New York
+<lb/>+Stella Nellie Kula b: September 12, 1918 in Manchester, New Hampshire m: September 12, 1939
+<lb/>in Oriskany Falls, New York d: November 30, 1976 in Utica, New York
+<lb/>4 Catherine Bertha Moon b: February 10, 1945 in Utica, New York
+<pb n="5" facs="#page-004"/><lb/>+Norman Robert Schworm b: April 30, 1944 in Edmeston, New York m; January 05, 1968 in
+<lb/>Sherbume, New York
+<lb/>5 Michelle Lynn Schwonu b: November 25, 1972 in Lftica, New York
+<lb/>+Joseph Michael Vondauber b: June 29, 1973 in Ilion, New York m: September 26, 1998
+<lb/>in Manlius, New York
+<lb/>5 Valeri Sue Schworm b: August 17, 1974 in Norwich, New York
+<lb/>+Richard Osvoldic b: August 10, 1974 m: October 24, 1998 in Skanlateles, New York
+<lb/>*2nd Husband of Catherine Bertha Moon;
+<lb/>+John (Gappy) Fredrick Huber V b: July 23, 1943 in Geneva, New York m: August 01, 1992
+<lb/>in Sherbume, New York
+<lb/>4 Karen Nellie Moon b: May 19, 1949 in Utica, New York
+<lb/>+Dale (Pee Wee) William Nolan b: November 09, 1943 in Sangerfied, New York m: January
+<lb/>15, 1972 in Oriskany Falls, New York
+<lb/>5 Brent William Nolan b: Febmary 04, 1974 in Hamilton, New York
+<lb/>5 Chanda Lee Nolan b: September 15, 1975 in Hamilton, New York
+<lb/>+Jesse Lloyd b: May 17, 1974 in Rhode Island m; April 21, 1996 in Hilton Head, South
+<lb/>Carolina
+<lb/>*2nd Husband of Chanda Lee Nolan:
+<lb/>+Stephen Deponte b: December 1976 in Rhode Island m: May 29, 1999 in Jacksonville,
+<lb/>Florida
+<lb/>5 Shaun Alfred Nolan b: January 07, 1978 in Hamilton, New York
+<lb/>*2nd Wife of Alfred (Bud) Anchor Moon:
+<lb/>... +Rose Boulanger m: March 10, 1981
+<lb/>3 George Spohner Moon b: January 29, 1921 d: December 14, 1988
+<lb/>... +Jeanette Gloria Mercier b: January 09, 1927 m: November 09, 1946
+<lb/>4 Elizabeth Marie Moon b: April 02, 1947
+<lb/>+Thomas Joseph Zielinski, Jr b: August 26, 1943 m: September 15, 1974
+<lb/>5 Thomas Joseph Zielinski b: March 10, 1968
+<lb/>+Lorie Elizabeth Perretta m: May 01, 1998 in Utica, New York
+<lb/>5 Kevin John Zielinski b: Febmary 09, 1969
+<lb/>+Cheri Ann Donovan b: January 09, 1960 m: May 06, 1988
+<lb/>6 Nicholes John Zielinski b: August 28, 1994
+<lb/>5 Ryan James Zielinski b: December 18, 1981
+<lb/>4 Shirley Arm Moon b: Febmary 23, 1948
+<lb/>+Robert (Joe) Stewart Strong b: June 19, 1946 m: October 09, 1965
+<lb/>5 Robert Stewart Strong b: May 25, 1968
+<lb/>+Kelly Patricia Scofeild b: March 01, 1966 m: May 16, 1992
+<lb/>6 Shelly June Strong b: May 22, 1987
+<lb/>6 Shawn Joseph Strong b: May 11, 1993
+<lb/>5 Steven (Beaver) Alan Strong b: Febmary 25, 1971
+<lb/>+Holly Lyim Wallach b: December 10, 1971 in Hamilton, New York
+<lb/>6 Shane Steven Strong b: May 11, 1991
+<lb/>*lst Wife of Steven (Beaver) Alan Strong:
+<lb/>+Virginia Lee Franklin b: October 12, 1967 in Illion, New York m: June 10, 1995
+<lb/>6 Katelyn Rose Strong b: January 09, 1999 in Utica, New York
+<lb/>5 Crystal Lyrm Strong b: December 05, 1972
+<lb/>+David Walter Russell m: August 06, 1994
+<lb/>6 Ashley Nicole Russell b: January 24, 1995
+<lb/>6 Matthew David Russell b: May 14, 1997 in Hamilton, New York
+<lb/>4 Georgia Carol Moon b: June 27, 1949
+<lb/>+LeRoy Victor Hamey, Sr. b: October 14, 1942 in Knoxboro, New York m: August 17, 1968
+<lb/>.  5 LeRoy Victor Hamey,Jr. b: March 11, 1968 in Utica, New York
+<lb/>.  5 Scott Darien Hamey b: December 22, 1969 in Utica, New York
+<lb/>.  5 Terry Duane Hamey b: November 09, 1970 in Utica, New York
+<lb/>+Becky Sue Darrow b: May 05, 1971
+<lb/>6 Karissa Lea Hamey b: Febmary 17, 1995 in Rome, New York
+<lb/>George Steven Moon b: December 16, 1950 in Utica, New York
+<lb/>+Ann Marie Williams b: July 25, 1950 m: May 25, 1974
+<lb/>.. 5 Luke Moon b: March 26, 1975 d: March 26, 1975
+<lb/>.. 5 Faith Ann Moon b: January 30, 1976
+<lb/>.. 5 Charlene GwenMoon b: October 17, 1977
+<lb/>.. 5 Aaron Richard Moon b: January 14, 1980
+<lb/>Rodney James Moon b: March 06, 1952
+<lb/>+Patricia Raye Williams Depasquale b: March 15, 1940 m: December 18, 1978
+<lb/>.. 5 Deni Sue Moon b: January 01, 1974
+<lb/>Clifton Thomas Moon, Sr. b: May 13, 1953
+<lb/>+Dorthy Kaye Larman b: March 26, 1956 m: January 26, 1973
+<pb n="6" facs="#page-005"/><lb/>5 Thersa Marie Moon b: May 06, 1973
+<lb/>+Bradley Kristopher Sweet, Sr. b: September 22 m: July 23, 1994
+<lb/>6 Bradley Kristopher Sweet, Jr. b: December 07, 1993
+<lb/>5 Clifton Thomas Moon, Jr. b; October 30, 1974
+<lb/>5 Heath James Moon b: January 30, 1977
+<lb/>5 Jason Eric Moon b: June 26, 1978
+<lb/>4 Anita Louise Moon b: July 05, 1956
+<lb/>5 Deborah Lynn Moon b: June 14, 1975
+<lb/>4 Gregory Alan Moon b: February 14, 1958
+<lb/>+Joarmie Kermyon
+<lb/>4 Andrew John Moon b: January 30, 1961
+<lb/>+Brenda Jean Eilers b: March 30, 1963
+<lb/>5 Joshua Scott Moon b: July 21, 1985
+<lb/>3 Emma Catheryn Moon b: 1922
+<lb/>... +Earl William Shauger
+<lb/>4 Earl Fred Shauger b: Febmary 03, 1948
+<lb/>+Dorthy Hadfield b: October 25, 1948
+<lb/>5 Earl William Shauger b: September 10, 1969
+<lb/>6 Morgan Elizabeth Shauger b: January 08, 1997
+<lb/>6 Ryan Alexander Shauger b: January 08, 1997
+<lb/>+Jemiifer Jo Ladrillono m: October 23, 1999 in Norfolk, Virginia
+<lb/>5 Jennifer Shauger b: July 14, 1973
+<lb/>+Theron Zirkle b; December 10, 1971
+<lb/>*2nd Wife of Earl Fred Shauger:
+<lb/>+Jeanette Brotton Rifenburg
+<lb/>4 Prudence Sonja Shauger b: December 12, 1945
+<lb/>+Harold William Luke II b: August 28, 1945
+<lb/>5 Patrick William Luke b: March 02, 1966
+<lb/>+Lori Cahill b: October 07, 1968
+<lb/>6 Sarah Catherine Luke b: Febraary 09, 1996 d: Febmary 14, 1998
+<lb/>6 Holly Elizabeth Luke b: May 13, 1999
+<lb/>5 Jeffery Michael Luke b: August 03, 1967
+<lb/>+Melissa Rudy
+<lb/>6 Nathaniel Jeremy Luke b: May 19, 1988
+<lb/>*2nd Wife of Jeffery Michael Luke:
+<lb/>+BethBingham b: Febmary 13, 1968
+<lb/>6 Cassidy Elizabeth Luke b: September 13, 1997
+<lb/>5 Jeremy Patrick Luke b: January 26, 1981
+<lb/>4 Wayne Wiiam Shauger b: March 21, 1951
+<lb/>+Karen Wilmot
+<lb/>5 Robbie Shauger b: June 17, 1972
+<lb/>5 Michael Shauger b: May 03, 1977
+<lb/>*2nd Wife of Wayne Wiiam Shauger:
+<lb/>+Deborah Mercier b: June 15, 1960 m: August 24, 1991
+<lb/>3 Fred Junior Moon b: June 30, 1926 in Eaton, New York
+<lb/>... +Dorthy Louise Brewer b: August 30, 1925 in Oriskany Falls, New York m: June 29, 1946 in
+<lb/>Oriskany Falls, New York
+<lb/>4 Judith Suzatma Moon b: May 05, 1947 in Utica, New York
+<lb/>+Robert (Rip) Elliot m: August 27, 1966 in Waterville, New York
+<lb/>5 Suzanne Elliot
+<lb/>+Timothy Scully
+<lb/>6 Karlie Scully
+<lb/>5 Lori Aim Elliot
+<lb/>+Richard Maxon m: August 02, 1997
+<lb/>5 Donald Wayne Elliot b: June 08, 1968 in New Hartford, New York
+<lb/>+Janice Buschor m: December 31, 1997 in Clinton, New York
+<lb/>6 Laken Tyler Elliot b: May 11, 1998 in New Hartford, New York
+<lb/>5 Diane Marie Elliot
+<lb/>+Jeffery Williams
+<lb/>6 Brooke Williams
+<lb/>6 Hunter Williams b: April 27, 1997
+<lb/>4 Scott Moon b: November 03, 1954 in Utica, New York
+<lb/>... +Caroline Heath m: June 11, 1975 in Waterville, New York
+<lb/>5 Jenny Moon
+<lb/>5 Jessica Moon
+<lb/>*2nd Wife of Scott Moon:
+<lb/>... +Sherri Bartlett m: September 07, 1986 in Paris, New York
+<pb n="7" facs="#page-006"/><lb/>5 Nichole Moon
+<lb/>5 Amanda Moon
+<lb/>3 Oda May Moon b: May 14, 1930 d: March 14, 1994
+<lb/>+Sherwood Duane Coffin
+<lb/>4 Eunice Marie Coffin b: August 16, 1946
+<lb/>+Peter Paul Dorshenko b: May 31, 1946
+<lb/>5 Randy Paul Dorshenko b: March 25
+<lb/>5 Lisa Marie Dorshenko b: August 16, 1966 d: 1987
+<lb/>+Jeffery Harris m: 1987
+<lb/>5 Amy Lyn Dorshenko b: March 14, 1969 in Hamilton, New York
+<lb/>+John Boland b: July 08, 1962 in Syracuse, New York m: September 10, 1994 in East
+<lb/>Syracuse, New York
+<lb/>6 Alyssa Marie Boland b: June 07, 1998 in Syracuse, New York
+<lb/>5 Holly Jo Dorshenko b: June 24, 1973
+<lb/>+Joseph Stemburg b: March 21, 1975 m: July 19, 1997
+<lb/>4 Edward Coffin b: December 08, 1947
+<lb/>+Peggie Parks
+<lb/>4 Steven Coffin b: July 21, 1948
+<lb/>4 Linda Christine Coffin b: July 27, 1949
+<lb/>+Barry Wayne Annstrong, Sr. b; November 05, 1952 m: September 05, 1970 d: September
+<lb/>16, 1982
+<lb/>5 Barry Wayne Armstrong, Jr. b: September 20, 1971
+<lb/>+Melianie Rose Lebo b: February 02, 1973 m: July 27, 1989
+<lb/>6 Mercedes Elaine Armstrong b: November 13, 1989
+<lb/>6 Marissa Kay Armstrong b: January 18, 1992
+<lb/>6 Ashley Rosemarie Armstrong b: March 05, 1994
+<lb/>5 Aaron Paul Armstrong b: January 13, 1974
+<lb/>5 Timothy Bryon Armstrong b: July 16, 1977
+<lb/>*2nd Husband of Linda Christine Coffin:
+<lb/>+Michael Allen Blrnn b: November 30, 1964 m: May 11, 1985
+<lb/>5 Cory Michael Blinn b: October 09, 1985
+<lb/>4 Michael Patrick Coffin b: January 31, 1952 in Utica, New York
+<lb/>+SharonFarr b: January 16
+<lb/>5 Sonya Renee Coffin b: November 08, 1973
+<lb/>+Jeff Ellinger m: September 23, 1996
+<lb/>6 Carissa Paige Ellinger b: May 26, 1992
+<lb/>6 Craig Jonathan Ellinger b: August 19, 1997
+<lb/>.-. 5 Amber Lyim Coffin b: October 04, 1979
+<lb/>6 Seaira Lee-Ann Coffin b: March 23, 1995
+<lb/>6 Seth Aaron Michael Coffin b: June 20, 1997
+<lb/>4 Duane Coffin b: August 22, 1954 in Utica, New York
+<lb/>-i-Norma Martinez b: October 02, 1956 m: December 1972 in Jacksonville, Arkansas
+<lb/>5 Daniel Coffin b: November 27, 1973 in Little Rock, Arkansas
+<lb/>-I-Chrystal Lee Snow m: December 05, 1994 in Lawton, Oklahoma
+<lb/>6 Emilee Michelle Coffin b: July 05, 1995
+<lb/>5 Michelle Marie Coffin b: December 21, 1978 in Jacksonville, Arkansas
+<lb/>4 Debroah Lynn Coffin b: December 02, 1955 d: July 28, 1974
+<lb/>4 Pamela Ann Coffin b: March 26, 1962
+<lb/>4 Kevin R. Coffin b: June 16, 1963
+<lb/>+Gloria Henriksen b: August 05, 1959 m: July 19, 1986
+<lb/>5 Courtney Coffin b: July 29, 1988
+<lb/>4 Brenda Lee Coffin b: November 30, 1967
+<lb/>2 Elsie Magdelene Moon b: Febraary 25, 1901 in Morrisville, New York d: July 25, 1992
+<lb/>... +Orville Wayne Kimpton b: April 08, 1908 m: June 29, 1930 d: August 20, 1973
+<lb/>3 Elsie Murial Leone Kimpton b: February 06, 1931 d: March 21, 1985
+<lb/>-I-Kenneth Bums b: Febraary 06, 1931 d: June 1985
+<lb/>4 David James Bums b: June 06, 1958 d: 1986
+<lb/>4 Steven Jay Bums b: November 15, 1959
+<lb/>4 Karen Janine Bums b: January 22, 1961
+<lb/>4 Mari Jane Bums b: April 14, 1965
+<lb/>3 Robert Lynwood Kimpton b: September 08, 1933 d: March 02, 1986
+<lb/>-tMaude Campbell Relyea m: November 07, 1959
+<lb/>4 Robert Lynwood Kimpton b: November 21, 1960
+<lb/>4 Lori Lynn Kimpton b: July 12, 1962
+<lb/>4 Julie Kay Kimpton b: August 12, 1964
+<lb/>4 Kelly Leigh Kimpton b: June 16, 1968
+<lb/>3 Lenola Marlene Kimpton b: October 04, 1935
+<pb n="8" facs="#page-007"/><lb/>... +Burton Van Slyke
+<lb/>4 Robin Van Slyke b: March 24, 1956
+<lb/>4 Deborah Van Slyke b: May 05, 1958
+<lb/>4 Burton Franklin Van Slyke b: July 15, 1959
+<lb/>3 Orville Wayne Kimpton b: August 03, 1936
+<lb/>... +Patricia Bromfield
+<lb/>4 Timothy Wayne Kimpton b: March 05, 1959
+<lb/>4 Terrie Lyim Kimpton b: May 23, 1965
+<lb/>4 Todd William Kimpton b; May 15, 1968
+<lb/>4 Tammie Sue Kimpton b: July 24, 1970
+<lb/>3 Mary Lee Jeimie Kimpton b: September 11, 1938
+<lb/>... +John Hemy Wamer
+<lb/>4 John Henry Warner b: June 30, 1961
+<lb/>4 Kathleen Mary Warner b: August 08, 1962
+<lb/>4 Brian Rodger Warner b: May 21, 1965
+<lb/>3 Rita Wallis Kimpton b: July 10, 1943
+<lb/>... +Jon Edward Otts
+<lb/>4 Jon Edward Otts, Jr. b: December 22, 1965
+<lb/>5 Matthew Jon Otts b: July 15, 1993
+<lb/>5 Breanna Nicole Otts b: September 01, 1995
+<lb/>5 Brittany Alicia Otts b: December 06, 1996 d: January 24, 1997
+<lb/>4 Janine Otts b: December 03, 1966
+<lb/>5 Richard Steven Otts b: September 26, 1992
+<lb/>4 Melissa Susan Otts b: December 31, 1969
+<lb/>4 Susan Kristina Otts b; May 19, 1972
+<lb/>4 Joseph Wayne Otts b: July 28, 1973
+<lb/>3 Wallace Evertt Kimpton b: February 12, 1945
+<lb/>... +Dorma Detmer Fellows
+<pb n="9" facs="#page-008"/><lb/>Descendants of Elizabeth (Libbie) Spohner
+<lb/>1 Elizabeth (Libbie) Spohner b: 1859
+<lb/>. +Thomas C. Maine b: 1849
+<lb/>... 2 Jay A. Maine b: 1884 in Morrisville, New York d: 1967
+<lb/>+Florence R. Kelloway b: 1883 in New Jersey d: 1950
+<lb/>... 2 Lepha Sarah Maine b: 1888 d: April 21, 1902 in Morrisville, New York
+<lb/>... 2 Pauline Maine b: 1908 d: 1912
+<lb/>fS /O-Pyf 'J'cxim-t's
+<pb n="10" facs="#page-009"/><lb/>Descendants of Johannes Straup
+<lb/>1  Johannes Straup b: in Germany
+<lb/>.... +Elisabetha b: in Germany
+<lb/>.... 2 Johann Wilhelm Straup b: in West Camp Ulster, New York
+<lb/>+Anna Maria
+<lb/>3  Elizabeth Straup
+<lb/>+Daniel Weise b: 1756 in Germany d: April 1819 in Sharon twp, Schoharie Co., New York
+<lb/>4 Daniel Wise b: 1784
+<lb/>+Dorothy Shaver b: 1789 d: 1890
+<lb/>5 Adam Wise b: May 23, 1824
+<lb/>+Wealthy Arm Morrison b: 1838 d: 1903
+<lb/>6  Frank Wise b: August 05, 1860 d: July 18, 1944
+<lb/>+Effie Sophia Handy
+<lb/>7  Ina Adelia Wise b: November 08, 1886 d: 1963
+<lb/>+John Martin Kinney b: May 20, 1879 d: 1952
+<lb/>6 Cora Effie Wise
+<lb/>5 David Wise
+<lb/>5 William Wise
+<lb/>5  Polly Wise
+<lb/>5  Sally Wise
+<lb/>5  Eva Wise
+<lb/>5  Eliza Wise
+<lb/>5 Anna Wise
+<lb/>5  Linda Wise
+<lb/>3 Balthazer Strauch b: 1748
+<lb/>+Maria Catherine Ritter b: February 14, 1765 m: May 29, 1814 in Herkimer, New York d: 1827
+<lb/>4 Hemich Strough b: July 17, 1785
+<lb/>+Magaret
+<lb/>5 William Thomas Strough b: 1816
+<lb/>4 Baltus Strough b; 1787 in Herkimer Co., New York d: December 10, 1875
+<lb/>+Catherine Ritter b: 1788 d: 1842
+<lb/>5 Henry Strough b: 1812
+<lb/>+SarahM. b: 1824
+<lb/>6 Mary J. Strough b: 1841
+<lb/>6 Robert H. Strough b; 1845
+<lb/>5 Meize Strough b: May 05, 1815 in Manheim, Herkimer Co., NY
+<lb/>5 Adam Strough b: April 22, 1822 in Manheim, Herkimer Co., NY
+<lb/>+DeliaA. b: 1829
+<lb/>6 Milo P. Strough b: 1850
+<lb/>5  Faimy Strough b: 1827 d: 1908
+<lb/>+Isaac Heller b: 1826 d: 1890
+<lb/>6 Lorette Heller b: 1855 d: 1942
+<lb/>5  Ezra Strough b: 1832 d: June 29, 1877 in Township of Sullivan, New York
+<lb/>+Deborah
+<lb/>5  Franklin Strough b: 1833
+<lb/>*2nd Wife of Baltus Strough:
+<lb/>+Nancy Walker
+<lb/>4  John Strough b: July 22, 1792 d: April 30, 1874 in Little Falls, New York
+<lb/>+Catherine Adle b: March 12, 1797 m: May 29, 1814 in Herkimer, New York d: 1880
+<lb/>5  John Strough, Jr. b: Febmary 09, 1815 d: March 13, 1894 in Oppenheim
+<lb/>+Dorcus Johnson
+<lb/>6 Bemice Strough b: January 06, 1841 in Manheim, Herkimer Co., NY
+<lb/>5  Catherine Strough b: March 16, 1817 d: May 15, 1850 in Chamont, Jefferson Co., NY
+<lb/>+Ezra Easterly
+<lb/>5  Lavina Strough b: 1821 d: 1897 in Canastota, New York
+<lb/>+Moses Davis b: May 08, 1814 in Manheim, Herkimer Co., NY d: in Canastota, New
+<lb/>York
+<lb/>5  Jeremiah A. Strough b: 1823 d: 1900 in Peterboro, Madison Co., NY
+<lb/>+Jane Keller b: 1825 d: 1911 in Peterboro, Madison Co., NY
+<lb/>6 Fannie Strough
+<lb/>+J. Otisfay m: June 18, 1873 in Peterboro, Madison Co., NY
+<lb/>5  Lucinda Strough b: March 25, 1825 d: 1907
+<lb/>+John Peter Davis b: September 20, 1823 d: November 16, 1904
+<lb/>6  Irving Davis
+<lb/>+Phebe Lu Lu Ashenhurst
+<lb/>7  Irene Davis
+<lb/>6 Mary Catherine Davis b: 1845 d: 1894
+<pb n="11" facs="#page-010"/><lb/>+JohnM. Eysaman b: 1842
+<lb/>7 Raymond D. Eysaman
+<lb/>7  [2] Winifred C. Eysaman
+<lb/>+[1] Rev. Francis Adelbert Strough
+<lb/>8  [3] Margaret Strough
+<lb/>8  [4] Fred Strough
+<lb/>8  [5] Harold Strough
+<lb/>8  [6] Lois Strough
+<lb/>7 Wilson Willard Eysaman b: 1871 d: 1914
+<lb/>+Sarah E. Neary
+<lb/>6  Sophoria L. Davis b: 1849 d: 1946
+<lb/>+Henry Frank Baum
+<lb/>7 Lavem Baum
+<lb/>+George A. Robinson
+<lb/>7 KezzyBaum b: 1867 d: 1945
+<lb/>+Prescott D. Perkins
+<lb/>5 Uriah Strough b: 1827 d: 1895 in Briar Hill, St. Lawrence Co., NY
+<lb/>+Sarah Sophronia Castle
+<lb/>6  [1] Rev. Francis Adelbert Strough
+<lb/>+[2] Winifred C. Eysaman
+<lb/>7  [3] Margaret Strough
+<lb/>7  [4] Fred Strough
+<lb/>7  [5] Harold Strough
+<lb/>7  [6] Lois Strough
+<lb/>5 Obadiah A. Strough b; 1829 d: 1898 in Little Falls, New York
+<lb/>+Barbara Dinah Ritter b: March 18, 1836
+<lb/>6 Ester Strough
+<lb/>+Joseph Davis, Jr b: 1846
+<lb/>7 Lillian Davis
+<lb/>7 Harry Davis
+<lb/>7 Walter Davis
+<lb/>6 Orvilla Strough
+<lb/>6 Rose Strough
+<lb/>5  Louisa Strough b: April 12, 1831
+<lb/>5 Mary Adle Strough b: April 08, 1833 d: 1909
+<lb/>+Edward S. Middlebrook b: January 14, 1837 in Salisbury, New York m: Febraary 04,
+<lb/>1858 in Utica, Oneida Co., NY
+<lb/>6 Leonora Middlebrook b: 1859 d: 1859
+<lb/>6 Allen Edward Middlebrook b: 1863 d: 1885
+<lb/>6 Cora Lavinia Middlebrook b: 1866 d: 1902
+<lb/>+Frank P. Myers
+<lb/>5 Diana Strough b: July 1835 in Mile Strip, Madison Co., New York d; April 20, 1868 in
+<lb/>Albany, New York
+<lb/>+John Henry Petrie b: Febmary 09, 1838 in Manheim, Herkimer Co., NY d: September
+<lb/>26, 1881 in Smithfield Township, Madison Co., NY
+<lb/>6 Edward Petrie
+<lb/>6  Jesse Petrie
+<lb/>+lda Eisaman
+<lb/>6  John Petrie
+<lb/>5  Jacob Strough b: 1838
+<lb/>5  Irena Strough b; 1840 d: 1930
+<lb/>+James Nelson Klock b: 1840 d: 1919
+<lb/>6 Olive Catherine Klock b: 1863 d: 1948
+<lb/>+David Conine
+<lb/>6  John Peter Klock b: 1866
+<lb/>+Harriet Hunter b: 1862 d: 1939
+<lb/>7 Leslie Klock b: 1890
+<lb/>7 Pauline Klock b: 1894
+<lb/>7  Irena Klock b: 1896
+<lb/>6 Nelson Julian Klock b: 1871
+<lb/>6 Melvin Lionell Klock b: 1874
+<lb/>+Roencie Morse
+<lb/>5 Charles H. Strough b: 1844 d: 1879
+<lb/>+Mary Augusta Cage b: 1844 d: 1924
+<lb/>6 Fannie Strough
+<lb/>Arma Strough b: April 12, 1794
+<lb/>+Joanis Visher
+<pb n="12" facs="#page-011"/><lb/>5  JohnVisher b: 1815
+<lb/>5 Anna Margaret Visher b: 1818
+<lb/>5  Baltaser Visher b: 1820
+<lb/>5 Maria Visher b: 1825
+<lb/>Daniel Strough b: January 15, 1795 d: August 19, 1876
+<lb/>+Arma Wiswall b: October 22, 1793 d: April 20, 1879
+<lb/>5  Caroline Strough
+<lb/>5 Daniel Strough
+<lb/>5  Jane Strough
+<lb/>5 Nancy Ann Strough
+<lb/>+Jaines Ellwood
+<lb/>5  Samuel Wiswall Strough b: March 21, 1817 d: 1876
+<lb/>+Emeline Tallmarm b: 1821 d: 1903
+<lb/>6 Perrin A. Strough b: 1853
+<lb/>+Atta O. Walts b: 1855 in 1890
+<lb/>7 Helen Minerva Strough
+<lb/>+Llotd Ellwood Brown
+<lb/>5  Lucinda Strough b: April 19, 1818
+<lb/>5 Mary Catherine Strough b: 1821
+<lb/>+Daniel Eddy
+<lb/>6  Jason Eddy
+<lb/>5  Joseph Strough b: 1824 d: 1854
+<lb/>6 Leslie Strough
+<lb/>6 Elizabeth Strough
+<lb/>+James Ellwood
+<lb/>5  Elizabeth?. Strough b: August09, 1829 d: 1858
+<lb/>5 George Hen^ Strough b: March 08, 1836 d; 1908
+<lb/>+Bersina Minerva Ballard b: 1837
+<lb/>6 Arthur B. Strough b: 1859 d: 1934
+<lb/>+MaryNicol
+<lb/>6 Atma B. Strough b; 1861
+<lb/>6 Metta Vergil Strough b: 1873
+<lb/>Matthew (Matheus) Strough b: 1800
+<lb/>+Lydia Adle b: 1806 in Clockville, New York m: October 07, 1823 in Herkimer, New York
+<lb/>d: 1889
+<lb/>5 Magdelena Strough b: October 05, 1831 in Herkimer Co., New York d: Febraary 15,
+<lb/>1908 in Morrisville, New York
+<lb/>+Aaron (Spohn) Spohner b: January 22, 1830 in Herkimer, Herkimer Co., New York d:
+<lb/>Febmary 03, 1901
+<lb/>6 Egeleous A. Spohner b: in Smithfield Township, Madison Co., NY
+<lb/>+Meleua Tounelle b: in Dayton, Ohio m: April 22, 1891 in Morrisville, New York
+<lb/>6 Herman E. Spohner b: 1856 in Madison, Madison Co., NY
+<lb/>6 Elizabeth (Tibbie) Spohner b: 1859
+<lb/>+Thomas C. Maine b: 1849
+<lb/>7  Jay A. Maine b: 1884 in Morrisville, New York d: 1967
+<lb/>+Florence R. Kelloway b: 1883 in New Jersey d: 1950
+<lb/>7 Lepha Sarah Maine b: 1888 d: April 21, 1902 in Morrisville, New York
+<lb/>7  Pauline Maine b: 1908 d: 1912
+<lb/>6 Nancy Elnora Spohner b: 1861 in Madison Co., New York d: June 01, 1897 in
+<lb/>Morrisville, Madison Co., NY
+<lb/>+William George Colvin b: Febraary 08, 1858 in Cazenovia, Madison Co., NY m:
+<lb/>July 03, 1879 in Lebanon, Madison Co., NY d: March 01, 1894 in Siloam, Madison
+<lb/>Co., NY
+<lb/>7 Mabel Colvin
+<lb/>7 Bertie Colvin b: 1880
+<lb/>7  Pearl Mae Colvin b: May 16, 1882 in Morrisville, Madison Co., NY d:
+<lb/>September 17, 1968 in Madison, Madison Co., NY
+<lb/>+Lewis William Mosher b: June 03, 1884 in Madison, Madison Co., NY m: July
+<lb/>29, 1908 in Solsville, Madison Co., NY d: November 28, 1962 in Hamilton,
+<lb/>Madison Co., NY
+<lb/>8 William George Mosher b: August 08, 1901 in Lebanon, Madison Co., NY
+<lb/>d: July 04, 1984 in Somerville, Somerset Co., NY
+<lb/>8  Fredrick Colvin Mosher b: May 28, 1911 in Lebanon, Madison Co., NY d:
+<lb/>July 04, 1992 in Hamilton, Madison Co., NY
+<lb/>+Alice Irene Harrison b: September 03, 1905 in Hornby, Steuben Co., NY
+<lb/>m: July 03, 1934 in Hamilton, Madison Co., NY d: April 08, 1971 in New
+<lb/>Castle, DE
+<pb n="13" facs="#page-012"/><lb/>9 Barry Rexford Mosher b; September 01, 1937 in Oneida, Madison Co.,
+<lb/>NY
+<lb/>8 Alta Ebror Mosher b: September 10, 1917 in Lebanon, Madison Co., NY d:
+<lb/>August 02, 1955 in Madison, Madison Co., NY
+<lb/>7 Clarence Colvin b: April 17, 1894 d: January 1979
+<lb/>Mary Eleanor Spohner b: June 29, 1863 in Smithfield Township, Madison Co., NY
+<lb/>d: January 16, 1941 in Canastota, New York
+<lb/>+James D. Moon b: October 05, 1852 in Smithfield Township, Madison Co., NY m:
+<lb/>May 13, 1885 in Morrisville, New York d: June 13, 1922 in Oneida, New York
+<lb/>7 Edward James Moon b: April 10, 1886 in Pratts Hollow, New York d: Febmary
+<lb/>07, 1979 in Waterville, New York
+<lb/>+Ida Roseltha Adams b: December 28, 1887 in Eenner, New York m: January
+<lb/>26, 1910 in Madison County, New York d: May 23, 1976 in Earlville, New York
+<lb/>8 Harold Dudley Moon b: April 21, 1912 in Morrisville, New York d: October
+<lb/>01, 1976 in Eustis, Florida
+<lb/>8 Doris Gertrude Moon b: October 12, 1914 d: April 28, 1944 in Madison,
+<lb/>New York
+<lb/>+Arthur Leland Godfrey b: 1916 m: March 07, 1935 in Madison County,
+<lb/>New York d: 1984
+<lb/>9 Howard Raymond Godfrey b: July 06, 1934 d: May 28, 1993
+<lb/>+Mary Calhoun
+<lb/>9 Dolores Godfrey b: January 23, 1938
+<lb/>+Donald Lyrm Williams b: August 31, 1928 in Kenwood, New York m;
+<lb/>January 02, 1956 d: March 01, 1984 in Eustis, Florida
+<lb/>10 Diarme Williams b: September 10, 1956 in Hamilton, New York
+<lb/>+Steven Algustowski m: April 28, 1979 in Utica, New York
+<lb/>11 Amy Lyrm Algustowski b: in Utica, New York
+<lb/>11 Michelle Lee Algustowski b: Febmary 10, 1975 in Utica, New
+<lb/>York
+<lb/>12 Gabriel A. Walls b: July 08, 1994 in Utica, New York
+<lb/>12 Alexandra Machaela Walls b: January 16, 1997 in Utica,
+<lb/>New York d: March 02, 1997 in Utica, New York
+<lb/>10 Danial Leland Williams b: December 21, 1959 in Hamilton, New
+<lb/>York
+<lb/>10 Dale John Williams b: November 20, 1961 in Utica, New York
+<lb/>+Amy Lyrm Baumgarten b: Febmary 15, 1960 m: December 01,
+<lb/>1993 in West Jordan, Utah
+<lb/>11 Morgan Jessica Williams b: April 01, 1997
+<lb/>*2nd Husband of Dolores Godfrey:
+<lb/>+Robert A. Dodge b: September 08, 1934 in Schuyler, New York m:
+<lb/>November 02, 1991 in Illion, New York
+<lb/>9  James Lee Godfrey b: December 20, 1942
+<lb/>+Georgena Cook
+<lb/>10 Paula Kay Godfrey
+<lb/>10 Carrie Godfrey
+<lb/>+Michael Cohl m: May 1998 in Rome, New York
+<lb/>*2nd Wife of James Lee Godfrey:
+<lb/>+Joanne Reed
+<lb/>10 James Joseph Godfrey b: March 1981
+<lb/>10 Michael James Godfrey
+<lb/>8 Howard Edgar Moon b: August 29, 1916 in Pine Woods, New York d: May
+<lb/>09, 1989 in Hubbardsville, New York
+<lb/>+Jants Louise Eastman b: October 31 in Waterville, New York m:
+<lb/>November 01, 1936 in Smyma, New York d: April 19, 1999 in Tennesse
+<lb/>9 Rosemary Louise Moon b: July 09, 1937 in Poolville, New York
+<lb/>9  Judy Caroline Moon b: Febmary 04, 1939 in Poolville, New York
+<lb/>+Wayne Ronley Black b: August 12, 1938 m: June 1957
+<lb/>10 Jodi Lynn Black
+<lb/>+RonOgden m: July 03, 1976
+<lb/>11 Daniel Ehnous Ogden b: October 13, 1976
+<lb/>11 Brandon Ewald Ogden b: March 09, 1978
+<lb/>10 Kari Sue Black b: September 24, 1959
+<lb/>+Gary Pedrick
+<lb/>11 Michael Leigh Pedrick b: January 21, 1979
+<lb/>10 Kelly Jo Black b: July 11, 1961
+<lb/>+John Leon Maine m: September 12, 1981
+<lb/>11 Joshua James Maine b: September 08, 1980
+<pb n="14" facs="#page-013"/><lb/>11 Jamie Lynn Maine b: October 18, 1982
+<lb/>10 Karen Dee Black b: March 04, 1963
+<lb/>+Michael Ritenour m: June 29, 1985
+<lb/>11 Kenneth Michael Ritenour b: January 1987
+<lb/>11 Joanna Caroline Ritenour b: September 07, 1992
+<lb/>*2nd Husband of Judy Caroline Moon:
+<lb/>+George Flummer m: Abt. 1977
+<lb/>9 Arm Lee Moon b: July 01, 1942 in Hamilton, New York
+<lb/>+Donald Hemy Staelens, Sr. b; January 09, 1939 in Madison, New York
+<lb/>m: June 30, 1959 in Hubbardsville, New York
+<lb/>10 Dolli Arm Staelens b; July 10, 1960 in Hamilton, New York
+<lb/>+Stanley Niles m: September 1978 in West Edmeston, New York
+<lb/>11 Matthew Niles
+<lb/>11 Amanda Niles
+<lb/>11 Thomas Niles
+<lb/>*2nd Husband of Dolli Arm Staelens:
+<lb/>+Guy Allen Urben b: July 09, 1962 m: July 05, 1987
+<lb/>11 Thomas Urben
+<lb/>11 Katrina Urben b: April 20, 1991
+<lb/>10 Donald Henry Staelens, Jr. b: February 01, 1962 in Norwich, New
+<lb/>York
+<lb/>+Victoria Tice b: March 23, 1970 m: September 15, 1991 in
+<lb/>Oriskany Falls, New York
+<lb/>10 Howard Paul Staelens b: September 30, 1964 in Norwich, New
+<lb/>York
+<lb/>+Debra Jean Hicks b: January 19, 1965 m: May 25, 1987 in
+<lb/>Norwich, New York
+<lb/>11 Paul Joseph Staelens b: June 04, 1988
+<lb/>11 Kayla Lorain Staelens b: June 19, 1991
+<lb/>10 Joleen Ellen Staelens b: October 16, 1970 in Hamilton, New York
+<lb/>+John Anthony Gemntino b: April 03, 1971 in Syracuse, New York
+<lb/>m: May 08, 1993 in Hamilton, New York
+<lb/>11 Janeen Ellen Gemntino b: July 12, 1996 in Nashville, Termesse
+<lb/>10 Gregory Allyn Staelens b: March 09, 1972 in Hamilton, New York
+<lb/>+Frances Eastwood b: April 20, 1970 m: January 08, 1994 in
+<lb/>Sherbume, New York
+<lb/>11 Anthony Staelens b: July 23, 1992
+<lb/>11 Randall Staelens b: October 08, 1993
+<lb/>8 Kermeth James Moon b: September 30, 1918 in Morrisville, New York
+<lb/>+Dorothy Irene Williams b: September 23, 1927 in Sherrill, New York m:
+<lb/>June 21, 1946 in Bouckville, New York
+<lb/>9 Edward John Moon b: March 23, 1947
+<lb/>+Nancy Lee Crawford m: March 14, 1969
+<lb/>10 Kermeth Franklin Moon b: January 07, 1970 in Elgin Air Force
+<lb/>Base, Florida
+<lb/>10 David Edward Moon b: July 18, 1972 in Eustis, Florida
+<lb/>*2nd Wife of Edward John Moon:
+<lb/>+Gwendolyn Carol Broome b: April 18, 1942 m: May 21, 1978 in
+<lb/>Eustis, Florida
+<lb/>10 Jeffery Scott Moon b: October 15, 1978
+<lb/>9 William James Moon b: January 29, 1953 in Hamilton, New York
+<lb/>+Beverly Rae Cassick b: January 21, 1954 in Quincy, Massachusetts m:
+<lb/>June 09, 1973 in Bartow, Florida
+<lb/>10 Jason Allen Moon b: September 25, 1974 in Bartow, Florida
+<lb/>+Rose Fordham b: Febmary 19, 1976 in Boyton Beach, Florida m:
+<lb/>August 30, 1996 in Rowan Co., North Carolina
+<lb/>11 Kimber Celeste Moon b: July 27, 1997
+<lb/>10 Christine Marie Moon b: November 08, 1977 in Bartow, Florida
+<lb/>11 Jared Austin Moon b: September 21, 1998 in Mooresville,
+<lb/>North Carolina
+<lb/>10 Marissa Dawn Moon b: October 19, 1992 in Lakeland, Florida
+<lb/>9 Allen Clifford Moon b: July 29, 1960 in Eustis, Florida
+<lb/>+Janice Coil b: November 03, 1956 m: May 23, 1983 in Eustis, Florida
+<lb/>10 Tiffany Renee Moon b: November 05, 1993 in Eustis, Florida
+<lb/>10 Seth Allen Moon b: July 13, 1999 in Eustis, Florida
+<lb/>7 Aaron Eugene Moon b: March 26, 1887 in Morrisville, New York d: August 21,
+<lb/>1887 in Pratts Hollow, New York
+<pb n="15" facs="#page-014"/><lb/>7 Ella May Moon b: August 19, 1888 in Morrisville, New York d: July 02, 1963
+<lb/>+Herbert Fenwick
+<lb/>7 Myrtle Moon b: September 21, 1890 d: November 08, 1984
+<lb/>+Floyd J. Wood b: June 21, 1885 m: September 17, 1910 d: December 18, 1963
+<lb/>8  Floyd Llewellyn Wood b: September 06, 1914
+<lb/>+Hazel Keister b: November 11m: May 02, 1940
+<lb/>9 Thomas Wood b: March 05, 1949
+<lb/>9  James Wood b: September 27, 1951
+<lb/>8 Benjamin James Wood b: June 26, 1911 d: July 30, 1971
+<lb/>+Adalaide Adela Barber b: 1912 m: June 07, 1933
+<lb/>9 Wellington Wood b: August 11, 1934
+<lb/>9 Rebeka Marie Wood b: June 10, 1941
+<lb/>+Frederick Allen Derochie II b: Febmary 21, 1943 in Syracuse, New
+<lb/>York m: April 13, 1963 in New Woodstock, New York
+<lb/>10 Frederick Allen Derochie III b: July 14, 1968 in Syracuse, New
+<lb/>York
+<lb/>+Tammi Lyn Burgess b: September 04, 1971 in Syracuse, New
+<lb/>York m: in Lebanon, New York
+<lb/>11 Natalie Elizabeth Derochie b: September 04, 1991 in Hamilton,
+<lb/>New York
+<lb/>11 Jacob Frederick Derochie b: June 02, 1993 in Hamilton, New
+<lb/>York
+<lb/>11 Nichalas Dale Derochie b: September 21, 1995 in Hamilton,
+<lb/>New York
+<lb/>11 Gregory Allen Derochie b: September 21, 1995 in Hamilton,
+<lb/>New York
+<lb/>10 Wendy Arme Derochie b: July 12, 1969 in Syracuse, New York
+<lb/>10 Brian Scott Derochie b: December 28, 1970 in Fayetteville, New
+<lb/>York
+<lb/>+Susan Mae Manwarren b: February 13, 1972
+<lb/>9 Benjamin Jerome Wood b: September 28, 1949
+<lb/>9 Armabell Wood b: July 02, 1952
+<lb/>8 Marion Wood b: November 14, 1912 d: June 21, 1994 in Invemess, Florida
+<lb/>+Arthur Davis b: 1903 d: January 1971 in Invemess, Florida
+<lb/>7  Fred Henry Moon b: April 12, 1892 in Morrisville, New York d: March 1970 in
+<lb/>Hamilton, New York
+<lb/>+Bertha Catherine Hendrickson b: December 14, 1895 m: June 19, 1916 d: June
+<lb/>29, 1970
+<lb/>8 Theodore H. Moon b: March 26, 1917 d: August 04, 1975
+<lb/>+StephaniaR. Roussock b: April 03, 1916 m: September 11, 1937 d: July
+<lb/>15, 1994 in Hamilton, New York
+<lb/>9 William Theodore Moon b: Febmary 25, 1940 in Oneida, New York
+<lb/>+Constance Aim Dejaneiro b: Febmary 14, 1941 in Batavia, New York
+<lb/>m: April 21, 1961 in Batavia, New York
+<lb/>10 Todd William Moon b: January 23, 1962 in Batavia, New York
+<lb/>+Noelia Lee Millan
+<lb/>11 Alexandria Elizabeth Moon b: Febmary 14, 1992
+<lb/>10 Suzanne Moon b: May 12, 1964 in Batavia, New York
+<lb/>10 John Martin Moon b: May 19, 1966 in Batavia, New York
+<lb/>+Della Fay Pease
+<lb/>11 Rebecca Lynn Moon b: September 07, 1989
+<lb/>11 John William Moon b: September 17, 1991
+<lb/>11 Jessica Lee Moon b: April 30, 1994
+<lb/>10 Timothy Edward Moon b: July 22, 1974 in Batavia, New York
+<lb/>9 Beverly Ann Moon b: Febmary 18, 1947
+<lb/>+Gordan Wales Miner b: March 06, 1944
+<lb/>10 Renee Stephanie Miner b: June 29, 1971
+<lb/>+Brad Anthony
+<lb/>11 Dominic Justin Anthony b: Febmary 18, 1992
+<lb/>11 Mersadi Anthony b: July 21, 1997
+<lb/>*2nd Husband of Renee Stephanie Miner:
+<lb/>+Terence Curtis m: March 1992
+<lb/>11 Terence Curtis b: July 04, 1993
+<lb/>10 Sherri Beverly Miner b: June 04, 1972
+<lb/>9 Coimie Marie Moon b: May 31, 1950
+<lb/>+Michael Rodger Woods b: Febmary 22, 1950 m: April 04, 1970
+<lb/>10 Wanda Carol Woods b: March 27, 1971
+<pb n="16" facs="#page-015"/><lb/>+Daniel Allen Nolan b: Febraary 21, 1968
+<lb/>11 Anna Nicole Nolan b: February 13, 1992
+<lb/>11 Amanda Catilyn Nolan b: July 27, 1993
+<lb/>10 Betty Ann Woods b: September 11, 1972
+<lb/>+Eric Thomas Schachtler b: October 23, 1965
+<lb/>11 Chelsea Marie Schachtler b: January 01, 1993
+<lb/>*Friend of Betty Ann Woods: b: September 11, 1972
+<lb/>+Bmce Fredric Jones b: May 29, 1969 in Syracuse, New York
+<lb/>11 Sabrina Arme Jones b: Febmary 11, 1997 in Saranac Lake, New
+<lb/>York
+<lb/>10 Wayne Michael Woods b: June 24, 1977
+<lb/>9  Jaqueline Mary Moon b: November 16, 1953 in Hamilton, New York
+<lb/>+Bradley Paul Pelky, Sr. b: April 13, 1951 in Saranac Lake, New York
+<lb/>m: May 15, 1970 in Saranac Lake, New York
+<lb/>10 Bradley Paul Pelky, Jr. b: August 16, 1970 in Saranac Lake, New
+<lb/>York
+<lb/>+Gail Marie Clark m: December 10, 1994 in Madison, New York
+<lb/>11 Dustin John Pelky b: July 03, 1994
+<lb/>10 Theodore Paul Pelky b: October 31, 1972 in Saranac Lake, New
+<lb/>York
+<lb/>+Lucinda Arm Cmmb m: December 31, 1995 in Hamilton, New
+<lb/>York
+<lb/>8 Alfred (Bud) Anchor Moon b: March 16, 1919 in Morrisville, New York d:
+<lb/>May 14, 1993 in Oriskany Falls, New York
+<lb/>+Stella Nellie Kula b: September 12, 1918 in Manchester, New Hampshire
+<lb/>m: September 12, 1939 in Oriskany Falls, New York d: November 30, 1976
+<lb/>in Utica, New York
+<lb/>9 Catherine Bertha Moon b: Febmary 10, 1945 in Utica, New York
+<lb/>+Norman Robert Schworm b: April 30, 1944 in Edmeston, New York
+<lb/>m: January 05, 1968 in Sherbume, New York
+<lb/>10 Michelle Lyim Schworm b: November 25, 1972 in Utica, New York
+<lb/>+Joseph Michael Vondauber b: June 29, 1973 in Ilion, New York
+<lb/>m: September 26, 1998 in Manlius, New York
+<lb/>11 Sophia Catherine Vondauber b: May 22, 2002 in Cary, North
+<lb/>Carolina
+<lb/>10 Valeri Sue Schworm b: August 17, 1974 in Norwich, New York
+<lb/>+Richard Osvoldic b; August 10, 1974 m: October 24, 1998 in
+<lb/>Skanlateles, New York
+<lb/>*2nd Husband of Catherine Bertha Moon:
+<lb/>+John (Cappy) Fredrick Huber V b: July 23, 1943 in Geneva, New York
+<lb/>m: August 01, 1992 in Sherbume, New York
+<lb/>9 Karen Nellie Moon b: May 19, 1949 in Utica, New York
+<lb/>+Dale (Pee Wee) William Nolan b: November 09, 1943 in Sangerfied,
+<lb/>New York m: January 15, 1972 in Oriskany Falls, New York
+<lb/>10 Brent William Nolan b: Febmary 04, 1974 in Hamilton, New York
+<lb/>10 Chanda Lee Nolan b: September 15, 1975 in Hamilton, New York
+<lb/>+Jesse Lloyd b: May 17, 1974 in Rhode Island m: April 21, 1996 in
+<lb/>Hilton Head, South Carolina
+<lb/>*2nd Husband of Chanda Lee Nolan:
+<lb/>+Stephen Deponte b: December 1976 in Rhode Island m: May 29,
+<lb/>1999 in Jacksonville, Florida
+<lb/>10 Shaun Alfred Nolan b: January 07, 1978 in Hamilton, New York
+<lb/>*2nd Wife of Alfred (Bud) Anchor Moon:
+<lb/>.... +Rose Boulanger m: March 10, 1981
+<lb/>8 George SpohnerMoon b: January 29, 1921 d: December 14, 1988
+<lb/>.... +Jeanette Gloria Mercier b: Janua^ 09, 1927 m: November 09, 1946
+<lb/>9 Elizabeth Marie Moon b: April 02, 1947
+<lb/>+Thomas Joseph Zielinski, Jr b: August 26, 1943 m: September 15,
+<lb/>1974
+<lb/>10 Thomas Joseph Zielinski b: March 10, 1968
+<lb/>+Lorie Elizabeth Perretta m: May 01, 1998 in Utica, New York
+<lb/>10 Kevin John Zielinski b: Febmary 09, 1969
+<lb/>+Cheri Ann Donovan b: January 09, 1960 m: May 06, 1988
+<lb/>11 Nicholes John Zielinski b: August 28, 1994
+<lb/>10 Ryan James Zielinski b: December 18, 1981
+<lb/>9  Shirley Arm Moon b: Febmary 23, 1948
+<lb/>+Robert (Joe) Stewart Strong b: June 19, 1946 m: October 09, 1965
+<pb n="17" facs="#page-016"/><lb/>10 Robert Stewart Strong b; May 25, 1968
+<lb/>+Kelly Patricia Scofeild b: March 01, 1966 m: May 16, 1992
+<lb/>11 Shelly June Strong b: May 22, 1987
+<lb/>11 Shawn Joseph Strong b: May 11, 1993
+<lb/>10 Steven (Beaver) Alan Strong b: February 25, 1971
+<lb/>+Holly Lyim Wallach b; December 10, 1971 in Hamilton, New
+<lb/>York
+<lb/>11 Shane Steven Strong b: May 11, 1991
+<lb/>* 1st Wife of Steven (Beaver) Alan Strong;
+<lb/>+Virginia Lee Franklin b: October 12, 1967 in Illion, New York m:
+<lb/>June 10, 1995
+<lb/>11 Katelyn Rose Strong b: January 09, 1999 in Utica, New York
+<lb/>10 Crystal Lynn Strong b: December 05, 1972
+<lb/>+David Walter Russell m: August 06, 1994
+<lb/>11 Ashley Nicole Russell b: January 24, 1995
+<lb/>11 Matthew David Russell b: May 14, 1997 in Hamilton, New
+<lb/>York
+<lb/>9 Georgia Carol Moon b: June 27, 1949
+<lb/>+LeRoy Victor Hamey, Sr. b: October 14, 1942 in Knoxboro, New York
+<lb/>m: August 17, 1968
+<lb/>10 LeRoy Victor Hamey,Jr. b: March 11, 1968 in Utica, New York
+<lb/>10 Scott Darien Hamey b: December 22, 1969 in Utica, New York
+<lb/>10 Terry Duane Hamey b: November 09, 1970 in Utica, New York
+<lb/>+Becky Sue Darrow b: May 05, 1971
+<lb/>11 Karissa Lea Hamey b: Febmary 17, 1995 in Rome, New York
+<lb/>9 George Steven Moon b: December 16, 1950 in Utica, New York
+<lb/>+Ann Marie Williams b: July 25, 1950 m: May 25, 1974
+<lb/>10 Luke Moon b: March 26, 1975 d: March 26, 1975
+<lb/>10 Faith Arm Moon b: January 30, 1976
+<lb/>10 Charlene GwenMoon b: October 17, 1977
+<lb/>10 Aaron Richard Moon b: January 14, 1980
+<lb/>9 Rodney James Moon b: March 06, 1952
+<lb/>+Patricia Raye Williams Depasquale b: March 15, 1940 m: December
+<lb/>18, 1978
+<lb/>10 Deni Sue Moon b: January 01, 1974
+<lb/>9 Clifton Thomas Moon, Sr. b: May 13, 1953
+<lb/>+Dorthy Kaye Larman b: March 26, 1956 m: January 26, 1973
+<lb/>10 Thersa Marie Moon b: May 06, 1973
+<lb/>+Bradley Kristopher Sweet, Sr. b: September 22 m: July 23, 1994
+<lb/>11 Bradley Kristopher Sweet, Jr. b: December 07, 1993
+<lb/>10 Clifton Thomas Moon, Jr. b; October 30, 1974
+<lb/>10 Heath James Moon b: January 30, 1977
+<lb/>10 Jason Eric Moon b: June 26, 1978
+<lb/>9 Anita Louise Moon b: July 05, 1956
+<lb/>10 Deborah Lynn Moon b: June 14, 1975
+<lb/>9 Gregory Alan Moon b: Febmary 14, 1958
+<lb/>+Joarmie Kennyon
+<lb/>9 Andrew John Moon b: January 30, 1961
+<lb/>+Brenda Jean Filers b: March 30, 1963
+<lb/>10 Joshua Scott Moon b: July 21, 1985
+<lb/>Emma Catheryn Moon b: 1922
+<lb/>+Earl William Shauger
+<lb/>9 Earl Fred Shauger b: Febmary 03, 1948
+<lb/>+Dorthy Hadfield b: October 25, 1948
+<lb/>10 Earl William Shauger b: September 10, 1969
+<lb/>11 Morgan Elizabeth Shauger b: January 08, 1997
+<lb/>11 Ryan Alexander Shauger b: January 08, 1997
+<lb/>+Jermifer Jo Ladrillono m: October 23, 1999 in Norfolk, Virginia
+<lb/>10 Jennifer Shauger b: July 14, 1973
+<lb/>+Theron Zirkle b: December 10, 1971
+<lb/>*2nd Wife of Earl Fred Shauger:
+<lb/>+Jeanette Brotton Rifenburg
+<lb/>9 Pradence Sonja Shauger b: December 12, 1945
+<lb/>+Harold William Luke II b: August 28, 1945
+<lb/>10 Patrick William Luke b: March 02, 1966
+<lb/>+Lori Cahill b: October 07, 1968
+<pb n="18" facs="#page-017"/><lb/>11 Sarah Catherine Luke b: February 09, 1996 d: February 14,
+<lb/>1998
+<lb/>11 Holly Elizabeth Luke b: May 13, 1999
+<lb/>10 Jeffery Michael Luke b: August 03, 1967
+<lb/>+Melissa Rudy
+<lb/>11 Nathaniel Jeremy Luke b: May 19, 1988
+<lb/>*2nd Wife of Jeffery Michael Luke:
+<lb/>+BethBingham b: February 13, 1968
+<lb/>11 Cassidy Elizabeth Luke b: September 13, 1997
+<lb/>10 Jeremy Patrick Luke b: January 26, 1981
+<lb/>9 Wayne Wham Shauger b: March 21, 1951
+<lb/>+Karen Wilmot
+<lb/>10 Robbie Shauger b: June 17, 1972
+<lb/>10 Michael Shauger b: May 03, 1977
+<lb/>*2nd Wife of Wayne Wham Shauger:
+<lb/>+Deborah Mercier b: June 15, 1960 m: August 24, 1991
+<lb/>Fred Junior Moon b: June 30, 1926 in Eaton, New York
+<lb/>+Dorthy Louise Brewer b: August 30, 1925 in Oriskany Falls, New York m:
+<lb/>June 29, 1946 in Oriskany Falls, New York
+<lb/>9  Judith Suzanna Moon b: May 05, 1947 in Utica, New York
+<lb/>+Robert (Rip) Elliot m: August 27, 1966 in Waterville, New York
+<lb/>10 Suzaime Elliot
+<lb/>+Timothy Scully
+<lb/>11 Karlie Scully
+<lb/>10 Lori Arm Elliot
+<lb/>+Richard Maxon m: August 02, 1997
+<lb/>10 Donald Wayne Elliot b: June 08, 1968 in New Hartford, New York
+<lb/>+Janice Buschor m: December 31, 1997 in Clinton, New York
+<lb/>11 Laken Tyler Elliot b; May 11, 1998 in New Hartford, New York
+<lb/>10 Diane Marie Elliot
+<lb/>+ Jeffery Williams
+<lb/>11 Brooke Williams
+<lb/>11 Hunter Williams b: April 27, 1997
+<lb/>9  Scott Moon b: November 03, 1954 in Utica, New York
+<lb/>+Caroline Heath m: June 11, 1975 in Waterville, New York
+<lb/>10 Jermy Moon
+<lb/>10 Jessica Moon
+<lb/>*2nd Wife of Scott Moon:
+<lb/>+Sherri Bartlett m: September 07, 1986 in Paris, New York
+<lb/>10 Nichole Moon
+<lb/>10 Amanda Moon
+<lb/>Oda May Moon b: May 14, 1930 d: March 14, 1994
+<lb/>+Sherwood Duane Coffin
+<lb/>9 Eunice Marie Coffm b: August 16, 1946
+<lb/>+Peter Paul Dorshenko b: May 31, 1946
+<lb/>10 Randy Paul Dorshenko b: March 25
+<lb/>10 Lisa Marie Dorshenko b: August 16, 1966 d: 1987
+<lb/>+Jeffery Harris m: 1987
+<lb/>10 Amy Lyn Dorshenko b: March 14, 1969 in Hamilton, New York
+<lb/>+John Boland b: July 08, 1962 in Syracuse, New York m:
+<lb/>September 10, 1994 in East Syracuse, New York
+<lb/>11 Alyssa Marie Boland b: June 07, 1998 in Syracuse, New York
+<lb/>10 Holly Jo Dorshenko b: June 24, 1973
+<lb/>+Joseph Stemburg b: March 21, 1975 m: July 19, 1997
+<lb/>9 Edward Coffin b: December 08, 1947
+<lb/>+Peggie Parks
+<lb/>9  Steven Coffin b: July 21, 1948
+<lb/>9 Linda Christine Coffin b: July 27, 1949
+<lb/>+Barry Wayne Armstrong, Sr. b: November 05, 1952 m: September 05,
+<lb/>1970 d: September 16, 1982
+<lb/>10 Barry Wayne Armstrong, Jr. b: September 20, 1971
+<lb/>+Melianie Rose Lebo b: Febmary 02, 1973 m: July 27, 1989
+<lb/>11 Mercedes Elaine Armstrong b: November 13, 1989
+<lb/>11 Marissa Kay Armstrong b: January 18, 1992
+<lb/>11 Ashley Rosemarie Armstrong b: March 05, 1994
+<lb/>10 Aaron Paul Armstrong b: January 13, 1974
+<lb/>10 Timothy Bryon Armstrong b: July 16, 1977
+<pb n="19" facs="#page-018"/><lb/>*2nd Husband of Linda Christine Coffin;
+<lb/>+Michael Allen Blinn b: November 30, 1964 m: May 11, 1985
+<lb/>10 Cory Michael Blinn b: October 09, 1985
+<lb/>9 Michael Patrick Coffin b: January 31, 1952 in Utica, New York
+<lb/>+Sharon Farr b: January 16
+<lb/>10 Sonya Renee Coffin b: November 08, 1973
+<lb/>+Jeff Ellinger m: September 23, 1996
+<lb/>11 Carissa Paige Ellinger b: May 26, 1992
+<lb/>11 Craig Jonathan Ellinger b: August 19, 1997
+<lb/>10 Amber Lynn Coffin b: October 04, 1979
+<lb/>11 Seaira Lee-Ann Coffin b: March 23, 1995
+<lb/>11 Seth Aaron Michael Coffin b: June 20, 1997
+<lb/>9 Duane Coffin b: August 22, 1954 in Utica, New York
+<lb/>-tNorma Martinez b: October 02, 1956 m: December 1972 in
+<lb/>Jacksonville, Arkansas
+<lb/>10 Daniel Coffm b: November 27, 1973 in Little Rock, Arkansas
+<lb/>+Chrystal Lee Snow m: December 05, 1994 in Lawton, Oklahoma
+<lb/>11 Emilee Michelle Coffin b: July 05, 1995
+<lb/>10 Michelle Marie Coffin b: December 21, 1978 in Jacksonville,
+<lb/>•Arlc^nsss
+<lb/>9 Debroah Lynn Coffin b: December 02, 1955 d: July 28, 1974
+<lb/>9  Pamela Ann Coffin b: March 26, 1962
+<lb/>9 Kevin R. Coffin b: June 16, 1963
+<lb/>+Gloria Henriksen b: August 05, 1959 m: July 19, 1986
+<lb/>10 Courtney Coffin b: July 29, 1988
+<lb/>9 Brenda Lee Coffin b: November 30, 1967
+<lb/>Elsie Magdelene Moon b: Febmary 25, 1901 in Morrisville, New York d: July
+<lb/>25, 1992
+<lb/>-l-Orville Wayne Kimpton b: April 08, 1908 m: June 29, 1930 d: August 20,
+<lb/>1973
+<lb/>8  Elsie Murial Leone Kimpton b: February 06, 1931 d: March 21, 1985
+<lb/>-i-Kenneth Bums b: Febmary 06, 1931 d: June 1985
+<lb/>9 David James Bums b: June 06, 1958 d: 1986
+<lb/>9  Steven Jay Bums b: November 15, 1959
+<lb/>9 Karen Janine Bums b: January 22, 1961
+<lb/>9 Mari Jane Bums b: April 14, 1965
+<lb/>8 Robert Lynwood Kimpton b: September 08, 1933 d: March 02, 1986
+<lb/>-i-Maude Campbell Relyea m: November 07, 1959
+<lb/>9 Robert Lynwood Kimpton b: November 21, 1960
+<lb/>9  Lori Lynn Kimpton b: July 12, 1962
+<lb/>9  Julie Kay Kimpton b: August 12, 1964
+<lb/>9 Kelly Leigh Kimpton b: June 16, 1968
+<lb/>8  Lenola Marlene Kimpton b: October 04, 1935
+<lb/>+Burton Van Slyke
+<lb/>9 Robin Van Slyke b: March 24, 1956
+<lb/>9 Deborah Van Slyke b: May 05, 1958
+<lb/>9 Burton Franklin Van Slyke b; July 15, 1959
+<lb/>8 Orville Wayne Kimpton b: August 03, 1936
+<lb/>-i-Patricia Bromfield
+<lb/>9 Timothy Wayne Kimpton b: March 05, 1959
+<lb/>9 Terrie Lynn Kimpton b: May 23, 1965
+<lb/>9 Todd William Kimpton b: May 15, 1968
+<lb/>9 Tammie Sue Kimpton b: July 24, 1970
+<lb/>8 Mary Lee Jennie Kimpton b: September 11, 1938
+<lb/>-I-John Henry Wamer
+<lb/>9  John Henry Wamer b: June 30, 1961
+<lb/>9 Kathleen Mary Wamer b: August 08, 1962
+<lb/>9 Brian Rodger Wamer b: May 21, 1965
+<lb/>8 Rita Wallis Kimpton b: July 10, 1943
+<lb/>+Jon Edward Otts
+<lb/>9  Jon Edward Otts, Jr. b: December 22, 1965
+<lb/>10 Matthew Jon Otts b: July 15, 1993
+<lb/>10 Breanna Nicole Otts b: September 01, 1995
+<lb/>10 Brittany Alicia Otts b: December 06, 1996 d: January 24, 1997
+<lb/>9  Janine Otts b: December 03, 1966
+<lb/>10 Richard Steven Otts b: September 26, 1992
+<lb/>9 Melissa Susan Otts b: December 31, 1969
+<pb n="20" facs="#page-019"/>
+<lb/>9  Susan Kristina Otts b: May 19, 1972
+<lb/>9  Joseph Wayne Otts b: July 28, 1973
+<lb/>8 Wallace Evertt Kimpton b: February 12, 1945
+<lb/>+Doruia Dettner Fellows
+<lb/>Aaron E. Spohner b: 1869 in Madison Co., New York
+<lb/>5 Nancy Stxough b: 1836
+<lb/>5  Lydia Sttough b: 1847
+<lb/>3 Maria Elisabetha Sttaub b: 1754
+<lb/>3 Henrich Sttauch b: 1762
+<pb n="21" facs="#page-020"/>
+<lb/>Descendants of Joann Georg Adle
+<lb/>1  Joann Georg Adle b: 1720
+<lb/>.... +Maria Dorothea Riemensneider b: 1746
+<lb/>.... 2 Johannes George Adle b: 1758 in Hesen Kesel, Germany d: 1819 in Manheim, New York
+<lb/>+Magdelena Klock b: May 21, 1775 in Manheim, New York m: February 03, 1793 in Herkimer, New
+<lb/>York d: March 21, 1864 in Manheim, New York
+<lb/>3  John Adle b: August 06, 1793 d: April 28, 1860 in Madison Co., New York
+<lb/>+Maria Ohnstaed b: 1793 d: May 06, 1860 in Madison Co., New York
+<lb/>4 Nancy Adle
+<lb/>+John Morris b: 1803 m: 1839
+<lb/>5  Laura Morris
+<lb/>+ William Cramer
+<lb/>5  Lyman Morris d: 1872
+<lb/>5 Mary Morris
+<lb/>+Menzo Delaker Root b: 1836 d; 1905
+<lb/>6 Tillie Derinda Root b: 1873
+<lb/>+Willard Albert Ackley b: 1869 d: 1932
+<lb/>7  Florence Ackley
+<lb/>6 Fred Morris Root b: 1874
+<lb/>6 Florence Annabel Root b: 1874 d: 1950
+<lb/>5  Flatmah Morris b: 1839 d: 1915
+<lb/>+JohnW.Maine b: 1836 d: 1917
+<lb/>6 Avery Maine
+<lb/>6 Prescott Maine
+<lb/>+Myrtle Bellinger
+<lb/>6 Faimie Maine
+<lb/>+Frank A. Miller
+<lb/>5  John Morris, Jr. b: 1846
+<lb/>+Alice P. Cole
+<lb/>6 Lu Lu Morris
+<lb/>6 Myrtal Morris
+<lb/>4 Betsy Aim Adle b; 1813 d: July 24, 1879 in Clockville, Madison Co., NY
+<lb/>+Jacob Buyea b: July 04, 1809 d: March 16, 1884 in Clockville, Madison Co., NY
+<lb/>5 Harriet Buyea b: 1836 d; 1882
+<lb/>+Hollenbeck
+<lb/>6 Willard J. Hollenbeck
+<lb/>6  James Hollenbeck
+<lb/>5 Hiram Buyea b: 1837 d: 1918
+<lb/>+MaryHarter d: 1891
+<lb/>6  John Buyea b; 1865
+<lb/>6 Carrie Buyea b: 1867
+<lb/>6  Jennie Buyea b: 1869
+<lb/>+Thomas Shanahan
+<lb/>6 Nancy Buyea b: 1870
+<lb/>6  Jacob John Buyea b: 1874 d: 1932
+<lb/>+Blanche Soper b: 1876 d: 1930
+<lb/>6 WilliamH. Buyea b: 1875
+<lb/>+Eva L. Johnston
+<lb/>*2nd Wife of Hiram Buyea:
+<lb/>+Comelia Lewis
+<lb/>5 Anna Marie Buyea b: 1841
+<lb/>+John S. Cramer
+<lb/>5 Nancy J. Buyea b: 1843
+<lb/>+Charles S. Hurd
+<lb/>5  Catherine Buyea b: 1849
+<lb/>+Hollenbeck
+<lb/>6  James Hollenbeck
+<lb/>6 William J. Hollenbeck
+<lb/>6  Ida Hollenbeck
+<lb/>6 Mary Hollenbeck
+<lb/>5  Lucretia Buyea b: 1850 d: 1898
+<lb/>5  Emma Buyea b: 1853
+<lb/>5  Simeon A. Buyea b: 1857 d: 1930
+<lb/>+Ida Miller b: 1858
+<lb/>6 Earl Miller Buyea b: 1880
+<lb/>+Ethel Betsinger
+<lb/>7 Virginia Buyea b: 1908
+<pb n="22" facs="#page-021"/>
+<lb/>7  James Simeon Buyea b; 1909
+<lb/>7  Stuart Earl Buyea b: 1911
+<lb/>5  [13] Robert Buyea b: 1839 d: 1916
+<lb/>+[12] Sarah Martha Hart b: October 24, 1845 d: September 28, 1926
+<lb/>6  [14] Comelia Hart Buyea b: November 10, 1871 d: June 03, 1898
+<lb/>+[15] Daniel Grant Gates
+<lb/>7  [16] Fannie Gates
+<lb/>6  [17] Bertha Buyea b: 1877 d; 1877
+<lb/>6  [18] Floyd Sylvester Buyea b: 1886 d: 1919
+<lb/>4 Flisabet Anna Adle b: May 01, 1815
+<lb/>4  Joharm Jost Adle b; October 01, 1817
+<lb/>Catherine Adle b: March 12, 1797 d: 1880
+<lb/>+John Strough b: July 22, 1792 m: May 29, 1814 in Herkimer, New York d: April 30, 1874 in
+<lb/>Little Falls, New York
+<lb/>4  John Strough, Jr. b: Febmary 09, 1815 d: March 13, 1894 in Oppenheim
+<lb/>+Dorcus Johnson
+<lb/>5  Bemice Strough b; January 06, 1841 in Manheim, Herkimer Co., NY
+<lb/>4 Catherine Strough b: March 16, 1817 d: May 15, 1850 in Chamont, Jefferson Co., NY
+<lb/>+Fzra Easterly
+<lb/>4 Lavina Strough b: 1821 d: 1897 in Canastota, New York
+<lb/>+Moses Davis b: May 08, 1814 in Manheim, Herkimer Co., NY d: in Canastota, New York
+<lb/>4  Jeremiah A. Strough b: 1823 d; 1900 in Peterboro, Madison Co., NY
+<lb/>+Jane Keller b: 1825 d: 1911 in Peterboro, Madison Co., NY
+<lb/>5  Fannie Strough
+<lb/>+J. Otisfay m: June 18, 1873 in Peterboro, Madison Co., NY
+<lb/>4 Lucinda Strough b: March 25, 1825 d: 1907
+<lb/>+John Peter Davis b: September 20, 1823 d; November 16, 1904
+<lb/>5  Irving Davis
+<lb/>+Phebe Lu Lu Ashenhurst
+<lb/>6  Irene Davis
+<lb/>5 Mary Catherine Davis b: 1845 d: 1894
+<lb/>+John M. Fysaman b; 1842
+<lb/>6 Raymond D. Fysaman
+<lb/>6  [2] Winifred C. Fysaman
+<lb/>+[1] Rev. Francis Adelbert Strough
+<lb/>7  [3] Margaret Strough
+<lb/>7  [4] Fred Strough
+<lb/>7  [5] Harold Strough
+<lb/>7  [6] Lois Strough
+<lb/>6 Wilson Willard Fysaman b: 1871 d: 1914
+<lb/>+Sarah F. Neary
+<lb/>5  Sophoria L. Davis b: 1849 d: 1946
+<lb/>+Henry Frank Baum
+<lb/>6 LavemBaum
+<lb/>+George A. Robinson
+<lb/>6 KezzyBaum b: 1867 d: 1945
+<lb/>+Prescott D. Perkins
+<lb/>Uriah Strough b: 1827 d: 1895 in Briar Hill, St. Lawrence Co., NY
+<lb/>+Sarah Sophronia Castle
+<lb/>5  [1] Rev. Francis Adelbert Strough
+<lb/>+[2] Winifred C. Fysaman
+<lb/>6  [3] Margaret Strough
+<lb/>6  [4] Fred Strough
+<lb/>6  [5] Harold Strough
+<lb/>6  [6] Lois Strough
+<lb/>Obadiah A. Strough b: 1829 d; 1898 in Little Falls, New York
+<lb/>+Barbara Dinah Ritter b: March 18, 1836
+<lb/>5  [8] Ester Strough
+<lb/>+[7] Joseph Davis, Jr b: 1846
+<lb/>6  [9] Lillian Davis
+<lb/>6  [10] Harry Davis
+<lb/>6  [11] Walter Davis
+<lb/>5 Orvilla Strough
+<lb/>5 Rose Strough
+<lb/>Louisa Strough b: April 12, 1831
+<lb/>Mary Adle Strough b: April 08, 1833 d: 1909
+<pb n="23" facs="#page-022"/>
+<lb/>+Edward S. Middlebrook b: January 14, 1837 in Salisbury, New York m: February 04, 1858
+<lb/>in Utica, Oneida Co., NY
+<lb/>5  Leonora Middlebrook b: 1859 d: 1859
+<lb/>5 Allen Edward Middlebrook b: 1863 d: 1885
+<lb/>5 Cora Lavinia Middlebrook b: 1866 d: 1902
+<lb/>+Frank P. Myers
+<lb/>4 Diana Strough b: July 1835 in Mile Strip, Madison Co., New York d: April 20, 1868 in
+<lb/>Albany, New York
+<lb/>+John Henry Petrie b: February 09, 1838 in Manheim, Herkimer Co., NY d: September 26,
+<lb/>1881 in Smithfield Township, Madison Co., NY
+<lb/>5  Edward Petrie
+<lb/>5  Jesse Petrie
+<lb/>+Ida Eisaman
+<lb/>5  John Petrie
+<lb/>4  Jacob Strough b: 1838
+<lb/>4  Irena Strough b: 1840 d: 1930
+<lb/>+James Nelson Klock b: 1840 d: 1919
+<lb/>5 Olive Catherine Klock b: 1863 d: 1948
+<lb/>+David Conine
+<lb/>5  John Peter Klock b: 1866
+<lb/>+Harriet Hunter b: 1862 d: 1939
+<lb/>6 Leslie Klock b: 1890
+<lb/>6 Pauline Klock b: 1894
+<lb/>6  Irena Klock b: 1896
+<lb/>5 Nelson Julian Klock b: 1871
+<lb/>5 Melvin Lionell Klock b: 1874
+<lb/>+Roencie Morse
+<lb/>4 Charles H. Strough b: 1844 d: 1879
+<lb/>+Mary Augusta Gage b: 1844 d: 1924
+<lb/>5  Fannie Strough
+<lb/>Aima Eva Adle b: June 27, 1800
+<lb/>+Jost Joseph Davis b: 1799 m: 1820 d: 1865 in Little Falls, New York
+<lb/>4  Jacob J. Davis b: January 16, 1819 in Manheim, Herkimer Co., NY
+<lb/>+Nancy Strough b: 1818
+<lb/>4 Almyra Davis b: March 10, 1821 in Manheim, Herkimer Co., NY d: April 10, 1865 in
+<lb/>Herkimer Co., New York
+<lb/>+Amos Klock b: July 13, 1822 d: March 30, 1870 in Herkimer Co., New York
+<lb/>5 Harriet Klock d: June 14, 1928
+<lb/>+Adam Bellinger b: 1836 d: November 06, 1907
+<lb/>6 Addie Bellinger
+<lb/>6 Bessie Bellinger
+<lb/>5 Catherine Klock b: October 03, 1843 d: October 07, 1892
+<lb/>+Norman Souder d: 1883
+<lb/>5  Ellen Klock b; 1846 d: 1898
+<lb/>+Philip Spaulding
+<lb/>5  Joseph Martin Klock b: July 09, 1851 d: January 15, 1892
+<lb/>+Loretta Heller b: March 08, 1855 d: January 27, 1942
+<lb/>6 E.May Klock b: June 02, 1844 d: 1958
+<lb/>+Harry W. Wilkinson b: 1880 d: 1957
+<lb/>6 Maude Klock b: December 27, 1876
+<lb/>+Emory R. Veltz b: 1872
+<lb/>5 Mary A. Klock b: 1857
+<lb/>5 Amy Alvira Klock b: 1865
+<lb/>4 Anna Davis b: December 24, 1823
+<lb/>4  John H. Davis b: July 27, 1828 in Manheim, Herkimer Co., NY d: September 28, 1918 in
+<lb/>Oneida, Madison Co., NY
+<lb/>+Margaret Maria Stisser m: January 01, 1851
+<lb/>4 Hiram R. Davis b: May 16, 1830 in Waterville, Madison Co., NY d: October 1914 in
+<lb/>Herkimer Co., New York
+<lb/>+Elisabeth Kelly d: 1860
+<lb/>*2nd Wife of Hiram R. Davis:
+<lb/>+Ella Mary Stoddard b: 1853 m: December 15, 1870 in Herkimer Co., New York d:
+<lb/>September 1914
+<lb/>4 William Henry Davis b: November 06, 1830 d: in Smithfield Township, Madison Co., NY
+<lb/>+Nancy Stisser
+<lb/>4 Caroline Adela Davis b: June 15, 1833
+<lb/>+Asa Petrie b: 1833 d: in Little Falls, New York
+<pb n="24" facs="#page-023"/>
+<lb/>4 Mary Davis b: 1842
+<lb/>+HiramKlock b: 1842
+<lb/>4 Lucy Davis b: 1844
+<lb/>+Joseph House
+<lb/>4  [7] Joseph Davis, Jr b: 1846
+<lb/>+[8] Ester Strough
+<lb/>5  [9] Lillian Davis
+<lb/>5  [10] Harry Davis
+<lb/>5  [11] Walter Davis
+<lb/>Nancy Adle b: 1803 in Manheim, New York d: July 07, 1857 in Smithfield Township, Madison
+<lb/>Co., NY
+<lb/>+George N. Hart b: April 1799 in Mohawk Valley, New York m: Abt. 1820 in Manheim,
+<lb/>Herkimer Co., NY d: July 06, 1857 in Smithfield Township, Madison Co., NY
+<lb/>4 Catherine Ann Hart b: September 27, 1821 in Herkimer Co., New York d: May 12, 1900
+<lb/>+Daniel J. Davis, Jr. b: August 25, 1815 in Herkimer Co., New York m: Febmary 02, 1840 m
+<lb/>Herkimer Co., New York d: November 02, 1903 in Peterboro, Madison Co., NY
+<lb/>5 Mary Catherine Davis b: 1841
+<lb/>+John V.R. Haight b: 1830 d: 1890
+<lb/>5  Ezra Davis b: 1843
+<lb/>6 William Davis
+<lb/>5 Nancy Davis b: 1846
+<lb/>+Winchester M. Johnson b: 1840 d: 1911
+<lb/>5 Reuben Sylvester Davis b: May 29, 1847 d: 1924
+<lb/>+Mary (Mame) Pamella Moon b: January 12, 1886 d: 1959
+<lb/>6  Freemont Davis b: 1906
+<lb/>+Charlotte Wright b: 1907 d: 1968
+<lb/>7 Deloris (Toots) Ema Davis b: Febmary 11, 1936 in Canastota, New York d:
+<lb/>August 09, 1982 in Syracuse, New York
+<lb/>+Albert (Punk) Curtis Mennig b: September 04, 1926 in Canastota, New York
+<lb/>m: September 26, 1953 in Peterboro, New York
+<lb/>8 Douglas Mermig b: July 04, 1954 in Canastota, New Yoek
+<lb/>+TaraTmett b: December 12, 1955
+<lb/>9  Jason Douglas Mennig b: July 04, 1980
+<lb/>*2nd Wife of Douglas Mennig:
+<lb/>+Jeanine Youngs
+<lb/>9 Alicia Marie Mennig b: July 15, 1982
+<lb/>9 Danielle Marie Mennig b: August 05, 1984
+<lb/>9 Troy Mennig
+<lb/>8 Roxanne Joy Meimig b: July 31, 1956 in Canastota, New York
+<lb/>9 Heather Lynn Meimig b: March 23, 1972
+<lb/>+Stephen Charles Montana b: October 19, 1972 m: August 10,1996
+<lb/>10 Jessica Deloris Montana b: April 17, 1998 in Bristol, Perm.
+<lb/>+Randy Michael DeGroat b: April 02, 1959 m: April 05, 1980
+<lb/>9 Tanya Lee DeGroat b: Febmary 06, 1981 in Hamilton, New York
+<lb/>8 MaryDee Mills Mennig b: March 31, 1962 in Canastota, New Yoek
+<lb/>+HowardMoot b: April 15, 1960 m: July 20, 1985
+<lb/>9 Nicole Deloris Moot b: June 20, 1986
+<lb/>9 Amanda Mae Moot b: March 05, 1988
+<lb/>8 Mary Arm Marie Mennig b: March 31, 1962 in Canastota, New Yoek
+<lb/>+Michael Eugene Rifenburg
+<lb/>9 Ryan Eugene Rifenburg b: March 24, 1988
+<lb/>9 Renee Elizabeth Rifenburg b: September 11
+<lb/>9 Christopher Albert Rifenburg b: September 26, 1994
+<lb/>8 Randy Michael Mennig b: January 22, 1961 in Canastota, New Yoek
+<lb/>+Deanna Carp Shattuck b: June 29, 1963 in Hamilton, New York m: July
+<lb/>09, 1988 in Earlville, New York
+<lb/>9 McKay Elizabeth Mennig b: December 14, 1988 in Hamilton, New York
+<lb/>9 Tori Alexandria Mennig b: January 17, 1992 in Hamilton, New York
+<lb/>9 Colton Michael Mennig b: August 28, 1996 in Hamilton, New York
+<lb/>8  JulieAnn Marie Mennig b: October 21, 1964 in Canastota, New Yoek
+<lb/>+Michael George Marshall b: May 30, 1962 in Oneida, New York m: June
+<lb/>11, 1983 in Munnsville, New York
+<lb/>9 Matthew Michael Marshall b: March 17, 1982 in Hamilton, New York
+<lb/>9 Melissa May Marshall b: April 28, 1984 in Hamilton, New York
+<lb/>9 Merrick Michael Marshall b: July 21, 1987 in Hamilton, New York
+<lb/>9 Michael Mennig Marshall b: May 12, 1992 in Hamilton, New York
+<pb n="25" facs="#page-024"/>
+<lb/>8 Gary Freemont Mennig b: October 26, 1958 in Canastota, New Yoek d:
+<lb/>October 27, 1958
+<lb/>6 Mary Isabell Davis b: July 14, 1907 d: May 10, 1995
+<lb/>+Calvin D. Pankhurst b: June 03, 1903 in Lennox Township, Madison Co., NY d:
+<lb/>May 06, 1964
+<lb/>7  Shirley Amethst Pankhurst b: October 01, 1926 in Clockville, New York
+<lb/>+George O. Schilling m: 1947
+<lb/>8 Minna Schilling b: June 26, 1954 in Rome, New York
+<lb/>+Eric Ringrose m: May 17, 1975 in Rome, New York
+<lb/>9  Jeffery E. Ringrose b: February 13, 1977 in Rome, New York d: July
+<lb/>20, 1985
+<lb/>9  Jennifer E. Ringrose b: October 21, 1986 in Rome, New York
+<lb/>*2nd Flusband of Shirley Amethst Pankhurst:
+<lb/>+Frank Stocknick b: November 18, 1919 in Rome, New York m: November 27,
+<lb/>1970 in Rome, New York
+<lb/>7 Elva Mae (Mickey) Pankhurst b: October 03, 1929
+<lb/>+Gorden White
+<lb/>*2nd Husband of Elva Mae (Mickey) Pankhurst:
+<lb/>+Robert A. Kuss m: November 27, 1958 d: July 01, 1981
+<lb/>*3rd Husband of Elva Mae (Mickey) Pankhurst:
+<lb/>+Charles Klebs m: October 03, 1993
+<lb/>7 Mary Dee Pankhurst b: January 21, 1932 in Cloekville, New York
+<lb/>+Charles Robert Ames b: June 30, 1933 in Syracuse, New York m: August 25,
+<lb/>1956 in Syracuse, New York
+<lb/>8  Pamela Diane Ames b: February 25, 1961 in Syracuse, New York
+<lb/>+Daryl MePherson m: 1991 in Syracuse, New York
+<lb/>8 Charles Edward Ames b: May 26, 1964 in Syracuse, New York
+<lb/>+Karen Oberle b: May 26, 1964 in Syracuse, New York m: October 06,
+<lb/>1990 in Syracuse, New York
+<lb/>9  Jeffery Michael Ames b: July 03, 1992
+<lb/>9 Caleigh Elizabeth Ames b: Febmary 15, 1995
+<lb/>7  Joarme G. Parikhurst b: December 17, 1937 d: December 28, 1937
+<lb/>7 Eulalia Onalee Pankhurst b: August 21, 1939 in Clockville, New York
+<lb/>+David Henry Wickham,Sr. b: March 19, 1937 in Rome, New York m:
+<lb/>September 27, 1958 in Clockville, New York
+<lb/>8 David Henry Wickham,Jr. b: February 20, 1961 in Oneida, New York
+<lb/>+Mistie Lee Pallas b: August 20, 1969 m: June 09, 1990 in Whitelaw, New
+<lb/>York
+<lb/>9  Stephanie Marie Wickham b: April 10, 1987
+<lb/>9 David Anthony Wickham b: October 23, 1988
+<lb/>8  Eulalia Onalee Wickham, Jr. b: December 31, 1965
+<lb/>+Jerald Steffenhagen m: 1989
+<lb/>7 Geraldine Davis Pankhurst b: May 09, 1943 in Clockville, New York
+<lb/>+Dennis Costanzo b: February 26, 1942 m: April 09, 1964
+<lb/>8 Deatma Costanzo b: Febmary 18, 1965
+<lb/>+Robert Jones
+<lb/>9 Hannah Lee Jones b: December 28, 1995
+<lb/>9 Noah Jones b: 1997
+<lb/>8 Craig Costanzo b: December 18, 1968
+<lb/>5 Daniel F. Davis b: 1850 d: 1861
+<lb/>Sylvenus Hart b: Febmary 05, 1824 d: December 04, 1898 in Peterboro, Madison Co., NY
+<lb/>+Sarah Ann Boyer b: August 07, 1828 d: November 17, 1899 in Peterboro, Madison Co., NY
+<lb/>5  Sylvenus Hart
+<lb/>5  [12] Sarah Martha Hart b: October 24, 1845 d: September 28, 1926
+<lb/>+[13] Robert Buyea b: 1839 d: 1916
+<lb/>6  [14] Comelia Hart Buyea b: November 10, 1871 d: June 03, 1898
+<lb/>+[15] Daniel Grant Gates
+<lb/>7  [16] Fannie Gates
+<lb/>6  [17] Bertha Buyea b: 1877 d: 1877
+<lb/>6  [18] Floyd Sylvester Buyea b: 1886 d: 1919
+<lb/>5 Rhoda Hart b: 1848 d: 1860
+<lb/>5 Mary C. Hart b: 1850 d: 1860
+<lb/>5 Zenus N.B. Hart b: 1853
+<lb/>5  Sylvanus M. Hart, Jr. b: 1860
+<lb/>+Addie Percival b: 1873 d: 1941
+<lb/>5 Rosa V. Hart b: 1862 d: 1872
+<lb/>Reuben Hart b: August 05, 1826 d: July 1857
+<pb n="26" facs="#page-025"/>
+<lb/>+Mary Warner b: 1832 d: 1894
+<lb/>5 Reuben Hart
+<lb/>5 George Hart
+<lb/>+Mary
+<lb/>6 Matie Hart
+<lb/>6  John Hart
+<lb/>5  John N. Hart b: 1853 d: 1863
+<lb/>Mary Ann Hart b: April 08, 1828
+<lb/>+Roland J. Hollenbeck d: in Pratts Hollow, Madison Co., NY
+<lb/>5 Nellie Hollenbeck d: 1945
+<lb/>5 Adelia Hollenbeck
+<lb/>5 George Hollenbeck
+<lb/>5 Harrison Hollenbeck
+<lb/>5 Grant Hollenbeck
+<lb/>5  Josephine Hollenbeck
+<lb/>5 Grace Hollenbeck
+<lb/>Sarah Hart b: April 08, 1830
+<lb/>Irena Hart b: May 08, 1831 in Manheim, Herkimer Co., NY d: November 12, 1902 in
+<lb/>Madison Co., New York
+<lb/>+Rufus Petrie b: December 18, 1828 in Herkimer Co., New York m: February 09, 1852 in
+<lb/>Little Falls, New York d: January 14, 1867 in Merrillsville, Madison Co., NY
+<lb/>5 Robert Petrie b: 1853 d: 1857
+<lb/>5 Wilia Eugene Petrie b: 1855 d: 1855
+<lb/>5 Mary Elizabeth Petrie b: 1856 d: 1894
+<lb/>+ Wells Eugene Rich b: 1855 d: 1929
+<lb/>6 Mabel Ola Rich b: 1880 d: 1949
+<lb/>+Clarence E. Reese b: 1875 d: 1949
+<lb/>7 Archer Eugene Reese b: 1904 d: 1940
+<lb/>+Beatrice Potter b: 1905
+<lb/>8  James Potter Reese b; 1931
+<lb/>7 Clifford Lorenzo Reese b: 1910 d: 1991
+<lb/>+Lillie Mae Altman b: 1916
+<lb/>8  Philip Carmen Reese b: 1943
+<lb/>+Louisa
+<lb/>9  Paul Reese
+<lb/>9  Peter Reese
+<lb/>8 Amy Karen Reese b: 1948
+<lb/>+Loring Pickering b: 1918 d: 2000
+<lb/>*2nd Husband of Amy Karen Reese:
+<lb/>+Micheal Wayne Hunter b: 1951
+<lb/>7 Harold Robert Reese b: 1920 d: 1988
+<lb/>6 Robert Wells Rich b: 1889 d: 1967
+<lb/>+Armetta Borst b: 1888 d: 1968
+<lb/>5 Rufus Petrie b: 1859 d: 1890
+<lb/>5 Malvin Romain Petrie b: 1861 d: 1904
+<lb/>+May Brewster d: 1923
+<lb/>6 Burr Petrie
+<lb/>6 Basil Petrie
+<lb/>6 Durwood Petrie
+<lb/>6  Irena Petrie
+<lb/>5 Nannie J. Petrie b: 1863 d: 1890
+<lb/>+[19] Henry H. Eysaman b: 1862 d: 1939
+<lb/>6 Harold Franklin Eysaman b: 1884 d: 1938
+<lb/>+Edna Browning Dorrance b: 1889 d: 1947
+<lb/>5  Estella Petrie b: 1864 d: 1913
+<lb/>+[19] Hemy H. Eysaman b: 1862 d: 1939
+<lb/>Edward Hart b: December 09, 1833
+<lb/>Eliza Hart b: December 09, 1833 d: 1911 in Oneida, Madison Co., NY
+<lb/>+John Wamer b: 1833 in Cazenovia, Madison Co., d: 1909 in Madison Co., New York
+<lb/>5  John Wamer
+<lb/>5  Ed Wamer
+<lb/>5 Gussie Wamer
+<lb/>5 Alice Wamer d: 1945
+<lb/>+Fred Hodges
+<lb/>6  John Wamer Hodges
+<lb/>5  Susie Wamer
+<lb/>John Hart b: Febmary 15, 1836 d: in Gettysburg, Perm.
+<pb n="27" facs="#page-026"/>
+<lb/>+Kate Silver
+<lb/>5 Ann Hart
+<lb/>+George Ireland
+<lb/>4 George Hart b: April 17, 1838
+<lb/>4 Norman Hart b: April 07, 1840 d; March 14, 1912
+<lb/>+Mina Parker d: 1917
+<lb/>5 Charlie Hart
+<lb/>+Nina
+<lb/>5  Louella Hart
+<lb/>+Charles A. Gostling
+<lb/>6 Ruth Gostling
+<lb/>+McCale
+<lb/>7 Rachel McCale
+<lb/>6 Fred Gostling
+<lb/>Nancy A. Hart b: March 03, 1842 d: 1902
+<lb/>+A. Melvin Bump b: 1840
+<lb/>5  Carrie Bump
+<lb/>5  Jedidath Bump
+<lb/>Joseph H. Hart b: December 25, 1843 d: 1914 in Wampsville, Madison Co., NY
+<lb/>+Florilla E. Parker b: September 08, 1842 in Stockbride, Madison Co., NY d: November 26,
+<lb/>1936
+<lb/>5 Arthur Hart d: 1935
+<lb/>5  EmestJ. Hart b; 1871 d: 1966
+<lb/>+Anna A. Mellen b: 1873 d: 1938
+<lb/>6 Claude H. Hart b: 1896 d: 1922
+<lb/>5  Earl R. Hart b: 1873 d: 1957
+<lb/>5 Lena May Hart b: 1878 d: 1947
+<lb/>+Grove Schuylar Stoddard b: 1878 d: 1952
+<lb/>6 Donald B. Stoddard b: 1903 d: 1903
+<lb/>6 Dorothy Stoddard b: 1910
+<lb/>6 Ruth Stoddard b: 1918
+<lb/>Amma Melissa Amy Hart b: Febmary 02, 1847 d: July 1929
+<lb/>+George Parker m: 1866
+<lb/>5 Madeline Parker
+<lb/>+Floyd Welch
+<lb/>6 Ruth Welch b: 1918
+<lb/>6 Fayette Welch b: 1923
+<lb/>6 Fred Welch b: 1927
+<lb/>5 Grace Parker
+<lb/>+Jay Lillie
+<lb/>6 Margorie Lillie
+<lb/>+Roy Snithler
+<lb/>7 Ann Snithler b: 1935
+<lb/>6 Parker Carlisle Lillie b: 1896 d: 1954
+<lb/>+Helen Brown
+<lb/>7 Edgar James Lillie
+<lb/>7 Parker J. Lillie
+<lb/>7 Richard Lillie
+<lb/>7  Patricia Lillie
+<lb/>5 William Woodhall Parker
+<lb/>+Addie Benjamin
+<lb/>6 Vemice Parker
+<lb/>+John Richard Marshall
+<lb/>7  John Marshall
+<lb/>6 Clarice Parker d: 1930
+<lb/>+Alfred Harris
+<lb/>7 Carol Harris
+<lb/>6 Amy Parker d: 1995
+<lb/>+Ken Gordon
+<lb/>7 William Parker Gordon
+<lb/>7  Jo Ann Gordon
+<lb/>6 Ada Mae Parker
+<lb/>5  Fred Parker
+<lb/>5  Frank Parker
+<lb/>3  LydiaAdle b: 1806 in Clockville, New York d: 1889
+<lb/>+Matthew (Matheus) Strough b: 1800 m: October 07, 1823 in Herkimer, New York
+<pb n="28" facs="#page-027"/>
+<lb/>Magdelena Strough b: October 05, 1831 in Herkimer Co., New York d: February 15, 1908 in
+<lb/>Morrisville, New York
+<lb/>+Aaron (Spohn) Spohner b: January 22, 1830 in Herkimer, Herkimer Co., New York d:
+<lb/>Febmary 03, 1901
+<lb/>5  Egeleous A. Spohner b: in Smithfield Township, Madison Co., NY
+<lb/>+Meleua Tounelle b: in Dayton, Ohio m: April 22, 1891 in Morrisville, New York
+<lb/>5 Herman E. Spohner b: 1856 in Madison, Madison Co., NY
+<lb/>5  Elizabeth (Tibbie) Spohner b: 1859
+<lb/>+Thomas C. Maine b: 1849
+<lb/>6  Jay A. Maine b: 1884 in Morrisville, New York d: 1967
+<lb/>+Florence R. Kelloway b: 1883 in New Jersey d: 1950
+<lb/>6 Lepha Sarah Maine b; 1888 d: April 21, 1902 in Morrisville, New York
+<lb/>6 Pauline Maine b: 1908 d: 1912
+<lb/>5 Nancy Elnora Spohner b: 1861 in Madison Co., New York d: June 01, 1897 in
+<lb/>Morrisville, Madison Co., NY
+<lb/>+William George Colvin b: February 08, 1858 in Cazenovia, Madison Co., NY m: July
+<lb/>03, 1879 in Lebanon, Madison Co., NY d: March 01, 1894 in Siloam, Madison Co., NY
+<lb/>6 Mabel Colvin
+<lb/>6 Bertie Colvin b: 1880
+<lb/>6  Pearl Mae Colvin b: May 16, 1882 in Morrisville, Madison Co., NY d: September
+<lb/>17, 1968 in Madison, Madison Co., NY
+<lb/>+Lewis William Mosher b; June 03, 1884 in Madison, Madison Co., NY m: July 29,
+<lb/>1908 in Solsville, Madison Co., NY d: November 28, 1962 in Hamilton, Madison
+<lb/>Co., NY
+<lb/>7 William George Mosher b: August 08, 1901 in Lebanon, Madison Co., NY d:
+<lb/>July 04, 1984 in Somerville, Somerset Co., NY
+<lb/>7  Fredrick Colvin Mosher b: May 28, 1911 in Lebanon, Madison Co., NY d: July
+<lb/>04, 1992 in Hamilton, Madison Co., NY
+<lb/>+Alice Irene Harrison b: September 03, 1905 in Homby, Steuben Co., NY m:
+<lb/>July 03, 1934 in Hamilton, Madison Co., NY d: April 08, 1971 in New Castle,
+<lb/>DE
+<lb/>8 Barry Rexford Mosher b: September 01, 1937 in Oneida, Madison Co., NY
+<lb/>7 Alta Elnor Mosher b: September 10, 1917 in Lebanon, Madison Co., NY d:
+<lb/>August 02, 1955 in Madison, Madison Co., NY
+<lb/>6 Clarence Colvin b: April 17, 1894 d; January 1979
+<lb/>5 Mary Eleanor Spohner b: June 29, 1863 in Smithfield Township, Madison Co., NY d:
+<lb/>January 16, 1941 in Canastota, New York
+<lb/>+James D. Moon b: October 05, 1852 in Smithfield Township, Madison Co., NY m: May
+<lb/>13, 1885 in Morrisville, New York d: June 13, 1922 in Oneida, New York
+<lb/>6 Edward James Moon b: April 10, 1886 in Pratts Hollow, New York d: February 07,
+<lb/>1979 in Waterville, New York
+<lb/>+Ida Roseltha Adams b: December 28, 1887 in Fermer, New York m: January 26,
+<lb/>1910 in Madison County, New York d: May 23, 1976 in Earlville, New York
+<lb/>7 Harold Dudley Moon b: April 21, 1912 in Morrisville, New York d: October 01,
+<lb/>1976 in Eustis, Florida
+<lb/>7 Doris Gertrude Moon b: October 12, 1914 d: April 28, 1944 in Madison, New
+<lb/>York
+<lb/>+Arthur Leland Godfrey b: 1916 m: March 07, 1935 in Madison County, New
+<lb/>York d: 1984
+<lb/>8 Howard Raymond Godfrey b: July 06, 1934 d: May 28, 1993
+<lb/>+Mary Calhoun
+<lb/>8 Dolores Godfrey b: January 23, 1938
+<lb/>+Donald Lyim Williams b: August 31, 1928 in Kenwood, New York m:
+<lb/>January 02, 1956 d: March 01, 1984 in Eustis, Florida
+<lb/>9 Diaime Williams b: September 10, 1956 in Hamilton, New York
+<lb/>+Steven Algustowski m: April 28, 1979 in Utica, New York
+<lb/>10 Amy Lyrm Algustowski b: in Utica, New York
+<lb/>10 Michelle Lee Algustowski b: Febmary 10, 1975 in Utica, New York
+<lb/>11 Gabriel A. Walls b: July 08, 1994 in Utica, New York
+<lb/>11 Alexandra Machaela Walls b: January 16, 1997 in Utica, New
+<lb/>York d: March 02, 1997 in Utica, New York
+<lb/>9 Danial Leland Williams b: December 21, 1959 in Hamilton, New York
+<lb/>9 Dale John Williams b: November 20, 1961 in Utica, New York
+<lb/>+Amy Lyrm Baumgarten b: Febmary 15, 1960 m: December 01, 1993
+<lb/>in West Jordan, Utah
+<lb/>10 Morgan Jessica Williams b; April 01, 1997
+<lb/>*2nd Husband of Dolores Godfrey:
+<pb n="29" facs="#page-028"/>
+<lb/>+Robert A. Dodge b: September 08, 1934 in Schuyler, New York m:
+<lb/>November 02, 1991 in Illion, New York
+<lb/>8  James Lee Godfrey b: December 20, 1942
+<lb/>+Georgena Cook
+<lb/>9  Paula Kay Godfrey
+<lb/>9 Carrie Godfrey
+<lb/>+Michael Cohl m: May 1998 in Rome, New York
+<lb/>*2nd Wife of James Lee Godfrey:
+<lb/>+Joanne Reed
+<lb/>9  James Joseph Godfrey b: March 1981
+<lb/>9 Michael James Godfrey
+<lb/>7 Howard Edgar Moon b: August 29, 1916 in Pine Woods, New York d: May 09,
+<lb/>1989 in Hubbardsville, New York
+<lb/>+Jants Louise Eastman b: October 31 in Waterville, New York m: November 01,
+<lb/>1936 in Smyma, New York d: April 19, 1999 in Tennesse
+<lb/>8 Rosemary Louise Moon b: July 09, 1937 in Poolville, New York
+<lb/>8  Judy Caroline Moon b: February 04, 1939 in Poolville, New York
+<lb/>+Wayne Ronley Black b: August 12, 1938 m: June 1957
+<lb/>9  Jodi Lynn Black
+<lb/>+Ron Ogden m: July 03, 1976
+<lb/>10 Daniel Ehnous Ogden b: October 13, 1976
+<lb/>10 Brandon Ewald Ogden b: March 09, 1978
+<lb/>9 Kari Sue Black b: September 24, 1959
+<lb/>+Gary Pedrick
+<lb/>10 Michael Leigh Pedrick b: January 21, 1979
+<lb/>9 Kelly Jo Black b: July 11, 1961
+<lb/>+John Leon Maine m: September 12, 1981
+<lb/>10 Joshua James Maine b: September 08, 1980
+<lb/>10 Jamie Lynn Maine b: October 18, 1982
+<lb/>9 Karen Dee Black b: March 04, 1963
+<lb/>+Michael Ritenour m: June 29, 1985
+<lb/>10 Kenneth Michael Ritenour b: January 1987
+<lb/>10 Joanna Caroline Ritenour b: September 07, 1992
+<lb/>*2nd Husband of Judy Caroline Moon:
+<lb/>+George Flummer m: Abt. 1977
+<lb/>8  Ann Lee Moon b: July 01, 1942 in Hamilton, New York
+<lb/>+Donald Henry Staelens, Sr. b: January 09, 1939 in Madison, New York m:
+<lb/>June 30, 1959 in Hubbardsville, New York
+<lb/>9 Dolli Ann Staelens b: July 10, 1960 in Hamilton, New York
+<lb/>+Stanley Niles m: September 1978 in West Edmeston, New York
+<lb/>10 Matthew Niles
+<lb/>10 Amanda Niles
+<lb/>10 Thomas Niles
+<lb/>*2nd Husband of Dolli Ann Staelens:
+<lb/>+Guy Allen Urben b: July 09, 1962 m: July 05, 1987
+<lb/>10 Thomas Urben
+<lb/>10 Katrina Urben b: April 20, 1991
+<lb/>9 Donald Henry Staelens, Jr. b: February 01, 1962 in Norwich, New York
+<lb/>+Victoria Tice b: March 23, 1970 m: September 15, 1991 in Oriskany
+<lb/>Falls, New York
+<lb/>9 Howard Paul Staelens b: September 30, 1964 in Norwich, New York
+<lb/>+Debra Jean Hicks b: January 19, 1965 m: May 25, 1987 in Norwich,
+<lb/>New York
+<lb/>10 Paul Joseph Staelens b: June 04, 1988
+<lb/>10 Kayla Lorain Staelens b: June 19, 1991
+<lb/>9  Joleen Ellen Staelens b: October 16, 1970 in Hamilton, New York
+<lb/>+John Anthony Geruntino b: April 03, 1971 in Syracuse, New York m:
+<lb/>May 08, 1993 in Hamilton, New York
+<lb/>10 Janeen Ellen Gemntino b: July 12, 1996 in Nashville, Tennesse
+<lb/>9 Gregory Allyn Staelens b: March 09, 1972 in Hamilton, New York
+<lb/>+Frances Eastwood b: April 20, 1970 m: January 08, 1994 in
+<lb/>Sherbume, New York
+<lb/>10 Anthony Staelens b: July 23, 1992
+<lb/>10 Randall Staelens b: October 08, 1993
+<lb/>7 Kenneth James Moon b: September 30, 1918 in Morrisville, New York
+<lb/>+Dorothy Irene Williams b: September 23, 1927 in Sherrill, New York m: June
+<lb/>21, 1946 in Bouckville, New York
+<pb n="30" facs="#page-029"/>
+<lb/>8  Edward John Moon b: March 23, 1947
+<lb/>+Nancy Lee Crawford m: March 14, 1969
+<lb/>9 Kenneth Franklin Moon h: January 07, 1970 in Elgin Air Force Base,
+<lb/>Florida
+<lb/>9 David Edward Moon b: July 18, 1972 in Eustis, Florida
+<lb/>*2nd Wife of Edward John Moon:
+<lb/>+Gwendolyn Carol Broome b: April 18, 1942 m: May 21, 1978 in Eustis,
+<lb/>Florida
+<lb/>9  Jeffery Scott Moon b: October 15, 1978
+<lb/>8 William James Moon b: January 29, 1953 in Hamilton, New York
+<lb/>+Beverly Rae Cassick b: January 21, 1954 in Quincy, Massachusetts m:
+<lb/>June 09, 1973 in Bartow, Florida
+<lb/>9  Jason Allen Moon b: September 25, 1974 in Bartow, Florida
+<lb/>+Rose Fordham b: Febmary 19, 1976 in Boyton Beach, Florida m:
+<lb/>August 30, 1996 in Rowan Co., North Carolina
+<lb/>10 Kimber Celeste Moon b: July 27, 1997
+<lb/>9 Christine Marie Moon b: November 08, 1977 in Bartow, Florida
+<lb/>10 Jared Austin Moon b: September 21, 1998 in Mooresville, North
+<lb/>Carolina
+<lb/>9 Marissa Dawn Moon b: October 19, 1992 in Lakeland, Florida
+<lb/>8 Allen Clifford Moon b; July 29, 1960 in Eustis, Florida
+<lb/>+Janice Coil b: November 03, 1956 m: May 23, 1983 in Eustis, Florida
+<lb/>9 Tiffany Renee Moon b: November 05, 1993 in Eustis, Florida
+<lb/>9  Seth Allen Moon b: July 13, 1999 in Eustis, Florida
+<lb/>Aaron Eugene Moon b; March 26, 1887 in Morrisville, New York d: August 21,
+<lb/>1887 in Pratts Hollow, New York
+<lb/>Ella May Moon b: August 19, 1888 in Morrisville, New York d: July 02, 1963
+<lb/>+Herbert Fenwick
+<lb/>Myrtle Moon b: September 21, 1890 d: November 08, 1984
+<lb/>+Floyd J. Wood b: June 21, 1885 m: September 17, 1910 d: December 18, 1963
+<lb/>7 Floyd Llewellyn Wood b: September 06, 1914
+<lb/>+Hazel Keister b: November 11m: May 02, 1940
+<lb/>8 Thomas Wood b: March 05, 1949
+<lb/>8  James Wood b: September 27, 1951
+<lb/>7 Benjamin James Wood b: June 26, 1911 d: July 30, 1971
+<lb/>+Adalaide Adela Barber b: 1912 m: June 07, 1933
+<lb/>8 Wellington Wood b: August 11, 1934
+<lb/>8 Rebeka Marie Wood b: June 10, 1941
+<lb/>+Frederick Allen Derochie II b: Febmary 21, 1943 in Syracuse, New York
+<lb/>m: April 13, 1963 in New Woodstock, New York
+<lb/>9  Frederick Allen Derochie III b: July 14, 1968 in Syracuse, New York
+<lb/>+Tammi Lyn Burgess b: September 04, 1971 in Syracuse, New York m:
+<lb/>in Lebanon, New York
+<lb/>10 Natalie Elizabeth Derochie b: September 04, 1991 in Hamilton, New
+<lb/>York
+<lb/>10 Jacob Frederick Derochie b: June 02, 1993 in Hamilton, New York
+<lb/>10 Nichalas Dale Derochie b: September 21, 1995 in Hamilton, New
+<lb/>York
+<lb/>10 Gregory Allen Derochie b: September 21, 1995 in Hamilton, New
+<lb/>York
+<lb/>9 Wendy Atme Derochie b: July 12, 1969 in Syracuse, New York
+<lb/>9 Brian Scott Derochie b: December 28, 1970 in Fayetteville, New York
+<lb/>+Susan Mae Manwarren b: Febmary 13, 1972
+<lb/>8 Benjamin Jerome Wood b: September 28, 1949
+<lb/>8 Annabell Wood b: July 02, 1952
+<lb/>7 Marion Wood b: November 14, 1912 d: June 21, 1994 in Invemess, Florida
+<lb/>+Arthur Davis b: 1903 d: January 1971 in Invemess, Florida
+<lb/>Fred Hemy Moon b: April 12, 1892 in Morrisville, New York d: March 1970 in
+<lb/>Hamilton, New York
+<lb/>+Bertha Catherine Hendrickson b: December 14, 1895 m: June 19, 1916 d: Jtme 29,
+<lb/>1970
+<lb/>7 Theodore H. Moon b: March 26, 1917 d: August 04, 1975
+<lb/>+StephamaR. Roussock b: April 03, 1916 m: September 11, 1937 d: July 15,
+<lb/>1994 in Hamilton, New York
+<lb/>8 William Theodore Moon b: Febmary 25, 1940 in Oneida, New York
+<lb/>+Constance Arm Dejaneiro b: Febmary 14, 1941 in Batavia, New York m:
+<lb/>April 21, 1961 in Batavia, New York
+<pb n="31" facs="#page-030"/>
+<lb/>9 Todd William Moon b: January 23, 1962 in Batavia, New York
+<lb/>+Noelia Lee Millan
+<lb/>10 Alexandria Elizabeth Moon b: February 14, 1992
+<lb/>9  Suzanne Moon b: May 12, 1964 in Batavia, New York
+<lb/>9  John Martin Moon b: May 19, 1966 in Batavia, New York
+<lb/>+Della Fay Pease
+<lb/>10 Rebecca Lynn Moon b: September 07, 1989
+<lb/>10 John William Moon b: September 17, 1991
+<lb/>10 Jessica Lee Moon b: April 30, 1994
+<lb/>9 Timothy Edward Moon b: July 22, 1974 in Batavia, New York
+<lb/>8 Beverly Ann Moon b; February 18, 1947
+<lb/>+Gordan Wales Miner b: March 06, 1944
+<lb/>9 Renee Stephanie Miner b: June 29, 1971
+<lb/>+Brad Anthony
+<lb/>10 Dominic Justin Anthony b: February 18, 1992
+<lb/>10 Mersadi Anthony b: July 21, 1997
+<lb/>*2nd Husband of Renee Stephanie Miner:
+<lb/>+Terence Curtis m: March 1992
+<lb/>10 Terence Curtis b: July 04, 1993
+<lb/>9  Sherri Beverly Miner b: June 04, 1972
+<lb/>8  Connie Marie Moon b: May 31, 1950
+<lb/>+Michael Rodger Woods b: February 22, 1950 m: April 04, 1970
+<lb/>9 Wanda Carol Woods b: March 27, 1971
+<lb/>+Daniel Allen Nolan b: February 21, 1968
+<lb/>10 Anna Nicole Nolan b: February 13, 1992
+<lb/>10 Amanda Catilyn Nolan b: July 27, 1993
+<lb/>9 Betty Arm Woods b: September 11, 1972
+<lb/>+Fric Thomas Schachtler b: October 23, 1965
+<lb/>10 Chelsea Marie Schachtler b: January 01, 1993
+<lb/>*Friend of Betty Arm Woods: b: September 11, 1972
+<lb/>+Bruce Fredric Jones b: May 29, 1969 in Syracuse, New York
+<lb/>10 Sabrina Arme Jones b: February 11, 1997 in Saranac Lake, New
+<lb/>York
+<lb/>9 Wayne Michael Woods b: June 24, 1977
+<lb/>8  Jaqueline Mary Moon b: November 16, 1953 in Hamilton, New York
+<lb/>+Bradley Paul Pelky, Sr. b: April 13, 1951 in Saranac Lake, New York m:
+<lb/>May 15, 1970 in Saranac Lake, New York
+<lb/>9 Bradley Paul Pelky, Jr. b: August 16, 1970 in Saranac Lake, New York
+<lb/>+Gail Marie Clark m: December 10, 1994 in Madison, New York
+<lb/>10 Dustin John Pelky b: July 03, 1994
+<lb/>9 Theodore Paul Pelky b: October 31, 1972 in Saranac Lake, New York
+<lb/>+Lucinda Ann Crumb m: December 31, 1995 in Hamilton, New York
+<lb/>7 Alfred (Bud) Anchor Moon b: March 16, 1919 in Morrisville, New York d: May
+<lb/>14, 1993 in Oriskany Falls, New York
+<lb/>+Stella Nellie Kula b: September 12, 1918 in Manchester, New Hampshire m:
+<lb/>September 12, 1939 in Oriskany Falls, New York d: November 30, 1976 in
+<lb/>Utica, New York
+<lb/>8  Catherine Bertha Moon b: February 10, 1945 in Utica, New York
+<lb/>+Norman Robert Schworm b: April 30, 1944 in Fdmeston, New York m:
+<lb/>January 05, 1968 in Sherbume, New York
+<lb/>9 Michelle Lynn Schworm b: November 25, 1972 in Utica, New York
+<lb/>+Joseph Michael Vondauber b: June 29, 1973 in Ilion, New York m:
+<lb/>September 26, 1998 in Manlius, New York
+<lb/>10 Sophia Catherine Vondauber b: May 22, 2002 in Cary, North
+<lb/>Carolina
+<lb/>9 Valeri Sue Schworm b: August 17, 1974 in Norwich, New York
+<lb/>+Richard Osvoldic b: August 10, 1974 m: October 24, 1998 in
+<lb/>Skanlateles, New York
+<lb/>*2nd Husband of Catherine Bertha Moon:
+<lb/>+John (Cappy) Fredrick Huber V b: July 23, 1943 in Geneva, New York m:
+<lb/>August 01, 1992 in Sherbume, New York
+<lb/>8 Karen Nellie Moon b: May 19, 1949 in Utica, New York
+<lb/>+Dale (Pee Wee) William Nolan b: November 09, 1943 in Sangerfied, New
+<lb/>York m: January 15, 1972 in Oriskany Falls, New York
+<lb/>9 Brent William Nolan b: Febmary 04, 1974 in Hamilton, New York
+<lb/>9 Chanda Lee Nolan b: September 15, 1975 in Hamilton, New York
+<pb n="32" facs="#page-031"/>
+<lb/>+Jesse Lloyd b: May 17, 1974 in Rhode Island m: April 21, 1996 in
+<lb/>Hilton Head, South Carolina
+<lb/>*2nd Husband of Chanda Lee Nolan:
+<lb/>+Stephen Deponte b: December 1976 in Rhode Island m: May 29, 1999
+<lb/>in Jacksonville, Florida
+<lb/>9  Shaun Alfred Nolan b: January 07, 1978 in Hamilton, New York
+<lb/>*2nd Wife of Alfred (Bud) Anchor Moon:
+<lb/>+Rose Boulanger m: March 10, 1981
+<lb/>7 George SpohnerMoon b: January 29, 1921 d: December 14, 1988
+<lb/>+Jeanette Gloria Mercier b: January 09, 1927 m: November 09, 1946
+<lb/>8  Elizabeth Marie Moon b: April 02, 1947
+<lb/>+Thomas Joseph Zielinski, Jr b: August 26, 1943 m: September 15, 1974
+<lb/>9 Thomas Joseph Zielinski b: March 10, 1968
+<lb/>+Lorie Elizabeth Perretta m: May 01, 1998 in Utica, New York
+<lb/>9 Kevin John Zielinski b: February 09, 1969
+<lb/>+Cheri Aim Donovan b: January 09, 1960 m: May 06, 1988
+<lb/>10 Nicholes John Zielinski b: August 28, 1994
+<lb/>9 Ryan James Zielinski b: December 18, 1981
+<lb/>8  Shirley Ann Moon b: February 23, 1948
+<lb/>+Robert (Joe) Stewart Strong b: June 19, 1946 m: October 09, 1965
+<lb/>9 Robert Stewart Strong b: May 25, 1968
+<lb/>+Kelly Patricia Scofeild b: March 01, 1966 m: May 16, 1992
+<lb/>10 Shelly June Strong b: May 22, 1987
+<lb/>10 Shawn Joseph Strong b: May 11, 1993
+<lb/>9  Steven (Beaver) Alan Strong b: February 25, 1971
+<lb/>+Holly Lynn Wallach b: December 10, 1971 in Hamilton, New York
+<lb/>10 Shane Steven Strong b: May 11, 1991
+<lb/>* 1 St Wife of Steven (Beaver) Alan Strong:
+<lb/>+Virginia Lee Franklin b: October 12, 1967 in Illion, New York m:
+<lb/>June 10, 1995
+<lb/>10 Katelyn Rose Strong b: January 09, 1999 in Utica, New York
+<lb/>9 Crystal Lynn Strong b: December 05, 1972
+<lb/>+David Walter Russell m: August 06, 1994
+<lb/>10 Ashley Nicole Russell b: January 24, 1995
+<lb/>10 Matthew David Russell b: May 14, 1997 in Hamilton, New York
+<lb/>8 Georgia Carol Moon b: June 27, 1949
+<lb/>+LeRoy Victor Hamey, Sr. b: October 14, 1942 in Knoxboro, New York m:
+<lb/>August 17, 1968
+<lb/>9 LeRoy Victor Hamey,Jr. b: March 11, 1968 in Utica, New York
+<lb/>9  Scott Darien Hamey b: December 22, 1969 in Utica, New York
+<lb/>9 Terry Duane Hamey b: November 09, 1970 in Utica, New York
+<lb/>+Becky Sue Darrow b: May 05, 1971
+<lb/>10 Karissa Lea Hamey b: Febmary 17, 1995 in Rome, New York
+<lb/>8 George Steven Moon b: December 16, 1950 in Utica, New York
+<lb/>+Ann Marie Williams b: July 25, 1950 m: May 25, 1974
+<lb/>9 Luke Moon b: March 26, 1975 d: March 26, 1975
+<lb/>9  Faith Ann Moon b: January 30, 1976
+<lb/>9 Charlene Gwen Moon b: October 17, 1977
+<lb/>9 Aaron Richard Moon b: January 14, 1980
+<lb/>8 Rodney James Moon b: March 06, 1952
+<lb/>+Patricia Raye Williams Depasquale b: March 15, 1940 m: December 18,
+<lb/>1978
+<lb/>9 Deni Sue Moon b: January 01, 1974
+<lb/>8  Clifton Thomas Moon, Sr. b: May 13, 1953
+<lb/>+Dorthy Kaye Larman b: March 26, 1956 m: January 26, 1973
+<lb/>9 Thersa Marie Moon b: May 06, 1973
+<lb/>+Bradley Kristopher Sweet, Sr. b: September 22 m: July 23, 1994
+<lb/>10 Bradley Kristopher Sweet, Jr. b: December 07, 1993
+<lb/>9 Clifton Thomas Moon, Jr. b: October 30, 1974
+<lb/>9 Heath James Moon b: January 30, 1977
+<lb/>9  Jason Eric Moon b: June 26, 1978
+<lb/>8 Anita Louise Moon b: July 05, 1956
+<lb/>9 Deborah Lynn Moon b: June 14, 1975
+<lb/>8 Gregory Alan Moon b: Febmary 14, 1958
+<lb/>+Joannie Kennyon
+<lb/>8 Andrew John Moon b: January 30, 1961
+<lb/>+Brenda Jean Filers b: March 30, 1963
+<pb n="33" facs="#page-032"/>
+<lb/>9  Joshua Scott Moon b: July 21, 1985
+<lb/>7 Emma Catheryn Moon b: 1922
+<lb/>+Earl William Shauger
+<lb/>8  Earl Fred Shauger b: Febmary 03, 1948
+<lb/>+Dorthy Hadfield b: October 25, 1948
+<lb/>9 Earl William Shauger b: September 10, 1969
+<lb/>10 Morgan Elizabeth Shauger b: January 08, 1997
+<lb/>10 Ryan Alexander Shauger b: January 08, 1997
+<lb/>+Jennifer Jo Ladrillono m: October 23, 1999 in Norfolk, Virginia
+<lb/>9  Jermifer Shauger b: July 14, 1973
+<lb/>+Theron Zirkle b: December 10, 1971
+<lb/>*2nd Wife of Earl Fred Shauger:
+<lb/>+Jeanette Brotton Rifenburg
+<lb/>8  Pmdence Sonja Shauger b: December 12, 1945
+<lb/>+Harold William Luke II b: August 28, 1945
+<lb/>9  Patrick William Luke b: March 02, 1966
+<lb/>+Lori Cahill b: October 07, 1968
+<lb/>10 Sarah Catherine Luke b: Febmary 09, 1996 d: Febmary 14, 1998
+<lb/>10 Holly Elizabeth Luke b: May 13, 1999
+<lb/>9  Jeffery Michael Luke b: August 03, 1967
+<lb/>+Melissa Rudy
+<lb/>10 Nathaniel Jeremy Luke b: May 19, 1988
+<lb/>*2nd Wife of Jeffery Michael Luke:
+<lb/>+Beth Bingham b: Febmary 13, 1968
+<lb/>10 Cassidy Elizabeth Luke b: September 13, 1997
+<lb/>9  Jeremy Patrick Luke b: January 26, 1981
+<lb/>8 Wayne Wham Shauger b: March 21, 1951
+<lb/>+Karen Wilmot
+<lb/>9 Robbie Shauger b: June 17, 1972
+<lb/>9 Michael Shauger b: May 03, 1977
+<lb/>*2nd Wife of Wayne Wham Shauger:
+<lb/>+Deborah Mercier b: June 15, 1960 m: August 24, 1991
+<lb/>7  Fred Junior Moon b: June 30, 1926 in Eaton, New York
+<lb/>+Dorthy Louise Brewer b: August 30, 1925 in Oriskany Falls, New York m:
+<lb/>June 29, 1946 in Oriskany Falls, New York
+<lb/>8  Judith Suzanna Moon b: May 05, 1947 in Utica, New York
+<lb/>+Robert (Rip) Elliot m: August 27, 1966 in Waterville, New York
+<lb/>9  Suzatme Elliot
+<lb/>+Timothy Scully
+<lb/>10 Karlie Scully
+<lb/>9 Lori Ann Elliot
+<lb/>+Richard Maxon m: August 02, 1997
+<lb/>9 Donald Wayne Elliot b: June 08, 1968 in New Hartford, New York
+<lb/>+Janice Buschor m: December 31, 1997 in Clinton, New York
+<lb/>10 Laken Tyler Elliot b: May 11, 1998 in New Hartford, New York
+<lb/>9 Diane Marie Elliot
+<lb/>+ Jeffery Williams
+<lb/>10 Brooke Williams
+<lb/>10 Hunter Williams b: April 27, 1997
+<lb/>8  Scott Moon b: November 03, 1954 in Utica, New York
+<lb/>+Caroline Heath m: June 11, 1975 in Waterville, New York
+<lb/>9  Jermy Moon
+<lb/>9  Jessica Moon
+<lb/>*2nd Wife of Scott Moon:
+<lb/>+Sherri Bartlett m: September 07, 1986 in Paris, New York
+<lb/>9 Nichole Moon
+<lb/>9 Amanda Moon
+<lb/>7 Oda May Moon b: May 14, 1930 d: March 14, 1994
+<lb/>+Sherwood Duane Coffin
+<lb/>8  Eunice Marie Coffin b: August 16, 1946
+<lb/>+Peter Paul Dorshenko b: May 31, 1946
+<lb/>9 Randy Paul Dorshenko b: March 25
+<lb/>9 Lisa Marie Dorshenko b: August 16, 1966 d: 1987
+<lb/>+Jeffery Harris m: 1987
+<lb/>9 Amy Lyn Dorshenko b: March 14, 1969 in Hamilton, New York
+<lb/>+John Boland b: July 08,1962 in Syracuse, New York m: September
+<lb/>10, 1994 in East Syracuse, New York
+<pb n="34" facs="#page-033"/>
+<lb/>10 Alyssa Marie Boland b: June 07, 1998 in Syracuse, New York
+<lb/>9 Holly Jo Dorshenko b: June 24, 1973
+<lb/>+Joseph Stemburg b: March 21, 1975 m: July 19, 1997
+<lb/>8  Edward Coffin b: December 08, 1947
+<lb/>+Peggie Parks
+<lb/>8  Steven Coffin b: July 21, 1948
+<lb/>8  Linda Christine Coffin b: July 27, 1949
+<lb/>+Barry Wayne Armstrong, Sr. b: November 05, 1952 m: September 05,
+<lb/>1970 d; September 16, 1982
+<lb/>9 Barry Wayne Armstrong, Jr. b: September 20, 1971
+<lb/>+Melianie Rose Lebo b; February 02, 1973 m: July 27, 1989
+<lb/>10 Mercedes Elaine Armstrong b: November 13, 1989
+<lb/>10 Marissa Kay Armstrong b: January 18, 1992
+<lb/>10 Ashley Rosemarie Armstrong b: March 05, 1994
+<lb/>9 Aaron Paul Armstrong b: January 13, 1974
+<lb/>9  Timothy Bryon Armstrong b: July 16, 1977
+<lb/>*2nd Husband of Linda Christine Coffin:
+<lb/>+Michael Allen Blirm b: November 30, 1964 m: May 11, 1985
+<lb/>9  Cory Michael Blirm b: October 09, 1985
+<lb/>8 Michael Patrick Coffin b: January 31, 1952 in Utica, New York
+<lb/>+Sharon Farr b: January 16
+<lb/>9  Sonya Renee Coffin b: November 08, 1973
+<lb/>+Jeff Ellinger m: September 23, 1996
+<lb/>10 Carissa Paige Ellinger b: May 26, 1992
+<lb/>10 Craig Jonathan Ellinger b: August 19, 1997
+<lb/>9 Amber Lyrm Coffin b: October 04, 1979
+<lb/>10 Seaira Lee-Aim Coffin b: March 23, 1995
+<lb/>10 Seth Aaron Michael Coffin b: Jime 20, 1997
+<lb/>8 Duane Coffin b: August 22, 1954 in Utica, New York
+<lb/>+Norma Martinez b: October 02, 1956 m: December 1972 in Jacksonville,
+<lb/>Arkansas
+<lb/>9 Daniel Coffin b: November 27, 1973 in Little Rock, Arkansas
+<lb/>+Chrystal Lee Snow m: December 05, 1994 in Lawton, Oklahoma
+<lb/>10 Emilee Michelle Coffin b: July 05, 1995
+<lb/>9 Michelle Marie Coffin b: December 21, 1978 in Jacksonville, Arkansas
+<lb/>8 Debroah Lyrm Coffin b: December 02, 1955 d: July 28, 1974
+<lb/>8  Pamela Ann Coffin b: March 26, 1962
+<lb/>8 Kevin R. Coffin b: June 16, 1963
+<lb/>+Gloria Henriksen b: August 05, 1959 m: July 19, 1986
+<lb/>9 Courtney Coffin b: July 29, 1988
+<lb/>8 Brenda Lee Coffin b: November 30, 1967
+<lb/>Elsie Magdelene Moon b: February 25, 1901 in Morrisville, New York d: July 25,
+<lb/>1992
+<lb/>+Orville Wayne Kimpton b: April 08, 1908 m: June 29, 1930 d: August 20, 1973
+<lb/>7 Elsie Murial Leone Kimpton b: February 06, 1931 d: March 21, 1985
+<lb/>+Keimeth Bums b: Febmary 06, 1931 d: June 1985
+<lb/>8 David James Bums b: June 06, 1958 d: 1986
+<lb/>8  Steven Jay Bums b: November 15, 1959
+<lb/>8 Karen Janine Bums b: January 22, 1961
+<lb/>8 Mari Jane Bums b: April 14, 1965
+<lb/>7 Robert Lynwood Kimpton b: September 08, 1933 d: March 02, 1986
+<lb/>+Maude Campbell Relyea m: November 07, 1959
+<lb/>8 Robert Lynwood Kimpton b: November 21, 1960
+<lb/>8  Lori Lynn Kimpton b: July 12, 1962
+<lb/>8  Julie Kay Kimpton b: August 12, 1964
+<lb/>8 Kelly Leigh Kimpton b: June 16, 1968
+<lb/>7 Lenola Marlene Kimpton b: October 04, 1935
+<lb/>+Burton Van Slyke
+<lb/>8 Robin Van Slyke b: March 24, 1956
+<lb/>8 Deborah Van Slyke b: May 05, 1958
+<lb/>8 Burton Franklin Van Slyke b: July 15, 1959
+<lb/>7 Orville Wayne Kimpton b: August 03, 1936
+<lb/>+Patricia Bromfield
+<lb/>8 Timothy Wayne Kimpton b: March 05, 1959
+<lb/>8  Terrie Lynn Kimpton b: May 23, 1965
+<lb/>8 Todd William Kimpton b: May 15, 1968
+<lb/>8  Tammie Sue Kimpton b: July 24, 1970
+<pb n="35" facs="#page-034"/>
+<lb/>7 Mary Lee Jennie Kimpton b: September 11, 1938
+<lb/>+John Henry Wamer
+<lb/>8  John Henry Wamer b: June 30, 1961
+<lb/>8 Kathleen Mary Wamer b: August 08, 1962
+<lb/>8 Brian Rodger Wamer b: May 21, 1965
+<lb/>7 Rita Wallis Kimpton b: July 10, 1943
+<lb/>+Jon Edward Otts
+<lb/>8  Jon Edward Otts, Jr. b: December 22, 1965
+<lb/>9 Matthew Jon Otts b: July 15, 1993
+<lb/>9 Breanna Nicole Otts b: September 01, 1995
+<lb/>9  Brittany Alicia Otts b: December 06, 1996 d: January 24, 1997
+<lb/>8  Janine Otts b: December 03, 1966
+<lb/>9 Richard Steven Otts b: September 26, 1992
+<lb/>8 Melissa Susan Otts b; December 31, 1969
+<lb/>8  Susan Kristina Otts b: May 19, 1972
+<lb/>8  Joseph Wayne Otts b; July 28, 1973
+<lb/>7 Wallace Evertt Kimpton b; Febmary 12, 1945
+<lb/>+Donna Detmer Fellows
+<lb/>5 Aaron E. Spohner b: 1869 in Madison Co., New York
+<lb/>4 Nancy Strough b: 1836
+<lb/>4 Lydia Strough b: 1847
+<lb/>Jacob Adle b; 1809 d: 1884
+<lb/>+Catherine McCoy b: 1808 m: October 09, 1831 in Herkimer Co., New York d: 1869
+<lb/>4 Gilbert Adle b: November 09, 1830
+<lb/>4  John Adle b: June 05, 1832
+<lb/>+ViolaD. b: 1852
+<lb/>4  Jefferson C. Adle b: 1839 d: 1912
+<lb/>+Lydia Cross d: 1906
+<lb/>5  Jefferson C. Adle
+<lb/>+Alice Bowman
+<lb/>6 Eugene Adle
+<lb/>+Rose Darling
+<lb/>7  Sandy Adle
+<lb/>5 Mary Adle
+<lb/>5  Florence Adle
+<lb/>5  Edward Manchester Adle b: 1864
+<lb/>+Rosette E. Van Dusen b: 1864
+<lb/>6 Clifford Adle b: 1885
+<lb/>6 Minnie W. Adle b: 1890 d: 1932
+<lb/>*2nd Wife of Jefferson C. Adle:
+<lb/>+Katherme T.
+<lb/>4  Isabel Adle b: 1841 d: 1906
+<lb/>+RobertBeall b: 1828 in England d: 1916 in Clockville, Madison Co., NY
+<lb/>5  Lovina Beall
+<lb/>5  Charles Beall b: 1864
+<lb/>5  James Beall b: 1867
+<lb/>5 Nellie Beall b: 1870
+<lb/>4  Jacob J. Adle b: 1843 d: 1921
+<lb/>+Lucy A. Manchester b: 1848 d: 1918
+<lb/>5  Charles Adle
+<lb/>+Minnie J.
+<lb/>6 Donald Jacob Adle
+<lb/>5  Clarence Adle b: 1881 d: 1969
+<lb/>+Florence A. Mason b: 1868 d; 1950
+<lb/>4 Albert Adle b: 1846 d: July 06, 1945
+<lb/>+Lavorma Deal
+<lb/>5  Isabel .A.cilc
+<lb/>3 Mary Adle b: June 27, 1809 d: October 28, 1904 in Little Falls, New York
+<lb/>+Robert J. Davis b: 1804 m: 1825 d: January 06, 197/98 in Little Falls, New York
+<lb/>3 George Adle b: 1815 in Snells Bush, Herkimer Co., NY
+<lb/>Johaim Henrich Adle b: 1762 d: 1833
+<lb/>+Catherma Klock b: 1759
+<lb/>3  Joseph Adle b: 1792
+<lb/>+Mary b: 1800 d: 1850
+<lb/>4 EphaimAdle b: 1818 d: 1890
+<lb/>+Sarah Ann Cassier b: 1818 d: 1911
+<lb/>5 William G. Adle b: 1849
+<pb n="36" facs="#page-035"/>
+<lb/>+IdaHamlin b: 1861 d: 1930
+<lb/>6 Lillie Adle b: 1885
+<lb/>6 George Adle b: 1887
+<lb/>6 EphraimAdle b: 1890
+<lb/>6 MinaAdle b: 1893
+<lb/>6 Harold Edwin Adle b: 1899 d: 1983
+<lb/>+Nellie Maude Wagner b: 1892
+<lb/>7 Doris Bemice Adle b: 1922
+<lb/>4 Alexander Adle b: 1823 d: 1891
+<lb/>+Lucinda Boyer b: 1831 d: 1897
+<lb/>5  Sarah L. Adle b: 1853
+<lb/>5 Alexander A. Adle b: 1860 d: 1915
+<lb/>+Susan Rebecca Wilcox b: 1874
+<lb/>6  John Leon Adle b: 1891
+<lb/>+Rose Ida Rieks
+<lb/>4 Henry Adle b: 1830
+<lb/>+NancyDygett b: 1830
+<lb/>5 Charles Adle b: 1850
+<lb/>5 David Adle b: 1852
+<lb/>5 William G. Adle b: 1856
+<lb/>3 Henry Adle b: 1794 d: 1833
+<lb/>+Susanna b: 1797
+<lb/>4  John Adle b: 1812
+<lb/>+Linda b: 1816
+<lb/>5  John W. Adle
+<lb/>5 Nancy Elizabeth Adle b: 1837 d: 1885
+<lb/>+William Wagoner b: 1835
+<lb/>6 Charles Wagoner
+<lb/>+Sarah Eleanor Reese b: 1869 d; 1948
+<lb/>7 Mabel Wagoner
+<lb/>+George Wellington Davis b: 1866 d: 1956
+<lb/>8 Mary Davis
+<lb/>8  Elizabeth Davis
+<lb/>5 HemyR. Adle b: 1841 d: 1900
+<lb/>+01ive Guy b: 1849 d: 1924
+<lb/>6 Alverton Stark Adle b: 1872 d: 1968
+<lb/>+Grace Roselle Butler b: 1896
+<lb/>7 Carrie May Adle
+<lb/>7 Ruth Camilla Adle
+<lb/>7 Maybelle Olive Adle
+<lb/>7 Gladys Louise Adle b: 1903 d: 1987
+<lb/>+Leonard Henry Zabele
+<lb/>John Adle b: 1796
+<lb/>+Mary b: 1793
+<lb/>4  Joseph Adle b: 1828
+<lb/>4  John Jay Adle b: 1832
+<lb/>+Alice L. b: 1840 d: 1860
+<lb/>5 Dudley Adle b: 1858
+<lb/>+Francis Baldwin
+<lb/>6 Frank Adle
+<lb/>+Lottie
+<lb/>7 Richard Adle
+<lb/>7 Adle
+<lb/>6 Robert Adle
+<lb/>6 Loretta Adle
+<lb/>6 AddiaAdle
+<lb/>6 Dudley Friend Adle b: 1909
+<lb/>7 Michael Adle b: 1946
+<lb/>*2nd Wife of John Jay Adle:
+<lb/>+Lucy Forbes b: 1841
+<lb/>5  Clara M. Adle b; 1863 d: 1928
+<lb/>+William H. Forbes b: 1855 d: 1904
+<lb/>Catherine Adle b: 1800
+<lb/>Conrad Adle b: 1801 d: 1888
+<lb/>+Abagail Raymond b; 1804 d: 1884
+<lb/>4 Martha Adle
+<lb/>4 Matilda Adle
+<pb n="37" facs="#page-036"/>
+<lb/>+Smith
+<lb/>5  Cora Smith
+<lb/>5 Huldah Smith
+<lb/>4  John Jabish Adle b: 1827
+<lb/>5 Alice Adle
+<lb/>+Jolm Mason b; 1853
+<lb/>6  Le Roy Mason
+<lb/>6  John Mason
+<lb/>6 Gertmde Mason b: 1882
+<lb/>6 William E. Mason b: 1883
+<lb/>6 Harriet E. Mason b: 1889
+<lb/>6 Leon Mason b: 1890 d: 1907
+<lb/>6 Mable Mason b: 1897
+<lb/>5 Warren Adle
+<lb/>5  Ellen Adle
+<lb/>5 Adelaide Adle d: 1919
+<lb/>5 Romain Lucius Adle d: 1919
+<lb/>,  5 Franklin Adle b; 1854 d: 1934
+<lb/>4 Eliza Charity Adle b: 1829
+<lb/>4 Rachel Adle b: 1831
+<lb/>4 AbagailAdle b: 1839
+<lb/>4 HuldaAdle b: 1841
+<lb/>4 Romaine L. Adle b: 1844 d: 1919
+<lb/>+EIizabeth b: 1841 d: 1909
+<lb/>5  Carrie Adle
+<lb/>5  Seymonr Adle b: 1866 d: 1954
+<lb/>3 George Adle b: 1803 d; 1850
+<lb/>+Peggy House b: 1806
+<lb/>3  Polly Adle b: 1805
+<lb/>3 Magdelena Adle b: 1807
+<lb/>3  Susanna Adle b: 1809
+<lb/>Johan Jost Adle b; 1766
+<lb/>+MariaBoyer d: 1814
+<lb/>3 Catharine Adle
+<lb/>+Recompence Tiffany
+<lb/>4 William G. Tiffany b: 1831
+<lb/>3 Armetje Adle b: 1790
+<lb/>3  Johan Jost Adle, Jr. b: 1792
+<lb/>+Catarina
+<lb/>4 Luis Adle b: 1814
+<lb/>3 Maria Adle b: 1795
+<lb/>+Jacob Fulmer
+<lb/>4 David Fulmer b: 1814
+<lb/>Catherine G. Adle b: 1772 d: 1815
+<lb/>+Ludwich Meyer b: 1766 d; 1850
+<lb/>3 Catharina Meyer
+<lb/>+RobertBoyer b; 1796
+<lb/>4 Charles Boyer b: 1820
+<lb/>4 Hiram Boyer b: 1823 d: 1901
+<lb/>+Nancy Miller
+<lb/>3 Margaret Meyer b: 1781 in 1860
+<lb/>+PeterLoucks b: 1770 d: 1847
+<lb/>4  Jacob Loucks b: 1810 d: 1893
+<lb/>+Polly Plopper b: 1810 d: 1887
+<lb/>5  Emma Loucks b: 1846
+<lb/>+Linus W. Clark b: 1837
+<lb/>6 May Clark
+<lb/>+Thomas Y. Jones
+<lb/>6 Maud Clark
+<lb/>+Edward S. Reddeker
+<lb/>4 Maria Loucks b: 1814
+<lb/>4 Peter Loucks b: May 17, 1817 in Manheim, Herkimer Co., NY
+<lb/>4 William P. Loucks b: 1821
+<lb/>+Arma Kelly
+<lb/>5 William M. Loucks b: 1866
+<lb/>+Margaret Welch
+<lb/>6  Paul L. Loucks b: 1907
+<pb n="38" facs="#page-037"/>
+<lb/>+Cora A. Newkirk
+<lb/>3  Johaim lost Meyer b: 1792 d: 1884
+<lb/>+Anna Nancy House
+<lb/>4 Moses Meyer b: November 30, 1813 in Manheim, Herkimer Co., NY
+<lb/>4 Peter Meyer b: 1817
+<lb/>3 Maria Margaret Meyer b: 1793
+<lb/>+Joharmes Jacob Davis b: 1791
+<lb/>4 Catherine Davis b: 1815
+<lb/>4 Mary Aim Davis b: 1817
+<lb/>4 Peter Davis b: 1819
+<lb/>4 Norman Davis b: 1831
+<lb/>+Jennie Carpenter
+<lb/>4 Margaret Davis b: 1836
+<lb/>4 Emily Davis b: 1839
+<lb/>4 Alonzo Davis b: 1840
+<lb/>Susanna Adle b: 1772 d; 1843
+<lb/>+Heinrich George Jurgen Bakkus b: 1760 d: 1848
+<lb/>3  Bakkus b: 1792
+<lb/>3 Henrich George Bakkus b: 1794
+<lb/>+Barbara Ritter b: 1795
+<lb/>4 George Henry Bakkus b: 1822 d: 1863
+<lb/>+Jane Eliza Rockwell
+<lb/>5  Charles Henry Bakkus
+<lb/>6 Edwin Arthur Bakkus
+<lb/>7 William Lloyd Bakkus
+<lb/>4 Andrew Bakkus b: 1827
+<lb/>4 Margaret Bakkus b: 1832
+<lb/>4 Ezra Bakkus b; 1833
+<lb/>Maria Adle b: 1773
+<lb/>3 Catharina Adle b: 1793
+<lb/>George Adle b: 1778
+</ab>
+    </body>
+  </text>
+</TEI>

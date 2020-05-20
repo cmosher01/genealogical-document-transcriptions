@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>rapp casey baptism graduation</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_casey_baptism_graduation/p-007.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>1
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+<lb/>-IIPS AND GRANTS'residential Scholarship - St. Joseph's Universitytcademic Incentive Award - University ofDelaware)ean's Scholarship - Muhlenberg Collegetcademic Grant - Muhlenberg Collegelensselaer Medal Scholarship -Rensselaer Polytechnic Institutelensselaer Scholarship - RensselaerPolytechnic Institutelucknell University Scholarship - BucknellUniversitytcademic Grant - University of Richmondloly Cross Scholarship - College ofThe Holy Cross'enn/Graduate Hospital Partnership'rogram Scholarship - University ofPennsylvaniaVcademic Incentive Award - University ofDelaware&gt;Iational Art Honor Society ScholarshipAcademic Grant - Seton Hall UniversityJniversity Grant - The American UniversityAcademic Grant - Loyola CollegeJniversity Academic Award - University ofDelawareVashington College Scholarieneficial-Hodson Trust Scholarship -Washington CollegeAcademic Scholarship - Immaculata College'residential Scholarship Mary's of IndianaJnderwood-Memorial Hospital AuxiliaryBoard ScholarshipAcademic Scholarship - Syracuse Universityiell of Pennsylvania Diamond StateTelephone Scholarshipilugene duPont Distinguished Scholar -University of DelawareAmerican Association of University WomenTrustees ScholarshipJoard of Directors Scholarship Joseph'sUniversityDickinson Grant - Dickinson CollegeDiamond State ScholarI:.:AWARDSSISTER CATHERINE MORSE AWARD — Foroutstanding serviceand dedication to Ursuline Academy.NEILIA HUNTER BIDEN AWARD - For outstanding qualitiesshown through service to country, community and fellowAmericans.THE URSULINE ACADEMY PRESIDENT'S AWARD — Forexcellence in service to school, church and community.SERVIAM AWARD — For exemplifying the spirit of the UrsulineMotto, "I Will Serve."AGNES HORTY MAY ALUMNAE AWARD — For outstandingqualities representing the standards and ideals of UrsulineAcademy, including scholarship, extra-curricular projects, leadership and those qualities of character that make for the well-being ofthe whole community.AMERICAN LEGION AWARD — For outstanding scholarship,leadership and citizenship, marked especially by the qualities ofcourage, loyalty and service.CROSS OF MERIT AWARD — For outstanding service and loyaltyto the school and to the student body, marked especially by thosequalities of Christian womanhood most expected of an UrsulineGraduate.DEPARTMENTAL HONORSDepartmental Honors and Certificates are merited in the followingareas:ArtEnglishForeign LanguagesMathematicsReligionScienceSocial StudiesGENERAL EXCELLENCEThe General Excellence Award isthe highestacademic honorthata student of Ursuline Academy may receive at the end of her highschool years. This award indicates that the young woman hasmaintained the highest possible academic work in all of hersubjects for four years.NINETY-SIXTH ANNUALCOMMENCEMENTURSULlNEgPACAnF.MYWilmington, DelawareSunday, June Third1990
+<pb n="4" facs="#page-003"/>
+<lb/>CLASS OF 1990Diplomas
+<lb/> are a
+<lb/>warded
+<lb/> to t
+<lb/>h
+<lb/>e
+<lb/> following:
+<lb/>Jennifer Ann
+<lb/> Battaglia
+<lb/>*Clare Marie Blackwood*Kristen Adele BlanchardGreta
+<lb/> Allyn B
+<lb/>urawski*Elizabeth Diane GarciaRachael Lynn GarterLauren Michael GhickloMelissa Ann GookJeanette Marie Gorcoran*Heather Marie GutronaLaura Lee Duffy*Andrea Jeanee Faraone*Gabrielle Elizabeth FarinaMichelle Lynn
+<lb/> Felicetti
+<lb/>Erin G
+<lb/>hristine
+<lb/> Fitzpatrick
+<lb/>Ghristine M
+<lb/>ary Francis*Joanne Katherine Galasso*Beth Veronica HagerAmy
+<lb/> Patricia H
+<lb/>am*Heidi Elizabeth HockmuthMonica
+<lb/> Arlette Iglesias
+<lb/>*Melissa Gavin Kay*Shannon Kimberly
+<lb/> Gabrielle
+<lb/>Kelly
+<lb/>Margaret Louise
+<lb/> Kelsey
+<lb/>*Sharon Latif KhanGhristine Marie
+<lb/> Killheffer
+<lb/>Michele Marie LauerDaphne LeeStacey Ann MacDonaldMegan Maureen Manlove'Denisse Marion-LandaisMeggan Lee Mason'Laura Ghristine Morano'Laura Patricia Navaleza'Amy
+<lb/> Elizabeth O
+<lb/>lsenAmy
+<lb/> Elizabeth S
+<lb/>arah ParsonsElwira Johanna PodsiadMary Katherine Theresea
+<lb/>Rafferty
+<lb/>'Golleen Marie RandallGasey
+<lb/> Elizabeth R
+<lb/>app'Elizabeth Anne Reader'Erin Stewart Schofield'Heidi SernyakStacie Leigh Sharpless'Jennifer Ann ShieldsAmy
+<lb/> Patricia S
+<lb/>impson'Sandra Katherine TilfordStavroula TsoukalasPatricia Ann Viehman'Nancy
+<lb/> Elizabeth W
+<lb/>hiteman'Gatherine Marie Wilbraham'Karin Lee Willner'Member of the National Honor SocietyPROGRAMProcessionalPomp and Circumstance 
+<lb/>Elgar
+<lb/>Invocation Rev. John P. HopkinsChaplain,
+<lb/> Ursuline A
+<lb/>cademyThe National Anthem
+<lb/>Greeting 
+<lb/>Angela BoylePresident
+<lb/>Congratulations 
+<lb/>Thomas MaloneyChairman, Board of TrusteesCo-Valedictorian Karin Lee WillnerAwarding of Diplomas
+<lb/>Jill M
+<lb/>ayer,
+<lb/> Principal
+<lb/>Kathleen Mickey, S
+<lb/>enior Class ModeratorAwarding
+<lb/> of H
+<lb/>onors and Announcement
+<lb/> of Scholarships
+<lb/>Co-Valedictorian Laura
+<lb/> Patricia N
+<lb/>avalezaFarewell 
+<lb/>Jill M
+<lb/>ayer
+<lb/>Principal
+<lb/>RecessionalSymphonic Marches John
+<lb/> Willi
+<lb/>amsMusic Salesianum Wind EnsembleChristopher
+<lb/> J. Arots, Director
+<lb/>SCHOLARSHIPS AND (Glare BlackwoodKristen BlanchardHeather GutronaAndrea FaraoneBeth HagerElizabeth HockmuthShannon 
+<lb/>Kelly
+<lb/>Megan ManloveDenisse Marion-LandaisLaura Morano
+<lb/>University Scholarsl
+<lb/>University Scholarsl
+<lb/>Wilmington Trust (
+<lb/>University of Del
+<lb/>Presidential ScholarsNational Merit SchcAward of Merit - /
+<lb/>First 
+<lb/>State Constiti
+<lb/>University 
+<lb/>of Del
+<lb/>Alumni
+<lb/> Scholarship
+<lb/>Gannett Foundation
+<lb/>Right-to-Education 1
+<lb/>DelawareBoston
+<lb/> College S
+<lb/>dAcademic Grant -Academic IncentiveDelawarePresident's Achieve!DelawareEmory &amp; Henry
+<lb/> Scl
+<lb/>College
+<lb/>Smith Grant - SmiAcademic Grant -
+<lb/>Villanova University
+<lb/>Drexel
+<lb/> University (
+<lb/>Ursinus College G
+<lb/>i
+<lb/>Blecher Scholarship
+<lb/>College
+<lb/>Manhattan 
+<lb/>College
+<lb/>College
+<lb/>Bowman Ashe SchoAcademic Grant -Academic IncentiveDelawareBoard of Directors SJohn Marshall Schol
+<lb/>College
+<lb/>Academic IncentiveDelawareGettysburg
+<lb/> College
+<lb/>Delaware
+<lb/> Right-to-E
+<lb/>University of D
+<lb/>e
+<lb/>l
+<pb n="5" facs="#page-004"/>
+<lb/>Saint Paul's
+<lb/>United
+<lb/>Methodist
+<lb/>Church
+<lb/>1314 FOULK ROAD
+<lb/>WILMINGTON
+<lb/>DELAWARE
+<lb/>Phone 478 3135
+<lb/>CHURCH STAFF
+<lb/>ROBERT PRESTON WHITLGCK, Pastor
+<lb/>HARVEY MANCHESTER, JR., Associate Pastor
+<lb/>KERRY OIETZ, Music Program Director/Organist
+<lb/>RICHARD THOMAS, Assistant Organist
+<lb/>ANNE H. MAY, Secretary
+<lb/>CLARDELLWIMBERLY, Custodian
+<lb/>BRUCE &amp; DORIS OBENSHAIN, Dur Missionaries in Zaire
+<lb/>ALL OUR MEMBERS, Ministers
+<pb n="6" facs="#page-005"/>
+<lb/>WORKSHOP OPPORTUNITY
+<lb/>Choose any one of these six workshops.
+<lb/>1. New Teachers of All Age Levels
+<lb/>2. Using Learning Centers with Children
+<lb/>3. Telling Stories to Children
+<lb/>4. How to Organize New Adult Church School Classes
+<lb/>5. Strengthening the United Methodist Youth Fellowships
+<lb/>6. Planning Church Family Nights
+<lb/>Asbury Methodist Church, New Castle
+<lb/>September 2nd — 7:30 to 9:30 P.M.
+<lb/>Registration forms are available outside the office.
+<lb/>OUTREACH CONTACT FOR AUGUST 23-31: Elizabeth Hopkins (571-8551)
+<lb/>The Junior High UMYF needs counselors. Please call Randy and Ruth Overbey (798-3795)
+<lb/>and volunteer to help them in this very important task. Our youth need you.
+<lb/>Note: The Wednesday morning Bible Study will begin September 8th (9:45 -11:00 A.M.).
+<pb n="7" facs="#page-006"/>
+<lb/>August 22, 1982
+<lb/>The Twelfth Sunday after Pentecost
+<lb/>Upon entering the Sanctuary please maintain an atmosphere of worship so as not to
+<lb/>disturb those who wish to meditate.
+<lb/>PRELUDE — Choral Prelude on "We Believe in One God" Johann Pachelbel
+<lb/>(1653-1706)
+<lb/>CALL TO WORSfflP
+<lb/>Bless the Lord, O my soul; and all that is within me, bless his holy name!
+<lb/>BLESS THE LORD, O MY SOUL, AND FORGET NOT ALL HIS BENEFITS,
+<lb/>who forgives all your iniquity, who heals all your diseases,
+<lb/>WHO REDEEMS YOUR LIFE FROM THE PIT, WHO CROWNS YOU
+<lb/>WITH STEADFAST LOVE AND MERCY.
+<lb/>As a father pities his children, so the Lord pities those who know him
+<lb/>FOR HE KNOWS OUR FRAME; HE REMEMBERS THAT WE ARE DUST.
+<lb/>As for us, our days are like grass; we flourishes like a flower of the field;
+<lb/>FOR THE WIND PASSES OVER IT, AND IT IS GONE, AND ITS PLACE
+<lb/>KNOWS IT NO MORE.
+<lb/>But the steadfast love of the Lord is from everlasting to everlasting upon those who
+<lb/>fear him, and his righteousness to children's children,
+<lb/>TO THOSE WHO KEEP HIS COVENANT AND REMEMBER TO DO HIS
+<lb/>COMMANDMENTS.
+<lb/>Bless the Lord, O you his angels, you mighty ones who do his word, hearkening to the
+<lb/>voice of his word!
+<lb/>BLESS THE LORD, ALL HIS HOSTS, HIS MINISTERS THAT DO HIS
+<lb/>WILL!
+<lb/>Bless the Lord, all his works, in all places of his dominion.
+<lb/>BLESS THE LORD, O MY SOUL!
+<lb/>— Psalm 103:1-4, 13-18, 20-22
+<lb/>* HYMN OF PRAISE — "Stand Up and Bless the Lord" No. 16
+<lb/>NEW TESTAMENT LESSON I John 2:1-17
+<lb/>SILENT PRAYER
+<lb/>It is the will of God:
+<lb/>To gather together in one all things in Christ, both which are in heaven and which are
+<lb/>on earth.
+<lb/>That we should show forth his praises who called us out of the darkness into his
+<lb/>marvelous light.
+<lb/>That we should believe in him and love him with all our heart, with all our mind^ with
+<lb/>all our soul,and with all our strength.
+<lb/>That we should worship him and put our whole trust in him all the days of our life.
+<lb/>LORD, HAVE MERCY UPON US, AND INCLINE OUR HEARTS TO DO
+<lb/>YOUR WILL.
+<lb/>RESPONSE
+<lb/>PRAYERS OF THANKSGIVING — PETITION — INTERCESSION
+<lb/>(During intercessory prayer the congregation is urged to lift names audibly or silently.)
+<lb/>Let us unite in prayer for grace to do God's will.
+<lb/>O LORD, WE BESEECH THEE MERCIFULLY TO RECEIVE OUR
+<lb/>PRAYERS: AND GRANT THAT WE MAY BOTH PERCEIVE AND KNOW
+<lb/>WHAT THINGS WE OUGHT TO DO, AND ALSO MAY HAVE GRACE
+<lb/>AND POWER FAITHFULLY TO FILFILL THE SAME; THROUGH JESUS
+<lb/>CHRIST OUR LORD. AMEN.
+<pb n="8" facs="#page-007"/>
+<lb/>THE LORD'S PRA YER
+<lb/>THE SACRAMENT OF BAPTISM (11:00)
+<lb/>Receiving the Sacrament of Baptism: Casey Elizabeth Rapp, daughter of
+<lb/>James and Linda Rapp.
+<lb/>BAPTISMAL RESPONSE — "This is the Spirit's Entry Now"
+<lb/>Asbury Ensemble
+<lb/>PARISH ANNOUNCEMENTS
+<lb/>OFFERING OF GIFTS — "The Great Commandments" (8:45)
+<lb/>"Apple-Red Happiness"
+<lb/>Trinity/Wesley Choir
+<lb/>"Everything is Beautiful" (11:00)
+<lb/>Cherub Choir and Dr. Whitlock
+<lb/>♦DOXOLOGY
+<lb/>OLD TESTAMENT LESSON Job 19:13-27
+<lb/>THE SERMON — "The Need for an Advocate: Who Speaks on Our Behalf?"
+<lb/>Dr. Whitlock
+<lb/>SILENT PRAYER
+<lb/>* HYMN — "God of Grace and God of Glory" No. 470
+<lb/>* BENEDICTION
+<lb/>SILENT PRAYER Congregation seated and bowed
+<lb/>POSTLUDE — Rigaudon Andre Campra (1660-1774)
+<lb/>Arr. by E. Power Biggs
+<lb/>* Congregation standing
+<lb/>Scripture Readers: Georgeann Powell at 8:45 and Bob Hedgepath at 11:00.
+<lb/>WELCOME
+<lb/>A cordial welcome is extended to all those visiting today. Please complete one of the visitor
+<lb/>cards from the pew rack and place in the offering plate.
+<lb/>TODAY
+<lb/>The flowers at the chancel are given to the Glory of God and in loving memory of
+<lb/>Frank H. Travis, Jr. by his family.
+<lb/>The additional flowers are given in honor of the marriage of Linda Meyers and David Miller.
+<lb/>The rose on the altar is to announce the arrival of a son, David William, to Jack and Judy
+<lb/>Stoppel. David is the grandson of Bill and Nancy Whigham.
+<lb/>Acolytes: Amy Huston at 8:45 and Josh Erickson at 11:00.
+<lb/>9:45 A.M. Worship Service. Child care to beginning of First Grade.
+<lb/>9:45 A.M. Church School for all ages beginning at age two. Child care for Infants
+<lb/>and Toddlers.
+<lb/>11:00 A.M. Worship Service. Child care to beginning of First Grade.
+<lb/>12:15 P.M. Nominating Committee meets in Church Lounge.
+<lb/>THIS WEEK
+<lb/>TUESDAY
+<lb/>9:00 A.M. Exercise Class
+<lb/>9:30 A.M. Sharing Group at Fran Ackerson's, 2116 Valley Road.
+<lb/>6:00 P.M. Family Picnic at Bellevue State Park.
+<lb/>7:30 P.M. Building Committee meets in Church Lounge.
+<lb/>WEDNESDAY
+<lb/>7:30 P.M. Junior High UMYF Planning Meeting.
+<lb/>FRIDAY
+<lb/>9:00 A.M. Exercise Class — Please note: This is a change of day.
+</ab>
+    </body>
+  </text>
+</TEI>

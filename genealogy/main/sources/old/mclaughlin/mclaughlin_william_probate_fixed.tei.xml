@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin william probate fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_probate_fixed/p-014.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>i6?ArvcT
+<pb n="2" facs="#page-001"/><lb/>STATEMENT OE ACCOUNT AS SETTLED BETTOSU THE UNDers^jq^jj '
+<lb/>AND HEIRS OE ̂ flLLIAM MO LAUCHLIN AND MARGARifw Mn t
+<lb/>^ WC3TLIN, LATE
+<lb/>OP THE TOUN op HORNBY, STEUBEN COUNTY, l^rTytlx,
+<lb/>TalTJo of real estate exclusive of house s litvHOi,v
+<lb/>&gt;  y •'Hid exclij-
+<lb/>sive of wood lot,
+<lb/>42080,00
+<lb/>Value Of personal property, ~ —sis
+<lb/>06.40
+<lb/>Vali;ie house in Hornby,
+<lb/>Value v;ood lot,
+<lb/>Value note of Ifeniel Mc Laughlin,
+<lb/>Value Hend}:lc"Ks note, - ^ ~ ~
+<lb/>Due to estate from \milatn P, Mc Laughlin, 570.00
+<lb/>13741.40
+<lb/>Ifebts due by estate,
+<lb/>TO ttlliam P. Mc Laughlin,
+<lb/>Present value of estate exclusive of wood lot,
+<lb/>} 510.00
+<lb/>3251.41
+<pb n="3" facs="#page-002"/>
+<lb/>i  '
+<lb/>STATmCEHT OF ACOOUNT AS SETTLED BETl^SN THE UHDERSTGHED
+<lb/>AHD HEIRS OF FILLIaM MC LAUCrHLIN AND MARaAEET MO LAUCaiLlN, LATE
+<lb/>Of the town op HORNBY, STEUBEN COUNTY, NE¥ YORK.
+<lb/>Yalua of real estate exclusive of iiouse « in Hornby and exclu
+<lb/>sive of wood lot, ■isOSO.OO
+<lb/>Yalue of personal property, 406 #40
+<lb/>Value house in Hornby, — — — — -goo,oo
+<lb/>Value note of Daniel Mc Laughlin, - 4^,09
+<lb/>DUe to estate from willian P, Mc Laughlin, - 370.00
+<lb/>#3741.40
+<lb/>Debts due by estate,
+<lb/>TO iriiiiam P. Mc Laughlin,
+<lb/>Present value of estate exclusive of wood lot.
+<lb/>•- -I 510.00
+<lb/>3231.41
+<pb n="4" facs="#page-003"/>
+<lb/>Follo?dng is niesaorandim of aereement f03? pnrcliase of
+<lb/>said property made by wllli^ara P. Mc Laugiain with the heirs of
+<lb/>^Willlaii and Mangaret Mc Laiighlin, deceased.
+<lb/>j  William P. Mc Laughlln to purchase and the other iieirs
+<lb/>|to sell all of the real estate consisting of 06 le/lOO acres
+<lb/>Ijin the hoaestead tract and 18 acres formerly owned by Daniel
+<lb/>IjRogers for the sum of fs,080.00. $2080.00
+<lb/>li . '
+<lb/>ilVialua of personal property as per Inventory, - - 1 406.40
+<lb/>li mount due to estate ft?cm William P. Mc Laughlin as per
+<lb/>i'
+<lb/>statement, "1_570_,00
+<lb/>Total, - #2856.40
+<lb/>V-.'
+<lb/>mount due fx'cm estate to tllllim Mc Laughlin as per statement
+<lb/>I 510.00
+<lb/>Balance due on agreement fron P. Mc Laugxilln to
+<lb/>i
+<lb/>to be divided as follows:—
+<lb/>#260.71 to Jr^raes Mc Laughlin,
+<lb/>#260.71 to George Me Laughlin,
+<lb/>#260,71 to Frank j, Mc Laughlin,
+<lb/>#260.71 to Itenlel J. Mc Laughlin,
+<lb/>#260.71 to Charles Mc Laughlin,
+<lb/>i| 7:
+<lb/>ii|260.7l to m. p. Mc Laughlin,
+<lb/>1:
+<lb/>i#260.71 to Mrs. Elmer Harrison,
+<lb/>i!
+<lb/>|l|260.7l to Mrs. Arthur Hendricks,
+<lb/>|l
+<lb/>i|2S0.71 to Thaaas Mc Laughlin,
+<lb/>jp2346.39 total, ' "
+<lb/>1! The above sums to be paid by winifm P. Mc Laughlin to
+<lb/>lithe said parties.
+<pb n="5" facs="#page-004"/>
+<lb/>Daniel Mc Laugnlln is to pay to tDa estate, ~ •
+<lb/>Mrs. Fsnclriclcs, is to pay to tiie estate, - ■— - - -
+<lb/>Total,
+<lb/>435.00
+<lb/>150.00
+<lb/>TO 06 divided as follows:«
+<lb/>'■ 4^^*00 Janes Mc Lauglilin,
+<lb/>;; fDOtOO George Mc Laiighlin,
+<lb/>585.00
+<lb/>// V
+<lb/>: BSSinq FTanlc J.Mo Laugiain,
+<lb/>y~ T-, ^3
+<lb/>I  Ofearles Mc L&lt;aughlin,
+<lb/>JL^ ^ ̂  Ŵilliam P. Mc Lauglilin,
+<lb/>;;
+<lb/>Daniel Mc Laughlin,
+<lb/>|6g-rdtr^ti?s. EHiTier Herri son.
+<lb/>Mrs. Arthur Hendriclcs,
+<lb/>1^5.00- Tiicmas Mc Laughlin,
+<lb/>f;rv^\;fe"'i
+<pb n="6" facs="#page-005"/>
+<lb/>i  t-
+<lb/>Val\i3 of iiouse In Village of Hornby, --
+<lb/>TO be divided l/9 to eacli as follov;s:—
+<lb/>133.33 1/3 Jaaes Mc Laughlin,
+<lb/>$33.33 1/3 Oeorge Mc La.ugiilin,
+<lb/>11 ■ ^
+<lb/>;il33.33 1/3 prank J. Mc Laugblin,
+<lb/>|i$33.33 1/3 olianies Mc Laughlin,
+<lb/>il
+<lb/>|||33.33 1/3 Willisan P. Mc Laughlin,
+<lb/>Iil33.33 1/3 Daniel Mc Laughlin,
+<lb/>ijf33.33 1/5 Mrs. Elmer Harrls&lt;»i,
+<lb/>II
+<lb/>||$33.S5 1/3 Mrs. Arthur Henclrickg,
+<lb/>3.35 1/3 Thomas Mc Laughlin,
+<lb/>.00
+<lb/>0 c&gt;
+<lb/>iValue wood, lot,
+<lb/>|i
+<lb/>jlpo be divided as follows;- l/s to each of the follwoing.
+<lb/>karaes Mc Laughlin, ^ /S
+<lb/>j&amp;eorge Mc Laughlin, ^ C
+<lb/>iprank J. Me Laughlin,X
+<lb/>|harl0s Mc Laughlin,' / ^
+<lb/>l/illian,. P. Ma Lsughlint^^/^ ̂
+<lb/>I Daniel Mc Laughlin, ^
+<lb/>Mrs. Hlmer Harrison,
+<lb/>^ 1—C C
+<lb/>Mrs. Arthur Hendrieks, /^^
+<lb/>Thaaas Mc Laughlin,
+<pb n="7" facs="#page-006"/>
+<lb/>AG-reeMsNT Made thia day iif April, 19 07,
+<lb/>WHEREAS Willlsifl and Margaret Mc Laigiilin, deceased,
+<lb/>OTOiers of the fara as the Mc Laughlin Horaestead property,
+<lb/>consiating of 87,aCT'es and also oimers of about 18 acres on the
+<lb/>HPfnby road, AND inhere AS, WEt the undersigned?, only heirs at
+<lb/>law and child]?en of said Margaret Mc Laughlin and wlllism Mc
+<lb/>Laughllii are desirous,of settling the estate and disposing of
+<lb/>all of the property left by them, NOw therefore this agreement,
+<lb/>WITNesset®, That lillism P* Mc Laughlin purchase said
+<lb/>real estate for and in consideration of the sum of $2080.00,
+<lb/>and all of the ssdd personal property as per inventory for the
+<lb/>sum of I4O6.OO'; it being agreed that the above is a fair value
+<lb/>price of said real property, not including tfee house in the
+<lb/>Village of Hornby and not including the wood lot on th.e iMniel
+<lb/>Mc Laughlin fariiu
+<lb/>IT IS agreed and understood that the said estate owes
+<lb/>?rlllism Mc Laughlin the sum of fslO.OO, and said t/illiaa Mc
+<lb/>i|
+<lb/>^Laughlin owes the said estate- the sun of |?70,00,
+<lb/>AND WHEREAS, each of the undersigned a.grees to. take
+<lb/>for his share of said estate the sum of 1/9 of the whole value
+<lb/>thereof, which whole value is agreed to be, not including the
+<lb/>wood lot on the Dariiel Mc Lauglilin fam,tthe sum of |s251»40,
+<lb/>AND THERIPORS IT IS HEREBY AGREED, that each Of the
+<lb/>undersigned shall D^ecelvs as his share of the whole of said
+<lb/>estate, excepting the said wood lot, the sum of |s59*d4.
+<lb/>AH-d for valid consideration, receipt ?;hereof is hereby
+<lb/>aclmowledged , the said undersigned hereby rele9.se the said
+<lb/>estate arid, property froa all further claims, and hereby does
+<lb/>accept said sun of #359.04 in full settlement and discharge of
+<lb/>!
+<lb/>all claims agslnst said estate, and as oid? and each of oior siiare^
+<lb/>thereof, excepting for the share in said wood lot . j
+<pb n="8" facs="#page-007"/>
+<lb/>V -ir A *
+<lb/>•c
+<lb/>-• * T
+<lb/>i
+<lb/>in WITKESS ifHEREOp, we iiave iiereuiatiO set our hands
+<lb/>and seals this 4th day of April, 1907.
+<lb/>Jaraes Mc Laughlin.
+<lb/>Grosge Mc laughlin,
+<lb/>pranh j. Mc Laughlin,
+<lb/>Charles Mc Laughlin,
+<lb/>Williaa P. Mc Laughlin,
+<lb/>Daniel Mc Laughlin,
+<lb/>¥a?B» saiaer Harrison,
+<lb/>Mrs. Arthur Hendrichs,
+<lb/>Thaaas Mc Laughlin,
+<lb/>Mt
+<lb/>V-
+<lb/>ii»jr
+<pb n="9" facs="#page-008"/>
+<lb/>OU RT
+<lb/>COUNTY OF
+<lb/>Office and Post Office Address
+<lb/>DRAKE BLOCK, CORNtNO, N. Y.
+<lb/>ALVAH BUSHNELL CO., LAW STATIONERS, 4 N. tSTH ST., FHILAOELPHIA, FA.
+<pb n="10" facs="#page-009"/>
+<lb/>S tt. 0 g a t ©'s 0 0 w r t, cOPNfY Of steubei*"
+<lb/>fiSS
+<lb/>In in® Matter of tMe estate of irn.
+<lb/>Mc Laugniln^ cieooased#
+<lb/>ast sz m ss
+<lb/>Polloi^ing is a etatament of tlJo balanoea due#
+<lb/>Whole estate eonsiats of,
+<lb/>?alu0 of. real estate- ~.|s080%00
+<lb/>value of personal property, - ̂ 406»40
+<lb/>Value of Hornby House, • - «. 500,00
+<lb/>value of wood lot, — 141,00
+<lb/>Value of Daniel Mo DauglHin'e notes.,,- - - - s??l,00
+<lb/>Value of Mrs, EendrloK's notes, - 150,00 13398.4|0
+<lb/>Hstate owes Ba, Mo Latghlon, -#510,00
+<lb/>credit by niistaKsj, - - sv,00
+<lb/>Total, i53V.OO .
+<lb/>Wii, Ho Lauglilin owes the estate^70,00
+<lb/>-  lemrlng bal. due to fa Mo laughfl67,00
+<lb/>.Heating bal, present value of estate, . .t3831,4t)
+<lb/>Dividing into 9 equal parts gives to eaoh one of the
+<lb/>heirs |359#04 as Ma share in the whole estate.
+<lb/>Account of Mnlel Mo Laughlln,.
+<lb/>Danial Mc iaughiin owes the estate, - 1435.00
+<lb/>For wood lot, - —&gt; 141,00
+<lb/>Cr» Of Daniel Mo taugniln pd, on notes,_
+<lb/>Bal, due to ^^h© estate.
+<lb/>Or, to 1/9 int, in estat® as abova,
+<lb/>Bal, due to estate from Dan Mc Lyughlin,
+<lb/>114,00
+<lb/>8468.00
+<lb/>559,04
+<lb/>Account of Wllliara Mo Haughlliu
+<lb/>Purchased of estate far®, 18080,00
+<lb/>persona property, 406,40
+<pb n="11" facs="#page-010"/>
+<lb/>fotal, ig486.40
+<lb/>1/9 ia% . in ~: S59»Q4 5?^6»04
+<lb/>Bal» mm ,t.© tM sstat# frm Hu m Itftugmin, #1960.36
+<lb/>h
+<lb/>^f5Su.
+<lb/>A6mmt sf Irs# ifsiitric^#
+<lb/>am %Q art# Riscfeleiis fed® est&amp;t# l/» lit#§559#04
+<lb/>mm %o eatat# frmt tos. S'^JE«3?i©K0 m aots# 150*00
+<lb/>Bal* dm® Mrs. Haadrieica f^m estat®, | 209»0^
+<lb/>111 tus abova stat«a«Bt w© Jia?f taksm oar@ M wi2llao|
+<lb/>I
+<lb/>10 laugiilla by gifim Mm a 1/* interest in tbs wMla setatd
+<lb/>,ajil gi^.ng Mill credit fis' |510*00 note, for Is^.oo pilata.ke |
+<lb/>ifi inventory, oMrgiBg Mil itfth I370..00 wHicii im omd
+<lb/>%$M and gtCng blsi a l/9 interest is ite setat® wMo
+<lb/>leawi a teltita® iftit froa Mg to fi!i« «®tat© of #i960,.se»
+<lb/>... . _ *s ftav# tateri of Banlel a© latigliiln by ai^-glng
+<lb/>Mm irith the w1:k&gt;i® esotnt of tfl© Bates which he ©wed ti^
+<lb/>estate llBS.OO, and by givini? Mta &lt;3»dit fOT payaents ©n notjes
+<lb/>of |114*00, and by dmrglng Mm wlfti the value of the «?ood
+<lb/>lot* by giving Mm t 1/9 liitersat in the whole estate fsss.G
+<lb/>leavllg a balarioe d» frcyn Ma t® the eitat© ©f |lOS»98»
+<lb/>t® haw taten aa.rs ©f Mrs. Hsndrio&amp;s W iiyinfi h«
+<lb/>ersdlt for l/o Interest im the whel# estate iaoludiiig owovf-
+<lb/>thing, and by elmiglBg ft®r with tte flso.oo due on not©,
+<lb/>leaviag^a balanoe due ttmn Vm estate to her of i209»04#
+<lb/>In this W&amp;.J m have tahsn of $ panties leaviiig
+<lb/>only siiThow to''be tafen oare of, - -d '
+<lb/>The estate now"consists of,
+<lb/>Pi# -froia Daniel Mo Lauginin, — ~~ I 102.96 "
+<lb/>Dm trm Mlliam Mo langhlln, 1960#3®
+<lb/>Talus of Ronnbf lot, «■ — 300.00
+<lb/>Total, 12363.32
+<pb n="12" facs="#page-011"/>
+<lb/>Qwrri fd f9rwar€,
+<lb/>l)ia« MI'S# mnfivi^ks frm
+<lb/>teavifig present yalu© of ©state Xms tli® 5 |3154«2S
+<lb/>iiitsrsst# ■ &amp;'0Of$ rtariM. t§ Miridat into
+<lb/>SlMlBg t# eaoM of til# 6 tl30 sasn of - ---' l359#04
+<lb/>111 m mmM as Hilim mm fhe estate |1960#5S it i
+<lb/>mmm to at t.h« aliiplast way to do tMs would'm to turn ini
+<lb/>tillim in addition to tfts #lt60#Si tlia m® of |lOS»i0 frm
+<lb/>lf®ndrloK*s note, |5-0#00 f3?ma Bornty Mum, and tUm let
+<lb/>111,11® pay tMt out ~!y giyifi,g to Mrs# HeslrioKs 1209*04
+<lb/>ant Iss9#04 to ®a.oii of tne otte six.
+<lb/>^ fill ; ^^laTii ilrtWfeliiitifWi ^ffftiftififri''-M ■
+<pb n="13" facs="#page-012"/>
+<lb/>m m m -m m m m m sss $»' ss. m is m ss m m ̂  sm
+<lb/>In t.h^ 0f i"m jMitei&amp;a
+<lb/>f© t®i 0@arfc of 1^- -loMBty o?
+<lb/>A m lat^iaiB -ma Mo iMmMin of
+<lb/>Foffibf. rnmihm Vm tof^, %tm
+<lb/>foJ logins aoooiffit of 5TO®o#dlr4,fs ta m'oi of
+<lb/>wtaiiim «® i--:i«f:iia,in.» aootaaod#
+<lb/>r#-f« to m lawglHSii -ia« m-.mlBm Mo laugft-
+<lb/>llB£;» m %im ft-a of M?qc ItOf, a^4 oaeoatoifo oa«^€-"
+<lb/>1  of tfm of a«o#attiNi to &gt;9
+<lb/>fijoi is strfOf--t9%" offio« #f tt^rm mmifit mAmh mie-
+<lb/>•©«i®l. ostot#' foytft %li$ all of tfto ^fop-
+<lb/>#2rtF »t» of %m v-aiie of J.»SI »40
+<lb/>g9Btlms -hMlmmm in ©tilftl# of*
+<lb/>'&amp;» ftm Miit«l.-ls ir^aumta to ost^ite*
+<lb/>1^ Mrs* B'-m€3fIo^ to tofat#* 15O»O0
+<lb/>aa» fxm niim I^agallH to ostat®, „ g'70.^0
+<lb/>.f©t«l of ostat# at frooomt*
+<lb/>m» frojfl - to Willie MO |519»^
+<lb/>mi«mm mm' i# h»
+<lb/>84i*ao
+<lb/>310*0.0
+<lb/>-tft« sfgal lair.-? ti o-'ml
+<lb/>FOllo^iiiR to a. 9t#t«so«t of sal® price of all tifs -
+<lb/>ai Fwortf of s«t€- ootot®, saloo f'ilriy aa^
+<lb/>t .t®o boat j-rloo t^t coulf l5i« HaO with 4 lUtoBoo; -slos
+<lb/>stistatofit #,.f all to tit rnmm
+<lb/>aolltotod of all lataroats soaios of mmry li.»€ as ioscs'tp
+<pb n="14" facs="#page-013"/>
+<lb/>ijy timf mm igmli^
+<lb/>frm sal# |3f9,40
+<lb/>mmtm€ fwm ii^s# Ml oaaota, IBCI»O0
+<lb/>H#ef?iv8€ 'fil 1« Mo M^Witn bal en ay?&amp;iMt^^'?0»00
+<lb/>f#l»JU laBPO.40
+<lb/>?ll©r« ft# a«btm dm %m saiJl as tat# wM aft reraala
+<lb/>«i#olIt#t#fi efr ms#l2«®tbal# s# fmt m mtiMomw'm Ms# Mi®
+<lb/>mM# i# laiira. ■!# ^art of tM rmBt&amp;m tin-
+<lb/>#©!€» Wmrn Qf m^9»tw vfon last W m&amp;oimntm a#
+<lb/>%Mn thorn tit tmmmtmf ^ats mt f&amp;rtn mm -
+<lb/>%# tM. ommtmn pMstsstoa nd of tw
+<lb/>tummm or mmomo of tWrnlm of mmoti ©f Mii€ «#-
+<lb/>tst» m allow#€«
+<lb/>a«ld
+<lb/>ttt©y» at »otl#a f«r t© p^aast tmlv oI&amp;Smb
+<lb/>*
+<lb/>tM mM #stat« «t tM law otnmvM' ?• 3©g^s
+<lb/>fm #3»s^tiF#, iftttta tm m^of Mmd by. law t#
+<lb/>M  alisd fm* ^adx a©©©rdi.ftS t® Ii». ;#iii'safe3at i© tl
+<lb/>mdoT bt liM '^rragsia ©f rtat^^ to wMoU mtlm
+<lb/>dmo WTOOf of Mrssite fil-M ©xaoatora
+<lb/>igt pa^ of -M-s moommtrn
+<lb/>ftmm mm no of oro-'iitoxo p^«s»RtM- a^slnfl
+<lb/>o-sootl^ mot- anC AX- of
+<lb/>wmT9 allow#-*.
+<lb/>was ao moat## ©aid to st4w- oi* a#xt
+<lb/>of Mft of tM doooas##-*
+<lb/>fM foiio^lsg l-s m list of vm nm&amp;m of M mmmm
+<lb/>m wiiw, ot fttxt of Mm- of tM doooas## to
+<lb/>■a s&amp;« of 11. .» »l%ft lli0.iT plaots of mal-^-riOo*
+<lb/>of i^-aticssMp, nmrn #t«*#
+<pb n="15" facs="#page-014"/>
+<lb/>«i« a© ismgMla* t3m^ mm SI
+<lb/>- m mmm toees -ial€ mt M' It# aaJci ©giat#
+<lb/>f®y mw-tvimum %m -mm ttf. 1^0*4©* i«f3 %m mntB ©f iMii
+</ab>
+    </body>
+  </text>
+</TEI>

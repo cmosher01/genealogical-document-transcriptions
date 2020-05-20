@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>cranson henrietta probate</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/colvin/cranson_henrietta_probate/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/colvin/cranson_henrietta_probate/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>'■iiiSiSlll*
+<lb/>,J ^ i
+<lb/>«»f ^|«tItSt*n z
+<lb/>/t» /.' 'ftffftt'o/ fhf ^^ihtthtis/rfUfoii of tltr (i(tttih, Chnf/rh tmt!
+<lb/>To CHARLES L. KENNEDY, Suyogate of Madison Oou'ity:
+<lb/>Tmk rKinioN of.. '^-'&gt;r:VrV.'^.
+<lb/>of lly^'odnly of Matlisoii.^rcs^iffafulU* showcth ; That.. . . . .is the.. . .■^. fTW/ of
+<lb/>__ late of the town the
+<lb/>county of Madison, deceased ; that the said
+<lb/>died a natural death on the.,.. ^. ^. . . . .day of.. . iS8 / , and
+<lb/>tiled intestate, as your i&gt;etitioner venly believes ; that your [letitioncr has madeiiilinent seych and iiuiniry fttr
+<lb/>a will of the said &lt;le« ease(l, and has not found any or obtained any information ihal'^ Jv#-' left or eve:
+<lb/>made one ; that your |»etitioncr has, ft) the Inrst of. . . . .abibty, cstitnated and ascertaiiuul the value
+<lb/>of the j)crsonal pro)»y^y of which l|^ said dc ea^tl died i&gt;osscsseil, and Aat the same d(»rs not cvreed in
+<lb/>value the sum of ,&lt;loIlars ; that the intestate
+<lb/>// b?
+<lb/>left Jg'ndred entilled'to. .. 7&gt;?f?Tr. .estate, whose names and placet of residence are as follows ;
+<lb/>|«S»
+<lb/>"Mi
+<lb/>KWyKr'-'ife
+<lb/>your Petitioner further sliows, that the said intestate, at or immediately jtrevious to.. . .death, was
+<lb/>an inhabitant of the County of Madison ; that your petitioner is of full aj-e ; and that. y^. . . . .is informed
+<lb/>and believes that llie Surrogate of the (Jounty of .Madison has sole and e.xclusive jMi.ver to gr.int Idlers of
+<lb/>.\dminisiration oC'^tlie goods, chattels^ and credit&gt;' ul the sai&lt;IJniesiateesiate.'""^/'.' prays^i.it ^uch letters may
+<lb/>£.-c.. :.(D
+<lb/>in imrsnani't of llie St.iinic in,sn&lt; lt lasc inaili- ami pniviili'.i &lt;Ciiil your lu-liiiiim-r .»ill^cvt^nay, t-n
+<lb/>t I i K.. &lt;. .\ ,Y. /q . being duly ^^vorn
+<lb/>(lepOi.iA and says that the loregoing petition by. .snbsi rilu'd is line . . .own kme-viedgc
+<lb/>e ic*.| t as to {.'['.''•matters which are therein state^l to l)e .alleged on inlorniati'Ui and iieliel an«l that a*' I" those
+<lb/>matters. . . . .belicMS it to be true.
+<lb/>Subscribed and sworu to lief4)re me this)/oru to
+<lb/>f_ /
+<lb/>that .administrali«»n upon the goods, i hatlels and i redits of
+<lb/>dei 4-aseil. he granleil tc) ine j««intiv wth.
+<lb/>petition.
+<lb/>Dated iSS . .
+<lb/>tiainetl in llie witliiii petUion. »tinsent
+<lb/>as asked lor in said
+<pb n="2" facs="#page-001"/>
+<lb/>Madison County Surrogate's Court
+<lb/>GENEOLOGY REQUESTS
+<lb/>From:
+<lb/>Address:
+<lb/>dUir'is
+<lb/>ct o643o
+<lb/>Date: f). I H 9
+<lb/>A. Regarding Estate of:
+<lb/>B. Regarding Estate of:
+<lb/>_File No . 4- 4-1 g
+<lb/>File No.
+<lb/>Requesting photo copies: I Fee paid: ($.25/page)
+<lb/>File and page number for photo copy(ies):
+<lb/>4-41F o'f &gt; K
+<lb/>Comments:
+<lb/>(Please note, geneology requests are processed as time allows.)
+<lb/>Date: L I 19 ̂Processed by:
+</ab>
+    </body>
+  </text>
+</TEI>

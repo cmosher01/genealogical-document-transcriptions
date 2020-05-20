@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>taylorson unknown papers clippings part 2</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_unknown_papers_clippings_part_2/p-000.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>RECIPES FOR COLORING
+<lb/>FAST COLORS,
+<lb/>ON WOOLEN AND COTTON.
+<lb/>Madder Red, on Woolen.
+<lb/>Tiilce 2 Iba MaMer.
+<lb/>4 oz. Mad'&lt;ler (Jomponnd.
+<lb/>Let the madder soak twelve hours in siiiMcieiiL so^t water to coverthe cloth
+<lb/>you wish to dye, then add tlie madder compound, wet your cloth in clean soft
+<lb/>water, v.rin}? it out and put it into the dye, place the kettle over the tire and
+<lb/>bring it slowly to a scalding heat; keep it at this heat for one-half hour if alight
+<lb/>red is wanted, and longer if you desire a dar^ one, or until you have the desired
+<lb/>rinse immediai.ely in cold soft water. (Kemember that fretiuently
+<lb/>raismgHre cloth with a clean stick so aS to expose it^to the air wTll very Inuch
+<lb/>improve the color.)
+<lb/>For 4 lbs. Beantifvd Scarlet, on Woolen.
+<lb/>Take 4 oz. Powdered. Cochineal.
+<lb/>4 oz. Pure Cream, Tartar.
+<lb/>I  8 Cochineal (h»npoiind.
+<lb/>8 oz. Ahrm.
+<lb/>Bring to a boiling heat sufficient .soft water to cover the-cloth j-ou intend to
+<lb/>(lye, then add the pow(iered cochineal, and pure cream tartar, boil for ten min
+<lb/>utes, then add the cochineal compound, stir them well together with a clean
+<lb/>stick, then strain, after which the cloth or yarn may be put in and kept hot for
+<lb/>half an hour, frequently stirring and e.Kposing to the air, then remove from the
+<lb/>dye and rinse in alum water made by dissolving 4 oz. alum in one gallon of soft
+<lb/>water.
+<lb/>For 4 lbs. Pink, on Woolen.
+<lb/>Take 1 oz. Powdered CoeJUneal.
+<lb/>Boil 'he powdered coch neal in sufficient soft water to cover your cloth, for
+<lb/>half an hour, then strain carefully to i-emove all sediment, and put in youf
+<lb/>cloth iia\Jng been.previously soaked in alum ,wa^er,jan(n*?t stand lyjtil you
+<lb/>liave the*lesir^d shacte
+<lb/>For 4 lbs. Royal Purple, on Woolen.
+<lb/>Take. 14 oz. (tudbe ir.
+<lb/>Boll the cudbear in sufficient soft water to cover \ our cltxtli, foi* half an
+<lb/>lionr. then strain until you have removed all the sediment, and bMngagain tea
+<lb/>boiling hea : then soak your cloth in strong saleratus water, and put it into
+<lb/>ihe dye and let it remain until you have the desired shade.
+<lb/>For 4 lbs. Orange, on AVoolen or Cotton.
+<lb/>Take (&gt; oz. 8uga,r Lead.
+<lb/>4 irz. Bkhroruate Pota.di.
+<lb/>Bring to a boiling heat in two kettles sufficient soft watei- iw^each to cover
+<lb/>your cloth: then add to one kettle t'le sugar lea^^ and to the other the bichro
+<lb/>mate of potash: then soak youi- cloth in lime water (of the proper sti-ength to
+<lb/>drink.) then place your cloth in the kettle of lead, and boil five niinutes. then
+<lb/>tj-ansfer it to, the kettle of bichromate potash and simmer until you h ve the
+<lb/>tiesired shavlp, then rinse as usual.
+<lb/>4
+<lb/>For 4 lbs. Yellow, on "Woolen or Cotton.
+<lb/>Tnlcf. 4 oz. Svrjar Lend.
+<lb/>3 (». Bichromate Potn.ih.
+<lb/>Proceed in the same manner as for Orange.
+<lb/>For 4 lbs. Yellow on "NToolen.
+<lb/>Take 8 the. FmPk.
+<lb/>1,V ite. Alum.
+<lb/>Steep to get the strength and proceed as usual.
+<lb/>Note.—Saffron, steeped in earthen and strained, colors a fine straw color.
+<lb/>It makes a delicate or deep shade according to the strength of it.
+<lb/>For 4 lbs. Blue on Woolen.
+<lb/>Take oz. Alum. . -—
+<lb/>5 oz. Crenm Tartar.
+<lb/>4 oz. Gliemic Blue.
+<lb/>Bring to a boiling heat in a brass kettle, suffloient soft water to cover your
+<lb/>cloth, then add the alum and the cream tartar, when dissolved put in your
+<lb/>cloth and boil one hour; it is then to be taken out and thrown into warm
+<lb/>water, previously mixed with a greater or less prnportion of chemic blue,
+<lb/>according to the shade tiie cloth is intended to i-eceive. In this water it must
+<lb/>be boiled until it has ac(iuired the desired coioi-.
+<lb/>For 4 lbs. Bine, on Cotton.
+<lb/>Take ti oz. Copper/u.
+<lb/>0 oz. Frvsieiate Pota!,h. '
+<lb/>. 2 oz^. Sulphuric Arid. |, '
+<lb/>Dissolve the copperas and the prussiate potash in sufllcient hot water to
+<lb/>cover your cloth; put in your ciotii and let it remain for half an hour, frequent
+<lb/>ly raising ir to the air, tiien take out your cloth and add your sulphuric acid,
+<lb/>stir ail well together,then put in your cloth again and keep liot until your cloth
+<lb/>is colored. Color in brass.
+<lb/>For 4 lbs. Green on Cotton.
+<lb/>Take 3 oz. Coppernst. i/'' ̂
+<lb/>4 oz. Pniiidate Pata.rh.
+<lb/>3 oz. Bichromate Pota/h. ̂
+<lb/>,Su(/ar Lend. /
+<lb/>Salphuric Acid. ̂
+<lb/>3 oz.
+<lb/>Dissolve the capperas, prussiate of potash, bichromate potash, and the
+<lb/>sugar iLd in sufficient hot water to cover your cloth; put in your cloth and
+<lb/>let it remain halt an hour, then take out yr iir cloth and add the suiphnnc acid;
+<lb/>stir well together and again put in your ciotii, only keep hot until colored.
+<lb/>Color in brass.
+<lb/>For 4 11)S. Gi'een, on Woolen,
+<lb/>Take 1 Ih. Alam.
+<lb/>4 Wi.t. Fu.rt.ic.
+<lb/>4 eiz. Chemic Blue.
+<lb/>Steep the fustic (not boil) until the strengtii is out, add the alum and soak
+<lb/>the cloth in it uiiTii it acquires a good yellow, then remove the chips and add
+<lb/>tiie chemic blue br degrees, niitii you have the desired color.
+<lb/>H
+<lb/>iuud4S 4iwpu^cldpux Sujuaoj
+<lb/>'V„
+<lb/>"SiOei '91- GIHdV 'ONINHOO
+<lb/>'sjincjr niiTiSicocCoZ'}j^
+<lb/>'niizuiojL 3jyi 'eBvucj-ird jino.B.
+<lb/>fo 3313113 V 3ai333Jl Oi BKldOlC
+<lb/>(^soin aq; ppoM 'qoiqi &amp;M. 'puj, y
+<lb/>■anioi^niiK'a: cejslv
+<lb/>lXA-O 3 \ '^ ie.., iA,
+<lb/>3i333LlX3 ^ini£31l) B.SnJ.(J, 3y_2 VLZOJLjT
+<lb/>'pj'Bpuu^g p94injp
+<lb/>3312 3l2inr. 33U3y3LC33ir 2313X^ UJ
+<lb/>2.Z13 ■V UJ.
+<lb/>-B sn 82[B]/j[ nojf GABq o;; pasBajj aq pinojy^ pny
+<lb/>3' 3112133 pU32UT' ]33Ly
+<lb/>'aavHT ofiHa
+<lb/>9X[% ui pa^JB^g 4snp 9ABq ^Bqj,
+<lb/>NAioaa "s. V •svionoa -d -d
+<lb/>•RNIl DHHa
+<lb/>RHT NI
+<lb/>ONIHTANV HOA
+<lb/>moaa ̂  svisnoii
+<lb/>A H X
+<lb/>'TraiMH W iiSMHT
+<lb/>•iiosiuu.) (l0iay v .loj s.uiouoAv,i pim Tiosun.u) b joj .nioi[ ub .104 a.iiitBjecluio; Hiqj 31111111349.1 'qyoq
+<lb/>Siuppos B (J4.\[A\0]S 3ui.iq tqqoio .mowf ui qiid puB ,101(49204 roav .itjs'uiq aqBt
+<lb/>-.luui 0q4 ppB sjiioq 0A[9iW4 pooirf SBq 41.194JV 'Q-fp 04 qsiAV no .A q40]6 0q4".i0Ao6
+<lb/>04 41 iiocin ,i04T?.^\ 4U9ioTBns .mod pnm 0(440^ ssn.iq b 04U1 aXp ob( aq4 quj
+<lb/>•napx)^^^ lU) 'uosnn.iQ 'stq f .to,j
+<lb/>■.laiBAi yos uuaiD hi osui.i puu OAOuiai uaqi '.inoq ub
+<lb/>Jl»-iL.-ioj qnoii Suiiioq n .inau daoi) pun oA'p aqq oqni qqop aqi qiid uaqi 'saqiuiuu
+<lb/>uai JO} joqqaSoq poq 'spiis A.reiitp.io un annul oq duos qjos qtiaroiiiiis ppu : alfp
+<lb/>oq piiaqui iio.C i(qo[0 aqq .laAOO oq jaqnAi qjos qiiaioiyiis ui .laqqo 'zo r SAiossto;
+<lb/>•110440Q .10 na[oo^YV biotiqiig -stq p ,io^
+<lb/>•sn.iaddoo zo z pun pna[ .inSiis -zo g ppn 'uoqqoo Suia.fp uj -a.fp aqq
+<lb/>oqui qj qtid pun .laqn.w lu.in.w in qqo[o .iiioA qaAV uaqq 'i[qoi.i .m'o.f .laAOO oq qiiaio
+<lb/>-Hjns .raqn.w Suqioq in lOjqiA atqq aqq pun poo.wSo[ jo qon.iqxa eqq aAjossia
+<lb/>■p.m 1 9111(1 z 4'
+<lb/>'edpio 'sill g ,10 poonHu'i 'f9i&gt;,ipr[.j 'zo f orivj^
+<lb/>■sjjnis-3&lt;a ajiij (l38i| NMOUil S SVlOnOQ
+</ab>
+    </body>
+  </text>
+</TEI>

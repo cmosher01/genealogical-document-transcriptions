@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>british isles royalty misc dropline charts</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/unrelated/british_isles_royalty_misc_dropline_charts/p-035.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/>
+[A transcription of this page is not available.]
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+[A transcription of this page is not available.]
+<pb n="4" facs="#page-003"/>
+[A transcription of this page is not available.]
+<pb n="5" facs="#page-004"/>
+[A transcription of this page is not available.]
+<pb n="6" facs="#page-005"/>
+[A transcription of this page is not available.]
+<pb n="7" facs="#page-006"/>
+[A transcription of this page is not available.]
+<pb n="8" facs="#page-007"/>
+[A transcription of this page is not available.]
+<pb n="9" facs="#page-008"/>
+[A transcription of this page is not available.]
+<pb n="10" facs="#page-009"/>
+[A transcription of this page is not available.]
+<pb n="11" facs="#page-010"/>
+[A transcription of this page is not available.]
+<pb n="12" facs="#page-011"/>
+[A transcription of this page is not available.]
+<pb n="13" facs="#page-012"/>
+[A transcription of this page is not available.]
+<pb n="14" facs="#page-013"/>
+[A transcription of this page is not available.]
+<pb n="15" facs="#page-014"/>
+[A transcription of this page is not available.]
+<pb n="16" facs="#page-015"/>
+[A transcription of this page is not available.]
+<pb n="17" facs="#page-016"/>
+[A transcription of this page is not available.]
+<pb n="18" facs="#page-017"/>
+[A transcription of this page is not available.]
+<pb n="19" facs="#page-018"/>
+[A transcription of this page is not available.]
+<pb n="20" facs="#page-019"/>
+[A transcription of this page is not available.]
+<pb n="21" facs="#page-020"/>
+[A transcription of this page is not available.]
+<pb n="22" facs="#page-021"/>
+[A transcription of this page is not available.]
+<pb n="23" facs="#page-022"/>
+[A transcription of this page is not available.]
+<pb n="24" facs="#page-023"/>
+[A transcription of this page is not available.]
+<pb n="25" facs="#page-024"/>
+[A transcription of this page is not available.]
+<pb n="26" facs="#page-025"/>
+[A transcription of this page is not available.]
+<pb n="27" facs="#page-026"/>
+[A transcription of this page is not available.]
+<pb n="28" facs="#page-027"/>
+[A transcription of this page is not available.]
+<pb n="29" facs="#page-028"/>
+[A transcription of this page is not available.]
+<pb n="30" facs="#page-029"/>
+[A transcription of this page is not available.]
+<pb n="31" facs="#page-030"/>
+[A transcription of this page is not available.]
+<pb n="32" facs="#page-031"/>
+[A transcription of this page is not available.]
+<pb n="33" facs="#page-032"/>
+[A transcription of this page is not available.]
+<pb n="34" facs="#page-033"/>
+[A transcription of this page is not available.]
+<pb n="35" facs="#page-034"/>
+[A transcription of this page is not available.]
+<pb n="36" facs="#page-035"/>
+[A transcription of this page is not available.]
+</ab>
+    </body>
+  </text>
+</TEI>

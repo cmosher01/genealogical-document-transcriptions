@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher fred birth order form</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_fred_birth_order_form/p-000.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>STATE OF NEW YORK
+<lb/>DEPARTMENT OF HEALTH
+<lb/>Commissioner
+<lb/>Paula Wilson
+<lb/>Executive Deputy Commissioner
+<lb/>Corning Tower The Governor Nelson A. Rookefeller Empire State Plaza Albany, New York 12237
+<lb/>Februaiy 17, 1994
+<lb/>Chris Mosher
+<lb/>42 Ridgeley Avenije
+<lb/>Fairfield, CT 06430
+<lb/>We have completed your genealogy request.
+<lb/>^  Uncertified copy/copies enclosed.
+<lb/>Request(s) not filled - no record(s) on file for name(s)
+<lb/>submitted.
+<lb/>Notification of No-Record
+<lb/>Dates Dates
+<lb/>No record for; Searched No record for; Searched
+<lb/>i"re,c^e&gt;vvc.K, Cc»loiir\ cncsheJ) - Wll-
+<lb/>Additional Information and Comments:
+<lb/>The Public Health Law requires a fee of $10.00 per hour or
+<lb/>fractional part thereof for a search of each name submitted,
+<lb/>and a fee of $1.00 per uncertified copy provided or
+<lb/>notification of no record.
+<lb/>$ 55.Op Total fee
+<lb/>$55.00 Will be retained from your advance fee
+<lb/>Receipt # (542&gt;'T35 - cosh
+<lb/>Amount $55. oo
+<lb/>$  Refund in process from the Office of the State
+<lb/>Comptroller.
+<lb/>Sincerely,
+<lb/>L. Julien Rivers
+<lb/>Genealogy Unit
+<lb/>Vital Records Section
+<lb/>DOH-2798 (11/91)
+</ab>
+    </body>
+  </text>
+</TEI>

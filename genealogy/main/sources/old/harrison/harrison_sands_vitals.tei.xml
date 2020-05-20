@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison sands vitals</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_sands_vitals/p-000.ptif/400,60,4300,2450/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_sands_vitals/p-001.ptif/400,600,4500,2600/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_sands_vitals/p-002.ptif/250,1600,4600,3400/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_sands_vitals/p-003.ptif/300,350,2800,2000/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_sands_vitals/p-004.ptif/full/full/180/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+
+<pb n="1" facs="#page-000"/>
+<p>
+  <lb/>I hereby certify that I have this day united in
+  <lb/>marriage Mr George Harrison &amp; Miss Mary
+  <lb/>Sands. This ceremony took place at the house
+  <lb/>of her father Mr Jesse Sands in the town of
+  <lb/>Hornby, County of Steuben &amp; state of New York.
+</p>
+<p>
+  <lb/>There were present on the occasion the parents
+  <lb/>of both parties &amp; others. Hornby Feb<hi rend="sup">y</hi> 19: 1835
+</p>
+<p>
+  <lb/>Attest Charles Goodrich Verb. Dei Min.
+</p>
+
+<pb n="2" facs="#page-001"/>
+<lb/>A Record of our family George and Mary Harrison
+<lb/>Born May <hi rend="sup">th..</hi> 11 1836
+<lb/>William N Harrison Born June <hi rend="sup">th..</hi> 19 1837
+<lb/>Born March <hi rend="sup">th..</hi> 14 1839
+<lb/>Henry F Harrison Born May <hi rend="sup">th..</hi> 24 1840
+<lb/>Emma A Harrison Born May <hi rend="sup"><hi rend="underline">th</hi>..</hi> 27: 1843
+<lb/>John Jesse Harrison Born July <hi rend="sup"><hi rend="underline">th</hi>..</hi> 13: 1845
+<lb/>Sarah A Harrison Born January <hi rend="sup">th..</hi> 19: 1848
+
+<pb n="3" facs="#page-002"/>
+<head><lb/>A Record of My family</head>
+<table>
+<row><cell></cell><cell></cell><cell>Othinel Sands Born January</cell><cell>27<hi rend="sup">th</hi></cell><cell>1733</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Martha Sands Born June</cell><cell>14<hi rend="sup">th</hi></cell><cell>1735</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Martha Sands Died April</cell><cell>30</cell><cell>181<subst><del>4</del><add type="overwrite">5</add></subst></cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Otheniel Sands Died Jan</cell><cell>5<hi rend="sup">th</hi></cell><cell>1823</cell><cell></cell></row>
+<row><cell>Children</cell><cell></cell><cell>John Sands Born October</cell><cell>25</cell><cell>1761</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Ruth Sands Born December</cell><cell>29</cell><cell>1763</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Samuel Sands Born April</cell><cell>16</cell><cell>1766</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Jesse Sands Born June</cell><cell>7</cell><cell>1768</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Martha Sands Born July</cell><cell>6</cell><cell>1771</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Nathaniel Sands Born August</cell><cell>20</cell><cell>1773</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Ruth Sands Died Augst</cell><cell>29</cell><cell>1787</cell><cell></cell></row>
+<row><cell></cell><cell></cell><cell>Nathaniel Sands Died Augst</cell><cell>21</cell><cell>1777</cell><cell></cell></row>
+</table>
+
+<pb n="4" facs="#page-003"/>
+<lb/>Grandmother Harrison
+<lb/>died in 1895
+<lb/>Uncle John in 1894.
+<pb n="5" facs="#page-004"/>
+<p>
+  <lb/>these are pieces of
+  <lb/>wedding dresses
+  <lb/>Mary Harrison
+</p>
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>luther part 1 info from letters fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/luther_part_1_info_from_letters_fixed/p-019.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Christopher A. Mosher
+<lb/>42 Ridgeley Avenue
+<lb/>Fairfield, CT 06430-4408
+<lb/>September 10, 1993
+<lb/>Hello, Emory,
+<lb/>I'm sorry I haven't written you back sooner. And after you've written me so many
+<lb/>wonderful letters! After doing some more research, 1 have convinced myself that the
+<lb/>George W. Luther that you are descended from is the brother of the Angalina and
+<lb/>Mary Luther that 1 am descended from. 1 also think that the Gideon Luther you
+<lb/>mentioned is another brother in that family. 1 have also run accross a Martha Luther
+<lb/>who is a sister of these all. The approximate birth dates are: Gideon clSlS, Mary
+<lb/>1824, Angalina 1807, Martha ?, and George W. 1815. The parents of these siblings
+<lb/>still remain a mystery!
+<lb/>1 was able to find George W. in a couple of the US Censuses. The 1850 US Census
+<lb/>shows him in Chatham, Tioga Co., PA with his wife Catherine and children George
+<lb/>Jr. (age 5), and Martin (age 3). In 1860, 1 found the same family in Deerfield, Tioga
+<lb/>Co. This time, there were three more children, Augusta, James, and Alonzo. The
+<lb/>ages of George and Catherine are incorrect, though. In 1850, George is listed as 45,
+<lb/>and in 1860 he is also listed as 45! Caterine is listed as 43 in 1850, but in I860, she is
+<lb/>listed as 32, that's 10 years later, but 11 years younger! So there is confusion as to the
+<lb/>correct dates of birth.
+<lb/>There are two George "W. Luthers (father and son) listed in Luther Family in America
+<lb/>who at first glance seem likely candidates for our George, but 1 am sure that neither
+<lb/>one is him. There are too many inconsistencies between our George's family and the
+<lb/>ones listed in the book. There are enough similarities, however, for me to think that
+<lb/>they are related in some way. With a lot of searching and a little luck, 1 think we can
+<lb/>tie our family into the Luthers in the book somehow.
+<lb/>Please let me know if you find out anything about the parents of George W. Luther!
+<lb/>Sincerely,
+<lb/>Chris Mosher
+<pb n="2" facs="#page-001"/><lb/>l!
+<lb/>403 North Buckeye
+<lb/>Coffeyville, Kansas
+<lb/>67337
+<lb/>November 20, 1992
+<lb/>Christopher A. Mosher
+<lb/>42 Ridgeley Avenue
+<lb/>Fairfield, Ct. 06430-4408
+<lb/>Dear Mr. Mosher:
+<lb/>I received your letter of 3, November and have been searching
+<lb/>through all my Mosher material for any reference to Luther.
+<lb/>I have the book "Decendants Of Hugh Mosher and Rebecca Maxon
+<lb/>Through Seven Generations" and the later Revised Edition written by
+<lb/>Mildred Chamberlain and Laura Clarenbach. I have corresponded with
+<lb/>Laura for several years, actually before they finished the book,
+<lb/>but we have not been able to find a place for my Isaac Mosher born
+<lb/>1807-8 .
+<lb/>When I wrote to George Luther, of the Luther Family Assoc. We
+<lb/>had been working on the assumption that my Isaac could be the son
+<lb/>of David 5, Mosher (1780-1862). At that time we had two sons who
+<lb/>were unnamed and thought they might be Isaac and his brother
+<lb/>Ellither (Ellether, Lute, Lete). Then later Laura established the
+<lb/>name of one of the sons and it was not Isaac or Ellither. I was so
+<lb/>disappointed. I had thought surely this was where he belonged
+<lb/>because Isaac named his first son Isaac for himself, and the second
+<lb/>son he named David.
+<lb/>I have a notation here from Laura which reads:
+<lb/>In 1850 census David,age 69 and wife Sarah were with son Wm. G. and
+<lb/>family. In same household were as follows:
+<lb/>B. (listed under Mosher)? age 57 born Canada. He may be B.Luther,
+<lb/>Gideon Luther age 32 born N.Y. evidently brother of Wm Gs wife Mary
+<lb/>age 36. If really B. Luther he was probably Mary's Father.
+<lb/>Children of David and Betsy:
+<lb/>3 sons born between 1800-10C^-41 3 daughters born between 1800-10
+<lb/>1 son born 1810-20 2 daughters born between 1810-20
+<lb/>1 son born 1825-30 1 daughter born 1820-25
+<lb/>The only son who was positively identified is William G. born ca
+<lb/>1807 Saratoga; died May 19, 1900 S. Hamilton, Madison Co. N.Y.
+<lb/>Death records identify parents as David and betsy.
+<lb/>William G. married ffl Mary Luther and #2 Angelina Luther.
+<lb/>One of David's daughters may have been Betsy D. of Greenfield who
+<lb/>was admitted to the baptist church in Wyoming Co., 1837 died 1841
+<lb/>(Foley 4-6: 437).
+<pb n="3" facs="#page-002"/><lb/>2 .
+<lb/>A very probable son was Rensselear Seneca or (S.R.) born 1817 died
+<lb/>1893 and is buried in Niles Valley Cemetery, Tioga Co. Pa. He lived
+<lb/>Oswego, Tioga Co. N.Y.1840. Deerfield Tioga Co Pa. 1850-60. Chatham
+<lb/>Tioga Co. Pa 1870. The Archives copy of the 1870 census evidently
+<lb/>read Seneca as Horace. For wife and children the same as copied.
+<lb/>He married Martha Luther, (note: wives of Wm. G. Mosher born 1821
+<lb/>N.Y. died 1894 are buried in the same cemetery.
+<lb/>Children of Rennsealer:
+<lb/>Elizabeth born 1844 N.Y., Mary A. born 1846 N.y. William born 1848
+<lb/>Pa. Harvey 1849-50 Pa. Franklin 1856 Pa. Eddy (?) 1859 Pa.
+<lb/>The madison County N.Y. probate for Angeline Mosher September 19,
+<lb/>1870, (A 572 file 3027 ) of Hamilton. She had no children so her
+<lb/>heirs were siblings, or if her heirs were deceased, then their
+<lb/>children. A newspaper clipping lists heirs as brother George W.
+<lb/>Luther of Knoxville Pa. Sister Martha Mosher of knoxville Pa. and
+<lb/>Eliza Jane Stevens of Stevens Point, Wisconsin.
+<lb/>Petition for administration named as children of deceased sister
+<lb/>Mary Mosher, David Mosher, Julia Ann Douglas, Sarah mosher, Willie
+<lb/>Mosher age 16 all of Hamilton. William G. Mosher was served the
+<lb/>citat i on.
+<lb/>The will of William G. Mosher age 86 (May 20, 1893 named daughter
+<lb/>Julia A. Douglas exec, and son David Mosher.
+<lb/>You may already have all of the above, but I hope some of it
+<lb/>may help you. If I run across any more I will pass it on to you.
+<lb/>I have been stuck in one place for so long that it seems I may
+<lb/>never find the parents of Isaac- In his probate packet in Ottawa
+<lb/>County Kansas I found an old deed dated 1841, Mendon, Monroe co.
+<lb/>N.Y.Ellither was listed on the deed with him, which caused me to
+<lb/>believe they were brothers, though I have no actual proof of that.
+<lb/>They purchased two lots together. Both had children born in the
+<lb/>town of Mendon. Then by 1850 Isaac and wife Dorcas (Bennet) were in
+<lb/>the town of Perinton, Monroe Co. N.Y. By 1860 they were in
+<lb/>Winnebago Co. Wisconsin and bought property there. Dorcas must have
+<lb/>died right after 1860 census, because Isaac remarried to Lucy
+<lb/>Brando. He was in Kansas by 1865 without Lucy, and died here 1877,
+<lb/>Ottawa County, Kansas. In every census record he states that he was
+<lb/>born N.Y and his parents were born N.Y. Ellither states that he was
+<lb/>born Saratogatown, must be Saratoga county, though I have found
+<lb/>nothing further to prove or disprove this. I tried to get the death
+<lb/>cert, for Ellither. He was alive in 18 9 2, but I didn't know the
+<lb/>exact date. The vital records office in N.Y.raised their search fee
+<lb/>and I just couldn't afford to keep paying them to search. We feel
+<lb/>certain Ellither died South Br i stnl . N.Y. but didn't get D. Cert.
+<lb/>Would appreciate any help you may give me. Sincerely, Jean Robison.
+<pb n="4" facs="#page-003"/><lb/>Family Group Sheet
+<lb/>Name—isaacjvifishfii:
+<lb/>Day Month Y Ct
+<lb/>Chart No.oju ty, Town or Piaca County or Province, etc State or Country Add. infa on Huabam
+<lb/>New YorkChr'nd
+<lb/>Death
+<lb/>Ort.lP?'; Ottawa
+<lb/>Places of Residence
+<lb/>JVlpndnn , Pprint.on .Y .V. innebagp Co.Wi. Ottawa Co.Kansas
+<lb/>Fp Church Affili
+<lb/>Occupation
+<lb/>-rmpy ation
+<lb/>Owwr OMM. 4 any He nt a MiiitaryHe&lt;Kansas Mlltla
+<lb/>riy?* Ttupy Brando #3 Martha Jane(?)# Hannah Peterjlndian Wars 18?0—
+<lb/>V ? J — Motfter'a Maiden Name ̂ ) 3 Qy| )^
+<lb/>Wife's Full Male
+<lb/>Day Idonlh Year
+<lb/>en Name Dorcas Bennet (Bennett)
+<lb/>City, Town or Place -County or Province, etc. State or Country
+<lb/>IRO7 Wew York
+<lb/>Death
+<lb/>Ptacea of Rasidance
+<lb/>Occupation
+<lb/>—Housev.'ife
+<lb/>Vetf M* niotee
+<lb/>Church Affiliation fdHitary Rac.
+<lb/>Mother's Maiden Name ( ? )
+<lb/>♦ewsRCeeiee*—folfcinwi
+<lb/>Marie A.or Maria
+<lb/>Full Name of Spouse
+<lb/>Tsppn Francis Moshe
+<lb/>Full N
+<lb/>ame of Spouse
+<lb/>jbecca Anna Richards
+<lb/>Clarinda Dorcas ^ir.o
+<lb/>Full Na
+<lb/>3
+<lb/>me of Spouse
+<lb/>Hpnry Whi ■)
+<lb/>er
+<lb/>Hprript. Ann Mo.ghPr
+<lb/>Full Name of Spouse
+<lb/>WniTPm f^hampinp
+<lb/>Birth
+<lb/>Marr.
+<lb/>Death
+<lb/>Burial
+<lb/>Birth
+<lb/>Death
+<lb/>Burial
+<lb/>Birth
+<lb/>Death
+<lb/>Burial
+<lb/>Birth
+<lb/>Marr.
+<lb/>Death
+<lb/>Burial
+<lb/>MlngyTf^ R.iynQbpy
+<lb/>Full Name of Spouse
+<lb/>Birth
+<lb/>Marr.
+<lb/>Ida Wpgt.Prt-n^
+<lb/>Death
+<lb/>Full Name of Spouse
+<lb/>Burial
+<lb/>Birth
+<lb/>Marr.
+<lb/>Death
+<lb/>Burial
+<lb/>Full Name of Spouse
+<lb/>Birth
+<lb/>Marr.
+<lb/>Death
+<lb/>Burial
+<lb/>Full Name o( Spouse
+<lb/>Birth
+<lb/>Marr.
+<lb/>Death
+<lb/>Burial
+<lb/>Day Month Year
+<lb/>1B?2
+<lb/>9 June 183
+<lb/>City, Town or Place Ck&gt;unty or fYovince, etc. State or Country
+<lb/>Mendon Monroe Kew York
+<lb/>Mendon Monroe iNew lorK
+<lb/>20 Dec.185*1 Clinton Clinton new lorJc
+<lb/>after 1886 Wnt Vvest to gold fields disap
+<lb/>R
+<lb/>Militia
+<lb/>jearSo^
+<lb/>ebecca petitioned 1? Feb.l»93 for legal ,ieath date
+<lb/>Mca 1B35
+<lb/>2'y Dec 18*^0 Oshkosh V/jnnebago Wisconsin
+<lb/>ca. 18^0
+<lb/>2 Apr.lBAU
+<lb/>1 0 Sept.l8&lt;)5'
+<lb/>28 Dec. 191'? near Leavenworth Kansas
+<lb/>Jiational Cem.Leavenworth Kansas
+<lb/>endon Monroe new York
+<lb/>Mendon Monroe New York
+<lb/>Add. Info on Ctiildren
+<lb/>Kansas"
+<lb/>■larriet
+<lb/>Lived Kent
+<lb/>Do.Canada
+<lb/>Mendon Monroe New York
+<lb/>Saline
+<lb/>Divil War
+<lb/>Kansas Do.B.19th
+<lb/>mo
+<lb/>V/isconsir.
+<lb/>infantr^
+<lb/>Address
+<lb/>City, State. Zip
+<lb/>Jean (Mosher) Robison
+<lb/>40? North Buckeye
+<lb/>No'eaSourcesi 1850 Ferinton Monroe co.N.Y.
+<lb/>Osts
+<lb/>Coffeyville Kansas 67337^
+<lb/>l'^ Ang^ust 1990
+<lb/>census.i860 Wlnnebago Co Wi.census.Probal
+<lb/>'records Ottawa Co.Ka. Mar.rec.Cshkosh,
+<lb/>&gt;'innebago Co.V'i.Mar rec.Winnebago Co.V/i.&lt;S
+<lb/>Dttawa Co, Saline Go,Kansas. Mar. Rec.of
+<lb/>Clinton Co.la.
+<pb n="5" facs="#page-004"/>
+<lb/>FAMILY GROUP No. Husband's Full Namegi ■) nrp T,Titp&gt;),Mr),g;Hp;R
+<lb/>This Information Obtained From; 3«a""''d County or Province, etc. State or Country Add. Info, on Husbam
+<lb/>Pension #^07628 Appl
+<lb/>f
+<lb/>Birth leoQ- Saratoga New York
+<lb/>or Father after the Chr'nd
+<lb/>death of son George
+<lb/>C
+<lb/>Mar. ?q Ont, .iRTi Vint.n-r Ontario New Yorko.D.N.Y.Vol. Ipf
+<lb/>Ell
+<lb/>Death
+<lb/>ether was 78 Yrs. Burial
+<lb/>old when Appl.was Places of Residence
+<lb/>made. Lived S.Bristo pccupation
+<lb/>O
+<lb/>Church Affiliation Military Rec.
+<lb/>Ontario Co./i/.)f ther wives, if any. No. (1) tf) etc.Make separate sheet for each mar.
+<lb/>JW5 His Father Mother's Maiden Name
+<lb/>wife's
+<lb/>Data
+<lb/>Wife's Full Maiden Name jRanptto HotohVi .d.c!
+<lb/>Day Month Year^ City, Town or Place Couitfy or Province, etc. Stare or Country Add. Info, on Wife
+<lb/>'■'S'S c'
+<lb/>Birth 26-2-1819 Burned to
+<lb/>Chr'nd death
+<lb/>Death .2-5-1866
+<lb/>Burial S.Bristol family Gem. Npw Ynr-k
+<lb/>Compiler Jean Robi son Places of Residence
+<lb/>Address 403 N.Buckeve Occupation if other than Housewife Church Affiliation
+<lb/>City, stat^off evville .Ka .  ler husbands, if any. No. Ci) (2) etc.fake separate for each War.
+<lb/>Date5 Sent. 1979 Her FatheMichodemus HotchkiSpother's Maiden NamClharl ntt.P PnT'toy
+<lb/>CChildren's Names in Pull
+<lb/>(Arrange In order of blrth&gt;
+<lb/>hildren's
+<lb/>Data Day Month Year City, Town or Place County or Province, State or Country Add. Info, on Childrei
+<lb/>Birth
+<lb/>Mary Mns^hpr
+<lb/>Pull Name of Spouse*
+<lb/>Mar.
+<lb/>Qr-sfnn IVI . Algpr-c;
+<lb/>Death
+<lb/>Burial
+<lb/>1 888 Monroe New York Had Dau,
+<lb/>M
+<lb/>12- 18&lt;^
+<lb/>ary B.ip
+<lb/>63- 3.LivRd
+<lb/>v/ith E.
+<lb/>M Lewis Mosher
+<lb/>Birth 183&lt; East Mendon Monroe New York Waa nff'So
+<lb/>Mar.
+<lb/>Pull Name of Spouse*
+<lb/>Jane Farrington
+<lb/>Bristol 18
+<lb/>MDeath 1920 Z 1869
+<lb/>Burial uldah Lyo]
+<lb/>F. Sarah Jane Mosher
+<lb/>Birth
+<lb/>Mar.
+<lb/>Pull Name ctf Spouse*
+<lb/>Homer B.Parker
+<lb/>18^1
+<lb/>T837
+<lb/>Monroe New York At S.B-ri .c;
+<lb/>tol 1898
+<lb/>Death
+<lb/>Burial
+<lb/>M George Mosher
+<lb/>F
+<lb/>Birth 1811-3 East Mendon Monroe New York Taken Pr-i
+<lb/>Mar. none
+<lb/>ull Name of ^wuse*
+<lb/>Death 10 Oct.186 If Annapolis(Gunshot . Wounds)Md .C
+<lb/>ner Pi ed
+<lb/>1vn War
+<lb/>Burial
+<lb/>Elizabeth Mosher
+<lb/>Birth 1848
+<lb/>Mar.
+<lb/>Monroe Npw York So.Bristo
+<lb/>Pull Name ctf Spouse* Death
+<lb/>1868
+<lb/>Burial
+<lb/>Birth
+<lb/>Nelson Mosher
+<lb/>1849 Monroe New York
+<lb/>Mar.
+<lb/>Full Name of Spouse* Deathl efore i860
+<lb/>Burial
+<lb/>Birth New York
+<lb/>M Milton Mosher
+<lb/>P
+<lb/>Naples
+<lb/>Mar.
+<lb/>ull Name Spouse*
+<lb/>Death
+<lb/>Ha,ttie Burial
+<lb/>8
+<lb/>Charlotte C.Mosher
+<lb/>Birth 1864 Ontari O Npw York
+<lb/>Vlar.
+<lb/>Full Name of Spouse*
+<lb/>Death 1898 Bri Stol Ontar-in Npw YnrV
+<lb/>Burial
+<lb/>Birth
+<lb/>Mar.
+<lb/>Full Name of Spouse*
+<lb/>Death
+<lb/>Burial
+<lb/>10 Birth
+<lb/>Mar.
+<lb/>Full Name of Spouse* Death
+<lb/>Burial
+<lb/>•If married more than once No, each mar. (I) (2) etc. and list in "Add. info, on children" column. Use reverse side for additional children, other notes, references or information.
+<pb n="6" facs="#page-005"/>
+<lb/>PRESIDENT
+<lb/>Allcene Luther Withers
+<lb/>3 Rockridge Road
+<lb/>Oroville, CA 95966
+<lb/>VICE PRESIDENT
+<lb/>Bradford W. Luther, Jr.
+<lb/>Post Office Box 225
+<lb/>Fairhaven, MA 02719
+<lb/>2Ii|c iCutfier JFamtlo AHBOciation
+<lb/>2531 LAKEVIEW STREET
+<lb/>LAKELAND, FLORIDA 33801
+<lb/>813 / 665-5788
+<lb/>SECRETARY
+<lb/>George A. Luther
+<lb/>2531 Lakeview Street
+<lb/>Lakeland, FL 33801
+<lb/>TREASURER
+<lb/>Lucile L. Luther
+<lb/>2531 Lakeview Street
+<lb/>Lakeland, PL 33801
+<lb/>Christopher A. Mosher
+<lb/>42 Ridgeley Avenue
+<lb/>Falrfield, Connecticut 06430
+<lb/>October 29, 1992
+<lb/>Dear Christopher,
+<lb/>The Luther Family in America appears to discuss only one Luther family in the
+<lb/>Saratoga area, that of Gideon, page 154. But there could well have been a
+<lb/>second one there for the period we're concerned with.
+<lb/>It seems unlikely that your Mary, Angalina, George, and Martha could have come
+<lb/>from my Gideon; his first wife, Olive Fowler, died in Rhode Island in 1785,
+<lb/>before they were born. With his second wife, Mary Jolls, he moved to Saratoga
+<lb/>County in 1790, where they continued to build a family. Mary's children, and
+<lb/>her age (n) at their birth: Olive (17), Mercy (19), John (20), Hale (27),
+<lb/>Jemima (28), Mary (29), Gideon (31), Sarah (37), Alvin (40), Julia (41),
+<lb/>Charlotte (43), and Samuel (44).
+<lb/>The unlikely fit of your four in there means Angalina would have been born to
+<lb/>Mary the same year as my Sarah, and Mary would have been 56 at George W.'s
+<lb/>birth, and possibly even older at Martha's. One might consider that with
+<lb/>Gideon's fecundity he may have fathered some children by other than his wife,
+<lb/>giving them his name. But he was renowned as a hard shell Baptist (see
+<lb/>newsletter), and with that reputation to defend this is unlikely. Likewise,
+<lb/>to place your four with Gideon, Jr. becomes a similar task. His marriage in
+<lb/>1821 leaves only George and Martha eligible.
+<lb/>Also enclosed is a letter (complete with my scribblings) I received (and
+<lb/>answered) from a Jean Robison of Coffeyville, KS, 12i years ago. She asks
+<lb/>about your same Mosher/Luther alliance of Saratoga and Madison counties. Why
+<lb/>not write her and see if she's still active; maybe you can help each other.
+<lb/>C 62 &lt;&gt;3 bhi
+<lb/>One other contact I can recommend is Emory Luther, 8808 West Pavia Street, Las
+<lb/>Vegas, Nevada 89117. Emory has been trying for thirty years to carry his
+<lb/>lineage back beyond: Emory^ (b. 1927); Laurance^ (b. Tioga, PA 1 Jan 1905);
+<lb/>Ernest^ (b. Tioga, PA 30 Dec 1881); Alonzo^ (b. Corning, NY 1856); and George''
+<lb/>?Washington Luther (b. 1808/15, d. 1884). Note the Tioga connection.
+<lb/>Please, please, advise me of your progress.
+<lb/>Yours truly.
+<lb/>George Luther
+<lb/>Enc. LFN 23.
+<lb/>Cc. Emory.
+<lb/>REGIONAL VICE PRESIDENTS
+<lb/>WESTERN STATES
+<lb/>Karen Luther Piazza
+<lb/>5422 Bartig Way
+<lb/>Citrus Heights, CA 95621
+<lb/>PLAINS STATES
+<lb/>Glen E. Luther
+<lb/>1118 Patt Road R.R. 4
+<lb/>Creston, lA 50801
+<lb/>MIDWEST STATES
+<lb/>Margaret Luther Cline
+<lb/>539 Mount Vemon
+<lb/>Royal Oak, MI 48073
+<lb/>EASTERN STATES
+<lb/>Herbert E. Daniels
+<lb/>6313 Martin Drive
+<lb/>Rome, NY 13440
+<pb n="7" facs="#page-006"/>
+<lb/>tihs
+<lb/>UK
+<lb/>H 4
+<lb/>llaSr-TClW'
+<lb/>C-'
+<lb/>403 North Buckeye
+<lb/>Coffeyville, KansasU^y^
+<lb/>67337 ^ ^
+<lb/>I saw your listing of the Luther Family In America and decided to ask
+<lb/>for your help.
+<lb/>^ ^ j &amp;3/
+<lb/>I have been working on my Mosher line for about ten years and have not
+<lb/>been able to find the parentage of m.y Gr. Grandfather Isaac born 1807
+<lb/>New York, possibly Saratogatown. ^
+<lb/>In eliminating some of the many Moshers living in Saratogatown at that
+<lb/>time I have come up with a David Mosher S David k Benjamin 3 Daniel 2
+<lb/>Hugh 1. David Jr. had a total of five sons born during the years of IBOO-
+<lb/>1825-30. ^
+<lb/>The only son who has been positively identified is.William G. born ca
+<lb/>■  18o6-7 Saratoga, died May 19, 1900 S. Hamilton, Madison co. , New York,
+<lb/>Death records identifies parents as David and Betsy .
+<lb/>^ 70 5 ^ ^ ^William G. married Mary Luther and married #2 Angelina' Lusher.
+<lb/>It is possible one of the sons could have been Rensselaer Mosher some
+<lb/>times referredto as S.R. born 1817 died 1893 and is buried in Niles
+<lb/>""Valley Gem. , Tioga Co. Pa. Rensselaer married Martha Luther.
+<lb/>David Jr. was in Saratoga 1807-10, Greenfield 1820-30, where (?) 1840,
+<lb/>Chatham^ Tioga Co. Pa. I850, Hamilton, Madison Co. New York i860. Th'e
+<lb/>first wife of David Jr. was Betsy born ca 1786 died April 25, I837
+<lb/>age 51 years, buried St. John Cem. Greenfield New York.
+<lb/>Was Betsy a Luther also?
+<lb/>David Jr. married #2 Sarah
+<lb/>I860. /
+<lb/>born about 1790 and still living in
+<lb/>In I850 David 69 and Sarah 51 were with son William G. and family. In
+<lb/>same household were\^^B. Mosher, could be B. Luther, instead of Mosher,
+<lb/>age 57, born Canada .^Gideon Luther age 32 born-New York. Gideon was
+<lb/>probably the brother of William Gs\ v/ife Mary age 36.-(.c (!"-
+<lb/>Mr. Luther I would really appreciate any help you can give me on this
+<lb/>Mosher, Luther line. I reasoned that if the first wife of David Jr. was
+<lb/>Betsy Luther, then you may have their children.
+<lb/>I have enclosed SASE for your convenience, and will look forward to your.
+<lb/>17^4/lfrVOK5-
+<lb/>Sincerely, Lfl) I ^
+<lb/>/&gt;
+<lb/>Jean Robison
+<pb n="8" facs="#page-007"/>
+<lb/>Iff r9 J
+<lb/>i . 7 i ; . I
+<lb/>61 YC\ /
+<lb/>J98li-^
+<lb/>8111fllflSTITr
+<lb/>IWl:
+<lb/>•L
+<lb/>f98li*Prf98ti
+<lb/>"MX
+<lb/>^isMu4f|iii3
+<lb/>'jo»»"d
+<lb/>vCoadhaod "Jiuta
+<lb/>fiZTTT/
+<lb/>jsrtm^
+<lb/>X.JI7
+<lb/>e
+<lb/>* "siioSlA «inr'««ia*^
+<lb/>oxr ̂tmrg 'rannos imxuaag xo mcrii
+<lb/>"0^9 'SAvop^poB "spuiiepj puB 'sjoiTBS 'sjoipios SniATAjTis—'aiBpaiios TBToads
+<lb/>aovj
+<pb n="9" facs="#page-008"/>
+<lb/>NO INO iNAl OF AIL PERSONSIAGEISEXICOLIOCCUPATION |VAL OF ITOHIM lATNDIliEAD i
+<lb/>Dl IFA 1 AT IBIS ABODE 1 1 . 1 1 1 REST 1 1 ISCIl |*R1TE1
+<lb/>—I—+ 1— I- -I ^
+<lb/>216 MOSHIER, lilliaBG 42 B * farBer $600.00 NY
+<lb/>Mary 26 f * NY
+<lb/>David 8 B * NY
+<lb/>Eliza 7 f NY
+<lb/>Julia A 5 f « NY
+<lb/>Sarah 2 f * t&gt;A
+<lb/>David 69 B * laborer PA
+<lb/>Sarah 51 f PA
+<lb/>B(JnjaBin) 57 B Canada
+<lb/>LUTHER, Gidem 32 B W laborer NY
+<lb/>1860 OS CENSUS
+<lb/>TOIN: DEERFIELD
+<lb/>NO/ NO/NAffi OF EVERY PERSON/AGE/SEX/QCCUPATION /VAl, OF /VAl, /TOll/ii-Y /ATND/C'NOT/C'NOT
+<lb/>Dl/ FA/ AT THIS ABODE R. EST /PER E SCll READ /IRITE
+<lb/>850/858 BUCKLEY, liiraB 53 m fariacr 2200 PA
+<lb/>Myndell 51 f keeps house Nil
+<lb/>Luther 19 i farm lahorer PA
+<lb/>BUELL, Aianda 17 f " y
+<lb/>HOSHER, 1)1 lias 6 b
+<lb/>HOSHER, Seneca A 43 b lahorer 800 40(1 NY
+<lb/>Martha 37 f
+<lb/>Elizabeth 19 f
+<lb/>Mary 16 f
+<lb/>Harvey 8 b PA
+<lb/>Franklin 4 b
+<lb/>Eddy 1 B
+<lb/>1860 US »SUS
+<pb n="10" facs="#page-009"/>
+<lb/>w
+<lb/>wsmmps
+<lb/>^ i'
+<lb/>Mary (Mra* P. SHANNON)
+<lb/>xvl
+<lb/>Mrs. Susan 198
+<lb/>MDRRISSEY
+<lb/>Oohn t»56
+<lb/>MORRDU ' •
+<lb/>James t»71
+<lb/>MORSE
+<lb/>H. H. 15D
+<lb/>Howard H, Cist Lt.) 151,
+<lb/>279 ' - • '
+<lb/>Isaac A, AGS, AGS
+<lb/>Josiah 35A
+<lb/>Miss Louise AGS
+<lb/>Samuel F. B» 371, A13,
+<lb/>A59, AGO ,
+<lb/>Sylvester H» (2nd Lt#)
+<lb/>152
+<lb/>MORY ' . SPStr^awy^'r,
+<lb/>Alonzo H. 127 -
+<lb/>MOSES
+<lb/>John N. 201
+<lb/>John W. 200
+<lb/>MOSHER 295, 303
+<lb/>Alexander 30G
+<lb/>Alfred 292
+<lb/>Oenjamin 226
+<lb/>Charles 559, xxix
+<lb/>Chas. F• AAO
+<lb/>Elansing T. 216
+<lb/>Eliza M. 110
+<lb/>Isaac 30A
+<lb/>Jno, A7A, 531
+<lb/>John H. 237
+<lb/>L. T. 30A
+<lb/>Mary (Mrs. J# C.
+<lb/>ROBINSON) xxvi.
+<lb/>Phebe D« (Mra. Allison
+<lb/>BUTTS) XX
+<lb/>R. 266, 29A ^
+<lb/>Rev. R» 1A5
+<lb/>R^sselaer 29G
+<lb/>OSH^R—
+<lb/>v "- •
+<lb/>Rev. Richard A77 , , ,,
+<lb/>.  '■VJSilas
+<lb/>r '4
+<lb/>David H. 30A
+<lb/>Hannah (Mrs. Stephen UHL
+<lb/>xiii
+<lb/>MULHAINE
+<lb/>Edward A91 ^
+<lb/>MULHIN ^ «
+<lb/>George W. 559
+<lb/>Uilliam Henry 559 ^ tJ
+<lb/>MULLEN ■■
+<lb/>John 5A3
+<lb/>Peter 6A
+<lb/>MULLER * ^
+<lb/>Charles A. 5A5, 5A6
+<lb/>Gustave 189
+<lb/>H • C • 2 0 A
+<lb/>Louis 372 .
+<lb/>MULLIGAN rri-
+<lb/>Mrs. A39
+<lb/>Margaret B. ii 1
+<lb/>Owen V'iii
+<lb/>Mrs. Owen (Jane MC CULLY
+<lb/>iii
+<lb/>Peter iii
+<lb/>Thomas Joseph iii
+<lb/>MULLODGE
+<lb/>D. AAO -
+<lb/>MULLONY 4
+<lb/>Capt. 166 ' ' i/
+<lb/>MULNIX ;
+<lb/>Rev. A. N. 251, 489' Ksv
+<lb/>MULREIN
+<lb/>James 156
+<lb/>MUNGER
+<lb/>Benjamin ,383
+<lb/>James E. 512
+<lb/>John U. 500
+<lb/>MUNTROSS
+<lb/>John A93
+<lb/>MURCH
+<lb/>Alvin G. 289
+<lb/>Charles.
+<lb/>Daniel 90 ' h
+<lb/>David XXV " —
+<lb/>Mrs* David (Mario
+<lb/>'  DEIDRICK) XXV
+<lb/>U
+<pb n="11" facs="#page-010"/>
+<lb/>16032639125759
+<lb/>1 247
+<lb/>141
+<lb/>141
+<lb/>001 SPEC
+<lb/>8029026730453635828280412109
+<lb/>-  I 200*
+<lb/>46
+<lb/>1 214
+<lb/>787
+<lb/>1 59
+<lb/>120
+<lb/>504
+<lb/>. 218
+<lb/>I 265
+<lb/>t 216
+<lb/>381
+<lb/>713
+<lb/>847
+<lb/>1001 SPEC
+<lb/>1 231
+<lb/>10 135
+<lb/>\ SPEC
+<lb/>1 261
+<lb/>1 115
+<lb/>1 221
+<lb/>t 2
+<lb/>'  I 200
+<lb/>1 37
+<lb/>1 259
+<lb/>10 6
+<lb/>&gt; 290
+<lb/>i 261
+<lb/>) 157
+<lb/>i 197
+<lb/>10 6
+<lb/>) 80
+<lb/>) 216
+<lb/>t 14
+<lb/>194
+<lb/>i 197
+<lb/>) 303
+<lb/>\ 387
+<lb/>) 140
+<lb/>1 381
+<lb/>) 267
+<lb/>1 449
+<lb/>11 126
+<lb/>376
+<lb/>;  1 794
+<lb/>1 843
+<lb/>2
+<lb/>1 n 1 in
+<lb/>MOSHER,
+<lb/>MOSHER,
+<lb/>MOSHER,
+<lb/>MOSHER,
+<lb/>MOSHER,
+<lb/>MOSHER,
+<lb/>MOSHER,
+<lb/>MOSHER,
+<lb/>MEERIAN R'^
+<lb/>MURIAN R'^
+<lb/>NELSON
+<lb/>OLIVER P
+<lb/>OLLIVER
+<lb/>PHILO M
+<lb/>POLLY
+<lb/>RENSSELAER
+<lb/>M0SHER, SARAHA
+<lb/>MOSHER, STEPHEN D
+<lb/>MOSHER, THEORODORE
+<lb/>MOSHER, THOMAS
+<lb/>MOSHER, TRUMAN G
+<lb/>MOSHER, UNICE C
+<lb/>MOSHER, VERNON B
+<lb/>MOSHER, WILLIAM
+<lb/>MOSHER, WILLIAM A
+<lb/>MOSHER, WILLIAM H
+<lb/>MOSHER, WILLIAM H
+<lb/>MOSHER, WILLIAM H*
+<lb/>MOSHER, WILLIAM
+<lb/>MOSHER, WILLIAM
+<lb/>MOSHER, WILLIAM
+<lb/>MOSHER, WILLIAM W
+<lb/>MOSHER, WILLIAMO H*
+<lb/>MOSHER, WM J
+<lb/>MOSHERT, AUGUSTUS
+<lb/>MOSHIER, ALEXANDER
+<lb/>MOSHIER, AMERICUS G
+<lb/>MOSHIER, CHARLES
+<lb/>MOSHIER, CLARICY
+<lb/>J
+<lb/>J
+<lb/>P
+<lb/>MOSIER,
+<lb/>MOSIER,
+<lb/>MOSIER,
+<lb/>MOSIER,
+<lb/>MOSIERE
+<lb/>MOSIERE
+<lb/>MOSIERS
+<lb/>MOSIERS
+<lb/>Mn&lt;:i FY.
+<lb/>NYNYNYNYNYNYNYrJYNYNYNYNYNYNYNYNYNYNYNYNYNYNY
+<lb/>-  NY
+<lb/>NY
+<lb/>WYOMING
+<lb/>WYOMING
+<lb/>CAYUGA
+<lb/>CHEMUNG
+<lb/>FULTON
+<lb/>KINGS
+<lb/>PIKE
+<lb/>PIKE
+<lb/>AUBURN
+<lb/>MILLPORT
+<lb/>OPPENHEIM
+<lb/>BROOKLYN
+<lb/>MOSHIER, GEORGE W
+<lb/>MOSHIER, JAMES
+<lb/>MOSHIER, JOSEPH C
+<lb/>MOSHIER, MILO
+<lb/>MOSHIER, NELSON
+<lb/>MOSHIER, PHILIP
+<lb/>MOSHIER, WILLIAM
+<lb/>MOSHIER, WILLIAM A
+<lb/>MOSHIER, WILLIAM H
+<lb/>MOSHIER, WILLIAM H
+<lb/>MOSIER,
+<lb/>MOSIER, CHARLES H
+<lb/>MOSIER, ELMA
+<lb/>MOSIER, FRANCIS D
+<lb/>MOSIER, FRANK E
+<lb/>MOSIER, GEORGE T
+<lb/>MOSIER, GEORGE W
+<lb/>MOSIER, GEORGE W
+<lb/>MOSIER, GEORGIANA H
+<lb/>MOSIER, HENRY
+<lb/>MOSIER, HENRY
+<lb/>MOSIER, JAMES
+<lb/>MOSIER, JAMES C
+<lb/>MOSIER, JOHN M
+<lb/>MOSIER, MARY A
+<lb/>MOSIER, MERRITT
+<lb/>PETER Gi!'
+<lb/>PETER S
+<lb/>SAMUEL
+<lb/>WILLIAM H
+<lb/>, MARGARET T*
+<lb/>, WILBER 0*
+<lb/>, MARGARET T
+<lb/>, WILBER D*
+<lb/>TMOMAF
+<lb/>LIVINGST MT MORRIS
+<lb/>mCHElS-SIANIORD
+<lb/>CAYUGA AUBURN
+<lb/>CAYUGA LOCKE
+<lb/>NEW YORK NEW YORK
+<lb/>ONONDAGA FABIUS
+<lb/>lU10896210
+<lb/>_3__
+<lb/>OSWEGO
+<lb/>CHEMUNG
+<lb/>FULTON
+<lb/>FULTON
+<lb/>CAYUGA
+<lb/>FULTON
+<lb/>ASHLAND
+<lb/>OPPENHEIM
+<lb/>OPPENHEIM
+<lb/>LOCKE
+<lb/>NEW YORK NEW YORK
+<lb/>RENSSELA SCHODACK
+<lb/>NYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNYNY
+<lb/>WARREN
+<lb/>ALBANY
+<lb/>CAYUGA
+<lb/>OSWEGO
+<lb/>FULTON
+<lb/>WARREN
+<lb/>ERIE
+<lb/>QUEENSBURG
+<lb/>ALBANY
+<lb/>CONQUEST
+<lb/>PALERMO
+<lb/>GLOVERSVIL
+<lb/>QUEENSBURG
+<lb/>BUFFALO
+<lb/>DUTCHESS FISHKILL
+<lb/>YATES MIDDLESEX
+<lb/>DUTCHESS FISHKILL
+<lb/>STEUBEN HORNELLSVI
+<lb/>FRANKLIN DICKINSON
+<lb/>MONROE WARD 5
+<lb/>WESTCHES IWINGTON
+<lb/>COLUMBIA CHATHAM
+<lb/>ALBANY BETHLEHEM
+<lb/>ALLEGANY WELLSVILLE
+<lb/>WESTCHES YONKERS
+<lb/>FRANKLIN DICKINSON
+<lb/>DUTCHESS FISHKILL
+<lb/>DUTCHESS POUGHKEEPS
+<lb/>STEUBEN CATON
+<lb/>WASHINGT WHITE HALL
+<lb/>WARREN GLENS FALL
+<lb/>RIVERHEAD
+<lb/>RIVERHEAD
+<lb/>OSWEGO
+<lb/>ELMIRA
+<lb/>FRANKLIN DICKINSON
+<lb/>STEUBEN SOLD&amp;SAILO
+<lb/>WESTCHES RYE TWP
+<lb/>OSWEGO SANDY CREE 8
+<lb/>STEUBEN CANISTER 9
+<lb/>DELAWARE COLCHESTER 4
+<lb/>MADISON CAZENOVIA 8
+<lb/>MONTGOME AMSTERDAM 6
+<lb/>WASHINGT WHITE HALL 6
+<lb/>MADISON STOCKBRIDG 8
+<lb/>SUFFOLK
+<lb/>SUFFOLK
+<lb/>OSWEGO
+<lb/>CHEMUNG
+<lb/>88188966815658866113103971033593733966228979323611132212831125255183281110222225255193157221827012157191362473622571861005522715271366120619615545045026711671200135275203110516619677
+<lb/>NY DELAWARE ANDES 4 105
+<lb/>NY DELAWARE ANDES 4 105
+<lb/>NY SENECA WATERLOO 10 193
+<lb/>NY WESTCHES RYE TWP 3 135
+<lb/>NY OTSEGO WESTFORD 5 153
+<lb/>NY OTSEGO WESTFORD 5 153
+<lb/>NY OTSEGO WESTFORD 5 153
+<lb/>NY OTSEGO WESTFORD •  5 153
+<lb/>NY NEW YORK NEW YORK 1 220
+<lb/>ritjiM 1 1
+<lb/>murph
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MUBPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MUR^
+<lb/>MU"
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURPH
+<lb/>MURR
+<lb/>MURP
+<lb/>MURP
+<lb/>MURP
+<lb/>MURP
+<lb/>MURP
+<lb/>MURPH
+<lb/>MURPHY, MA
+<lb/>MURP'^, MA
+<lb/>MURPhi, MI
+<lb/>MURPHY, MI
+<lb/>MURPHY, MI
+<lb/>MURPHY, MI
+<lb/>MURPHY, MI
+<lb/>MURPHY, MI
+<lb/>MURPHY, MI
+<pb n="12" facs="#page-011"/>
+<lb/>.1uH"nUlI|If M i i/ / i ,/ tf I  I! '1! Mi linfliinMin!"'f i 
+<lb/>I i|
+<lb/> n 1iH ̂ ̂ -V ̂ 
+<pb n="13" facs="#page-012"/>
+<lb/>Jrtx i /!t! . H tI II I: I( i I I ill;I ' I ' ; 'V\i iV Vi 1 i( s ,j j ! 1 H { I i 1! i i iV VtHijil!I 511 i 1: 11 i 111M I i 11! 11 i iffU-Ui■ 11! 11' 111111 M 11H111 j jk "V Mo HK^ ̂ ̂*S V "V—i.- -• O^- O»~W^ T" r i ?" f^ 7, &gt;s^xvnI
+<lb/> 1 j
+<lb/>.t
+<lb/>i i
+<lb/>ji 1
+<lb/> IXK&gt;4i|M-'
+<pb n="14" facs="#page-013"/>
+<lb/>n I 1 i ! f 11I \ I \ ■' i ! M i V
+<lb/> *•&lt; 
+<lb/>j
+<lb/>i i 111111
+<lb/>I
+<lb/> I 
+<lb/>! il 1 i M
+<lb/>VNX&gt;.XXXX lN&gt;VI
+<lb/>j \ V
+<lb/>"Igyt "*S S S NV5 s^imis
+<pb n="15" facs="#page-014"/>
+<lb/>i! iiiinn1uL
+<pb n="16" facs="#page-015"/>
+<lb/>lit!lV !%mr f I-VK-I I»-*9t-4A?u•ivSs.X'VN (s% «S *SN ^•&lt; K k-t\tK,K'iiiMijUinijniji Ii!nii!ii iilii: M r f ; [ 5 [ j ; f ' N MN 1 N S-NI T r M
+<pb n="17" facs="#page-016"/>
+<lb/>i?-\f v X iV!i ^ XIIf ! !' fi i I i K nM i V1! n 1 i n Ji i 1 u-i h uX Nf fi! I! n j iV
+<lb/> ■»&gt;
+<lb/>^ »iIK ^
+<lb/>S sA /
+<lb/>  ̂ Iy* ) &gt;414 &gt;y-.- 4.EK
+<pb n="18" facs="#page-017"/>
+<lb/>. «V T-.' M t' r-i■S{s f•V N V\ &gt;'« x. -v NVX' VXhsnXN
+<lb/>i i 
+<lb/>I i 
+<lb/>M fn rf5^' I i i uJ ■I i 11 i
+<pb n="19" facs="#page-018"/>
+<lb/>^ J fJ X! 1; I MMIi i f i M j i !' 1i i ! i i i s i i 1I &gt;\ 1 1) N \! i !V] i ! 11) i; !. iin ''UN, si I I !;
+<lb/> i i
+<lb/> ) i i ; i t i I 1 i ! i i • i 1 i i 1 i 1 jv I j I ii I i i i 1 I i } i 1 ( {MMf * 'V, 1 1 X I S X ̂ I IK K i ^ x'^ H K|f
+<lb/>c^X x
+<lb/>r Vs"A%ill
+<lb/>il! 'i! 5J . •
+<lb/> Itri?I I'ii\iY*-I t X ®■V-t—■-t—r-
+<lb/>Vf •'Jit
+<lb/>h ■«S I ^
+<lb/> ■ '
+<lb/>nlK 'r" ' i ti i'K l bKio-
+<lb/>i 'i
+<lb/>j&gt; 
+<lb/>p 
+<lb/>i - 
+<lb/>^ p p p g' r y 
+<lb/>i . 
+<lb/>p 
+<lb/>?&gt;* 
+<lb/>r p f f 4 Y1^ Sl
+<pb n="20" facs="#page-019"/>
+<lb/>A
+<lb/>PRESIDENT
+<lb/>Keilli W. LuUier
+<lb/>34 Valhalla Drive
+<lb/>Portsinoulli, Rl 02871
+<lb/>VICE-PRESIDENT
+<lb/>Bradford W. Lulher
+<lb/>Post Office Box 225
+<lb/>Fairhaven, MA 02719
+<lb/>■(Elic ^ivtl|ev ^[jtuiily
+<lb/>^BSlTCUttVOlt
+<lb/>2027 SPYGLASS COURT
+<lb/>LAKELAND. FLORIDA 33810-6737
+<lb/>PHONE; 863/815-2505
+<lb/>E-MAIL: |uihergeii@juno.coin
+<lb/>SECRETARY and
+<lb/>GENEALOGIST
+<lb/>George A. Lulher
+<lb/>2027 Spyglass Court
+<lb/>Lakeland. FL 33810
+<lb/>TREASURER
+<lb/>Lueile Lane Lulher
+<lb/>2027 Spyglass Court
+<lb/>Lakeland. FL 33810
+<lb/>Chris, May 23, 2000
+<lb/>I found the following in my records.
+<lb/>ANGELINA LUTHER, b. Swansea MA, m. Moses Staples.
+<lb/>ANGELINE LUTHER, b. Bradford Co. PA 1840, m. l)Stephen Clark 2)Elijah Holburn.
+<lb/>ANGELINE LUTHER, b. PA 1842, m. Jacob Swab.
+<lb/>ANGELINE WHITE LUTHER, b. MA 1838, m. Albert Bassett.
+<lb/>ANGELINE LUTHER, b. 1876, m. Albert Knesal.
+<lb/>I'll keep looking.
+<lb/>G.L.
+<lb/>WESTERN STATES
+<lb/>Karen Ludier Piazza
+<lb/>2600 Catalina Drive
+<lb/>Sacramento. CA 95821
+<lb/>PLAINS STATES
+<lb/>Eugene S. Marble
+<lb/>P. O. Box 337
+<lb/>Lincoln. TX 78948
+<lb/>Regional
+<lb/>V ice-
+<lb/>Presidents
+<lb/>MIDWEST STATES
+<lb/>Margaret Luther Cline
+<lb/>539 Mount Vernon
+<lb/>Royal Oak. Ml 48073
+<lb/>EASTERN STATES
+<lb/>Marie Enunons Luther
+<lb/>4192 Rockwell Lane
+<lb/>Nedrow. NY 13120
+</ab>
+    </body>
+  </text>
+</TEI>

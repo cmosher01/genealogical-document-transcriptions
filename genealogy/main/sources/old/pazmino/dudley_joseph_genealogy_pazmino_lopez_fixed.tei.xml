@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>dudley joseph genealogy pazmino lopez fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-000.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-001.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-002.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-003.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-004.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-035.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-036" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-036.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-037" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-037.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-038" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-038.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-039" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-039.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-040" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-040.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-041" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-041.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-042" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-042.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-043" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-043.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-044" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-044.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-045" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-045.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-046" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-046.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-047" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-047.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-048" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-048.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-049" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-049.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-050" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-050.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-051" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-051.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-052" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-052.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-053" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-053.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-054" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-054.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-055" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-055.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-056" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-056.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-057" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-057.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-058" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-058.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-059" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-059.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-060" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-060.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-061" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-061.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-062" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-062.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-063" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-063.ptif/full/full/90/default.jpg"/>
+    <graphic xml:id="page-064" url="https://mosher.mine.nu/images/genealogy/main/sources/old/pazmino/dudley_joseph_genealogy_pazmino_lopez_fixed/p-064.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+<pb n="chart 1" facs="#page-000"/>
+<pb n="chart 2" facs="#page-001"/>
+<pb n="chart 3" facs="#page-002"/>
+<pb n="chart 4" facs="#page-003"/>
+<pb n="chart 5" facs="#page-004"/>
+
+
+
+<pb n="1" facs="#page-005"/>
+<head><hi rend="center"><lb/>Felicísimo López</hi></head>
+<p rend="indent">
+<lb/>“Felicísimo López was born in Quito on August 6, 1847, the
+<lb/>fourth son of Don Mariano Auz and Doña Dolores López, both of
+<lb/>Quito.<hi rend="sup">1</hi> At the
+<hi rend="underline">Colegio de los Jesuítas</hi>, he studied Latin under
+<lb/>Don Buenaventura Proaño, and Humanities under Padre Herzáez;<hi rend="sup">2</hi>
+<lb/>he then entered the Facultad de Medicina in Quito, and received
+<lb/>his MD degree in 1872. (I have all his diplomas.). In 1873 he
+<lb/>moved to Jipijapa to set up practice:<hi rend="sup">3</hi> two years later he married
+<lb/>Francisca Romero and they had nine children, not all of whom were
+<lb/>born in Jipijapa, however. In this town, birthplace of the straw
+<lb/>hat,<hi rend="sup">4</hi> without giving up his practice, he opened and ran a shop,
+<lb/>as do many doctors on the coast, doing retail and wholesale
+<lb/>business.<hi rend="sup">5</hi> In 1882, news came that General Veintimilla, in viola<pc>&#x2010;</pc>
+<lb break="no"/>tion of the Constitution, had declared himself <hi rend="underline">Jefe Supremo de la
+<lb/>República</hi>.<hi rend="sup">6</hi> López was so outraged that the same day he enlisted
+<lb/>as a “medic” with the patriotic forces that were already forming to
+<lb/>oust the dictator..... (the political turmoils went on for some time,
+<lb/>and a man named Jose María Caamaño was named Interim President)...
+<lb/>when Caamaño was elected President in 1884, he adopted a policy of
+<lb/>terrorism against the insurgents; this obliged López to join the
+<lb/>revolutionary forces which were under the command of General Eloy
+<lb/>Alfaro, and the decisive defeat suffered at Jaramijó in 1885 forced
+<lb/>López, now “Surgeon General of the Revolutionary Forces” to flee
+<lb/>to Peru.<hi rend="sup">7</hi> It wasn’t until 1888, when Antonio Flores was elected
+<lb/>President, that a general amnesty was declared and López was able
+<lb/>to return to Jipijapa and his family...<hi rend="sup">8</hi>
+</p>
+
+
+
+<pb n="2" facs="#page-006"/>
+<p rend="indent">
+<lb/>...It was then that the Bishop of Portoviejo, Peter Schumacher,
+<lb/>began to accuse and denounce López in his sermons and pastoral
+<lb/>letters... in 1889 the family moved to Chone, where Dr. López set
+<lb/>up a new practice and began to write articles to “El Horizonte”
+<lb/>and the “Diario de Avisos,” large newspapers in Guayaquil, in which,
+<lb/>among other topics, he criticized the actions of this representative
+<lb/>of the church. This led to a judicial action against López and his
+<lb/>excommunication.<hi rend="sup">9</hi> In 1892, he and his family moved to Guayaquil,
+<lb/>where he again set up practice and continued his journalistic and
+<lb/>political work. In 1894 he was elected Senator for the province of
+<lb/>Esmeraldas, but was denied, unconstitutionally, his seat in the
+<lb/>Congress because he was an excommunicant.<hi rend="sup">10</hi>
+</p>
+<p rend="indent">
+<lb/>“After the political transformation of 1895,<hi rend="sup">11</hi> he was named
+<lb/>Colector de Rentas Fiscales (roughly tax&#x2010;collector), a position he
+<lb/>held until 1900; he was elected Delegate to the 1896 convention
+<lb/>for the province of Manabí (where Jipijapa is), and went to Quito
+<lb/>(taking Nana with him, against Mamita’s strenuous objections, so
+<lb/>that she could meet her relatives; the idea came from his brother
+<lb/>Francisco, Malvina’s father. It was on this trip that Nana met Papa.)
+<lb/>At the beginning of 1900, Alfaro, now President, named López Consul
+<lb/>General in New York.<hi rend="sup">12</hi> In October of the same year, he was named
+<lb/>Minister Plenipotenciary before the government of Venezuela, and
+<lb/>was given an honorary decoration by that country (Condecoración de
+<lb/>Segunda Clase del Busto del Libertador). He was later sent in the
+<lb/>same capacity to Nicaragua, and subsequently recalled to Ecuador as
+<lb/>first Minister of Education and later, of the Interior, which latter
+<lb/>position he resigned in August of 1901, returning to New York.<hi rend="sup">13</hi>
+</p>
+
+
+
+<pb n="3" facs="#page-007"/>
+<p rend="indent">
+<lb/>In March of 1906 he was again named Consul in New York, which
+<lb/>position he held until in 1911 he was summoned by Alfaro to Quito
+<lb/>to be Minister of the Interior again..... he was there for the 1911
+<lb/>revolution.... After January 28, 1912 (when the clergy and the
+<lb/>Conservatives staged a bloody coup in which Alfaro and other
+<lb/>Liberal political figures were massacred) Dr, López’s life was in
+<lb/>danger, and when it was safe for him to leave his hiding place,
+<lb/>he left Ecuador permanently and settled in New York, where he
+<lb/>died on December 15, 1917. He is buried in Evergreens Cemetery,
+<lb/>Brooklyn.<hi rend="sup">14</hi> There are other data: he was thrice a member of the
+<lb/>City Council of Jipijapa; a member of the board of the
+<lb/>Quito&#x2010;Guayaquil Railway; Ecuadorean <hi rend="underline">Charge d’Affaires</hi> in Washington;
+<lb/>a delegate to the International Conference on Industrial Property
+<lb/>Protection held in Washington in May, 1911; and finally, a member
+<lb/>of the Venezuelan Academy of History. In 1901 and 1910 he declined
+<lb/>his nomination as candidate for the office of President of Ecuador.”
+</p>
+<p rend="indent">
+<lb/>(He wrote a number of books and pamphlets, articles, etc.,
+<lb/>of which the most important are: the first complete Atlas of
+<lb/>Ecuador, published under his supervision while he was Minister
+<lb/>of Education; <hi rend="underline">Historia de una excomunión en el Ecuador</hi>, New York,
+<lb/>1909, and <hi rend="underline">Virutas</hi>, New York, 1908. <hi rend="underline">Virutas</hi> means wood shavings, or
+<lb/>chips; for Xmas 1905, López received from his son Miguel Angel a
+<lb/>diary, and every day he wrote down a thought, imitating one of his
+<lb/>literary heroes, Victor Hugo; the book is a charming collection of
+<lb/><hi rend="underline">pensées</hi> ranging from the philosophic to the purely anecdotal.
+<lb/>For our purposes, perhaps his greatest contribution to humanity was
+<lb/>Nana, who encarnated the ideals of personal integrity by which
+<lb/>he lived.)
+</p>
+
+
+
+<pb n="4" facs="#page-008"/>
+<head><hi rend="center"><lb/>Felicísimo López &#x2010; Notes</hi></head>
+<p>
+<lb/>1) &#x2010; This biographical sketch was extracted (translated and edited
+<lb/>by me) from “Personalidades Ilustres de la Medicina Nacional” by
+<lb/>Luis A. León, an article which appeared in 1951 in <hi rend="underline">Papeles Médicos</hi>,
+<lb/>the organ of the local (Quito) equivalent of the A.M.A. It was just
+<lb/>one of the many times over the years that someone has taken an
+<lb/>interest in Felicísimo López’s life and has written on some aspect
+<lb/>of it. There is a town called Puerto López somewhere on the coast
+<lb/>of Ecuador, and in the early 60’s, Eloísa, who was then living in
+<lb/>Quito, was present as Guest of Honor, as López’s only surviving
+<lb/>child, at a gala in his honor at the Quito Press Club’s Hall of
+<lb/>Fame, for which she supplied some material. Professor Justino
+<lb/>Cornejo of the Facultad de Historia de la Universidad de Guayaquil
+<lb/>did a monograph on López around the same time. The list goes on, and
+<lb/>will probably continue to do so, since López’s excommunication and
+<lb/>subsequent expulsion from the Ecuadorean Senate made quite a <hi rend="underline">cause
+<lb/>célèbre</hi>; he is something of a hero in the history of civil rights in
+<lb/>Ecuador. Since illegitimacy is not a particularly heroic condition,
+<lb/>when Eloísa was approached for biographical data for this article,
+<lb/>as well as all the others, most probably, she gave as Felicísimo’s
+<lb/>father’s last name López. As a perusal of the charts that preceded
+<lb/>these ramblings will show, his name should have been given as
+<lb/>Mariano <hi rend="underline">Auz</hi>.
+</p>
+<p rend="indent">
+<lb/>This worthy was a priest in the monastery&#x2010;church of La Merced.
+<lb/>He was famed a very learned man (the earliest family member who is
+<lb/>recalled as possessing this very family trait) but extremely con<pc>&#x2010;</pc>
+<lb break="no"/>servative and pious. Piety among clerics in Ecuador then, as else<pc>&#x2010;</pc>
+<lb break="no"/>where and at other times, was a rather relative thing, and many
+
+
+
+<pb n="5" facs="#page-009"/>
+<lb/>priests had children; some openly maintained homes, or some sort of
+<lb/>family establishments. (Curiously enough, the same didn’t apply to
+<lb/>nuns; if they violated their vows, they were discreet about it.)
+<lb/>One of Nana’s neighbors in Jipijapa, when she was a little girl,
+<lb/>was a priest named Ontaneda and his family. Mariano Auz, <hi rend="underline">Father</hi>
+<lb/>Mariano Auz, had by Dolores López five sons (chart 5); there was
+<lb/>also a much older half sister, on whose side I don’t know, named
+<lb/>Rosario Daste, though the last name Daste, rather than López, would suggest
+<lb/>that Father Auz had known other ladies previously, since <hi rend="underline">hijos
+<lb/>naturales</hi>, especially when they were also <hi rend="underline">hijos sacrílegos</hi>, were
+<lb/>almost always given their mother’s last name. All five brothers
+<lb/>loved Rosario Daste, who was like a second mother (I know nothing at
+<lb/>all about Dolores López, when she died, how, etc.) and who was
+<lb/>lamentably killed by a stray bullet in some remote political skirmish
+<lb/>in Quito. The family lived in la Casa del Cebollar, named after the
+<lb/>hilly street on which it stood, and which once ended in a large
+<lb/>field planted with onions. It was still standing in 1959, when I
+<lb/>saw it and took a couple of pictures of its thick walls, but it was
+<lb/>no longer owned or lived in by anyone related, and the neighborhood
+<lb/>was in the most obvious state of irreversible decline.
+</p>
+<p rend="indent">
+<lb/>The piety and intelligence of Mariano Auz were, according to
+<lb/>Nana, unfortunatley accompanied and surpassed by an inhuman paternal
+<lb/>severity which can only be described as sadistic. Felicísimo told of
+<lb/>a room in this house, completely empty save for a large stake firmly
+<lb/>embedded in the middle of the floor. The slightest real or imagined
+<lb/>infraction by any of the five sons was instantly punishable by being
+<lb/>tied to this post and thrashed. (One wonders whether Rosario Daste
+<lb/>ever got the treatment as well.) Auz was a Dominican, and the picture
+
+
+
+<pb n="6" facs="#page-010"/>
+<lb/>I have of him, and will hopefully be able to locate, shows a face
+<lb/>one would not relish meeting in a dark alley. Miraculously, the
+<lb/>boys survived all this and came out of it with an eduring distaste
+<lb/>for any sort of paternal physical abuse and a great appreciation
+<lb/>of the duties and responsibilities of parenthood vis&#x2010;à&#x2010;vis the
+<lb/>love of one’s children.
+</p>
+
+<p>
+<lb/>2) &#x2010; Both Proaño and Hernáez were renowned educators of the time.
+</p>
+
+<p>
+<lb/>3) &#x2010; Quito was full of doctors, and Felicísimo’s brother Carlos
+<lb/>wrote from the coast and suggested that the privince of Manabí,
+<lb/>rural and still backward, needed doctors.
+</p>
+
+<p>
+<lb/>4) &#x2010; “Panama” hats are really made in Jipijapa. They became very
+<lb/>fashionable here after the Panama Canal opened up new avenues of
+<lb/>trade. I don’t think Ethel Merman would have signed a contract to
+<lb/>sing in a musical called “Jipijapa Hattie.”
+</p>
+
+<p>
+<lb/>5) &#x2010; Jipijapa (Hee&#x2010;pee&#x2010;hah&#x02C8;&#x2010;pah) is a town, and a small one at that,
+<lb/>but it’s situated at a main crossroads point... the road is still too
+<lb/>primitive to merit the term highway junction. Felicísimo ran a sort
+<lb/>of general store to make ends meet in this semi&#x2010;arid tropical
+<lb/>backwater.
+</p>
+
+<p>
+<lb/>6) &#x2010; Sounds familiar. <hi rend="underline">Jefe Supremo</hi> was one of the official titles
+<lb/>of the president, though not necessarily indicative always of an
+<lb/>electoral victory. I think Franco was styled <hi rend="underline">Jefe Supremo del Estado
+<lb/>Español Generalissimo</hi> Francisco Franco, etc.
+</p>
+
+<p>
+<lb/>7) &#x2010; He was there three years, and was friendly with the intellectual
+<lb/>circle of Liman society and Peru in general, among whom Ricardo
+<lb/>Palma, famous Peruvian short story writer, à la Mark Twain. He also
+<lb/>managed during this time to father a son by some <hi rend="underline">tapada</hi>; he brought
+<lb/>the boy back with him in 1888. Mamita, who had always taken a dim
+<lb/>view of Abuelito’s political heroism (or heroics, if you please),
+
+
+
+<pb n="7" facs="#page-011"/>
+<lb/>took even greater umbrage at having to raise this unanticipated
+<lb/>addtion to her own brood. His name was Carlos, and was described
+<lb/>to me by Malvina, (through whom I first heard of his existence) as being
+<lb/>very dark, but the image of Felicísimo. He never really felt com<pc>&#x2010;</pc>
+<lb break="no"/>fortable with Mamita, though the children liked him (why not, after
+<lb/>all?) and called him <hi rend="underline">ñañó</hi>, roughly, “little brother,” affectionately.
+<lb/>When the family moved to Guayaquil, he moved out on his own, dropped
+<lb/>out of sight, and I suppose got married and had a nice life. I shall
+<lb/>always find it curious that neither Nana nor Eloísa ever mentioned
+<lb/>him to me, since they never scrupled to tell me about similar cases
+<lb/>among their uncles, and about Auz. I suppose, if the story is true,
+<lb/>and why would Malvina invent such a whopper, if such it is, that
+<lb/>Nana felt it might tarnish the idealistic image of Felicísimo she
+<lb/>was handing down. Personally, I find it reassuring to think that the
+<lb/>idealist was also human. At any rate, as the Italians say, <hi rend="underline">si non
+<lb/>è vero, è ben trovato</hi>... if it isn’t true, it makes a good story.
+</p>
+
+<p>
+<lb/>8) &#x2010; But, in 1887 a disasterous fire had devistated the town; there
+<lb/>were three victims: an old maid and her neice, and Rosario Romero,
+<lb/>Nana’s grandmother. More on this incident elsewhere.
+</p>
+
+<p>
+<lb/>9) &#x2010; This needs a footnote. Abuelito was a <hi rend="underline">feuilletiste</hi> in true
+<lb/>19th century style. In places where not too much happens, newspapers
+<lb/>carried more features, articles, essays, reviews, etc. This was in
+<lb/>the days before advertising covered 80% of a newspaper’s space.
+<lb/>Communications then were bad, and intellectuals exchanged their
+<lb/>opinions and ideas in essays which were frequently cast in an
+<lb/>epistolary form to the Editor, or in the form of a dialogue. In
+<lb/>one such exchange, Abuelito signed with the pseudonym “Zisca,” and
+<lb/>a friend of his always used “Athos.” Some of these were long Letters
+
+
+
+<pb n="8" facs="#page-012"/>
+<lb/>to the Editors expressing political opinions. If the powers that
+<lb/>be disagree with whatever one is saying, they call it propaganda.
+<lb/>Ecuador was almost a theocracy at this time; all civil records were
+<lb/>kept by the church, which was also the only tolerated religion;
+<lb/>ecclesiastics sat in the National Assembly, and there was no lay
+<lb/>education; all schooling, such as is was for the masses, was under
+<lb/>the control of the church. It was all very corrupt and oppressive, and
+<lb/>people could be sent to prison for anitclericalism, which was
+<lb/>judicially punishable as heresy. (Did you know, for example, that
+<lb/>as late as 1875 a village priest in Peru burnt an old woman as a
+<lb/>witch? Admittedly, an extreme example, but it gives an idea of
+<lb/>the times.) In some of his articles, López criticized Bishop
+<lb/>Schumacher for several abuses, among which the most resented was
+<lb/>his prohibition to the local peasants against holding market on
+<lb/>Sunday. Schumacher was German, one of many foreign clerics the
+<lb/>Curia imported to fill higher ecclesiastical positions; most of
+<lb/>these clerics were ignorant of locally senctioned customs.
+<lb/>Schumacher’s idea of the Sabbath was more Baptist than Catholic
+<lb/>(or more Methodist, or Calvinist, whatever... i.e., the seventh
+<lb/>day all you do is go to church.) and failed to take into account
+<lb/>that his abrogation of the customary Market&#x2010;on&#x2010;sunday&#x2010;in&#x2010;the&#x2010;plaza
+<lb/>tradition imposed great hardship on the peasants, who now lost a
+<lb/>day’s work, and under pain of mortal sin, let it be added. When
+<lb/>Schumacher, in the same newspapers and from his pulpit, cited
+<lb/>passages of Scripture to validate his position, López, who had
+<lb/>after all studied with the Jesuits, was able to reciprocate in
+<lb/>kind and totally refute the bishop’s point. Wonderful book, the
+<lb/>Bible; one can make it say exactly what one wishes. At any rate,
+<lb/>this went on for a while, until López made the fatal tactical
+
+
+
+<pb n="9" facs="#page-013"/>
+<lb/>error of referring to the church as a “Christian sect,” which is,
+<lb/>after all, what it is. But in those days is was the Holy, Roman
+<lb/>and Apostolic Church, officially so, and Schumacher jumped at the
+<lb/>opportunity of ridding himself of another “liberal Masón” via a
+<lb/>Bull of Excommunication, so aptly termed. He declared
+<lb/>López an excommunicant “vitandus,” which means that not only is he
+<lb/>deprived of the sacraments and God’s love and all that, but all
+<lb/>faithful who deal with him incur mortal sin. López was a doctor
+<lb/>amidst superstitious rednecks; it ruined his practice.
+</p>
+<p rend="indent">
+<lb/>But not everybody was peasants, and popular opinion was
+<lb/>strongly behind López. A group of Liberals in Portoviejo, capital
+<lb/>of Manabí, spread printed copies of Schumacher’s Bull on the ground
+<lb/>between the church and the rectory one rainy day so that he would
+<lb/>have to grind his words into the mud as he went to say Mass.
+<lb/>There was, however, a lot of rednecks, and López’s life was,
+<lb/>strictly speaking, in danger.
+</p>
+
+<p>
+<lb/>10) &#x2010; López left the extremely documented and complete account of it
+<lb/>in his <hi rend="underline">Historia</hi>, which was published in Spanish, and copies of which
+<lb/>are in the New York Public Library and the Library of Congress.
+<lb/>Having frittered away a number of years in my youth in studying
+<lb/>Hispanic literatures, I feel qualified to venture an opinion.
+<lb/>He has very fine style; in the <hi rend="underline">pensées</hi>, (<hi rend="underline">Virutas</hi>), he tells anecdotes
+<lb/>that I heard from another first hand source, Nana, so I’m familiar
+<lb/>with the details and can concentrate on the presentation. Very
+<lb/>nicely done, warmth, taste. In the political writings, the rhetoric
+<lb/>is very nicely constructed, and one gets the impression of great
+<lb/>honesty. Too bad he never did fiction per se, or wrote on inter<pc>&#x2010;</pc>
+<lb break="no"/>national rather than just local affairs, of limited transcendence.
+</p>
+
+
+
+<pb n="10" facs="#page-014"/>
+<p>
+<lb/>11) &#x2010; After a political scandal à la Watergate involving the sale
+<lb/>of the use of the national flag for a ship of the navy of a country
+<lb/>then at war with someone else, there was a revolution and the
+<lb/>Liberals were swept into power by popular election. The new
+<lb/>President was Eloy Alfaro, for whom Eloísa was named, and who was
+<lb/>Victor’s godfather. It began an enormous social revolution, but
+<lb/>not a bloody one; a good comparison, up to today at least, might
+<lb/>be Spain after the death of Franco. Sweeping reforms at all levels
+<lb/>were implemented.
+</p>
+
+<p>
+<lb/>12) &#x2010; López wanted his younger sons (Miguel Angel, Aquiles and
+<lb/>Samuel) to be educated in the U.S., a country whose estensible
+<lb/>political and intellectual freedoms he greatly admired. He asked
+<lb/>for the job, and got it. It was a sinecure; his ministerial and
+<lb/>diplomatic activities were more important. He, Nana, Papa, Victor
+<lb/>(aged 8 months) left Guayaquil on February 1, 1900 and arrived in
+<lb/>New York on the 14th. In those pre&#x2010;Canal days, one sailed to the
+<lb/>west coast of Panama, took a train across, and boarded another
+<lb/>ship on the Atlantic coast. They arrived at night, and in those
+<lb/>happier and more trusing days, foreign diplomats had courtesy of
+<lb/>the port, and one just gave the number of one’s entourage, perhaps
+<lb/>the names, somebody wrote it down, and that’s that. Nana used to
+<lb/>say that there was no record of her being in this country until
+<lb/>FDR days and the Alien Registration Bill. They never became citizens,
+<lb/>Nana and Papa; about Papa, I don’t know, but I’m sure it was
+<lb/>like Nana. She was proud right down to her last day of her still
+<lb/>valid Ecuadorean citizenship. She never wanted to come here,
+<lb/>never liked the idea, and used to bemoan her abject decline,
+<lb/>which would have been impossible in Ecuador. She was right, too.
+</p>
+
+
+<pb n="11" facs="#page&#x2010;015"/>
+<p rend="indent">
+<lb/>The party spent that first night at the Fifth Avenue Hotel,
+<lb/>the Waldorf of its day, at 23rd Street. Abuelito and Papa want to
+<lb/>the Metropolitan Opera to see <hi rend="underline">Carmen</hi>, with Calvé, I believe, and
+<lb/>Nana was left to the baby and the whoosh&#x2010;whoosh of the ladies’ long
+<lb/>skirts in the hallway. The rest of the family, including Mamita and
+<lb/>Malvina, sister&#x2010;cousin Malvina (Dolores), see chart 5, came a year
+<lb/>later, Malvina to enter that Fall the Moravian Seminary in Bethlehem,
+<lb/>Pennsylvania, a normal school. Aquiles was 13, Miguel 15, and Sam 8.
+</p>
+
+<p>
+<lb/>13) &#x2010; In his absence, Papa was Acting Consul. It was a comfortable
+<lb/>situation, and to the advantage of the Ecuadorean government, because
+<lb/>they were both good, efficient civil servants, and they were honest.
+<lb/>It’s too bad they were, in a way, because a Consul can get graft if he
+<lb/>wants, and there’s always someone who wants to give you money in
+<lb/>return for some favor. They never got anything off the top, as it were,
+<lb/>because there was nothing left when the revolution curtailed their
+<lb/>regular salary, and that was the beginning of the end. Neither of
+<lb/>these two gentlemen was equipped to handle any other kind of job.
+<lb/>Victor was 13 (1912), Miguel was back in Ecuador, Aquiles I think
+<lb/>in Argnetina, and Sam was 21. And later that year Amalia, Papa’s
+<lb/>mother, died, requiring his immediate return and protracted stay.
+<lb/>Insult to injury: Eloísa had a boy friend, American Protestant
+<lb/>type doctor. Eloísa was very beautiful as a young woman
+<lb/>and retained it into her eighties and death. But when the good young
+<lb/>doctor learned that López was no longer a real&#x2010;live furriner diplomat,
+<lb/>he stopped calling. The cad.
+</p>
+
+<p>
+<lb/>14) &#x2010; Of rectal cancer. He was in full control of his faculties, and
+<lb/>had all his teeth save one wisdom tooth, and all his hair. The cad.
+<lb/>I have the deed, someplace, to the plot, which also contains Mamita
+<lb/>&amp; Sam.
+</p>
+
+
+
+<pb n="12" facs="#page-016"/>
+<head><hi rend="center"><lb/>Franclsca Romero</hi></head>
+<p>
+<lb/>The running quotes at the end of this section I translated
+<lb/>and heavily edited from: <hi rend="underline">Orígenes del Ecuador de hoy: García
+<lb/>Moreno</hi> by Luis Robalino&#x2010;Dávila; Quito, Talleres Gráficos
+<lb/>Nacionales, 1948, pp. 3&#x2013;12. This is a biography of Gabriel
+<lb/>García Moreno, who was a President of Ecuador in the 19th century.
+<lb/>An extremely able administrator, and probably honest, he was
+<lb/>ruthless in his attacks on his opponents, and his politics
+<lb/>were somewhat to the right of Ivan the Terrible. He was also
+<lb/>a religious fanatic, and during one administration changed the
+<lb/>name of the country to the Republic of the Sacred Heart of Jesus
+<lb/>and gave it as a fief to the current Pope. It was he who was
+<lb/>largely responsible for the importation of foreign clerics
+<lb/>mentioned earlier. He was finally assassinated in 1875 on the
+<lb/>steps of the Palacio de Gobierno in Quito, to the great relief
+<lb/>of many. All this is germaine only because he was alos Mamita’s
+<lb/>uncle.
+</p>
+
+<p rend="indent">
+<lb/>The García Morenos were of the “aristocracy” of Guayaquil,
+<lb/>very rich, very conservative, and very Catholic. Juana Mercedes
+<lb/>Moreno Morán de García Gómez (chart 4) was carried every day to
+<lb/>Mass, in her very old age, on a sedan chair by four servants,
+<lb/>and Manuel Ignacio, Gabriel’s brother, was a preist. Sent to a
+<lb/>parish in remote Jipijapa, he took along one of the family servants,
+<lb/>a girl named Rosario Romero (Mamita’s mother), and before you
+<lb/>knew it, they had five children: Pedro Alcántara, Ignacio, Tomás,
+<lb/>Francisca and Mercedes. At some point, he left for another see
+<lb/>and Rosario and the children stayed. Again, per custom, the latter
+
+
+
+<pb n="13" facs="#page-017"/>
+<lb/>took their mother’s last name. Pedro Alcántara had a homonymous
+<lb/>son who died at age 17 in a revolution; Tomás married and lived in
+<lb/>Guayaquil; Ignacio went to Guayaquil too, and was supposed to
+<lb/>come visit the family in Brooklyn around 1908, but vanished
+<lb/>without a trace after sending a cable saying that he had arrived
+<lb/>in Panama; and Mercedes had two daughters by as many men and died
+<lb/>in Guayaquil during an epidemic of bubonic plague in 1913. One
+<lb/>of these daughters was Rosario González (she did take her real
+<lb/>father’s name, as did her half sister Rita Alencastro), who in
+<lb/>similar fashion had a daughter named Delia Maruri. Nana and Lola
+<lb/>kept in touch with Rosario until her death from cancer in 1960 or
+<lb/>so. Delia married a man named Eduardo Rossi Guerra, they had a few
+<lb/>children, some now married; they live in Guayaquil and are very
+<lb/>nice middle class people.
+</p>
+
+<p rend="indent">
+<lb/>Though married to an ardent “free&#x2010;thinker,” Francisca (Mamita)
+<lb/>retained her Catholicism more or less active, until her death at
+<lb/>90 of natural causes. She was an intelligent but not an educated
+<lb/>nor enlightened lady; nor was she a lady with whom one might deal
+<lb/>flippantly. When someone affectionately called her Mama, she would
+<lb/>say something to the effect of, “Don’t call me mama; I’m not your
+<lb/>mother.” Later, when she had warmed to the person, the greeting was
+<lb/>“Hello, my son.” She never saw a movie, for superstitious reasons.
+<lb/>All in all, she didn’t have such an easy time of it; first there
+<lb/>were Felicísimo’s idealistic peradventures, which left his wife
+<lb/>and children in desperate straits; then there was the revolution
+<lb/>in 1912 and all that meant; all her five sons died before she did
+<lb/>and she had money worries all her life. The picture shows her at
+<lb/>age 51; she was thought to be a great beauty in her youth, because
+
+
+
+<pb n="14" facs="#page-018"/>
+<lb/>of her fine delicate features, which were her García Moreno legacy.
+<lb/>She looked very much like her dictator uncle, whom she probably
+<lb/>never met. Her father probably left home (rectory) when she was
+<lb/>very little.
+</p>
+
+<p rend="indent">
+<lb/>Francisca’s mother, Rosario Romero, lived with her daughter
+<lb/>and son&#x2010;in&#x2010;law in Jipijapa. She took care of the children while
+<lb/>Mamita’s time was taken up with running the store during Abuelito’s
+<lb/>exile, (1885&#x2013;88). In 1887, when Nana was ten, some kids were
+<lb/>playing with matches, and the better part of the town, which was
+<lb/>all cane and straw, went up in smoke. So did three ladies: an old
+<lb/>maid and her niece, and Rosario Romero. Nana recalled the
+<lb/>catastrophe vividly all her life. As the flames inexhorably approached,
+<lb/>Mamita and Rosario Tomero were trying to save as much as possible
+<lb/>from the store. Mamita went to find a wagon and Rosario took the
+<lb/>children to a surrounding hilltop and told Nana to make sure none
+<lb/>of them moved from the spot until her return; she was going to
+<lb/>find Mamita. When Rosario returned, she was naked save for a petticoat
+<lb/>someone had given her, and burnt all over. Nana said Rosario
+<lb/>said nothing until she saw Mamita and told Nana to call out. When
+<lb/>Mamita saw Rosario, she called for help, but since Abuelito, the
+<lb/>only doctor, wasn’t there, all that could be done for the poor
+<lb/>woman was to apply linseed oil with cotton to her burns. She died
+<lb/>in agony that night. The story goes that when she returned to the
+<lb/>store, she saw that the family’s goat was still tothered and
+<lb/>desperately trying to free itself, since the thatch roof of the
+<lb/>stable was ablaze. Taking pity on the animal, she went over to
+<lb/>untie it and the roof caved in on her. When they managed to pull
+<lb/>her out, all her clothes had been burned away.
+</p>
+
+
+
+<pb n="15" facs="#page-019"/>
+<p rend="indent">
+<lb/>There are some interesting details about Rosario Romero:
+<lb/>She was _mestiza_, like just about everyone else in town, but was
+<lb/>very dark, and clearly of a different ethnic mixture than anything
+<lb/>common in the region. Also, according to Nana, she spoke Spanish
+<lb/>with a slight accent. Guayaquil was an important seaport (despite
+<lb/>its inland position on an estuary), so Rosario could have come
+<lb/>from just about anywhere Spanish or Portuguese were spoken.
+</p>
+<p rend="indent">
+<lb/>Now for the quotes from Robalino’s book. Please bear in
+<lb/>mind that Robalino is obviously enamoured of his subject, and
+<lb/>talks about these remote forbears as if they had as many
+<lb/>quarterings as an Austrian Archduke, and as if Guayaquil were
+<lb/>the Byzantium of South America.
+</p>
+<p rend="indent">
+<lb/>“Miserable Castille, one powerful... Castille of grey rocks...
+<lb/>dusty Castille covered with saffron plants.... this was the native
+<lb/>land of Don Gabriel García Gómez... Villaverde del Monte is three
+<lb/>leagues from Soria... a poor village of 53 souls (1948), though
+<lb/>the entire parish has 250... a poor place, but in a land of epics
+<lb/>(this is, after all, the land of Don Quixote).. here was born
+<lb/>Don Gabriel García Gómez October 2, 1766, who was baptized the
+<lb/>13th. He was the legal son of Don Diego García Yanguas and Doña
+<lb/>María Gómez, natives and residents of Villaverde. His paternal
+<lb/>grandparents were Don Juan García Yanguas (I think there’s another
+<lb/>shady parentage here... these two men shouldn’t have had the same
+<lb/>maternal last name Yanguas, but...) and Doña Josefa Martínez.
+<lb/>This lady was born March 27, 1652, the daughter of Don Alonso
+<lb/>Martínez and Doña Catalina Escribano, baptized “privately” that
+<lb/>same day “because of necessity” (No idea what that means.); her
+<lb/>godmother was her grandmother Doña Ana de la Orden, “due to the
+<lb/>lack of a godfather” (that sounds clear enough). Don Gabriel
+
+
+
+<pb n="61" facs="#page-020"/>
+<lb/>García Gómez’s maternal grandparents were Don Juan Gómez and Doña Cecilia de la Orden,
+<lb/>which shows that his parents were interrelated. His godfather
+<lb/>was his maternal grandfather Don Juan Gómez, and the certificate
+<lb/>was signed by Father Manual García Aragonés (probably another
+<lb/>relative).... His parents were married [hooray] by Father Joseph
+<lb/>Cueto, priest of Cidones, November 22, 1762... there were in all
+<lb/>probability more younger siblings... one came to Mexico and was the
+<lb/>founder of the family that eventually produced the famous historian
+<lb/>García Icazbalceta.... The origins of these families are very old....
+<lb/>They were, probably, poor <hi rend="underline">hidalgos</hi> who had just enough land to
+<lb/>keep them fed.... He studied in Cádiz at the home of his uncles
+<lb/>Don Juan Simón and Don Melchor Martínez de Aparicio, who had some
+<lb/>commercial enterprises in that port city of Spain. The Martínez de
+<lb/>Aparicio traced their family back five generations; they were
+<lb/>Lords of the House of San Bartolomé del Cerro in Sotillo (Soria)
+<lb/>and proved their nobility before the Tribunal of the Royal
+<lb/>Chancellory of Granada and were granted a Royal Provision on March
+<lb/>22, 1776. They requested and were granted by Don Ramón Zazo y Ortega
+<lb/>a charter with their coat of arms on August 27, 1778... (he then
+<lb/>goes on with some lengthy details about these Martínez, which don’t
+<lb/>really concern us here.) And one fine day in 1793 while Spain
+<lb/>and all Europe were shuddering with fear at the news which kept
+<lb/>coming from France (the French Revolution, Napoleon, etc.); urged
+<lb/>on by the fear that the Terror would cross the Pyrenees, and helped
+<lb/>financially by his uncles in Cádiz, he bought goods for trading
+<lb/>and boarded “Nuestra Señora de las Nieves,” a frigate which was
+<lb/>leaving for the colonies... a Spaniard newly arrived from Spain
+<lb/>was in those times superior to the creole, contaminated now by
+
+
+
+<pb n="17" facs="#page-021"/>
+<lb/>by the tropical laziness of the climate (Guayaquil is not what
+<lb/>one might term a tropical paradise) and perhaps even by some
+<lb/>shadowy <hi rend="underline">mestizaje</hi> of his ancestors. The creoles who had not
+<lb/>intermarried preferred, naturally enough, native Spaniards for
+<lb/>their daughters... add this fact to Gabriel Barcía Gómez’s
+<lb/>natural good looks, industry, references and ambition, and it is
+<lb/>not hard to understand why the <hi rend="underline">Regidor Perpetuo del Cabildo de
+<lb/>Guayaquil</hi> (the local potentate), Don Manuel Ignacio Moreno y
+<lb/>Sylva Santistevan, and his wife, Doña Manuela Morán de Butrón
+<lb/>y del Castillo should heartily approve of the interest the
+<lb/>young man took in their daughter, Juana Mercedes.... The <hi rend="underline">Regidor
+<lb/>de Guayaquil</hi> was the son of Don José Ignacio Moreno and Doña
+<lb/>Ana Manuela de Sylva Santistevan y Larralde, whose good lineage
+<lb/>is evidenced by his permanent position as <hi rend="underline">Regidor</hi>... (there
+<lb/>follow some more lengthy details about these good people)... Juana
+<lb/>Mercedes was born in Guayaquil in 1780 and married Gabriel García
+<lb/>Gómez in 1797; they had twelve children. The eldest, Josefa
+<lb/>Dominga, born in 1798, died at 47; Concepción, at an early age;
+<lb/>Manuel Ignacio followed the ecclesiastical career (This was
+<lb/>Mamita’s father); Mercedes, dead at 18; José, died young; the
+<lb/>second José studied Catholic liturgy, but later married María
+<lb/>de los Angeles Mateus y Vásmezon (not a Spanish name) and lived
+<lb/>to be 71; Carmen, no data; Miguel, one&#x2010;time Governor of Guayaquil;
+<lb/>Pedro Pablo, landed gentleman and businessman; Fernando, no data;
+<lb/>Rosario, likewise. The youngest was Gabriel García Moreno.”
+</p>
+<p rend="indent">
+<lb/>As the last of all these details, it should be mentioned
+<lb/>that Doña Juana Mercedes, of sedan chair fame, lived to be 91
+
+
+
+<pb n="18" facs="#page-022"/>
+<lb/>and was all her life a “Tory;” after Ecuador gained its independence
+<lb/>from Spain in 1822, she continued to hang the Spanish Royal
+<lb/>Flag on her door every Independence Day (August 10) until her
+<lb/>death. Like Mamita, her granddaughter, she was longlived and
+<lb/>feisty.
+</p>
+<p rend="indent">
+<lb/>(N.B. Last year Enid and her husband Aurelio came to San
+<lb/>Francisco and I met with them; we took a sightseeing bus around
+<lb/>town, despite the unfortunate rain and fog. At one point Enid
+<lb/>buttonholed me and said that Aurelio, who among other things has
+<lb/>been a history teacher, and a Spanish Literature teacher at some
+<lb/>midwestern college here, thought Garcia Moreno was the worst thing
+<lb/>that ever happened to Ecuador, and would I please not blab any
+<lb/>of these scandalous genealogical details to him. I agreed.)
+</p>
+
+
+
+<pb n="19" facs="#page-023"/>
+<head><hi rend="center"><lb/>López Romero Family</hi></head>
+<p rend="indent">
+<lb/>Having some time ago set down numerous details of some of
+<lb/>our progenitors, I should now show you their children. The
+<lb/>preceding picture was taken in Brooklyn in 1911, the last year that
+<lb/>all surviving family members were together. At some point I’ll
+<lb/>sort things out and send pictures of the two missing brothers,
+<lb/>(I’ve found them and include them herewith)
+<lb/>but for the time being, this <hi rend="underline">précis</hi>: to the left of Felicísimo
+<lb/>is Eloísa (see charts for dates, etc.), who never married and died
+<lb/>childless. Standing above her is Miguel, who mever married but was
+<lb/>the father of Enid, Olga, Ulises, Alicia, and two others who died
+<lb/>in childhood. Miguel was the only son to go back to live in
+<lb/>Ecuador, settling in Guayaquil; when he died in 1935, his cousin
+<lb/>Malvina adopted his children and brought them to Quito, where
+<lb/>Olga and her family live still. Enid lives in Guayaquil, and Ulises
+<lb/>in New York state, West Hempstead, I believe. Alicia, who was
+<lb/>brought up not by Malvina, but by Miguel’s “wife,” a lady named
+<lb/>Enid Espinosa, who lives or lived in Loja, in Ecuador, may or not
+<lb/>still be alive in Mexico, where she was the widow of a military man
+<lb/>of some sort of rank. Miguel refused to accept her as his daughter,
+<lb/>though she was of all the children probably the one who looked
+<lb/>most like him.
+</p>
+<p rend="indent">
+<lb/>Back to the picture: standing next to Miguel is Dolores (“Lola”),
+<lb/>who married a German named Frank Zilker, from Munich. They had one
+<lb/>daughter, also named Dolores, (“Lolita”). Zilker was a widower with
+<lb/>three children, one of whom was the wife or girl&#x2010;friend of a man
+<lb/>named Malcolm Stevens, whose sister Ruby eventually became...
+<lb/>Barbara Stanwyck! The girl, Elizabeth (“Sissy”), eventually died
+<lb/>of TB, and Stevens eventually changed his name to Stanwyck. Lola
+<lb/>and Zilker didn’t make it as a marriage and she finally left him in
+
+
+
+<pb n="20" facs="#page-024"/>
+<lb/>New Orleans, where, I think, he died in the mid&#x2010;forties. Fate is
+<lb/>funny; somehow, in a trunk of old papers from Glenwood Road, I found,
+<lb/>and still have, Barbara Stanwyck’s elementary school autograph book
+<lb/>from Brooklyn. I guess I should send it to her before either of us
+<lb/>dies. Wonder what she’d say if I asked her how her brother Mal was.
+</p>
+<p rend="indent">
+<lb/>In the picture again... standing above Mamita is Aquiles. In
+<lb/>New York, I believe, sometime around 1911, he married an American
+<lb/>girl named Bessie. They had one son, Robert (“Bob”) López, who
+<lb/>if still alive now (1983) is about 71; last I heard he was living
+<lb/>in LA, divorced. He had some kids too. Aquiles and Bessie didn’t make
+<lb/>it as a couple either, and went their separate ways. Bessie remarried,
+<lb/>a man named Joe Cohen, who was involved with the movies somehow, as
+<lb/>was his stepson Bob López. I remember seeing the name in the credits
+<lb/>of some films, I think Paulette Goddard’s deathless impersonation of
+<lb/>Jezebel was one of them. Something in the technical aspect, cameras
+<lb/>or film. Bob visited his cousins in Brooklyn in 1939, and took several
+<lb/>very fine family shots. Judging from the pictures, Bob looked a little
+<lb/>like Mamita. Aquiles left New York and finally wound up in Buenos
+<lb/>Aires, where he was one of the editors of a paper called <hi rend="underline">La Nación</hi>.
+<lb/>He was a man of some prestige and a bit of a man about town. (At this
+<lb/>time Eloísa and Mamita were living with him.) Too much town, too much
+<lb/>high life and champagne and tuxedoes; after a party one hight in 1929,
+<lb/>he was in the back seat of a car, being driven home by some friends.
+<lb/>They noticed that he had stopped talking and turned around to find
+<lb/>that he’d just plain dropped dead of a heart attack. Mamita and Eloísa
+<lb/>came back to Brooklyn, where she died in 1940. Eloísa finally went
+<lb/>back to Ecuador in 1960 or 61, and died in Quito in 1965.
+</p>
+<p rend="indent">
+<lb/>To the right of Mamita is Samuel, the youngest of the family.
+<lb/>He served in the Canadian forces in Europe during WW I, and wound
+<lb/>up living in Maracaibo, Venezuela in the twenties. There he married
+
+
+
+<pb n="21" facs="#page-025"/>
+<lb/>a girl whose name I forget now; her last name, though, was Villanueva.
+<lb/>She was very dark, I’ve been told; they came to visit NY on their
+<lb/>honeymoon. Her family didn’t like Sam, and the feeling was mutual.
+<lb/>I think this was in part because the girl wasn’t very healthy and
+<lb/>her parents had hoped she wouldn’t marry. But she did and they had a
+<lb/>daughter, Margarita Cecilia, born around 1924. Sam worked for some
+<lb/>oil company and was in NY on business alone when he got news that his
+<lb/>wife had died. When he went back to Maracaibo he told his in&#x2010;laws that
+<lb/>he wanted to go back to NY and take the little girl with him, to which
+<lb/>they were adamantly opposed. So opposed, in fact, that they took the
+<lb/>little girl and skipped out, vanished. Sam was never able to find them
+<lb/>and eventually died in Brooklyn in 1933.
+</p>
+<p rend="indent">
+<lb/>There is an anecdoe to Sam López’s life and death. He suffered
+<lb/>from a mild form of epilepsy; you’d be talking with him and he would
+<lb/>occasionally drop off into a little mumbling or silence for a few
+<lb/>moments and then come right out of it. This condition, which was probably
+<lb/>responsible for his being in the Canadian forces rather than the
+<lb/>American, became more pronounced as he grew older; it would happen with
+<lb/>increasing frequency and for longer periods. He was diagnosed as having
+<lb/>a benign brain tumor and decided to have surgery. Some might say the
+<lb/>risks, even in this country, were great in the thirties, but I guess
+<lb/>the increasing inconvenience was worse, so he was operated on and died
+<lb/>of complications. The anecdote is this: the afternoon before the surgery
+<lb/>he and Papa, his brother&#x2010;in&#x2010;law (Víctor Manuel Pazmiño, for you
+<lb/>younger ones), were sitting on the porch swing talking when the
+<lb/>Shakespeare clock on the living room mantle struck, and struck, and
+<lb/>struck, over and over until it went sproing and stopped. Since the
+<lb/>clock had run perfectly ever since Felicísimo and Francisca had bought
+<lb/>it in 1900, 33 years earlier (it was part of the home furishings of the
+<lb/>outgoing Ecuadorean Consul General, and I have it now), it seemed
+
+
+
+<pb n="22" facs="#page-026"/>
+<lb/>not unusual that it should break down. Nana always said that this
+<lb/>extraordinary coincidence was an omen that was ignored, and I think
+<lb/>she was right. She told me that she had taken it to a couple of
+<lb/>clocksmiths, but they couldn’t find anything wrong with it. It
+<lb/>didn’t run again until 1969, when I had it repaired in Boston. It
+<lb/>still ticks and chimes on my mantle now, but several years ago the
+<lb/>strike mechanism went awry, and now it’s anybody’s guess how many
+<lb/>times it will strike every half hour. I find this perversely
+<lb/>humorous and have yet to have it looked at.
+</p>
+<p rend="indent">
+<lb/>And that brings us to the upper right hand figure in the picture,
+<lb/>Nana, Lelia, who deserves a book in her own right. She married Papa
+<lb/>in Guayaquil in 1898; there were eight children, the Pazmiño López
+<lb/>family of chart 1. I should mention that in Latin America it’s the
+<lb/>custom for people to use their mother’s maiden name after their
+<lb/>father’s family name, much as it was the custon in this country
+<lb/>years ago to use this same maternal maiden name as a middle name,
+<lb/>cf. Franklin Delano Roosevelt, Ulysses Simpson Grant, etc. I’ve
+<lb/>followed this custom for this essay, to keep things straight. I
+<lb/>should also mention that whereas in the US cousin is used for just
+<lb/>about everybody besides siblings and nephews, etc., in South America
+<lb/>a different system prevails. For example, Stella Pazmiño Disosway’s
+<lb/>children Kenneth and Linda are first cousins to Grace Pazmiño
+<lb/>Ganley’s daughter Joan, as they are to me, son of Lucile Pazmiño
+<lb/>Dudley. Linda’s children and Joan’s are second cousins to each other,
+<lb/>but to childless me they’re first cousins once removed, as I am to
+<lb/>them. Joan’s daughter Leslie’s children are first cousins twice
+<lb/>removed to Kenneth, Linda, me, etc. And Leslie’s grandchildren
+<lb/>would be thrice removed, and so on. In Latin America, a different
+<lb/>terminology is used, whereby Joan’s children and Linda’s are my nieces
+<lb/>and nephews <hi rend="underline">en segundo</hi>, “second nieces,”
+and I would be their <hi rend="underline">tío en
+
+
+
+<pb n="23" facs="#page-027"/>
+<lb/>segundo</hi>, “second uncle.” Another example: Lolita is Grace’s first
+<lb/>cousin, right? Lolita is therefore <hi rend="underline">tía en segundo</hi> to Joan, (first
+<lb/>cousin once removed), <hi rend="underline">tía en tercero</hi> (twice removed)
+to Leslie, and <hi rend="underline">tía en cuarto</hi> (thrice removed)
+<lb/>to Leslie’s children, and so forth. Not too confusing, if you think
+<lb/>about it, and all it is is a different way of describing that kind
+<lb/>of family relationship. In Ecuador one would say all these people
+<lb/>are uncles, nieces, etc.; here one would term them all cousins of
+<lb/>some sort since even the distinction between first and second cousins
+<lb/>is almost beyond grasp. And as a final example of the American system,
+<lb/>to confuse you all, I can mention that since Lolita and Grace, (and
+<lb/>Stella and Albert, etc.) are first cousins, then Dennis is second
+<lb/>cousin to Joan (and to me, and Laura Lou, and Georgiann, etc.). Dennis
+<lb/>lies in the same relationship to me and my first cousins as do the
+<lb/>childen of Olga, Ulises, Bob López, not to forget whatever children
+<lb/>that long lost daughter of Sam López might have had.
+</p>
+<p rend="indent">
+<lb/>But now I have to jump back a bit to Ecuador because so far I’ve
+<lb/>only written about Nana’s line and that’s only half the story. Some
+<lb/>details must be given about the Pazmiño side, and the best character to
+<lb/>begin with is his mother, Doña Amalia Hurtado.
+</p>
+<p rend="indent">
+<lb/>But before I do that, I must first comment on the pictures of
+<lb/>two young men, set in ovals, and printed by Bauland’s of Brooklyn.
+<lb/>These are two López Romero boys who had died before the 1911 portrait
+<lb/>was taken; they were Estenio and Ulises, and you can see where they
+<lb/>fit on the appropriate chart, No. 1. Somebody must have taken earlier
+<lb/>photos to have these made from them; I would assume that it was
+<lb/>Mamita. There isn’t too much to tell about them, since they died so
+<lb/>young. Estenio was Nana’s favourite brother and Abuelito’s favourite
+<lb/>son; he had the same high ideals and liberalness of thinking that was
+<lb/>so characteristic of that family, and was moved by patriotism to go
+<lb/>off and fight with liberal revolutionary forces, dedicated to the
+
+
+
+<pb n="24" facs="#page-028"/>
+<lb/>overthrow of some dictator (not García Moreno, another one) before
+<lb/>the final victory of Eloy Alfaro and the Liberals in 1895. Unfortunately,
+<lb/>he got shot and died on the battlefield. Mamita was dead
+<lb/>set against the idea, but there was no discouraging him. Heroic
+<lb/>deeds, yes, but living is nicer. Remember, Mamita had had to deal
+<lb/>with a lot of misery while Felicísimo was exiled, and now she loses
+<lb/>her first son. Hard.
+</p>
+<p rend="indent">
+<lb/>Ulises died as a result of some violent intestinal infection
+<lb/>that struck him and Eloísa when the family was living in Guayaquil.
+<lb/>Eloísa got better, but as some will recall, always had some sort of
+<lb/>trouble with her digestion. I don’t remember any stories about him,
+<lb/>though I’m sure Nana or Eloísa had some to tell me. I find the
+<lb/>resemblance of Estenio to Nana very striking, but that’s because
+<lb/>I’ve seen so many pictures of Nana when she was a yound lady. As I
+<lb/>continue to go through my closet, I’ll xerox some of the better ones.
+</p>
+<p rend="indent">
+<lb/>I should mention that those of you who don’t have any direct
+<lb/>memories of Nana or Lola, say, i.e., Linda’s, or Joan’s younger kids,
+<lb/>could get the impression from the reproductions that these people
+<lb/>were more darkly complected that they really were. Lola nad Aquiles
+<lb/>were nicknamed the “negritos” by their siblings, but for the most
+<lb/>part, despite the strong Indian features, notably the shape of the
+<lb/>eyes, both sides, López and Pazmiño&#x2010;Hurtado were quite fair, very
+<lb/>“white” looking, if you will. Many of the pictures have darkened
+<lb/>with age, and xerography, while cheap, isn’t the best kind of
+<lb/>reproduction. As for the true ethnic or gene background, I can say
+<lb/>this: it’s predominantly white, with a strong Indian strain and just
+<lb/>a little bit of Black, this latter bit of spice being the legacy of
+<lb/>the formidable looking lady whose tale I’m finally getting to, as
+<lb/>follows.
+</p>
+
+
+
+<pb n="25" facs="#page-029"/>
+<head><hi rend="center"><lb/>Amalia Hurtado (Donoso) &amp;<lb/>Francisco Mariano López</hi></head>
+<p rend="indent">
+<lb/>This redoubtable looking but very good lady was Papa’s mother
+<lb/>(and Malvina’s too) and was born in Quito in the late 1830’s or early
+<lb/>1840’s. Her mother was named Dolores Zambrano and was the wife of
+<lb/>Joaquín Donoso Baen [sic, actually Donoso Ortiz] (Chart 2);
+<lb/>but this gentleman was not her father. That
+<lb/>distinction belongs to a man whose last name was Hurtado and who was
+<lb/>the 19th century equivalent of a Fuller Brush man, travelling from
+<lb/>town to town selling hardware and dry goods. Doña Dolores probably asked
+<lb/>him in to show his wares one day and got more that she perhaps (only
+<lb/>perhaps) bargained for. Anyway, thence Amalia, who fits into forth
+<lb/>place among the legitimate and not so so children of Donoso and Dolores
+<lb/>Zambrano (their names were Camila, Modesto, Teresa, (Amalia, and) Adela).
+<lb/>I have a whole list of names of the descendants of these worthies, but
+<lb/>there has been no connection for decades, so really, why bother?
+</p>
+<p rend="indent">
+<lb/>Predictably, Hurtado wasn’t seen again; it <hi rend="underline">was</hi> known of him, though,
+<lb/>that he was from the coastal province of Los Ríos, where blacks
+<lb/>constituted a large part of the population. A footnote: in the Andean regions,
+<lb/>places of very high altitude... Quito 9500 feet..., there are very few
+<lb/>blacks. There is every tint and hue and whatever of white and Indian,
+<lb/>but there are almost no blacks. Amalia is quite different from all the
+<lb/>other Donoso children, who are, from the pictures I’ve seen and two first
+<lb/>cousins of Papa’s, nonagenarians both, whom I met in 1969, almost all
+<lb/>white. The picture of her shows her in old age; in an 1860’s tintype I
+<lb/>saw in Quito, a hoopskirt and ringlets enhanced the figure of an
+<lb/>extremely handsome and attractive young lady. It wasn’t a beautiful face,
+<lb/>but it was very striking. Insofar as one can trust appearances, she was
+<lb/>the source of the curly hair and the "Pazmiño" forehead. Everything I
+<lb/>can remember being told about this lady by Nana or Malvina points to
+<lb/>a very loving but definitely no&#x2010;nonsense kind of lady, with a shrewd
+
+
+
+<pb n="26" facs="#page-030"/>
+<lb/>business sense. I have always thought it highly deplorable that this
+<lb/>most desirable attribute didn’t come with the forehead.
+</p>
+<p rend="indent">
+<lb/>At any rate, sometime in the 1860’s she met and married José
+<lb/>Manuel Paz y Miño, who was considerably older than she; they had
+<lb/>several children, most of whom died in infancy. Those who survived
+<lb/>were three; Diocelina, Rosario and Víctor Manuel (Papa), who was
+<lb/>born posthumously in 1871. (I don’t think that’s correctly used, but
+<lb/>anyway...) This Paz y Miño belonged to one of the oldest and richest
+<lb/>families in Quito, about all of which more later, and he was
+<lb/>not in the best of health; I’ve been told that he had kidney trouble
+<lb/>or liver problems, I don’t recall which; I’ve also learned that this
+<lb/>was quite common in those days before that water purification plants
+<lb/>made things a bit nicer. Or that might have been someone’s euphemism
+<lb/>for boozers. No telling at this point.
+</p>
+<p rend="indent">
+<lb/>It should be mentioned that these Donosos, Paz y Miños, López,
+<lb/>Dálavos and so forth families were all more or less neighbors in
+<lb/>Quito; societies were more structured then. Everybody went to the
+<lb/>same churches, theatre, events, etc. and everybody who was anybody
+<lb/>know everybody else. There are virtues and disadvantages in that, but
+<lb/>that’s the way it was. When Dolores Zambrano died in 1869, Felicísimo
+<lb/>López and his brother Francisco were both witnesses to her will.
+<lb/>People got together, played cards, danced, acted as eachother’s
+<lb/>doctor, lawyer, etc. Amalia and the López brothers had in common a
+<lb/>great love of learning and education; books that belonged to these
+<lb/>people that I saw or have myself reveal fairly active though
+<lb/>circumscribed tastes, with a penchant towards history and natural sciences
+<lb/>and a good deal of current European philosophy. One can only partially
+<lb/>underestimate the smallness of numbers of similarly inclined people
+<lb/>in mid 19th century Quito. It is therefore easy to understand how the
+<lb/>still young Amalia, wife of an older and semi&#x2010;invalid man, could choose
+
+
+
+<pb n="27" facs="#page-031"/>
+<lb/>no more apt person as her second husband than Francisco Mariano López
+<lb/>who was in case I’ve not mentioned it before, the <hi rend="underline">older</hi> brother of
+<lb/>Felcísimo. Of this second marriage there were three children (see
+<lb/>chart 2), of whom Malvina alone survived into modern times. Malvina
+<lb/>was an interesting lady, of whom more later; she was also the last of
+<lb/>her generation and line. In genealogical terms, she’s double related to us
+<lb/>(except of course to Lola’s descendants) because she was Papa’s half&#x2010;sister,
+<lb/>and therefore aunt to Stella, George, etc., <hi rend="underline">and</hi> Nana’s first
+<lb/>cousin. In accordance with the system I tediously tried to describe
+<lb/>earlier, relatives on both sides nicknamed her “la tía universal.”
+<lb/>It was she who after the death of Miguel Angel López brought up his
+<lb/>children, as mentioned earlier, and it was she, in Quito, who was one
+<lb/>of the three old lady sisters group in Quito, i.e., Diocelina, Rosario and
+<lb/>Malvina. To complete the picture a bit, Diocelina married a man named
+<lb/>Trajano Hurtado (no relation to the aforementioned travellin’ man) and
+<lb/>they had a bunch of children, of whom the youngest was Enrique, whom some
+<lb/>of you will remember. Rosario was first married to a Danish pharmacist
+<lb/>named Emil Stahlschmidt and there were two children, Lucila and
+<lb/>Guillermo. Stahlschmidt died, also of liver/kidney/booze/shortness of breath,
+<lb/>and Rosario later remarried; his name was José Dálavos and there three children:
+<lb/>Homero, Edma and Amaya. Some will remember meeting Homero; Edma was very
+<lb/>nice, never married, and was a great friend and frequent visitor with
+<lb/>Malvina and Enid. Amaya married a Chilean and lives or lived there; she
+<lb/>had a son named José with whom I exchanged a couple of letters in the
+<lb/>early 60’s. But there are more interesting aspects to all this.
+</p>
+<p rend="indent">
+<lb/>I’ve seen a picture of José Manuel Paz y Miño in Quito, a large
+<lb/>framed mezzotint kind of thing at Enrique’s house; he looked like Andrew
+<lb/>Jackson with a beard, a white beard, a long white beard. The kind of
+<lb/>beard that no one of predominantly Indian, or if you wish, Latino,
+<lb/>ancestry could raise.
+
+
+
+<pb n="28" facs="#page-032"/>
+<lb/>In short, a white man, probably “pure,” much like the Guayaquil
+<lb/>grandees I mentioned in connection with Mamita. Amalia, it will be
+<lb/>recalled, was probably half white and half white&#x2010;and&#x2010;something, so that’s
+<lb/>the statistical side of it. I say all this is a purely statistical
+<lb/>sense; I’ve often heard people say “I’m 1/8 Apache, or one 1/16
+<lb/>Micmac... no, really... and it points out a cultural difference we here
+<lb/>have with Latin America. The mixing and blending in some areas of the
+<lb/>societies there isn’t retraceable, nor noteworthy, nor really paid
+<lb/>much attention to. It just <hi rend="underline">is</hi>. While the Spaniards did awful things
+<lb/>in South America, they didn’t exterminate the native population as
+<lb/>other Europeans did in North America. In broad terms, colour probably
+<lb/>increases or decreases according to social class, and not unfamiliarly
+<lb/>so. One can picture the chagrin of some Yankee worthy at seeing his
+<lb/>daughter marry one of those <hi rend="underline">(Fill in your own)</hi> fellas. It all has
+<lb/>to do with how long one had been around and more or less in control of
+<lb/>things. José Manuel had many brothers, and there are Paz y Miños in
+<lb/>Quito, and Pazmiños in D.C. and elsewhere, and when Rosario Paz y Miño
+<lb/>v. de Stahlschmidt, later de Dávalos died, two Paz y Miño cousins paid
+<lb/>their respects, but there has never been any contact with any of those
+<lb/>families, either on Papa’s part or that of any of the Hurtados, outside
+<lb/>of courtesy calls at wakes, etc.
+</p>
+<p rend="indent">
+<lb/>Whereas there is a strong family resemblance between the children
+<lb/>of both Amalia’s marriages, there is no trace of that face (José
+<lb/>Manuel) in anybody descended from Papa known to me, and I’m the only
+<lb/>person now living who had met almost all of them. While Papa resembled both
+<lb/>Diocelina and Rosario, he was most like Malvina and her brother Julio.
+<lb/>Nana told me that when Ann’s mother met Malvina, she was taken aback
+<lb/>by the overpowering resemblance to Papa; she of course knew them both
+<lb/>in old age and at a span of years, but it was probably very striking
+<lb/>throughout their lives. Papa was ten years older than Malvina. I don’t
+
+
+
+<pb n="29" facs="#page-033"/>
+<lb/>know when Amalia married Francisco, but I do know that it was a very
+<lb/>happy marriage until her death in 1913. I believe what the people who
+<lb/>knew them told me about them. Papa’s surviving correspondence with
+<lb/>Francisco is very warm, even in terms of the flowery style of the times.
+<lb/>No “step” seems to have preceded either the “&#x2010;father” or “&#x2010;son” in their
+<lb/>relationship. Nana also recalled Francisco, her beloved <hi rend="underline">tío Pancho</hi>, with
+<lb/>the greatest fondness, perhaps despite the fact that it was he who caused
+<lb/>her first meeting with Papa. He was, like his brother Felicísimo, a
+<lb/>free&#x2010;thinker, a Liberal, etc etc etc, and had done his part to achieve
+<lb/>the triumph of Alfaro and the Liberals in 1895, for which he was rewarded
+<lb/>with some appointments; he was the Postmaster General for a while, and
+<lb/>Minister of this or that at one time. By training, he was a lawyer
+<lb/>(cf. the reference to his being present at Dolores Zambrano’s testamenting
+<lb/>in 1869) and consequently had a good income. Amalia had inherited some
+<lb/>property from Paz y Miño in the city, plus a small estate named <hi rend="underline">Carretas</hi>
+<lb/>(carts) just outside Quito, so she was rather well&#x2010;off in her own right,
+<lb/>which was to cause a rather nasty and prolonged family squabble over
+<lb/>her will, which in turn required Papa to return to Quito in 1913. It
+<lb/>was with the small legacy he received that Papa made the downpayment on
+<lb/>2114 Glenwood Road when he returned to Brooklyn in 1918. And thereby
+<lb/>hangs a tale, whose <hi rend="underline">raison d’être</hi> is to explain the great paucity of
+<lb/>contacts between the Pazmiño kids in Brooklyn and their many Hurtado and
+<lb/>Stahlschmidt and Dávalos first cousins in Quito.
+</p>
+<p rend="indent">
+<lb/>From all these antecedents, and familiar with the predilection for
+<lb/>intermarriage, legitimate, on both sides of the family, and after many
+<lb/>hours of perusal of the accompanying and many, many other photographs,
+<lb/>my intuition comples me to declare that almost certainly Papa was not
+<lb/>the son of José Manuel Paz y Miño, and that his stepfather was also his
+<lb/>natural father, that he was therefore full brother to Julio and Malvina
+
+
+
+<pb n="30" facs="#page-034"/>
+<lb/>and consequently first cousin to Nana in blood as well as name. I first
+<lb/>reached this conclusion years ago and asked Nana about it a couple of
+<lb/>times. I never really did get a definite answer one way or the other,
+<lb/>but I recall that Nana only gave a semi&#x2010;“Bah” about it once, and
+<lb/>another time she just smiled and shook her head. The following pages
+<lb/>show most of the people mentioned above, so you can pore over the
+<lb/>pictures and draw your own conclusions.
+</p>
+<p rend="indent">
+<lb/>Notice how all Amalia’s children have her distinct rather wide
+<lb/>mouth; notice too the very dignified oval portrait of Diocelina, dated
+<lb/>August 1, 1897 in Quito, and how very much she reminds one of Stella.
+<lb/>One can see a clear relation among Diocelina, Malvina, Víctor, Julio
+<lb/>and Doña Amalia, but although Rosario has the same mouth and curly hair,
+<lb/>the rest of the face says something else enitrely. (The smaller photo of
+<lb/>Rosario was dated August 21, 1897, in Quito.) The photo of Julio César
+<lb/>has a note on the back to the effect that he died in Guayaquil on June
+<lb/>8, 1896 at the age of 17, so please correct my erroneous entry on chart
+<lb/>2. He died of yellow fever, and Nana recalled that when the doctors
+<lb/>wanted to administer enema to him to clear out his system (I presume
+<lb/>this was a contemporary practice) he refused; she attributed his death
+<lb/>to this decision and I think it coloured her medical philosophy forever.
+<lb/>The four pictures of Víctor Manuel show him at various stages; the first
+<lb/>is dated Quito, December 20, 1895, the second Brooklyn, March 10, 1902;
+<lb/>the third and fourth, also from Brooklyn, were probably taken in 1918
+<lb/>and 1943, the year before his death. Notice how black his hair still
+<lb/>was; when I last saw Malvina she was 88, and much of her still abundant
+<lb/>hair was still if not black, very, very dark grey. Unlike Víctor, and
+<lb/>later on his son Víctor, she never had recourse to that gallant but
+<lb/>unconvincing expedient of trying to deny baldness by letting the hair
+<lb/>get long on one side and then raking it over the top of the head. (I re<pc>&#x2010;</pc>
+
+
+
+<pb n="31" facs="#page-035"/>
+<lb break="no"/>member once riding on a roller coaster with Víctor, who was of course
+<lb/>holding his hat in his hand, and having to stifle my laughter at seeing
+<lb/>all this long hair flapping in the wind, but only on one side. It
+<lb/>would have been unspeakably deflating to mention it at the time, but
+<lb/>it <hi rend="underline">was</hi> funny.) And lastly, the picture of the five young ladies was
+<lb/>taken on October 30, 1898, and Nana herself wrote their names down.
+<lb/>When we would look at these pictures and others, she would always say
+<lb/>how careless it was of people not to write on the back who the person(s)
+<lb/>in the picture were, just in case. A game for you all: of these ladies,
+<lb/>two are sisters&#x2010;in&#x2010;law, two are half&#x2010;sisters, three are sisters, and
+<lb/>four are first cousins. Can you identify them all?
+</p>
+<p rend="indent">
+<lb/>Sometime around 1910 Malvina married a man named Humberto Egas,
+<lb/>who was from Guayaquil and belonged to a family that were friends of
+<lb/>Felicísimo and Francisca. The marriage was childless and a flop, and
+<lb/>they divorced. But they were still married when Doña Amalia died in
+<lb/>1913. She left a substantial estate, and quarrels arose between
+<lb/>Diocelina and Rosario and their families on one side, and Malvina and
+<lb/>Humberto and the widowed Francisco on the other. Papa, who had been
+<lb/>living in Brooklyn since 1900, went back to Quito to join in the fray
+<lb/>and stayed for five years, leaving Nana and the children in the utmost
+<lb/>penury. He wanted Nana and the family to go back with him, but Nana
+<lb/>refused, in part because of the embarrassing nature of the trip. In
+<lb/>1912 the Liberals and Alfaro fell rather catastrophically; Alfaro and
+<lb/>many other government officials were killed and mutilated, and it was
+<lb/>some time before things settled down. By the time of Amalia’s death
+<lb/>the Conservative government in power had offered amnesties and free
+<lb/>passage back to Ecuador to all those expatriate nationals who had
+<lb/>been connected with the preceding regime. The newspaper social columns,
+<lb/>which still tell of people coming and going today, would carry a
+
+
+
+<pb n="32" facs="#page-036"/>
+<lb/>notation to the effect that so &amp; so had just returned under the govern<pc>&#x2010;</pc>
+<lb break="no"/>ment’s repatriation/amnesty policy, which Nana thought would be too
+<lb/>humiliating. She later regretted this; in her last years, when the
+<lb/>poverty had become grinding, she would often tell me that she had
+<lb/>never wanted to come to this country in the first place, that the idea
+<lb/>was Abuelito’s and Papa’s and that in any event they had never intended
+<lb/>to stay in New York permanently. She was proud that she had never
+<lb/>become a citizen; I remember typing a letter for her to some Guayaquil
+<lb/>postal official, in which she complained about a letter of hers to a
+<lb/>cousin that had been “lost”; in it she described herself as “una
+<lb/>ecuatoriana ausente de mi patria durante muchos años.” It was at the
+<lb/>time 60 years since she had left Ecuador.
+</p>
+<p rend="indent">
+<lb/>I think when Papa came back in 1918, it was very much against his
+<lb/>wishes and judgement. But he did and that’s why we’re all here. And
+<lb/>all that is part of the next chapter aka the Pazmiño López family.
+<lb/>The initial photographic documentation whereof follows herewith.
+</p>
+<ab><lb/>..........</ab>
+<p rend="indent">
+<lb/>One final note: Doña Amalia’s portrait, sent to Papa and Nana, is
+<lb/>inscribed thusly (I translate): “The original (of this picture) loves
+<lb/>you argently and wishes you prosperity in the course of this miserable
+<lb/>life. Quito, August 6, 1908.” When I read that to Nana, she laughed,
+<lb/>and said that Doña Amalia was being sarcastic, that she had a sense
+<lb/>of humour about life.
+</p>
+
+
+
+<pb n="33" facs="#page-037"/>
+<lb/>I have been completely repaid the thousand pesos and interest, for which was
+<lb/>mortgaged the house which I sold to Mr. Jose Pasmiño in the Loma Chica
+<lb/>neighborhood. These thousand pesos were repaid by my daughter Amalia, for I have
+<lb/>wanted herein to favor my said daughter for her many services on my behalf.
+<lb/>Quito January 17, 1870
+<lb/>Dolores Zambrano
+<pb n="34" facs="#page-038"/>
+<pb n="35" facs="#page-039"/>
+<pb n="36" facs="#page-040"/>
+<lb/>...political of Quito canton, January 27, 1873
+<lb/>Discount the 8th seal Arboleda (He’s the scribe/notary &amp; refers to
+<lb/>such legalities)
+<lb/>In Quito on January 23, 1873, before the judge named below and in the
+<lb/>presence of witnesses who were present, Dolores Zambrano, legally adult
+<lb/>and single, finding herself close to death, said: that she recognized
+<lb/>her daughter Amalia Zambrano as her own and natural daughter: Mr. Manuel
+<lb/>Paz i Miño, together with his legal wife Miss Amalia Zambrano, who were
+<lb/>both present, expressed that they accepted this recognition, and in connection
+<lb/>with that they would sign this document, together with the witnesses and
+<lb/>the judge who certifies below. In this regard it is noted that the lady
+<lb/>does not sign herself because she is physically unable to do so. It is also
+<lb/>noted that this negotiation is attested to by this simple paper (rather
+<lb/>than legal paper) because it is nine o’clock at night and the appropriate
+<lb/>seal (or stamps) are not to be had at this time, and therefore the paper is
+<lb/>to be made legal, to which I also certify. Dated as above.
+<lb/>She also said that everything she leaves is for all her children. I certify it.
+<lb/>Manuel Paz y Miño
+<lb/>Amalia Zambrano
+<lb/>(Wit) Francisco Lopez
+<lb/>(Wit) Felicisimo Lopez
+<lb/>? Vicente
+<lb/>Francisco Tobar (?)
+<lb/>Civil judge Endara
+<lb/>(The attached is on the reverse and refers to the paper being
+<lb/>registered January...the page is torn off. Abdon ??, like
+<lb/>Endara above, is doubtless some functionary.)
+<lb/>It is clear on the original, different color ink, as it is here that
+<lb/>the phrase beginning "She also said" was added later and in a different
+<lb/>hand, not apparently that of anyone who signed, and all crowded in above
+<lb/>the signatures. Since this is 1873, and refers to Papa’s grandmother, the
+<lb/>other "children" would be Papa’s aunts, not his sisters, but it could have
+<lb/>been added in 1913, when Amalia Zambrano (Hurtado &#x2010; Paz y Mino &#x2010; Lopez)
+<lb/>died in one of the many many twists of the great inheritance fight.
+<lb/>NB The presance of Felicisimo and Francisco as witnesses shows that
+<lb/>the families knew each other well enough to act as legal witnesses before
+<lb/>old man Paz Y Mino died. (I erroneously thought Papa was a posthumous child.)
+<lb/>Francisco Lopez must have married Amalia viuda de Paz y Mino sometime around
+<lb/>1878, as there were kids other than Malvina, who was born in 1881.
+<pb n="37" facs="#page-041"/>
+<lb/>MARIANO AUZ
+<pb n="38" facs="#page-042"/>
+<lb/>Francisca Romero de Lopez (Mamita) and her son Samuel Lopez
+R. taken in Maracaibo, Venezuela, in the
+<lb/>late 20’s, by a street photographer while Mamita and Eloisa
+were there. Mamita was about 79 or
+<lb/>80, and Sam about 40. NB how in the seated postcard&#x2010;sized
+picture Mamita holds herself, very aristocratically.
+<pb n="39" facs="#page-043"/>
+<lb/>Eloisa, Dolores ("Lola") and Lelia ("Nana") at the Lopez tomb.
+<lb/>Stella, Linda, Lola, George, Nana, Eloisa and Joseph at the Pazmino tomb.
+<pb n="40" facs="#page-044"/>
+<lb/>Talk about keeping things! This is not me, but my Father;
+we lived on Glenwood Rd. I assume the group
+<lb/>photo was taken soonafter the date of this bill. This is,
+of course, before Alfred died in 1953.
+<lb/>(three weeks after your grandfather)
+<pb n="41" facs="#page-045"/>
+<lb/>Evergreens Cemetery
+<pb n="42" facs="#page-046"/>
+<lb/>The Evergreens
+<pb n="43" facs="#page-047"/>
+<pb n="44" facs="#page-048"/>
+<lb/>Nana &amp; Papa 1901
+<pb n="45" facs="#page-049"/>
+<lb/>FRANCISCO
+<lb/>AMALIA
+<pb n="46" facs="#page-050"/>
+<pb n="47" facs="#page-051"/>
+<pb n="48" facs="#page-052"/>
+<pb n="49" facs="#page-053"/>
+<pb n="50" facs="#page-054"/>
+<pb n="51" facs="#page-055"/>
+<pb n="52" facs="#page-056"/>
+<pb n="53" facs="#page-057"/>
+<pb n="54" facs="#page-058"/>
+<pb n="55" facs="#page-059"/>
+<pb n="56" facs="#page-060"/>
+<pb n="57" facs="#page-061"/>
+<pb n="58" facs="#page-062"/>
+<pb n="59" facs="#page-063"/>
+<pb n="60" facs="#page-064"/>
+</ab>
+    </body>
+  </text>
+</TEI>

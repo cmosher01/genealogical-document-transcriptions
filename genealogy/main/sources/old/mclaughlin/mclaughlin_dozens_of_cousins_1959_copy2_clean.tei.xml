@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin dozens of cousins 1959 copy2 clean</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1959_copy2_clean/p-011.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>TJke M^cJ^aug^hlind
+<lb/>&gt;Sw X
+<lb/>&gt;f
+<lb/>%
+<lb/>- A w
+<lb/>V
+<lb/>'k*
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+<lb/>DESCENDANTS OF
+<lb/>JAMES AND HANNAH MCLAUGHLIN
+<lb/>Natives of County Donegal, Ireland, James (1800-
+<lb/>1858) and Hannah (1806-1861) McLaughlin were parents
+<lb/>of eight children. The date of their arrival in the United
+<lb/>States is not definitely known.
+<lb/>ELIZABETH ("Lizzie") married THOMAS BUTLER
+<lb/>(1820-1882). No children.
+<lb/>WILLIAM (1825-1902) married MARGARET DOUGH
+<lb/>ERTY (1835-1904). Children:
+<lb/>Charles (1861-1925) James L. (1862-1944)
+<lb/>George (1864-1931) William (1866-1935)
+<lb/>Daniel (1867-1940) Thomas (1869-1910)
+<lb/>Ann (1870-1953) Hannah (1872-1886)
+<lb/>Frank (1873-1950) Kathryn (1876)
+<lb/>HONORAH (1826-1909) married DANIEL MCCARTY.
+<lb/>Children: Charles D. (1858-1939) James (1860-1942)
+<lb/>Remarried JOSEPH BRYAN (1830-1918). Children:
+<lb/>Mary (1864-1933) Kate (1866- )
+<lb/>Nell (1868-1947) Will (1870-1952)
+<lb/>JAMES (1826-1911) married REBECCA LORD (1828-
+<lb/>1905). Children:
+<lb/>Mary Will (1861-1932)
+<lb/>Elizabeth (1869-1935) Margaret
+<lb/>James ("Big Jim") (1862-1940) Charles (1867-1868)
+<lb/>Christina (1871-1871)
+<lb/>MARY (1827-1902) married MCGINLEY. Daughter:
+<lb/>Hannah.
+<lb/>Remarried JAMES HARVEY. Son: James.
+<lb/>ELLEN (1835-1908) married WILLIAM VAN NORT-
+<lb/>WICK. Son: William (1857-1934).
+<lb/>Remarried PATRICK TOUHEY (1817-1902). Children:
+<lb/>Honorah (1860-1889) Charles (1861-1861)
+<lb/>John M. (1863-1883) James P. 1865-1930)
+<lb/>Edward (1875-1951) Charles (1878)
+<pb n="4" facs="#page-003"/>
+<lb/>CHARLES (1838-1864) never married. Was drowned in
+<lb/>the James River when returning home after his discharge
+<lb/>from the Army in the Civil War.
+<lb/>ANN (1844-1914) married CHARLES O'NEIL (1825-
+<lb/>1907). Children:
+<lb/>Charles James (1866-1950)
+<lb/>Ella Lillie
+<lb/>Williaim and Margaret Dougherty McLaughlin
+<lb/>Charles
+<lb/>Married EDITH NIXON (1861-1925) Children:
+<lb/>William (1891) Pearl (1892) Margaret (1894-1894)
+<lb/>Lee ( ) Stanley (1906-1908)
+<lb/>LEE never married. Died when a youth.
+<lb/>WILLIAM married GERTRUDE MASTERS (1895) in
+<lb/>1915. Children:
+<lb/>Lois (1927) Lucille (1934) Patricia (1935) Wm. Jr. (1936)
+<lb/>LOIS married RALPH BORDEN in 1946. Son. Ralph
+<lb/>Eugene (1950). Remarried Alexander CCJNNER (1919)
+<lb/>in 1956. Children: Margaret Inez (1957) Gertrude (1958)
+<lb/>LUCILLE married Lloyd ROWE in 1957. Daughter:
+<lb/>Catherine Ann (1959).
+<lb/>PEARL married LEE SCUDDER (1893). Children:
+<lb/>Charles (1916) Ivan (1919) George (1921) Howard (1927)
+<lb/>Earl (1916-1928) Lynn 1930)
+<lb/>EILEEN TOUHEY married GILFORD BISHOP (1915)
+<lb/>in 1942.
+<lb/>THOMAS married Joan LONDIGAN (1930) in 1955.
+<lb/>WILLIAM married BARBARA LAKE (1933) in 1954.
+<lb/>Children: Peter (1955) Mary (1956-1956) Timothy (1957)
+<lb/>Mary (1959)
+<lb/>EDWARD married REGINA TOBIN (1928) in 1954.
+<lb/>Children: Edward C. (1951-1951) Edward C. (1953-1953)
+<lb/>Stephen (1955) Bryan (1956) Regina (1957) Karem
+<lb/>(1958)
+<lb/>MARY ELIZABETH entered the Convent of the Cenacle
+<lb/>in 1957.
+<lb/>ANN MCLAUGHLIN and CHARLES O'NEIL
+<lb/>CHARLES married. No children.
+<lb/>JAMES never married.
+<lb/>LILLY never married.
+<lb/>ELLA married Charles MILLER. Two sons. No Record.
+<pb n="5" facs="#page-004"/>
+<lb/>ELLEN MCLAUGHLIN and PATRICK TOUHEY
+<lb/>DR. JAMES P.
+<lb/>Married GRACE MILLER. Children: Harry M. &amp; Clair L.
+<lb/>HARRY married MARGARET TOOLE (1927). Children;
+<lb/>Harry J. (1934) Margaret (1940)
+<lb/>CLAIR married HELEN DONAHUE (1930. No children.
+<lb/>HONORAH
+<lb/>Married ELY ROSEKRANS. Daughter: Ella
+<lb/>ELLA ROSEKRANS married ROY SCHIVER.
+<lb/>Adopted: Arthur.
+<lb/>ARTHUR married MARY SULLIVAN. Five children.
+<lb/>CHARLES
+<lb/>Married WINIFRED HUETTER (1885-1941). Children:
+<lb/>Alice ( ) Prank ( ) Carl ( )
+<lb/>ALICE TOUHEY married RICHARD WALSH. Children:
+<lb/>Larry, Natalie, Nicholas, Eleanor, Carl.
+<lb/>FRANK married CARLA GATON. Children: Theresa,
+<lb/>Frank, Eileen, Claudia, Anthony, James, Patrick.
+<lb/>CARL married LILA LATHAM. Children:
+<lb/>Charles, John, Virginia, Marie
+<lb/>EDWARD
+<lb/>Married VERONICA PRESKY (1891-1920) in 1914.
+<lb/>Daughter: Eileen (1916)
+<lb/>Remarried MARY TOOLE (1891-1946) in 1955.
+<lb/>Children: Thomas (1929) William (1932) Edward (1928)
+<lb/>Bernard (1933) Mary Elizabeth (1930)
+<lb/>CHARLES married Agnes WHITE in 1949.
+<lb/>IVAN married Evelyn LONG in 1948. Children: Barbara
+<lb/>Ann (1952) Paul Wayne (1954)
+<lb/>HOWARD married Lillian WATSON in 1954. Children:
+<lb/>Larry (1955) Wayne (1957)
+<lb/>EARL married Helen MAHONEY in 1957.
+<lb/>JAMES L. MCLAUGHLIN
+<lb/>Married ANTOINETTE WARD (1873-1938). Children:
+<lb/>Kenneth (1900) Cleon (1902-1959) Earl (1904)
+<lb/>George (1909-1912) Thelma (1910-1956)
+<lb/>KENNETH married Elizabeth FRENCH. Son: Harold.
+<lb/>Remaried Ellen KITTNER (1912). Children:
+<lb/>Douglas (1932) Patrick (1935) Kay Francis (1937)
+<lb/>Kenneth Jr. (1943) Barbara (1945) Ellen (1947)
+<lb/>DOUGLAS married Jean POTTER (1936) in 1953. Child
+<lb/>ren: Michael (1954) Mark (1956) JoAnn Dawn (1958)
+<lb/>PATRICK married Shirley POTTER (1937) in 1954.
+<lb/>Children: Patrick Jr. (1956) Brian Kelley (1957)
+<lb/>(1957)
+<lb/>KAY FRANCIS married Jesse SHAW (1933) in 1955.
+<lb/>Children: Keith (1956) Brian Kelly (1957)
+<lb/>CLEON married Margaret MANN. Son: Robert
+<lb/>Remarried Isabelle ?. Children: James and Jane.
+<lb/>EARL married Margaret CLANCY. Adopted 2 children.
+<lb/>No record. Remarried Violet LOCEY (1907). Step-son:
+<lb/>Rockne Locey. Rockne Locey married Marlene KIRK-
+<lb/>LAND. Children: Michele (1957) Rockne Jr. (1959)
+<lb/>THELMA married ROBERT HACKETT. No children.
+<pb n="6" facs="#page-005"/>
+<lb/>GEORGE MCLAUGHLIN
+<lb/>Married JULIA SHEA (1858-1939) Children: Leo (1898-
+<lb/>1899) Adopted Joseph (1906).
+<lb/>JOSEPH married Margaret DOYLE. Children: Kitty
+<lb/>(1936) Francis (1934-1942) Carol Ann (1941) Marian
+<lb/>KITTY married James MURPHY in 1958.
+<lb/>WILLIAM P. MCLAUGHLIN
+<lb/>Married Bridget RYAN (1874-1922). Children: Margaret
+<lb/>(1901) Prances (1902-1902) John (1903)
+<lb/>Florence (1906) Elsie (1908) Holland (1911-1944)
+<lb/>JOHN married LUELLA HELLER. No children.
+<lb/>HOLLAND married RUTH PECOR. No children.
+<lb/>ELSIE married CLAIR MCCARTY (1897). No children.
+<lb/>FLORENCE married ALLEN FROST (1915) in 1937.
+<lb/>Children: Anita (1938) Janet (1943) Jean (1945)
+<lb/>MARGARET married SAMUEL FROST (1901-1951) in
+<lb/>1923. Children: Shirley (1923) Raymond (1926)
+<lb/>Helen (1927) Ann (1936) Kay (1942-1957)
+<lb/>RAYMOND FROST married PHYLLIS HILTON (1925)
+<lb/>in 1947. Children: Jack (1949) Rae (1950) Terry (1951)
+<lb/>Peggy (1953) Michael (1954) Lorraine (1955) Patrick
+<lb/>(1957)
+<lb/>HELEN FROST married GEORGE BUTTON (1924) in
+<lb/>1947. Children: David (1948) Setven (1949) Jo Ann
+<lb/>(1950) Jean &amp; Julia (1954-1954).
+<lb/>JAMES
+<lb/>Married MARGARET LORD (1878-1944). Children:
+<lb/>Emma (1903) Anna (1905-1956)
+<lb/>MARY MCLAUGHLIN MCGINLEY
+<lb/>HANNAH
+<lb/>Children: Mary K. (1886-
+<lb/>Daug'hter: Mildred.
+<lb/>Married EMMETT ELLIS.
+<lb/>1888) Ella.
+<lb/>ELLA married DONNELS
+<lb/>ELLEN MCLAUGHLIN VANNORTWICK
+<lb/>WILLIAM
+<lb/>Married CATHERINE BATTY. Children:
+<lb/>William (1889) Helen (1887)
+<lb/>WILLIAM married MARY KENNEY. Children:
+<lb/>Jean (1925) Mary Helen (1921) Francis (1922)
+<lb/>James (1930)
+<lb/>JEAN VANNORTWICK married DAVID CARMAN in
+<lb/>1952. Children: Donna Rae (1953) William Earl (1954)
+<lb/>Paul (1956)
+<lb/>MARY HELEN married WALTER BECKER in 1945.
+<lb/>Children: Mary Helen (1956) Stephen William (1946)
+<lb/>Thomas Joseph (1947) Mark Walter (1951)
+<lb/>FRANCIS married MARGARET HEALEY in 1948.
+<lb/>Children. Ellen Elizabeth (1949) Kathryn (1952)
+<lb/>Christopher (1956)
+<lb/>JAMES married PATRICIA BACHAND in 1954.
+<lb/>Children: Monica Ann (1955) Mary Grace (1957)
+<lb/>James Jr. (1958)
+<pb n="7" facs="#page-006"/>
+<lb/>WILLIAM "Wild Bill"
+<lb/>Married WINIFRED HAMMOND (1881-1958). Children:
+<lb/>Rebecca (1901) Walter (1903) Carrie (1906)
+<lb/>Mary Eleanor (1909) Patrick (1911) Raymond (1916)
+<lb/>REBECCA MCLAUGHLIN married ELMORE BLEW
+<lb/>(1898) in 1924. No children.
+<lb/>CARRIE MCLAUGHLIN married JOHN WOODWARD
+<lb/>(1893) in 1931. Daughters: Joan and Evelyn.
+<lb/>MARY ELEANOR married KENNETH BALLARD
+<lb/>(1907) in 1929. Son: Earl.
+<lb/>WALTER married CLARA MURPHY in 1926. Children:
+<lb/>Leon, John, Jean, Robert, Patrick, Elsie, James, Daniel.
+<lb/>PATRICK married DOLLY HAMILTON in 1942.
+<lb/>Children: Patricia and William.
+<lb/>RAYMOND married CORA KIDD in 1938. Son: Howard
+<lb/>ELIZABETH
+<lb/>Married PARLEY HUMPHREY (1850-1918). Children:
+<lb/>William (1896) Mary
+<lb/>WILLIAM HUMPHREY married HAZEL BROWN
+<lb/>(1895-1947). No children.
+<lb/>MARY HUMPHREY married SHELDREN ASAY.
+<lb/>No children.
+<lb/>Remarried VOORHEES. No children.
+<lb/>MARGARET
+<lb/>Married ARTHUR VARGESON. No children.
+<lb/>Adopted: Charles. No record.
+<lb/>DANIEL MCLAUGHLIN
+<lb/>Married CATHERINE HENDRICK (1875). Children:
+<lb/>Edna (1899) Arthur (1901) Maynard (1902)
+<lb/>Thomas (1904) Evelyn (1909) Dorothy (1914) Paul (1918)
+<lb/>EDNA married CHAUNCEY BULKLEY (1898) in 1919.
+<lb/>Children: John (1923) Eileen (1925-1926) Mary (1927)
+<lb/>Rita (1933) Carol Evelyn (1936-1936)
+<lb/>JOHN BULKLEY married ROSE MAHLUM (1923) in
+<lb/>1944. Children: Jennie Lee (1945) Daniel John Jr.
+<lb/>(1946) Richard (1951) Brian (1953) Eileen (1955)
+<lb/>Gerald (1957) Susan Rose (1958)
+<lb/>MARY BULKLEY married RAYMOND DONALD KEEP
+<lb/>ER (1918) in 1946. Children: Patrick (1946) Joan (1947)
+<lb/>RITA BULKLEY married ALFRED MCRAE (1928) in
+<lb/>1953. Children: Mary Kay (1954) Ann Elizabeth (1956)
+<lb/>Elizabeth Jane (1958)
+<lb/>ARTHUR married Margaret SMITH in 1931. Childi-en:
+<lb/>Edward (1932) Donald (1933) Joyce (1934
+<lb/>Bernard (1936) Jean (1940)
+<lb/>EDWARD married Janice MCCONNELL in 1950.
+<lb/>Children: Terry Michael Jean Marie
+<lb/>DONALD married Carolyn LOWERY in 1951. Children:
+<lb/>Maureen (1953) Michael Daniel (1955)
+<lb/>BERNARD married Patricia COLLINS in 1957.
+<lb/>Daughter: Deborah Ann (1958)
+<lb/>MAYNARD married Alice HOGUE (1905) in 1931.
+<lb/>Children: Ann (1932) Daniel (1933) Maynard (1934)
+<lb/>Katherine (1939) Shiela (1936) Alice (1940) Elizabeth
+<lb/>(1942)
+<pb n="8" facs="#page-007"/>
+<lb/>Elizabeth entered St. Joseph Convert. Now Sister Mary
+<lb/>Jerome.
+<lb/>ANN Mclaughlin married Matthias FENNELL (1928)
+<lb/>in 1956. Children; Ann Elizabeth (1957) Mary Catherine
+<lb/>(1959)
+<lb/>DANIEL married KATHY RICHARD in 1957.
+<lb/>THOMAS married Anna HOGUE (1906) in 1935.
+<lb/>Daughter: Kay (1940
+<lb/>EVELYN married Raymond CAREY (1899) in 1933.
+<lb/>Children: Katherine (1932) Sharon (1943)
+<lb/>DOROTHY married Michael KANE (1911) in 1947.
+<lb/>Daughter: Patricia Ann (1948)
+<lb/>PAUL married Kathryn SCHUR (1918) in 1944. Children:
+<lb/>Evelyn (1945) Bernadette (1946) Michael (1947)
+<lb/>Ruth (1948) John (1949) Mary Kathryn (1951)
+<lb/>Jane (1952) Thomas (1953) Carol (1954) Veronica
+<lb/>Mae (1958)
+<lb/>ANN MCLAUGHLIN
+<lb/>Married ELMER HARRISON (1873-1943). Children:
+<lb/>Walter (1900-1903) John (1901) Alice (1905)
+<lb/>Leo (1907) Gerald (1908)
+<lb/>LEO married Madeline LOWERY. No children.
+<lb/>JOHN married Dorothy VANNORTWICK (1903) in 1926.
+<lb/>Children: Miriam (1933) Sally (1936)
+<lb/>SALLY HARRISON married Robert J. BROWN in 1958.
+<lb/>JOHN married RUTH LICESE in 1948. No children.
+<lb/>CHARLES married GLORIA GARCIA in 1951. Children:
+<lb/>John (1924) Charles (1926) Roger (1930)
+<lb/>ROGER married JOYCE MCGUIRE in 1949. Children:
+<lb/>Roger (1950) Catherine (1954) Mark Richard (1956)
+<lb/>Michael James (1952)
+<lb/>JAMES and REBECCA LORD MCLAUGHLIN
+<lb/>MARY
+<lb/>Married PATRICK DRISCOLL. Children:
+<lb/>Mary, Margaret, Elizzabeth, Rebecca.
+<lb/>MARGARET DRISCOLL married LOUIS DIXON.
+<lb/>No children.
+<lb/>REBECCA DRISCOLL married JOSEPH SPROULE.
+<lb/>No children.
+<lb/>ELIZABETH DRISCOLL married JULES HEYDORF.
+<lb/>Son: Raymond.
+<lb/>RAYMOND DRISCOLL married EARL STEPHENS
+<lb/>(  -1958). Children: Helen (1910) Lawrence (1912)
+<lb/>Esther (1919)
+<lb/>HELEN STEPHENS married RAYMOND HEYDORF.
+<lb/>LAWRENCE married MARGARET YOST.
+<lb/>Daughter: Margaret Ann.
+<lb/>ESTHER STEPHENS married DAYTON BRION. Child
+<lb/>ren: Charlotte (1947) Karen (1948) Shirley (1949)
+<lb/>Russell (1956)
+<pb n="9" facs="#page-008"/>
+<lb/>NELLIE married Will BIXBY (1884-1958) in 1913.
+<lb/>Children; Glair (1914) Helen (1916) Carl (1922)
+<lb/>Madeline (1929-1954)
+<lb/>CLAIR BIXBY married Helen DIVENS (1920) in 1989.
+<lb/>Children: Donald (1940) John Edward (1942)
+<lb/>Mary Elizabeth (1944) Irene (1945)
+<lb/>HELEN BIXBY married David HILL. Daughter: Elsie
+<lb/>(1936)
+<lb/>Remarried BURDETTE BROWERE in 1943.
+<lb/>Children: Richard (1946) Thomas (1950
+<lb/>CARL BIXBY married Pauline PALMER (1920) in 1947.
+<lb/>Children: James (1948) Robert Carl (1951)
+<lb/>Joseph (1953 David (1956)
+<lb/>MADELINE BIXBY married Russell LUEDEMAN in
+<lb/>1950. Son: Roger (1953)
+<lb/>KATE
+<lb/>Married BURT SPROULE. Children: Joseph (1896)
+<lb/>Harold (Died in service, World War I)
+<lb/>JOSEPH married Rebbecca DRISCOLL. No children.
+<lb/>NELL
+<lb/>Married PETER MELVILLE. Son: CHARLES (1897)
+<lb/>Remarried JOHN HETHERINGTON (1870-1958.
+<lb/>No children.
+<lb/>CHARLES MELVILLE married ELLEN MAHER (1897).
+<lb/>Children: John (1924) Charles (1926) Roger (1930)
+<lb/>ALICE HARRISON married FRED MOSHER in 1934.
+<lb/>Son: Barry (1937)
+<lb/>GERALD married Thelma GREEN (1911) in 1930.
+<lb/>Son: Gale (1935)
+<lb/>GALE married Mary SIPIAN in 1956.
+<lb/>Son: Gerald Michael (1957)
+<lb/>FRANK MCLAUGHLIN
+<lb/>Married MARY FERN (1871-1944). Children:
+<lb/>Dudley (1908) Mary (1909) Helen (1912
+<lb/>DUDLEY married Bridget GALVIN (1907) in 1936.
+<lb/>Daughter: Maureen (1938)
+<lb/>MARY married Glen FLASPHALER (1907) in 1945.
+<lb/>No children.
+<lb/>HELEN married CARL TERRY (1907) in 1941.
+<lb/>No children.
+<lb/>KATHRYN MCLAUGHLIN
+<lb/>Married Arthur HENDRICK (1868-1937). Children:
+<lb/>Lawrence (1903-1904) Donald (1905) Basil (1911)
+<lb/>DONALD married Ruth RUSSELL. Children:
+<lb/>Dorothy (1927) Phyllis (1928) Paul (1930)
+<lb/>Remarried Marian LAHR. No children.
+<lb/>DOROTHY HENDRICK married Arthur DEVENPORT
+<lb/>(1924) in 1946. Children:
+<lb/>Arthur Jr. (1946) Craig (1950) Pamela (1958)
+<pb n="10" facs="#page-009"/>
+<lb/>PHYLLIS HENDRICK married John CLEESATTEL in
+<lb/>1946. Children: Kathy Ann (1949) John (1951)
+<lb/>PAUL married Dorothy SOUTHESON in 1950. Children:
+<lb/>Peter Michael (1953) Mark (1955)
+<lb/>BASIL married Isabelle PECOR. Children:
+<lb/>William (1937) James (1938-1956) Karen (1942)
+<lb/>Remarried Ruth MCANDERS. Step-daughter:
+<lb/>Janet McAnders
+<lb/>MARIANNE KEENAN married Thomas O'LEARY in
+<lb/>in 1948. Children: Kevin (1949) Shawn (1951)
+<lb/>Timothy (1953) Julie Ann (1955) Patrick (1957)
+<lb/>MARLEIGH KEENAN married John MCGANNON in
+<lb/>1948. Children: Sherrylee (1951) Stephen (1953)
+<lb/>Charles (1955) Mary Lou (1952)
+<lb/>ETHEL MCCARTY married George KEENAN (1893) in
+<lb/>1921. Children: Elizabeth Jean (1923) Irene (1927)
+<lb/>George Jr. (1944-1944) Thomas (1936-1953) James (1933)
+<lb/>HANNAH MCLAUGHLIN AND DANIEL MCCARTY
+<lb/>CHARLES D.
+<lb/>Married STEELA SHEA (1870-1959). Children:
+<lb/>Margaret (1900) Isabelle (1902-1953
+<lb/>Estelle (1906) Justin (1905)
+<lb/>MARGARET married Arthur DORAN (1894) in 1939.
+<lb/>No children.
+<lb/>ISABELLE married John AMEY (1900-1954).
+<lb/>No children.
+<lb/>ESTELLE married John AMEY (1900-1954).
+<lb/>Adopted: Andrea.
+<lb/>JUSTIN married Marian REARDON (1905) in 1955.
+<lb/>No children.
+<lb/>JAMES
+<lb/>Married Elizazbeth HENDRICK (1863-1923). Children:
+<lb/>Katherine (1888-1958) Ethel (1900) Clair (1897)
+<lb/>KATHERINE married Earle KEENAN in 1921. Children:
+<lb/>Florence (1924-1931) Marianne (1926) Marleigh (1927)
+<lb/>ELIZABETH JEAN KEENAN married Dr. John WARD
+<lb/>(1923) in 1946. Children: Nancy (1948) Michael Keenan
+<lb/>(1949) Margaret Ann (1950) Kathy Ann (1953-1953)
+<lb/>Daniel (1955)
+<lb/>IRENE KEENAN married Jack DAULTON (1928) in
+<lb/>1950. Children: Christopher (1951) Timothy (1953)
+<lb/>David Thomas (1954) Debra Jeanne (1956) Jill (1958)
+<lb/>Peter Keenan (1959)
+<lb/>JAMES KEENAN married Mary Lynne EAGAN in 1958.
+<lb/>CLAIR MCCARTY married Elsie MCLAUGHLIN in
+<lb/>1930. No children.
+<lb/>HANNAH MCLAUGHLIN and JOSEPH BYRAN
+<lb/>MARY
+<lb/>Married WILL HOYT (1870-1955) Children:
+<lb/>Charles (1891-1949) Nellie (1894)
+<lb/>CHARLES married Frances TOBEY. Son: HARRISON
+<lb/>Remarried Lillian BARBER .Children:
+<lb/>John, Pauline, Norma
+<pb n="11" facs="#page-010"/>
+<lb/>■ ,B ■
+<lb/>I&gt;&gt;x«»3 JLrc.-&gt;a r'va "Vjj^c-i :TX fOsiX ^Xjf,s€
+<lb/>"  ■aQtmdqoik XteZ
+<lb/>sru^'fefl o's.i^&amp;X! if ©all -.ci &gt;,s^
+<lb/>- X5QI nl islc^T
+<lb/>eoaijsxa'j 3, tXaiiX .fc^a£?DX colXrieXiXsio©
+<lb/>«3-£&lt;;:;fc-aX aj^Xil aifl? Yo
+<lb/>'jc/ :.;-)i xoXsxd ii;iX vlxaojr
+<lb/>=.#4'Saxj5 ,dX Xflcj vsIxixiB
+<lb/>t9dSt&gt; u;j3 Yo .df-Xi ,^aoy fes.tislij'?
+<lb/>,ssX3.:) £si.:&amp;3.;n xg eacX£'i&gt;sx'iOO
+<lb/>i O'} jxQxxs !^is"if'£a . 'S^Xfii-jKi cdf
+<lb/>■tovo *fo t'Oljib sdX fSli mM'Q
+<lb/>©rfcr -saoito ;.a XAaL'c&amp;eia a sa-i^j-x/lg te
+<lb/>,#nt"0i5si,&amp; -ol; OS Xfxyas^sXf?
+<lb/>:9biK; Alifflfla eaoi£?a£iT£oa .sflX^JoXJfct
+<lb/>♦Sao&amp;. f'ca ftX t^iktsoQ It&amp;t- . :S og-f
+<lb/>©if &amp;£e^s3
+<lb/>Jm&amp;j 2k&gt;i'£3^ £01 sfliX w-&lt;3
+<lb/>. »\5„Cl3i^i ocs xi Bifsf-s'rici© al
+<lb/>fiita {'^c-^X) •? aac'oS ©d BilaoxfS
+<lb/>feX-xim ;B sfxLC
+<lb/>a^-a.iX^QXiw'jsl .. :I^.I ft.- -^s^Q MmttfiS
+<lb/>, , ^CDI^X) xsd'SKidTicf
+<lb/>«i3sd3 siXts^a 'iX'^lX ^8 •g'5.
+<lb/>*  yoa X"Kdl. ;c; ©alX
+<lb/>f
+<lb/>f
+<pb n="12" facs="#page-011"/>
+<lb/>ccBwsc'nms
+<lb/>Tha priateir Bcade several erroara bo I
+<lb/>gave him the choice of doing it over
+<lb/>or giving us a discount. He chose the
+<lb/>discount so for said disccunt, the
+<lb/>follcsjing corrections shouJ-d be made:
+<lb/>Pg. 2: Earl Scudder is not deed.
+<lb/>Should be (1923).
+<lb/>Pg' 3&gt; lib® iS: Patrick and Shirley
+<lb/>Potter McI., Children; Patrick Jr.,
+<lb/>is con'sct. Thei'e is no Brian KeJj-ey.
+<lb/>Should be Robert (1955) and Lee
+<lb/>Vincent (195?)•
+<lb/>Pg, 6, line 8: Evelyn married
+<lb/>Raymond Carey in 1931 • Kathei'lEi®''®
+<lb/>birthdate: (1933)•
+<lb/>Pg. 8, line 11: Itoricd Stella Shea.
+<lb/>Pg. 8, line l8: Estelle McCorty
+<lb/>married Wilson Hodd (1905).
+<lb/>Pg, 9, line 25J i^idd Harrison Hoyt. I^Jaritled
+<lb/>^^ar^orie ?. Sis one daughter,iSargaret Ann.
+<lb/>Pg, ll,line 3; Charles h Gloria Garcia
+<lb/>^Ielville. CTalldren: Cheryl Wsndy(l952)
+<lb/>Deborah Anii(l953) and Jdaiy Margaret(1557)«
+<lb/>Pg.ll, line 17: Mary Driscoll married
+<lb/>Earl Stephens.
+<lb/>Pg®5-^i» 3 lines from bottom; Edward Touhey
+<lb/>married I«lary Tode in 1927.
+<lb/>Pg. 15, lii^ 7: Edt?ard married Reglna
+<lb/>Tobin in 1951»
+<lb/>We should -ihoisk I&amp;*. Ciiarles Touhey,
+<lb/>Albany, N.Y. for his generous
+<lb/>contribution toward printing expenses
+<lb/>of this little booklet.
+<lb/>Pg* 9# libo 6: Mary Leu McC-anncn(l956). t-
+<lb/>Please notify the historian or
+<lb/>Shirley Frost, 224 E. High Street,
+<lb/>Painted Post, N.Y. of any other
+<lb/>corrections or missing dates.
+</ab>
+    </body>
+  </text>
+</TEI>

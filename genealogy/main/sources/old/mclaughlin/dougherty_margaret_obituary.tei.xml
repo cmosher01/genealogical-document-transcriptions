@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Margaret Dougherty Obituary</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="u">Mrs. Margaret McLaughlin</title>, obituary,
+          <title level="j">Corning (New York, USA) Journal</title>,
+          <citedRange>28 Sep 1904, p. 3, col. 3</citedRange>.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>Transcription verified.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/dougherty_margaret_obituary.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+<pb facs="#page-000"/>
+<head rend="center"><lb/>Died at Hornby.</head>
+<hi rend="center"><lb/>—</hi>
+<p>
+  <lb/>Mrs. Margaret McLaughlin, aged 76
+  <lb/>years, died from paralysis on Sept. 24
+  <lb/>at her home in Hornby. She was the
+  <lb/>widow of William McLaughlin, who
+  <lb/>died in February, 1902. She is sur<pc>‐</pc>
+  <lb break="no"/>vived by seven sons, Charles, James
+  <lb/>George, William, Daniel, Thomas and
+  <lb/>Frank, and by two Daughters, Mrs.
+  <lb/>Anna Harrison and Mrs. Catherine
+  <lb/>Hendrick.
+</p>
+<p>
+  <lb/>Mrs. McLaughlin was a native of
+  <lb/>Ireland. She was a very worthy wo<pc>‐</pc>
+  <lb break="no"/>man, and had the high respect of all
+  <lb/>who knew her.
+</p>
+      </ab>
+    </body>
+  </text>
+</TEI>

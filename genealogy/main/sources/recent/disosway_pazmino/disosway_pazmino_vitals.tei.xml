@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>disosway pazmino vitals</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_pazmino/disosway_pazmino_vitals/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_pazmino/disosway_pazmino_vitals/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_pazmino/disosway_pazmino_vitals/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_pazmino/disosway_pazmino_vitals/p-003.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>i^iip. amcl i^lrs. Vaeitoi' i^iamiuiel jFas^mieoammoMmce 4e marra^t^e of llieiF tlaiM^liiier. le\ lolAr. Harj^ Flamiilreaw Disoswaj"om SainFJ^y Ae tweMjjiaiL of JraOme AoMsamJ lame linniJFeJ amJBFooLljTEii, New York
+<pb n="2" facs="#page-001"/><lb/>iflVf-Ti 4..
+<lb/>r.rf.e i« „
+<lb/>ry Jl/litw.- f
+<lb/>xjirwork. '
+<lb/>liowrvrr, -Ot.
+<lb/>ivatc fariu! f, •
+<lb/>ilr notir.
+<lb/>JOHN F. X. DAVOREN
+<lb/>SECRETARY -OE--THE-COMMONWEALXH-
+<lb/>— EDWARD J. CRONIN
+<lb/>DJ
+<lb/>(City or Town)
+<lb/>Secretary of the Commonweai.th
+<lb/>DIVISION OF VITAL STATISTICS
+<lb/>STANDARD
+<lb/>CERTIFICATE OF DEATH
+<lb/>- '■\X-:^X-\^.uyXJ-u^
+<lb/>(City or Town makinj? this return)
+<lb/>Registered No. X
+<lb/>^  death occurred In a hospital or institution,p ) . ! " " ot.lgjve its NANfH! instead of street and number)
+<lb/>,  .r hl£lLaLM±s^As.w
+<lb/>il deceased a^married, widowed or divorced womajf, give also maiden name.)
+<lb/>/  h' Ti I 4 /
+<lb/>li deceased r uivorcea woman, Was deceased a0. S. War Veteran,
+<lb/>if
+<lb/>f nuJ place of abode)
+<lb/>, 4ar lo place of death
+<lb/>s.._
+<lb/>,  -T ^years. montha^.j^.. days. In place of residence years months
+<lb/>(If nonresident,
+<lb/>so specify WAR).
+<lb/>give city or town and State)
+<lb/>days.
+<lb/>wedical certificate of death
+<lb/>litre on 19.£-C?, a
+<lb/>„.r m the date stated above, at
+<lb/> I attended deceased from
+<lb/>death 15 said to
+<lb/>, nl CAUSED BY: IMMEDIATE CAUSE
+<lb/>ab a rU7 / iLitJ
+<lb/>LilL&amp;U
+<lb/>INTERVAL
+<lb/>BETWEEN
+<lb/>ONSET AND
+<lb/>DEATH
+<lb/>s5
+<lb/>'t;
+<lb/>jrrformcd
+<lb/>jIaji HJA^Trj^c^±(d]7_■■ .-l-=.d diagnosis?-032^L.!:'L&amp;il/(_i-|.,^(^T?JX-
+<lb/>injury in any wa/ related to occupat^^ of deceased fLuV
+<lb/>M. D
+<lb/>ti
+<lb/>I  XItJ. j -2
+<lb/>yy or Town) I.19\'f
+<lb/>PERSONAL AND STATISTICAL PARTICULARS
+<lb/>8 SE;tr-
+<lb/>rr
+<lb/>ioL tf
+<lb/>lOa If married, widowed, or divorced
+<lb/>HUSBAND of
+<lb/>10 .SINGLE (write the word)
+<lb/>MARRIED I 1 A
+<lb/>WIDOWED I jijr-,,)
+<lb/>or DIVORCED L-«A-&lt;r-r^
+<lb/>(or) WIFE of...r
+<lb/>(Give mai&lt;fm pame of wife in full)
+<lb/>U1S-.DI.. L'Jfiu
+<lb/>(Ifusband's name in full) f
+<lb/>II IF STILLBORN, enter that fact here.
+<lb/>12 ;
+<lb/>AGeO X Years. Cj'^.^Iontbs/.-r^aysU Usu./l I )"T 'P^
+<lb/>Occupation: s \ L ^
+<lb/>If under 24 hours
+<lb/>Hours M inutci
+<lb/>14 Industry
+<lb/>or Business:...
+<lb/>K'
+<lb/>ii
+<lb/>•1
+<lb/>(Kind^of wort done during most of working life)
+<lb/>U'
+<lb/>15 Social Security No..
+<lb/>16 BIRTHPLACE (City)
+<lb/>(State or country).^
+<lb/>r-X
+<lb/>18 birthplace of vfl f \^/
+<lb/>FATHER . "
+<lb/>(State or country)
+<lb/>19 MAIDEN NAME
+<lb/>OF MOTHER
+<lb/>21
+<lb/>20 BIRTHPLACE OF &gt;-0 f
+<lb/>MOTHER ../SL^ri
+<lb/>I  (State or country) ^
+<lb/>XT
+<lb/>L
+<lb/>Informa..
+<lb/>(2\ddrcss)
+<lb/>''V ATTIuST; '
+<lb/>t4J
+<lb/>(Registrar)
+<lb/>1^..
+<lb/>I HEREBY^CERTIFY that a satijiCcwa^ fi led,--wilh me BEFOl^. Ihe'imnal or trans,t permit w"aV".s'.ue"d '
+<lb/>tt' w.
+<lb/>sPactory .standard certificate of dea
+<lb/>tl
+<lb/>th
+<lb/>f lAinal
+<lb/>o( Agent of Board of Health or other)of Agent of Board of Heaith or other)_ '7/2sj7 f, 0(Oflicial Designation^ (Date of Issue of p/rrait)/
+<lb/>/, the. undersigned, hereby certify that I am the Secretary of The Commonwealth of Massachusetts',
+<lb/>that as such I have custody of the records of births, marriages and deaths required by law to be kept
+<lb/>in my office-, and I do hereby certify that the above is a true copy from said records.
+<lb/>WITNESS my hand and the GREAT SEAL OF THE COMMONWEALTH at Boston on
+<lb/>this
+<lb/>A7
+<lb/>day of
+<lb/>82981 - X
+<lb/>FEE S1.00
+<lb/>19
+<lb/>O-V&amp;AjL^
+<lb/>JOHN F. X. DAVOREN
+<lb/>Secretary of the Commonwealth
+<lb/>YEAR
+<lb/>PAGE
+<lb/>£5
+<lb/>^-7
+<lb/>5'^ ^
+<lb/>NO.
+<lb/>Form R56. :5M-12-67-9lfi4dn
+<pb n="3" facs="#page-002"/>
+<lb/>Dee Funeral Home &amp; Cremation Service Page 1 of2
+<lb/>Dee Funeral Home &amp;' Cremation Service
+<lb/>Concord, Massachusetts
+<lb/>Home Obituaries Oommuiiitv ontaci
+<lb/>Main Services ^ Hj Photo Gallery Family Forum Donations Life Legacy
+<lb/>Kenneth D. DeMay
+<lb/>May 06,1932-April 01,2010
+<lb/>Kenneth DeMay was the first architect at Sasaht
+<lb/>Associates in Watertown, a multidisciplinary
+<lb/>design firm that he joined in 1960 and helped
+<lb/>grow to an international practice with work in
+<lb/>Europe, Asia, Austraiia, and the Garitibean.
+<lb/>During tils career, he received over 30 design
+<lb/>awards. He was made a Fellow of the American
+<lb/>Institute of Architects in 1984, and later became
+<lb/>a member of the Institute's National Board of
+<lb/>Directors. Mr DeMay further served the
+<lb/>profession as director and treasurer of the
+<lb/>Boston Society of Architects, which awarded
+<lb/>him its 2001 Award of Honor for lifetime
+<lb/>achievement.
+<lb/>Mr DeMay was best known for golf-reiated
+<lb/>projects, such as clubhouses, master plans, and
+<lb/>resort communities. His collaborators included
+<lb/>Jack Nicklaus and Arnold Palmer. A favorite
+<lb/>project was the Sea Pines Plantation on Hilton
+<lb/>Head Island, where he designed the red-and-
+<lb/>white striped lighthouse in Harbor Town, North
+<lb/>Carolina. The lighthouse has since become a
+<lb/>widely recognized icon in the world of golf.
+<lb/>Resorts in New England include Ocean Edge in
+<lb/>Brewster; the New Seabury Golf Clubhouse;
+<lb/>and the Atlantic House in ̂ arborough, Maine.
+<lb/>Mr DeMay was also known for his campus
+<lb/>planning. His work ranged from large institutions
+<lb/>(Jurreiil Services
+<lb/>Service Options
+<lb/>Immediate Need
+<lb/>About Us
+<lb/>Our History
+<lb/>Pre-planning
+<lb/>Merchandise
+<lb/>Resources
+<lb/>PBS-Tbe Uixdettaking
+<lb/>Helpful Links
+<lb/>Directions
+<lb/>Pacilities
+<lb/>http://josephdee.Iifefiles.com/registryMain.php?i_memoriaIid=1270414779&amp;override=1048699207&amp;P... 4/9/2010
+<pb n="4" facs="#page-003"/>
+<lb/>Dee Funeral Home &amp; Cremation Service Page 2 of 2
+<lb/>such as the University of Colorado at Boulder,
+<lb/>where he designed the award-winning science
+<lb/>building, to small preparatory schools, such as
+<lb/>the Middlesex School in Concord and Falmouth
+<lb/>Academy on Cape Cod.
+<lb/>As a founding principal at one of the largest
+<lb/>design firms in the Northeast, Mr DeMay was a
+<lb/>mentor to a generation of young architects,
+<lb/>landscape architects, and planners. In addition,
+<lb/>he taught for over twenty years at the
+<lb/>Continuing Education Program at Harvard's
+<lb/>Graduate School of Design; was a guest
+<lb/>lecturer and visiting design critic at many
+<lb/>colleges, universities, and professional
+<lb/>organizations, among them, the Urban Land
+<lb/>Institute; and, prior to starting at Sasaki, served
+<lb/>as Assistant Dean at tire Pratt Institute School of
+<lb/>Architecture in New York City. Mr DeMay also
+<lb/>volunteered his expertise in development as a
+<lb/>member of the Wellesley Design Review Board
+<lb/>and the Mayor's Blue Ribbon Committee on
+<lb/>Capital Expenditure in Newton.
+<lb/>Mr DeMay was educated at Harvard, where he
+<lb/>was a Langley Scholar, and Pratt Institute.
+<lb/>While attending the Coast Guard Academy, he
+<lb/>sailed across the Atlantic Ocean and back as a
+<lb/>member of the Eagle, one of the Tall Ships.
+<lb/>Mr DeMay was married to Eliza Tan of Acton.
+<lb/>From a previous marriage, he leaves three
+<lb/>sons, Dwight of Carlisle, MA, Mason of Oakland,
+<lb/>OA, and Thayer of Los Angeles, OA, brother of
+<lb/>Linda Rapp and brother-in-law of James Rapp
+<lb/>of Kennett Square, PA.
+<lb/>Mr DeMay's interests included golf, tennis,
+<lb/>sailing, readirrg, and gardening.
+<lb/>Contributions can be made to the
+<lb/>Massachusetts General Diatretes Research, do
+<lb/>David Nathan, M.D., Director, MGH Diabetes
+<lb/>Center, 50 Staniford Street, Suite 340, Boston,
+<lb/>MA.
+<lb/>LifeLegacy powered by Aldor Solutions | Privacy Policv
+<lb/>http://josephdee.lifefiles.com/registryMam.php?i_memorialid=1270414779&amp;override=1048699207&amp;P... 4/9/2010
+</ab>
+    </body>
+  </text>
+</TEI>

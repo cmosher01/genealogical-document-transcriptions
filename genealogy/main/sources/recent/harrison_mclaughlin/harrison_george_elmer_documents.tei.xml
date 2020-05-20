@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison george elmer documents</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_george_elmer_documents/p-013.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>0
+<lb/>t
+<lb/>n-n
+<lb/>Ol^rttfg
+<lb/>as appears
+<lb/>mmMmm1^ I
+<lb/>^ nffirialtag, in iij
+<lb/>^ front lij:e^.&lt;i^3arrtage ^rp;feter of tipOy^iptrrij.
+<lb/>|p //^'' V /X /
+<lb/>^ pafei
+<lb/>1  i' /vm
+<lb/>immkpmmmm
+<lb/>^  ̂ ^corbtng io l^o ̂ tle of fijo ̂ ntan 01atl|oltc diptrcl]: ^
+<lb/>ki ^ ^
+<lb/>mi . . . / u - , « . .^  a^ in EOttforntitn 6nilr Ibe mias ninths ^ate of ^IMIW. JMs^ s
+<lb/>^asiar
+<lb/>NO. 312yF, J. REMEY CO. INC. N.Y
+<pb n="2" facs="#page-001"/>
+<lb/>•  «• — . ,Jt.l*€t/^ V, „
+<lb/>cept and agree to be governed by all the
+<lb/>conditions of this contract.
+<lb/>Form L- P. 8
+<lb/>(Use pen and mk,) Original Purchaser
+<lb/>Witness:
+<pb n="3" facs="#page-002"/>
+<lb/>INCORPORATED.
+<lb/>Paid Up Capital, $100,000
+<lb/>Improved Copper LiglitniBg Conductors-
+<lb/>Weather Vanes and Fixtures.
+<lb/>"mi Patentceo and Manufacturers of the Only
+<lb/>COPPER AUTOMATIC WATER RECEIVER
+<lb/>FOR PERFECT GROUND CONNECTION.
+<lb/>THIS CERTIFICATE OF AUTHORITY IS GOOD FOR SIX MONTHS FROM DATE
+<lb/>Burlington, Wis., J A N 1 1920
+<lb/>TO WHOM IT MAY CONCEim: . . , , j a-
+<lb/>Reposing speci§ltrust and confidence in the honor and discretion oi
+<lb/>cornxnission
+<lb/>true and lawful agent , With full authority only In sell ouiWCopper Lightning
+<lb/>' * " Conductors and Patented Water Supp-.y for the ground,
+<lb/>to issue therewith our guarantee in accordance with the
+<lb/>rules and regulations therein set forth, and to receive
+<lb/>pay and receipt for all rods sold during the
+<lb/>life of this certificate.
+<lb/>THE SECURITY LIGHTNING ROD CO.
+<lb/>President.
+<lb/>Attest:
+<lb/>Ql;
+<lb/>Secretary.
+<pb n="4" facs="#page-003"/>
+<lb/>yk-A^SI
+<lb/>sn/
+<lb/>1
+<lb/>SrifM
+<lb/>&lt;L^\QiH.Vf5«
+<pb n="5" facs="#page-004"/>
+<lb/>f' ^.
+<lb/>A
+<lb/>-A »
+<pb n="6" facs="#page-005"/>
+<lb/>/V
+<lb/>GENERAL EXCHANGE INSURANCE CORPORATION
+<lb/>Standard
+<lb/>Automobile Policy
+<lb/>FORM
+<lb/>NEW YORK. NEW YORK
+<lb/>(HEREINAFTER CALLED THE COMPANY)
+<lb/>COMPANY
+<lb/>In consideration of the stipulations herein named and of the premiums hereinafter specifically mentioned, does insure
+<lb/>the dealer and the purchaser named below, and the General Motors Acceptance Corporation as their interests may appear,
+<lb/>and their legal representatives (hereinafter called the Assured) TO AN AMOUNT NOT EXCEEDING THE ACTUAL
+<lb/>CASH VALUE OF THE PROPERTY AT THE TIME ANY LOSS OR DAMAGE OCCURS, nor, in any event, the
+<lb/>Limits of Liability herein specified, against direct loss or damage from the perils specifically insured against herein and
+<lb/>designated by a premium, to the automobile herein described and the equipment usually attached thereto, while within the
+<lb/>territorial limits of the states comprising the United States, the District of Columbia, Alaska and the Dominion of Canada,
+<lb/>including while on coastwise steamer between ports within said limits. The term of this insurance commences at noon on the
+<lb/>effective date named herein and terminates at noon on the expiration date named herein.
+<lb/>Acknowledgment is hereby made of the notice of the existence of a lien on the herein described automobile, in favor of
+<lb/>said Dealer or General Motors Acceptance Corporation or their assignees.
+<lb/>The description of the automobile insured herein and the facts respecting its purchase are as follows:
+<lb/>Purchased
+<lb/>New or Used
+<lb/>YEAR &amp; MODEL
+<lb/>MAKE
+<lb/>!IVade N^c
+<lb/>K Truck, Tonnage
+<lb/>BODY TYPE
+<lb/>MOTOR
+<lb/>NUMBER
+<lb/>MFG'8
+<lb/>SERIAL No.
+<lb/>LIST
+<lb/>PRICE
+<lb/>CASH SELLING
+<lb/>PRICE
+<lb/>Used 1931 Chev. Coupe 2781375 AE56580 $535. $215.
+<lb/>Dealer.. Purcell Motor
+<lb/>The automobile described is and will be used as follows:
+<lb/>The Purchaser's occupation is...£?t.r£.®.5.^X.
+<lb/>POLICY NUMBER: Bn....5aQ.Jl
+<lb/>(Refer to this number in all correspondence) i||
+<lb/>PERILS INSURED AGAINST
+<lb/>(see Definitions on Page 2)
+<lb/>ONLY those perils for which a specific
+<lb/>premium is shown are covered.
+<lb/>(a)(b)(c)(d)(e)
+<lb/>Fire, Lightning and Transportation...
+<lb/>Theft, Robbery and Pilferage .ITheft Form
+<lb/>Specify "Broad"» or "$ ... Deductible"
+<lb/>Tornado and Flood...
+<lb/>Additional Coverage (Including Tornado and Flood)..
+<lb/>Accidental Collision or Upset $...-5Q..«jQ.Q. Deductible
+<lb/>TERM
+<lb/>Effective Date Expiration Date
+<lb/>May 18, I937 toMay 18, 1938
+<lb/>Premium Limits of Liability
+<lb/>.12
+<lb/>Actual Value
+<lb/>not to exceed
+<lb/>$175.00
+<lb/>Actual Value Less
+<lb/>Collision Deductible Provided
+<lb/>Purchaser , Elmer Harrison
+<lb/>Street RD #1
+<lb/>City and State Beaver Dams, New York steuben Township
+<lb/>'^-1 y
+<lb/>This policy shall not be valid unless countersigned by the duly aut^or^^ agent the" 'Company
+<lb/>at Bf'lo. R.Y. - j-/-- ^ —Agent
+<lb/>^ Ttiii policy is subject fo tho CONDITIONS pointed on revarso
+<lb/>GEIC 1001 New 3SM—7-13-36
+<pb n="7" facs="#page-006"/>
+<lb/>lOlS 9VWD
+<lb/>RETURN WITHIN S DAYS TO
+<lb/>General Motors
+<lb/>Acceptance Corporation ! ^
+<lb/>1100 MAIN STREET, . - ?
+<lb/>ijispt??!
+<lb/>k  -iLpL
+<lb/>PA I p
+<lb/>^j| METER 5 52Ei3
+<lb/>J
+<pb n="8" facs="#page-007"/>
+<lb/>General Motors Acceptance Corporation
+<lb/>1100 Main Street
+<lb/>Buffalo, N. Y.
+<lb/>May 26, 1938
+<lb/>iir, Elmer Harrison
+<lb/>RD 1
+<lb/>Bsa-rer Dams, Y.
+<lb/>Dear Sir: 50031 - P16
+<lb/>In acknowledging receipt of the final payment on your
+<lb/>account, for which we thank you, may we express our
+<lb/>appreciation for the opportunity we have had in serving
+<lb/>you. We are returning your contract to the dealer
+<lb/>from whom you made your purchase for delivery to you.
+<lb/>Over eleven million buyers have taken advantage of the
+<lb/>low cost General Motors Instalment Plan through dealers
+<lb/>in General Motors products. This plan includes terms
+<lb/>to fit the buyer's needs, valuable insurance protec
+<lb/>tion on cars and trucks, and a friendly, helpful
+<lb/>relationship.
+<lb/>To the prospective buyer of household equipment or of
+<lb/>personal and business transportation. General Motors
+<lb/>offers a wide range of products, whose quality has been
+<lb/>demonstrated by widespread public preference. Perhaps
+<lb/>at this time you are considering the purchase of one
+<lb/>of the products listed on the following page. If so,
+<lb/>the advantages of the General Motors Instalment Plan
+<lb/>are again available to you.
+<lb/>Should you desire to use G?JIAC as a reference, we will
+<lb/>be glad to answer any inquiries that may be received.
+<lb/>Yp^urs very t
+<lb/>Branch Manager.
+<pb n="9" facs="#page-008"/>
+<lb/>FEDERAL SECURITY AGENCY
+<lb/>SOCIAL SECURITY BOARD
+<lb/>Bureau of Old-Age and 155 St. ,
+<lb/>Survivors Insurance ^^ev: York 17»
+<lb/>Area Office
+<lb/>CERTIFICATE OF AWARD
+<lb/>Field Office; Syracuse, N.Y.
+<lb/>l^re, Mary Ann Harrison,
+<lb/>Spring St.,
+<lb/>Hamilton, H.Y. Date: July 6, 19'i3
+<lb/>Claim Number: 07^05-7^92^
+<lb/>l^ear Mgdam: W, E, George H,, Harrison
+<lb/>This is to certify that you are entitled to Widow's Insurance Benefits,
+<lb/>payable monthly.
+<lb/>Your regular monthly benefit will be $ 13.35
+<lb/>You became entitled to benefits as of April 19^3
+<lb/>The first check includes benefits for April - Jtme I9U3 incltisive.
+<lb/>The first payment is in the amount of $ 33,06*
+<lb/>A check for this amount will be mailed within a fev; days.
+<lb/>•Oar records show that you were entitled to a benefit of yS.90 as wife of
+<lb/>George H, Harrison for March I9U3. Aleo that your husband was entitled
+<lb/>to a benefit of $17.80 for Mprch I9U3. However, we are deducting these
+<lb/>benefits from a lump-sum payment of $33.69 previously paid to your husband,
+<lb/>The balance, or $6,99, is deducted from your widow's benefits.
+<lb/>w 0. C. Pogge,
+<lb/>Director.
+<lb/>SEE THE REVERSE SIDE OF THIS CERTIFICATE FOR THE CONDITIONS UNDER WHICH
+<lb/>THESE BENEFITS ARE NOT PAYABLE, AND FOR OTHER IMPORTANT INFORMATION.
+<lb/>ALWAYS GIVE CLAIM NUMBER WHEN WRITING ABOUT YOUR CLAIM
+<pb n="10" facs="#page-009"/>
+<lb/>Form OA-3
+<lb/>(7-42)
+<lb/>CONDITIONS UNDER WHICH THESE BENEFITS ARE NOT PAYABLE
+<lb/>This insurance benefit is not payable for any month in which you work for wages of
+<lb/>i  _more than $14.99 in employment that is covered by the Social Security Act. This does
+<lb/>not mean that because you are entitled to monthly benefits you may not work, but simply
+<lb/>that for those months when you do work and earn more than $14.99 you will not be eligible
+<lb/>to receive a benefit payment.
+<lb/>Your entitlement to widow's insurance benefits ends with the month preceding the
+<lb/>month in which you marry again. '
+<lb/>Notice of the occurrence of either of the above events must be sent to the Social
+<lb/>&amp;curity Board promptly, or certain penalties as provided by the Social Security Act may be
+<lb/>imposed. A postal card which may be used to notify the Social Security Board was given
+<lb/>to you when you filed your claim.
+<lb/>If you receive an insurance benefit check for any month in which either of the above
+<lb/>events occurs, you should return the check to the—
+<lb/>Treasury Department, Division of Disbursement
+<lb/>Located in the city shown on the face of your che(^
+<lb/>-  CHANGE OF ADDRESS
+<lb/>Notify the Social Security Board and your local post office immediately of any change
+<lb/>of address so that your monthly insurance benefit checks will not be delayed. A postal card
+<lb/>which may be used to notify the Social Security Board was given to you when you filed your
+<lb/>claim.
+<lb/>RECONSIDERATION OR HEARING
+<lb/>A claimant for old-age 'and surviyors insurance benefits has a right to a reconsidera
+<lb/>tion or hearing if he is not satisfied with the decision on his claim. A reqpest for a recon-
+<lb/>_si(Jeration or hearing should-be made^roiaptly,-ii©t later than 6 months from the date of
+<lb/>this certificate, and should be made through the local field office of the Social Security Board.
+<lb/>CONSULT THE FIELD OFFICE SHOWN ON THE FACE OF THIS CJERTIFICATE. OR ANY
+<lb/>OTHER FIELD OFFICE OF THE SOCIAL SECURITY BOARD, IF YOU HAVE ANY QUESTIONS
+<lb/>CONCERNING YOUR CLAIM. HUJiiSilUNS
+<lb/>ALWAYS GIVE CLAIM NUMBER WHEN WRITING ABOUT YOUR CT.ATM
+<pb n="11" facs="#page-010"/>
+<lb/>GUTHRIE CLINIC
+<lb/>ROBERT PACKER HOSPITAL
+<lb/>SAYRE, PENNSYLVANIA
+<lb/>SECTION OF INTERNAL MEDICINE
+<lb/>DR.S. D.CONKLIN
+<lb/>DR.W. D. LANGLEY
+<lb/>To Whom It May Concern:
+<lb/>September 12, 1954)-
+<lb/>Eq: Blmer Ijfeirrison
+<lb/>At autopsy a large ttinor was removed from the left lung.
+<lb/>The tumor had collapsed the major portion of the left lung and was markedly
+<lb/>adherent to the great vessels of the mediastinum, especially the aorta. Only
+<lb/>the tumor was removed and a pathological section was made. Tlie pathological
+<lb/>report showed this tumor to he a neurofihro sarcoma, a hi^ly malignant tumor.
+<lb/>KRC/M
+<lb/>Z.E. Crispell
+<pb n="12" facs="#page-011"/>
+<lb/>To F rP.
+<lb/>t  the undersigned
+<lb/>^  herein called the purchaser*
+<lb/>hereby offers and agrees to purchase through F, J. Bostwick, Broker,
+<lb/>the authori^z^d agent of the seller, the following premises:
+<lb/>for the purchase price of 0 0 0 ■ 0 ̂
+<lb/>the Sim of f ̂  to be paid upon the execution
+<lb/>of this offer, receipt of which is hereby acknowledged, the same to
+<lb/>apply upon the purchase price — balance to be paid in cash upon
+<lb/>delivery of Deed,
+<lb/>Further terms and conditions of-this offer are that all taxes which
+<lb/>may be liens on said premises shall be paid by the seller.
+<lb/>All assessments for local improvements which are now liens or which
+<lb/>may become liens prior to the date originally fixed for delivery of
+<lb/>Deed hereunder shall be paid by the seller.
+<lb/>The seller shall execute and deliver or cause to be delivered and
+<lb/>executed to said Purchaser or his assigns, a good and sufficient
+<lb/>Warranty Deed of said Premises, which Deed shall convey a good
+<lb/>marketable Title thereto together with an Abstract of Title.
+<lb/>The purchaser shall have possession of said Premises from and after
+<lb/>delivery of Deed,
+<lb/>The sale thereunder shall be closed, the final cash payments made
+<lb/>and Deed and other papers herein provided for shall be delivered at
+<lb/>the Office of F, J. Bostwick in the City of Corning, New York
+<lb/>during the month of , or such other date as shall be
+<lb/>agreed upon by the Parties hereto, the Stipulations shall bind
+<lb/>and shall insure to the benefit of the heirs, executors, adminis
+<lb/>trators, successors and assigns of the parties hereto.
+<lb/>Dated
+<lb/>(Purchaser's Signature)
+<lb/>Witness " ■■
+<lb/>(Acceptance)
+<lb/>To - //OtA/uyh&amp;ytj
+<lb/>I, herein called the seller hereby accept your offer as above
+<lb/>stated and accordingly agree to sell and convey said land to you
+<lb/>for the price and the terms and conditions above set forth.
+<lb/>Dated j ̂ / 7y^L
+<lb/>(Seller's Signature
+<lb/>Witness
+<pb n="13" facs="#page-012"/>
+<lb/>Duplicate
+<lb/>CONTRACT
+<lb/>a ..Have this.. / ...day of.. ... contracted with
+<lb/>CORNING GRANITE &amp; MARBLE WORKS
+<lb/>RICHARD G. COOK
+<lb/>With the following inscription, to wing inscription, to wit
+<lb/>MAiliQM.
+<lb/>mnk
+<lb/>j^AnmsoM
+<lb/>MH/ir ^ MAMNAM T
+<lb/>/sjj^l /.ms'sl, —
+<lb/>No extra lettering included in ̂ is contract .y..y j. . - j. .j. —
+<lb/>Monument to face , .;....'..Location of Lot.— jC#*???:..
+<lb/>(PURCHASER MUST SEE THAT THE INSCRIPTION IS CORRECT, AND P^INLY WRITTEN)
+<lb/>With the right of action for trespass or damages wai\md by said
+<lb/>Saidjmonument will be delivered and erected in .^..^....Cemetery located
+<lb/>during the month of...«^^^y"!!V-...^5? - unless Monument is not received from
+<lb/>manufacturerSTfe-ffihe to do the work or unless there is ̂ pe other imavoidi elay, and then as soon thereafter as possible, in a good
+<lb/>workmanlike i^nner, for which, I, *(*'. ^- v7 y. .agree to pay CORNING GRANITE
+<lb/>&amp; MARBLE WORKS, the sum of.
+<lb/>■NOT^EPr.
+<lb/>without any relief from valuation or appraisement laws, with interest at 6 per cent., per annum after maturity, and 10% attorney's fees.
+<lb/>It is further agreed that the above described monumental work is personal property and shall not be considered as part of real estate
+<lb/>■ CORNING GRANITE &amp; MARBLE WORKS, until fuUy paid for, and inupon lot where it is erected, but shall remain the property of &lt;
+<lb/>case of failure to make all payments within one year after due I hereby waive all right of action I may have for trespass or damages, and
+<lb/>give said CORNING GRANITE &amp; MARBLE WORKS, the right and privilege to enter upon said cemetery lot, and also hereby authorize
+<lb/>the Superintendent or Sexton to Cemetery in which this monument is located to permit said CORNING GRANITE &amp; MARBLE WORKS,
+<lb/>to remove said monument at their own option or convenience, and all money having been paid by me may be retained by said CORNING
+<lb/>GRANITE &amp; MARBLE WORKS, for damages to said monument:
+<lb/>This contract shall not in any instance be countermanded or recinded only by said CORNING GRANITE &amp; MARBLE WORKS,"
+<lb/>giving notice to that effect in writing to said._.
+<lb/>Foundation material furnished )
+<lb/>by purchaser ) No
+<lb/>(Witness;) /rResidence
+<lb/>P. 0
+<lb/>Signed^.
+<lb/>Shippin^Point...
+<lb/>Salesman L
+<lb/>Be Careful to Have AU Agreements Exrfessed in Writing, as No Verbal Contracts Will Be Honored.
+<pb n="14" facs="#page-013"/>
+<lb/>irEXT TERM'S PRINCIPAL—Leo Harrison, seated,
+<lb/>who becomes principal of Painted Post High School
+<lb/>next September, checks details of office with Kenneth
+<lb/>Clicquennoi, retiring principal. The latter will as
+<lb/>sume similar post with Alfred-Almond High School.
+</ab>
+    </body>
+  </text>
+</TEI>

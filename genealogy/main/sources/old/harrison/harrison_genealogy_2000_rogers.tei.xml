@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison genealogy 2000 rogers</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_genealogy_2000_rogers/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_genealogy_2000_rogers/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_genealogy_2000_rogers/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_genealogy_2000_rogers/p-003.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Haradon, Harrison, Hendrick, Hilton, Hoyt, Humphrey, Hyslop
+<lb/>3 Geroge W. Haradon b: 1839 in New York
+<lb/>3 Mary Ann Haradon b: 1842 in New York
+<lb/>3 Edwin Albert Haradon b: March 04, 1844 in Painted Post, Steuben
+<lb/>County, NY d: 1920
+<lb/>+Miriam Delight Bixby b: November 02, 1843 in Hornby, Steuben
+<lb/>County, NY m; 1867 d: 1926 Father; Daniel Bbcby Mother: Lydia Clark
+<lb/>4 Clarence J. Haradon b: September 16, 1868 in Painted Post,
+<lb/>Steuben County, NY d: 1954 in Lake City, MN
+<lb/>+MarySchones m: 1898 in Minnesota
+<lb/>4  [4] Jesse Daniel Haradon b: January 09,1871 in Hazleton, LA d;
+<lb/>October 07, 1954 in Wabasha, MN
+<lb/>+Gertrude LaMont m: Abt. 1890 d: 1917
+<lb/>*2nd Wife of [4] Jesse Daniel Haradon:
+<lb/>+Ruth Edith Erikson b: August 22, 1891 m: April 07, 1919 d:
+<lb/>January 10, 1972
+<lb/>4 Frances Haradon b: September 04,1874 d: December 04,1949
+<lb/>+Winfield Scott Bassage b: October 18, 1880 m: September 03,
+<lb/>1903 d: October 27, 1950 Father: Jesse Bassage Mother: Elizabeth Ashton
+<lb/>4  [5] Beatrice Haradon b: October 1876
+<lb/>+Harry R. VanNortwick b: October 07, 1874 m: March 29,
+<lb/>1899 d: September 18, 1908 Father: George Washington VanNortwick
+<lb/>Mother: Melissy Adelaide Hendrick
+<lb/>*2nd Husband of [5] Beatrice Haradon:
+<lb/>+Arthur F. Green b: February 1862 m: Abt. 1917 d: 1924
+<lb/>Father: William Henry Green Mother: Albina A. MNUnk
+<lb/>4 Edvrin Freeman Haradon b: 1880 in Zumbra Falls, MN d: 1951
+<lb/>+Lurenza Jimerson b: October 1885 d: 1970 Father: Hebbert
+<lb/>Teeple Jimerson Mother: Bertha Edwinna Hendrick
+<lb/>4 Lydia May Haradon b: April 1884 d: 1971
+<lb/>+Roy C. Jimerson b: October 11, 1883 d: March 1980 Father:
+<lb/>Hebbert Teeple Jimerson Mother: Bertha Edwinna Hendrick
+<lb/>3 Delana Haradon b: 1847 in New York
+<lb/>3  Isaac L. Haradon b: 1849 in New York
+<lb/>3 Delia Haradon b: 1851 in New York
+<lb/>3 Thomas Haradon b: 1854
+<lb/>Please click "Back" to return to your link to this page or go to the Homb&gt;
+<lb/>main page.
+<lb/>If you can add to this information please contact George Rogers.
+<lb/>Last update 8 May 2000
+<lb/>Descendants of John D. Harrison
+<lb/>1  John D. Harrison b: August 18, 1778 in England d: June 08, 1847 in
+<lb/>Hornby, Steuben County, NY
+<lb/>. +Priscilla Sayre b: September 15, 1781 in Orange County, NY m: Abt.
+<lb/>http://homepages.rootsweb.eom/~homby/H.html
+<pb n="2" facs="#page-001"/>
+<lb/>Haradon, Harrison, Hendrick, Hilton, Hoyt, Humphrey, Hyslop Page 4 of30
+<lb/>1800 d: July 05, 1861 in Hornby, Steuben County, NY
+<lb/>.){2 George D. Harrison b: July 13, 1805 in Orange County, NY d: August
+<lb/>08, 1850 in Hornby, Steuben Co., NY
+<lb/>X.. +Mary E. Sands b: March 14, 1809 in New York m: February 19, 1835
+<lb/>d: December 03, 1894 in Hornby, Steuben Coimty, NY Father: Jessee Sands
+<lb/>Mother: Mary Pardee
+<lb/>3 William Nelson Harrison b: Jxme 19, 1837
+<lb/>..^..3 Henry Francis Harrison b: May 24, 1840 in Hornby, Steuben Co.,
+<lb/>NY d: June 14, 1912 in Hornby, Steuben County, NY
+<lb/>..X +Hannah S. Taylorson b: 1852 in New York m: October 16,1872 d:
+<lb/>1897 in Hornby, Steuben County, NY Father: Thomas Taylorson Mother:
+<lb/>AnnMNUnk
+<lb/>...y. 4 George Elmer Harrison b: November 1873 d: April 29, 1943 in
+<lb/>Sayre, PA
+<lb/>+Mary Anne McLaughlin b: July 1870 in New York m: 1898 d:
+<lb/>1953 Father: William McLaughlin Mother: Margaret Dougherty
+<lb/>4 Hannah Harrison d: in Infancy
+<lb/>3 Emma A. Harrison b: May 27, 1843
+<lb/>3 John J. Harrison b: July 13, 1845
+<lb/>3 Sarah A. Harrison b: January 19, 1848
+<lb/>... 2 Lewis Harrison b: 1806 in Orange County, NY d: November 26, 1847
+<lb/>in Hornby, Steuben County, NY
+<lb/>+Harriet Maria Holmes b: 1813 in Montgomery County, New York m:
+<lb/>Abt. 1832 d: July 13, 1882 in Hornby, Steuben County, NY
+<lb/>3 Mary Annette Harrison b: September 29, 1834 in Hornby, Steuben
+<lb/>Coimty, NY d: October 25, 1909 in Hornby, NY Steuben County
+<lb/>+Chauncey P. Rogers b: October 31, 1828 in Covert, Seneca Co.,
+<lb/>NY m: 1852 d: March 29, 1914 in Coming, Steuben County, NY Father:
+<lb/>Peter R. Rogers Mother: Eliza Jane Perkins
+<lb/>4 Melvin H. Rogers b: December 1856 d: December 13, 1903 in
+<lb/>Coming, Steuben County, NY
+<lb/>+Isabel J. McCluskeyb: September 1857 m: 1882 d: October 13,
+<lb/>1909 in Homby, Steuben County, NY Father: Fergus McCluskey Mother:
+<lb/>Anna Sharkey
+<lb/>4 Infant Rogers b: August 23, 1855 d: August 23, 1855
+<lb/>4 Ida E. Rogers b: 1859 d: 1939
+<lb/>+Frank Sands b: June 27, 1853 in New York m: Abt. 1876 d:
+<lb/>October 07,1924 in Wayne, NY Father: Michael H. Sands Mother: Sarah E.
+<lb/>Andrews
+<lb/>4 LUlie H. Rogers b: 1864
+<lb/>+M. C. Butler b: Abt. 1860 m: October 03, 1888 in Homby,
+<lb/>Steuben County, NY
+<lb/>4 Infant Rogers b: January 09, 1878 d: November 22,1878
+<lb/>3 Helen M. Harrison b: January 31, 1839 in New York d: November
+<lb/>08,1865
+<lb/>+LymanB. Gibson b: 1836 in New York m: Abt. 1859 Father:
+<lb/>Plyna Gibson Mother: Sally Woodworth
+<lb/>4 Irene M. Gibson b: Abt. 1861 d: March 25, 1882
+<lb/>4 Cora Gibson b: June 30, 1863 d: January 31, 1931 in Coming,
+<lb/>Steuben County, NY
+<lb/>http://homepages.rootsweb.eom/~homby/H.html
+<pb n="3" facs="#page-002"/>
+<lb/>Haradon, Harrison, Hendrick, Hilton, Hoyt, Humphrey, Hyslop Page 5 of 30
+<lb/>+George H. Lee, Jr. b: March 1863 m: 1886 d: June 26, 1926 in
+<lb/>Hornby, Steuben County, NY Father: George H. Lee Mother: Mary E.
+<lb/>Rogers
+<lb/>3  [1] Myron James Harrison b: January 1845 in Hornby, Steuben
+<lb/>Coimty, NY d: September 03, 1907 in Coming, Steuben County, NY
+<lb/>+Isabelle Ellison b: October 28,1851 m: Abt. 1875 d: November 17,
+<lb/>1880 in Homby, Steuben County, NY Father: Thomas Ellison Mother: Sarah
+<lb/>Rutledge
+<lb/>4 Bertha H. Harrison b: October 18, 1871 d: November 07, 1880
+<lb/>4 Charles Harrison b: March 02, 1873 d: November 10, 1880
+<lb/>4 Thomas M. Harrison b: September 03, 1875 d: May 26, 1881
+<lb/>*2nd Wife of [1] Myron James Harrison:
+<lb/>+Ruby May Ward b: March 1859 in New York m: 1882 d: 1928 in
+<lb/>Homby, Steuben County, NY Father: Abijah Ward Mother: Margaret
+<lb/>Remington
+<lb/>4 Margaret B. Harrison b: September 1884
+<lb/>4 Myron F. Harrison b: Jime 1886
+<lb/>3 Prissiila Harrison b: 1847 in Homby, Steuben County, NY
+<lb/>... 2 William T Harrison b: 1810 in Orange Coimty, NY
+<lb/>... 2 Marice Harrison b: 1812 in Orange County, NY
+<lb/>... 2 Harriet M. Harrison b: 1813 in Orange County, NY
+<lb/>... 2 John Thompson Harrison b: Febmary 18,1814 d: March 19, 1895 in
+<lb/>Homby, Steuben Co., NY
+<lb/>+Catherine Hammond b: June 16, 1820 d: 1907
+<lb/>3 Melvin W. Harrison b: March 1840 in Steuben Co, NY d: 1914
+<lb/>+[3] Phoebe Ann Rogers b: October 13, 1834 in Geneva, Ontario
+<lb/>County, NY m: Abt. 1863 in prob Homby, Steuben Co, NY d: June 28, 1899
+<lb/>in Homby, Steuben County, NY Father: Peter R. Rogers Mother: Eliza Jane
+<lb/>Perkins
+<lb/>4 Holhs M. Harrison b: Abt. 1857
+<lb/>4 J. Y. Harrison b: Abt. 1864
+<lb/>4 Catherine E. Harrison b: 1867
+<lb/>4 Phoebe Anne Harrison b: 1871
+<lb/>4 Emeline Harrison b: 1873
+<lb/>3 Wilamina Harrison b: 1842
+<lb/>3  [2] Lucy Harrison b: January 25, 1844 in Homby, Steuben County,
+<lb/>NY d: July 30,1923 in Homby, Steuben County, NY
+<lb/>+Daniel E. Remington m: April 06, 1871 in Coopers Plains,
+<lb/>Steuben County, NY d: Bef. 1880
+<lb/>4 Clara Remington b: 1868
+<lb/>*2nd Husband of [2] Lucy Harrison:
+<lb/>+Francis E. Clark b: June 30, 1844 in Campbell, Steuben County,
+<lb/>NY m: December 26, 1885 in Homby, Steuben Co., NY d: August 15, 1903
+<lb/>Father: Charles W. Clark Mother: Sarah A. Ward
+<lb/>3 Augusta Harrison b: December 11, 1847 d: August 21,1922 in
+<lb/>Homby, Steuben Co., NY
+<lb/>+FNUnkTeets
+<lb/>3 Emily Harrison b: 1848 in Homby, Steuben County, NY
+<lb/>3 Mason Harrison b: July 03,1849 d: November 30, 1910 in Erwin,
+<lb/>Steuben Co., NY
+<lb/>http://homepages.rootsweb.eom/~homby/H.html
+<pb n="4" facs="#page-003"/>
+<lb/>Haradon, Harrison, Hendrick, Hilton, Hoyt, Humphrey, Hyslop Page 6 of30
+<lb/>3 Jermain T. Harrison b: Abt. 1851 d; 1852 in prob Hornby, Steuben
+<lb/>Co., NY
+<lb/>3 Francis W. Harrison b: December 30, 1854 in Hornby, Steuben
+<lb/>County, NY d: September 09,1863 in Hornby, Steuben County, NY
+<lb/>3 Jackson A. Harrison b: September 17, 1858 in Hornby, Steuben
+<lb/>County, NY d: January 24,1942 in Coming, Steuben County, NY
+<lb/>... 2 Rhoda Harrison b; March 05, 1819 in Homby, Steuben Co., NY d:
+<lb/>December 24, 1852 in Homby, Steuben Co., NY
+<lb/>... 2 Nathan Harrison b: May 19, 1821 in Homby, Steuben County, NY d:
+<lb/>December 14, 1855 in Homby, Steuben County, NY
+<lb/>+[3] Phoebe Arm Rogers b: October 13, 1834 in Geneva, Ontario
+<lb/>County, NY m: October 01,1851 in Homby, Steuben County, NY d: June
+<lb/>28, 1899 in Homby, Steuben County, NY Father: Peter R. Rogers Mother:
+<lb/>Eliza Jane Perkins
+<lb/>3 Rhoda A. Harrison b: 1852 in Homby, Steuben County, NY d:
+<lb/>August 02,1863 in Homby, Steuben County, NY
+<lb/>3 Alice Marion Harrison b: January 28, 1854 in Homby, Steuben
+<lb/>County, NY d: January 05,1919 in Starkey, Yates County, NY
+<lb/>+John Dwayne Scott b: March 08, 1848 in Fishl^, Dutchess
+<lb/>Coimty, NY m: November 07, 1871 in Monterey, Schuyler County, NY d:
+<lb/>April 23, 1922 in Dimdee, Yates County, NY
+<lb/>4 Sara J. Scott b: November 28, 1872 d: November 17,1891 in
+<lb/>Homby, Steuben Co, NY
+<lb/>4 Phebe/Anna Scott b: March 13, 1874 d: 1881
+<lb/>4 William Frederick Scott b: 1876 d: November 08, 1942 in Perm
+<lb/>Yan, Yates Co, NY
+<lb/>+Lena Ann Huey b: Jime 25, 1884 in Reading Center, Schuyler
+<lb/>Co, NY m: December 14,1904 in Reading Center, Schuyler Co, NY d:
+<lb/>October 19, 1964 m Bath, Steuben Co, NY
+<lb/>4 John Nathan Scott b: 1879 in Homby, Steuben Co, NY d:
+<lb/>January 25, 1945 in Montour Falls, Schuyler Co, NY
+<lb/>+LydiaMay Sisco b: Abt. 1893 in Michigan d: January 19, 1926
+<lb/>in Perm Yan, Yates Co, NY
+<lb/>4 George Ensworth Scott b: January 17, 1883 in Homby, Steuben
+<lb/>Co, NY d: September 16,1941 in Perm Yan, Yates Co, NY
+<lb/>+Edith Josephine Joslynb: August 18, 1894 m: July 14, 1918 d:
+<lb/>November 02, 1968 m Perm Yan, Yates Co, NY
+<lb/>4 Frank Lane Scott b: January 29,1884 in Homby, Steuben Co,
+<lb/>NY d: December 17,1918 in Dundee, Yates Co, NY
+<lb/>+Lenora Eva Miller b: December 12, 1886 in Starkey, Yates Co,
+<lb/>NY m: Jrme 17, 1908 in Montezuma, Seneca Co, NY d: August 19, 1956 in
+<lb/>Rock Stream, Schuyler Cormty, NY
+<lb/>4 Leslie E Scott b: Abt. 1885 in Homby, Steuben Co, NY d: in
+<lb/>Michigan
+<lb/>+Florence Sly b: Abt. 1885 m: in Michigan
+<lb/>4 Daisy E Scott b: September 29, 1887 in Homby, Steuben Co,
+<lb/>NY d: December 21,1918 in in Dundee, Yates Co, NY
+<lb/>+George Yandeau b: Abt. 1885 in New York m: in Michigan
+<lb/>4 Myrtle Marion Scott b: March 16, 1890 in Homby, Steuben Co,
+<lb/>http://homepages.rootsweb.eom/~homby/H.html
+</ab>
+    </body>
+  </text>
+</TEI>

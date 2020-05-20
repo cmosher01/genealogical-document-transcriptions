@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison alice reporter 1952 11</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_reporter_1952_11/p-015.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Central New York School Study Council
+<lb/>MASTER CALENDAR OF COUNCIL. ACTIVITIES FOR 1952-53
+<lb/>(Continued)
+<lb/>Study Committee Activities
+<lb/>Committee on Flexibility:
+<lb/>(Including both sub-groups: on sixth
+<lb/>grade social studies and on evalua
+<lb/>tion and promotional policies)
+<lb/>Wednesdays: Sept. 24, Oct. 29,
+<lb/>Nov. 19, Jan. 14, Feb. 25,
+<lb/>Mar. 18, Apr. 22, May 20
+<lb/>Seminar on Human Relations for Elemen
+<lb/>tary School Principals and Supervisors:
+<lb/>Wednesdays: Feb. 4, 11, 18, 25
+<lb/>Mar. 4, 11, 18, 25
+<lb/>Apr. 1, 15, 22, 29
+<lb/>Committee on Citizenship:
+<lb/>Thurs., Nov. 6; Wed., Dec. 3;
+<lb/>Wed., Jan. 7; Tues., Feb. 10;
+<lb/>Wed., Mar. 4; Wed., Apr. 15
+<lb/>Committee on the Gifted Child:
+<lb/>(Meetings to be arranged)
+<lb/>Committee on Secondary School Curric
+<lb/>ulum Development:
+<lb/>Wed., Oct. 22.
+<lb/>Mon. - Fri., Nov. 17-22 (During this
+<lb/>week or for part of it, each of the 3
+<lb/>sub-groups will hold meetings to pre
+<lb/>pare their reports.)
+<lb/>Thurs., Jan. 22 (To plan future
+<lb/>studies)
+<lb/>Committee on Student Government:
+<lb/>Wed., Nov. 5 (Planning Committee)
+<lb/>Wed., Dec. 3 (Whole Committee)
+<lb/>Wed., Feb. 4 (Planning Committee)
+<lb/>Wed., Mar. 18 (Whole Committee)
+<lb/>Committee on School Plant:
+<lb/>Tues., Dec. 9
+<lb/>(Other meetings to be arranged)
+<lb/>Committee on the School Office Secretary
+<lb/>(Meetings to be arranged)
+<lb/>(Note: All Council meetings are held at Drumlins, Syracuse, and start
+<lb/>at 10:00 a.m., except where otherwise indicated.)
+<lb/>(See previous page for listings of General Activities.)
+<lb/>"iffi
+<lb/>CENTRAL NEW YORK
+<lb/>SCHOOL STUDY COUNCIL
+<lb/>fj
+<lb/>tAe
+<lb/>32
+<lb/>NOVEMBER, 1952VOL. VI NO. 1
+<lb/>- TO SPEED EDUCATIONAL IMPROVEMENT THROUGH POOLED
+<lb/>RESOURCES, SHARED IDEAS, AND COOPERATIVE RESEARCH -
+<pb n="2" facs="#page-001"/><lb/>In This Issue . .
+<lb/>EDITORIAL COMMENT page 3
+<lb/>Fuzz and Substance Journalism Professor Employed
+<lb/>as Editorial Consultant
+<lb/>ON COUNCIL ACTIVITIES page 5
+<lb/>Martin Takes Office as President..... Dryden, Lafayette
+<lb/>Join Council New Steering Committees Appointed
+<lb/>Flexibility Committee Distributes Resource Units for
+<lb/>Fifth Grade Social Studies Sixth Grade Citizenship
+<lb/>Education, Promotional Policy Concern Committee on
+<lb/>Flexibility Citizenship Committee Plans Three Studies
+<lb/>Secondary Curriculum Committee Plans Publication
+<lb/>Workshop ..... Leadership Conference Rated Successful.....
+<lb/>Chief Reporters Vote Changes in Reporter Hart and
+<lb/>Manwaring Join Staff
+<lb/>FROM OTHER COUNCILS page 16
+<lb/>PATTERNS OF ACTION page 19
+<lb/>MASTER CALENDAR OF COUNCIL ACTIVITIES
+<lb/>FOR 1952 - 53 page 31
+<lb/>Cover: The three pictures on the cover show members of
+<lb/>the Committee on Flexibility at work on the writing of sixth
+<lb/>grade units on citizenship education. The pictures were
+<lb/>token on October 29 by Thomas R. Hart, Research Assist
+<lb/>ant.
+<lb/>THE REPORTER
+<lb/>219 Slocum Hall, College Place
+<lb/>Syracuse 10, New York
+<lb/>Published bi-monthly by and for the 51 member schools
+<lb/>of the
+<lb/>Central New York School Study Council
+<lb/>Editorial Board
+<lb/>Andrew J. Smith, Supv. Prin., Union Springs Central School (Chairman)
+<lb/>Bruce Brummitt, Supv. Prin., Camden Central School
+<lb/>Richard C. Lonsdale, Editor
+<lb/>Subscriptions; $1. per year. Special rates for Council members.
+<lb/>Central New York School Study Council
+<lb/>MASTER CALENDAR OF COUNCIL ACTIVITIES FOR 1952-53
+<lb/>General Activities
+<lb/>General Meetings:
+<lb/>Wed., Nov. 5
+<lb/>Wed., J an. 14
+<lb/>Wed., Mar. 18
+<lb/>Fall Leadership Conference:
+<lb/>Fri.-Sun., Sept. 19-21
+<lb/>Pine Brook Camp, Upper
+<lb/>Saranac Lake
+<lb/>Spring Imagineering Conference:
+<lb/>Fri.-Sun., May 1-3
+<lb/>Pine Brook Camp, Upper
+<lb/>Saranac Lake
+<lb/>Executive Committee:
+<lb/>Mon., Oct. 6
+<lb/>Wed., Dec. 10
+<lb/>Wed.', Feb. 11
+<lb/>Wed., Apr. 22
+<lb/>Wed., June 3
+<lb/>Chief Reporters:
+<lb/>Central Meeting at Drumlins
+<lb/>Thurs., Oct. 23
+<lb/>Regional meetings
+<lb/>Wed., Oct. 29—Union Springs
+<lb/>Wed., Dec. 10—Fayetteville
+<lb/>Wed., Feb.26—Earlville
+<lb/>Wed., Apr. 29—Mohawk
+<lb/>Wed., May27--Oneida
+<lb/>(Note: All Council meetings are held at Drumlins,
+<lb/>Syracuse, and start at 10:00 a.m., except where
+<lb/>otherwise indicated.)
+<lb/>(See next page for listings of Study Committee Activities.)
+<lb/>31
+<pb n="3" facs="#page-002"/>
+<lb/>Patterns Of Action
+<lb/>STAMPS TELL A STORY
+<lb/>Gordon Sturge, Coto-Meridian
+<lb/>We have found the use of stamps and
+<lb/>stamp collections a very successful
+<lb/>way to arouse interest in the social
+<lb/>studies.
+<lb/>To begin the work with stamps
+<lb/>the teacher may tell briefly the story
+<lb/>behind several recently issued
+<lb/>stamps. The information may also be
+<lb/>presented by arranging a bulletin
+<lb/>board display of neatly mounted
+<lb/>stamps with a carefully-worded com
+<lb/>mentary under each. A stamp collec
+<lb/>tor in the class (and almost every
+<lb/>class has one) will probably be glad
+<lb/>to show off his collection and ex
+<lb/>plain what he knows about the story
+<lb/>behind each stamp. The important
+<lb/>part of the project comes when each
+<lb/>student writes up the history repre
+<lb/>sented by each of five different
+<lb/>stamps. One stamp is then selected
+<lb/>from each pupil's work to go into a
+<lb/>mimeographed booklet of fifty select
+<lb/>ed stamps. Each pupil's name ap
+<lb/>pears just under his stamp mounted
+<lb/>in the top center of the account. In
+<lb/>this way each pupil has his name in
+<lb/>the stapled, mimeographed booklet.
+<lb/>He will be anxious to have a book
+<lb/>because not only his name but also
+<lb/>all his classmates' names will be in
+<lb/>the book. Each student may make an
+<lb/>original cover for his book.
+<lb/>Numerous noncomitant learnings
+<lb/>may result from this project such as
+<lb/>an intelligent awareness of the work
+<lb/>ings of our post office department,
+<lb/>the ways of carrying the mail, stamp
+<lb/>cancellations, as well as a know
+<lb/>ledge of the lives of various presi
+<lb/>dents, and a sense of participation
+<lb/>in one of the country's most impor
+<lb/>tant activities which affects every
+<lb/>one of America's 154 million people.
+<lb/>SAFETY FIRST
+<lb/>Elizabeth M. Scarr
+<lb/>North Syracuse
+<lb/>Last year nearly 5000 people lost
+<lb/>their lives in home accidents due
+<lb/>to fire.
+<lb/>My home nursing class felt that
+<lb/>this figure was high enough to war
+<lb/>rant serious attention. We decided
+<lb/>to embroider FIRE in large red let
+<lb/>ters on the fire blanket which always
+<lb/>hangs next our stove. Then we
+<lb/>soaked it in a flame retardent solu
+<lb/>tion consisting of eight ounces of
+<lb/>borax crystals, seven ounces of
+<lb/>boric acid and one gallongof water.
+<lb/>We tested our experiment by touch
+<lb/>ing a lighted match to the corner of
+<lb/>the blanket. The solution really
+<lb/>worked.
+<lb/>Later our school custodian talk
+<lb/>ed with us about the various kinds
+<lb/>of fire extinguishers available and
+<lb/>demonstrated the use of the soda-
+<lb/>acid and carbon dioxide extinguish
+<lb/>ers which are located in our school.
+<lb/>The girls all agreed that this ex
+<lb/>perience was one that they will put
+<lb/>to use in their homes.
+<lb/>30
+<lb/>Editorial Comment
+<lb/>FUZZ AND SUBSTANCE
+<lb/>Ruth Anderson was confused, Why
+<lb/>not? Yes, it had been a pretty good
+<lb/>meeting. The junior high teachers
+<lb/>had been talking about ways in which
+<lb/>they could work more closely togeth
+<lb/>er.
+<lb/>.Suzanne Quandt had been nice
+<lb/>about it. "Could you give me some
+<lb/>help, Ruth, with my pupils in math
+<lb/>who are having reading difficulties?
+<lb/>I find they just can't understand some
+<lb/>of the problems ~ even though they
+<lb/>can often work them out correctly,
+<lb/>once they know what is wanted."
+<lb/>The new social studies teacher,
+<lb/>Jim Beyer, had described some of
+<lb/>the activities for individuals and
+<lb/>small groups which he was trying
+<lb/>with his youngsters. "There are
+<lb/>lots of ways I'd like to cooperate
+<lb/>with you in your English work,
+<lb/>Ruth," he'd said.
+<lb/>"In a way science underlies our
+<lb/>whole curriculum at the eighth grade
+<lb/>level," Ralph Agostini had argued.
+<lb/>"There's the whole history of the
+<lb/>development of science which ties
+<lb/>in with your social studies work,
+<lb/>Jim. And look at the math the kids
+<lb/>need to know to do simple experi
+<lb/>ments.
+<lb/>" Then in your work in English,"
+<lb/>Ralph had gone on, speaking to Ruth,
+<lb/>" look at the field we have for the
+<lb/>kids to study science fiction or arti
+<lb/>cles on science or biographies of
+<lb/>Steinmetz and others. It would be a
+<lb/>cinch for us to work together."
+<lb/>But Fran Johnson, the super
+<lb/>visor, had been exuberant.
+<lb/>"This sounds swell, people,"
+<lb/>Fran had said. "This sounds to me
+<lb/>like the beginning of the core cur
+<lb/>riculum I've been talking about "
+<lb/>She sure had, Ruth thought. Ever
+<lb/>since she'd arrived on the scene she
+<lb/>had seemed bent on establishing
+<lb/>what she called the core curriculum
+<lb/>in the junior high schcjol.
+<lb/>But what exactly it was nobody
+<lb/>seemed to know. They all had dif
+<lb/>ferent ideas.
+<lb/>And Fran wasn't the only one,
+<lb/>either.
+<lb/>Mr. McGrath, the principal,
+<lb/>seemed to want a core curriculum,
+<lb/>too. The trouble was that he ap
+<lb/>peared to mean something quite dif
+<lb/>ferent fi-ora what Fran Johnson had
+<lb/>in mind.
+<lb/>And the home ec teacher and the
+<lb/>shop man both pointed out how their
+<lb/>subjects would fit very well into
+<lb/>this core curriculum whatever it was
+<lb/>that they meant by it.
+<lb/>Ruth didn't think she was quite
+<lb/>hanging back either. She hadn't
+<lb/>been asleep these last few years.
+<lb/>She'd done some reading. She'd gone
+<lb/>to the zone meetings. She'd used
+<lb/>her visiting days to observe some
+<lb/>English teachers down the valley.
+<lb/>She'd taken some work in summer
+<lb/>session, too. She knew that the core
+<lb/>curriculum was being more widely
+<lb/>tried,
+<lb/>But no three people who talked
+<lb/>about it seemed to agree on what it
+<lb/>was.
+<lb/>Then, at the end of the meeting
+<lb/>Fran Johnson, the supervisor, came
+<pb n="4" facs="#page-003"/>
+<lb/>Editorial Comment
+<lb/>out with this: "I hope, Ruth, that
+<lb/>you'll be able to implement the com
+<lb/>mittee's proposals for workshop type
+<lb/>of teaching in your part of our core
+<lb/>curriculum. "
+<lb/>Ruth did a double-take on that
+<lb/>oneo But she stifled her "Huh?" and
+<lb/>beat it for her room. After all, it
+<lb/>was 5 o'clock and she had to get
+<lb/>home to help Mary get supper at the
+<lb/>apartment.
+<lb/>But the sentence -stuck. As if
+<lb/>core curriculum wasn't enough. Now
+<lb/>it was workshop type of teaching.
+<lb/>"What does that mean?" she thought
+<lb/>as she peeled the carrots.
+<lb/>And that word implement!
+<lb/>The administrators loved that
+<lb/>one! Implement! "Implanent the
+<lb/>committee's proposals!"
+<lb/>She thought back to an article
+<lb/>she'd been reading recently.
+<lb/>After supper she picked it up
+<lb/>again. It was in the Saturday Re
+<lb/>view for September 20. William D„
+<lb/>Grampp had written the lead article
+<lb/>on "Words in Public." He'd hit the
+<lb/>nail on the head, too.
+<lb/>He'd talked about the problem of
+<lb/>plain talk in communicating with
+<lb/>each other. Then he'd ripped apart
+<lb/>our over-use and abuse of certain
+<lb/>words,
+<lb/>"To use implement as a verb,"
+<lb/>he wrote, " and to use it incessantly
+<lb/>requires an amount of presumption
+<lb/>which is truly an afront. Why must
+<lb/>our plans be implemented"^ Are they
+<lb/>so fine that they cannot just be
+<lb/>carried out' ? "
+<lb/>Do they mean " accomplish, ful
+<lb/>fil, complete, or carry out," Grampp
+<lb/>asked. If so, "let's call a spade a
+<lb/>Spade, and that's an implement. "
+<lb/>He culled over a number of other
+<lb/>words, too. Check, target, concept,
+<lb/>firming up, in terms of, level, spell
+<lb/>out.
+<lb/>Ruth Anderson thought of her
+<lb/>own list. Structured, non-Regents;
+<lb/>exceptional child, public relations,
+<lb/>citizenship education, child-centered,
+<lb/>average, progressive.
+<lb/>"I wonder," Ruth mused as she
+<lb/>turned to marking her papers, "what
+<lb/>would happen if more of us would
+<lb/>interrupt every so often and ask,
+<lb/>' What do you mean? ' or ' How do
+<lb/>you define that phrase? ' "
+<lb/>RcL
+<lb/>JOURNALISM PROFESSOR
+<lb/>EMPLOYED AS EDITORIAL
+<lb/>CONSULTANT
+<lb/>Dr. George L. Bird, Professor of
+<lb/>Journalism in the School of Journal
+<lb/>ism at Syracuse University, has been
+<lb/>employed by the Council to serve as
+<lb/>editorial consultant on the staff of
+<lb/>THE REPORTER.
+<lb/>Dr. Bird will be responsible for
+<lb/>final editing of copy and for make-up
+<lb/>and format of the Council bi-monthly
+<lb/>journal. His services will be avail
+<lb/>able for the current Council year, be
+<lb/>ginning with the next issue of THE
+<lb/>REPORTER.
+<lb/>Patterns Of Action
+<lb/>is a vote for efficient government"
+<lb/>that called for creative ability. The
+<lb/>creativeness of the students was
+<lb/>further challenged in the develop
+<lb/>ment of an assembly program pre
+<lb/>sented by the members of the two
+<lb/>parties as a conclusion to the cam
+<lb/>paign.
+<lb/>English teachers worked with all
+<lb/>those who presented speeches, sup
+<lb/>ervising the writing of the speeches
+<lb/>as well as the oral presentation of
+<lb/>them. Class discussions were also
+<lb/>held after the assembly program to
+<lb/>analyze the various speeches as to
+<lb/>quality, style of presentation, and
+<lb/>persua si vene ss.
+<lb/>The voting of the students was a
+<lb/>real climax to the entire program in
+<lb/>more ways than one. Permission to
+<lb/>use a regular voting machine was
+<lb/>granted by local authorities, and it
+<lb/>was properly setup for the occasion.
+<lb/>Preliminary instruction on how to
+<lb/>use the machine was given to each
+<lb/>social studies class before the stu
+<lb/>dents were taken to do their voting.
+<lb/>All students operated the machine
+<lb/>entirely on their own.
+<lb/>It was an excited group of cam
+<lb/>paign managers that gathered around
+<lb/>that afternoon as the machine was
+<lb/>opened for inspection of the results.
+<lb/>Examination of the counters on the
+<lb/>machine showed clearly that every
+<lb/>student had learned the lesson well.
+<lb/>Out of 139 individuals who voted,
+<lb/>not one made a mistake in using the
+<lb/>machine.
+<lb/>29
+<pb n="5" facs="#page-004"/>
+<lb/>Patterns Of Action
+<lb/>a manner that would make the pro
+<lb/>cedure democratic, practical, and
+<lb/>educational. It involved many pupil-
+<lb/>to-pupil and teacher-pupil relation
+<lb/>ships. It created many opportunities
+<lb/>for practical applications in both
+<lb/>English and social studies classes
+<lb/>as pupils worked individually and in
+<lb/>committees toward recognized goals.
+<lb/>Members of the student council
+<lb/>selected the procedure to be followed
+<lb/>in running off the campaign and
+<lb/>election. It was unanimously de
+<lb/>cided to follow the plan of our
+<lb/>national presidential elections. This
+<lb/>provided an excellent opportunity
+<lb/>for the study of political conventions,
+<lb/>registration, and voting in the social
+<lb/>studies classes.
+<lb/>Each homeroom elected two
+<lb/>delegates for the convention meet
+<lb/>ings. The result was the formation
+<lb/>of two groups of delegates with each
+<lb/>homeroom represented on both com
+<lb/>mittees. All members of the ninth
+<lb/>grade were instructed that they
+<lb/>should express their wishes con
+<lb/>cerning possible candidates and
+<lb/>party name to their delegates.
+<lb/>Each group of delegates met,
+<lb/>under the supervision of teachers,
+<lb/>after a lapse of a few days. In these
+<lb/>convention meetings, the parties
+<lb/>selected their slates of candidates,
+<lb/>party names, party symbols, and
+<lb/>campaign managers. The campaign
+<lb/>managers were used to plan strategy
+<lb/>and secure workers.
+<lb/>All ninth grade pupils registered
+<lb/>party preference at the time cam
+<lb/>paigning began. Registration was
+<lb/>supervised by representatives from
+<lb/>each party. Ballots used during
+<lb/>registration were similar to those
+<lb/>used by adults when registering for
+<lb/>a real election.
+<lb/>The campaign lasted four days.
+<lb/>It featured campaign buttons, post
+<lb/>ers, speeches, songs, and poems.
+<lb/>All of these presented situations
+<lb/>^ttrs-RtmemBer
+<lb/>Election Day
+<lb/>On Council Activities
+<lb/>MARTIN TAKES OFFICE AS
+<lb/>PRESIDENT
+<lb/>Henning J, Martin, Supt. of Schools
+<lb/>at Herkimer, took office as President
+<lb/>of the Council at the beginning of
+<lb/>the new Council year on September
+<lb/>1. Martin served as Treasurer in
+<lb/>1950-51 and as Vice-President in
+<lb/>1951-52.
+<lb/>Barry and Benedict
+<lb/>Taking office with him were
+<lb/>Franklyn S. Barry, Supt. of Schools
+<lb/>at Cortland, as Vice-President, and
+<lb/>Paul Ho Benedict, Supv. Ptin. of
+<lb/>Baldwinsville Central School, as
+<lb/>Treasurer. Mr. Barry had previously
+<lb/>served as Treasurer; Mr. Baiedict
+<lb/>as an Executive Committeeman.
+<lb/>Executive Committee
+<lb/>Three new members took office
+<lb/>on September 1 as Executive Com-
+<lb/>mitteemen. They were Merrill C.
+<lb/>Braymen, Supv. Prin. of Chittenango
+<lb/>Central School, Winston W. Hart,
+<lb/>Supv. Prin. of Elbridge Central
+<lb/>School, and Herbert S. Schroeder,
+<lb/>Supv. Prin. of Cato-Meridian Central
+<lb/>School.
+<lb/>Daly, Soper and Steeves
+<lb/>The remaining three members of
+<lb/>the Executive Committee are Robert
+<lb/>J. Daly, Director of Curriculum,
+<lb/>Guidance, and Research at Water-
+<lb/>town, Earl F. Soper, Supt. of Schools
+<lb/>at Norwich, and Willard W. Steeves,
+<lb/>Supv. Prin. of West Winfield Central
+<lb/>School.
+<lb/>Officers were elected at the
+<lb/>General Meeting last March.
+<lb/>DRYDEN, LAFAYETTE JOIN
+<lb/>COUNCIL
+<lb/>Dryden Central School and Lafayette
+<lb/>Central School have joined the Coun
+<lb/>cil this year. Edward Long is Supv.
+<lb/>Prin. at Dryden. Grant Grimshaw is
+<lb/>Supv. Prin. at Lafayette.
+<lb/>The Council staff, serving as a
+<lb/>welcoming committee, has visited
+<lb/>each school to describe to the facul
+<lb/>ty the nature and activities of the
+<lb/>Council.
+<lb/>NEW STEERING COMMITTEES
+<lb/>APPOINTED
+<lb/>President Martin has announced the
+<lb/>appointment of members of the three
+<lb/>Council steering committees and of
+<lb/>the Publications Committee and Edi
+<lb/>torial Board.
+<lb/>Elementary Committee
+<lb/>William J. Sample, Prin. of the
+<lb/>Campus School of the State Univer
+<lb/>sity Teachers College at Oswego,
+<lb/>will serve as chairman of the Steer
+<lb/>ing Committee on Elementary Edu
+<lb/>cation. Other members of the com
+<lb/>mittee are Edward R. Andrews, Supv.
+<lb/>Prin. of Morrisville-Eaton Central
+<lb/>School, Gerald L. Cleveland, Asst.
+<lb/>Supt. of Schools in Syracuse, Byron
+<lb/>L. Greenfield, Prin. of Town of Webb
+<lb/>Schools, Old Forge, and Joseph S.
+<lb/>Horton, Supt. of Schools in Little
+<lb/>Falla
+<lb/>Secondary Committee
+<lb/>Serving as chairman of the Steer
+<lb/>ing Committee on Secondary Edu
+<lb/>cation will be Sidney L. MacArthur,
+<lb/>Prin. of the Newark High School.
+<pb n="6" facs="#page-005"/>
+<lb/>On Council Activities
+<lb/>Five other men will make up this
+<lb/>committee: Carl Andrews, Supv. Prin.
+<lb/>of Hannibal Central School, Harold J,
+<lb/>Coon, Asst. Supt. of Schools in Syra
+<lb/>cuse, Earl F. Soper, Supt. of Schools
+<lb/>in Norwich, Theodore I. Stewart,
+<lb/>Supt. of Schools in East Syracuse,
+<lb/>and Lyndon H. Strough, SupL of
+<lb/>Schools in Rome.
+<lb/>Administrative Committee
+<lb/>The Steering Committee on Ad
+<lb/>ministrative Problems will have co-
+<lb/>chairmai. They are Gilbert M. Bank
+<lb/>er, Supv. Prin. of Hancock Central
+<lb/>School, and William L. Gra^, Supt.
+<lb/>of Schools in Ithaca. Also members
+<lb/>of that committee are Maurice Ham
+<lb/>mond, Supv. Prin. of North Sjnracuse
+<lb/>Central School, Charles G. Hether-
+<lb/>ington, Supt of Schools in Auburn,
+<lb/>Ralph F. Pyle, Supv. Prin. of Sidney
+<lb/>Central School, Harold J. Rankin,
+<lb/>Supv. Prin. of Mohawk Central
+<lb/>School, and Robert B. Woodruff, Supv.
+<lb/>Prin. of Van Homesville Central
+<lb/>School,
+<lb/>Publications Committee
+<lb/>The Publications Committee and
+<lb/>Editorial Board of THE REPORTER
+<lb/>will consist of Andrew J. Smith, Supv.
+<lb/>Prin. of Union Springs Central School,
+<lb/>as chairman, and Bruce Brummitt,
+<lb/>Supv. Prin. of Camden Central School,
+<lb/>Functions Defined
+<lb/>At the Second Imagineering Con
+<lb/>ference last spring, the functions of
+<lb/>the several steering committees were
+<lb/>drfined. These committees are
+<lb/>charged with the coordination of the
+<lb/>work of the respective study com
+<lb/>mittees in their areas. They also
+<lb/>assist in the establishment of any
+<lb/>new study committees and help each
+<lb/>study committee to formulate broad
+<lb/>purposes.
+<lb/>The steering committees met
+<lb/>with the Executive Committee in Oc
+<lb/>tober and will meet again on Novem
+<lb/>ber 25 at Drumlins.
+<lb/>FLEXIBILITY COMMITTEE
+<lb/>DISTRIBUTES RESOURCE UNITS
+<lb/>FOR FIFTH GRADE SOCIAL
+<lb/>STUDIES
+<lb/>Three resource units for use in teach
+<lb/>ing fifth grade social studies have
+<lb/>been distributed to all member
+<lb/>schools from the Committee on Flex
+<lb/>ibility. In addition, schools have
+<lb/>received a supplement to the re
+<lb/>source units which contains sugges
+<lb/>tions for evaluating outcomes in fifth
+<lb/>grade social studies. Four addition
+<lb/>al units are being duplicated and
+<lb/>will be ready for distribution shortly.
+<lb/>These units are the first of a
+<lb/>group of fifteen resource units for
+<lb/>fifth grade social studies which the
+<lb/>Committee on Flexibility is'prepar
+<lb/>ing. The first seven were assembled
+<lb/>lastyear. During the summer a small
+<lb/>group of teachers from Council
+<lb/>schools worked for three weeks on
+<lb/>these seven units, putting them in
+<lb/>final form for duplication.
+<lb/>Six Teachers
+<lb/>These six teachers worked under
+<lb/>the general supervision of Miss
+<lb/>KathrynHeffernan, Elementary School
+<lb/>Supervisor at Marcellus Central
+<lb/>School. They were participants in
+<lb/>a workshop in citizenship education
+<lb/>Patterns Of Action
+<lb/>ceive credit both in her class and
+<lb/>in reading. Then, too, our science
+<lb/>teacher provides bibliographies of
+<lb/>library books, magazine articles and
+<lb/>other reference materials for each
+<lb/>unit of science work. Since some of
+<lb/>these sources are more difficult than
+<lb/>others, we use them in our divided
+<lb/>program. Needless to say, busy
+<lb/>students welcome the opportunity to
+<lb/>read for science activity credit in
+<lb/>reading class. Many of the reading
+<lb/>selections I introduce in my English
+<lb/>class.
+<lb/>The excellent articles in the
+<lb/>Junior Scholastic Magazine lend
+<lb/>themselves very nicely to outside
+<lb/>reading assignments. We find that
+<lb/>the students really «ijoy doing the
+<lb/>written exercises as well as sum
+<lb/>marizing or dramatizing parts of the
+<lb/>magazine.
+<lb/>This program is neither complete
+<lb/>nor perfect. Finding stimulating
+<lb/>reading material for fourteen- or
+<lb/>fifteen-year-old students with third
+<lb/>or fourth grade reading ability is a
+<lb/>major problem. We are rewarded in
+<lb/>May when another form of standard
+<lb/>ized test shows almost evpry student
+<lb/>has advanced at least one grade in
+<lb/>reading.
+<lb/>BECOMING FAMILIAR WITH
+<lb/>IMPORTANT PEOPLE
+<lb/>Ralph W. Buske, No. Syracuse
+<lb/>In order to provide an incentive for
+<lb/>use of various research and refer
+<lb/>ence materials, and to provide a
+<lb/>situation in which children will be
+<lb/>come familiar with the lives and ac
+<lb/>complishments of outstanding per
+<lb/>sons, I have been using a type of
+<lb/>interrogation exercise in my seventh
+<lb/>and eighth grade social studies
+<lb/>classes.
+<lb/>For the first five minutes of each
+<lb/>social studies period, one student
+<lb/>assumes the personality of a well-
+<lb/>known figure in current life such as
+<lb/>Warren Austin, Jim Thorpe, Queen
+<lb/>Elizabeth, Marshall Tito, or John
+<lb/>Foster Dulles. The rest of the class
+<lb/>does not know the identity of this
+<lb/>person. Only one brief clue is given
+<lb/>to his identity such as, "I am an
+<lb/>American citizen," or "My home is
+<lb/>on foreign soil." The clue may be
+<lb/>vague but yet give some definite de
+<lb/>tail. After this brief hint the stu
+<lb/>dents in the class ask questions
+<lb/>which can be answered "Yes" or
+<lb/>"No" until the person has been
+<lb/>identified. The student identifying
+<lb/>the person is the "mystery person
+<lb/>ality" the next day. That student
+<lb/>must familiarize himself with the
+<lb/>life of the person he chooses so that
+<lb/>he will be able to answer the ques
+<lb/>tions of other pupils the following
+<lb/>day. Here is a challenge in current
+<lb/>events both to individuals and to a
+<lb/>whole class.
+<lb/>CAMPAIGNING FOR
+<lb/>CITIZENSHIP
+<lb/>George Washington Junior High
+<lb/>Endicott
+<lb/>The election of class officers for the
+<lb/>ninth grade of the George Washington
+<lb/>Junior High in Endicott was held in
+<lb/>27
+<pb n="7" facs="#page-006"/>
+<lb/>Patterns Of Action
+<lb/>The fair lasted three days and
+<lb/>was open to all grades from third to
+<lb/>ninth. The visitors seemed to enjoy
+<lb/>the new books and made many com
+<lb/>ments about the displays. Booklists
+<lb/>and bookmarks were carried away by
+<lb/>every visitor as a reminder of the
+<lb/>1952 fair. Parents also had an op
+<lb/>portunity to visit the fair and see
+<lb/>the puppet show during an open
+<lb/>house at the school that week.
+<lb/>A READING PROGRAM FOR
+<lb/>SEVENTH GRADERS
+<lb/>Christine Kobarge
+<lb/>Newark High School
+<lb/>The seventh grade reading program
+<lb/>is being adapted to our own needs.
+<lb/>In a class of one hundred thirty-five
+<lb/>students, there is a range of read
+<lb/>ing ability from the third grade to
+<lb/>the tenth grade plus. This calls for
+<lb/>a diversified program. During the
+<lb/>first month of school a standardized
+<lb/>test is given, which, along with the
+<lb/>observation of thefoursubjectteach-
+<lb/>ers and the accumulative records,
+<lb/>determines the grouping of our stu
+<lb/>dents. We carry on two quite dif
+<lb/>ferent programs: one for students
+<lb/>reading below the seventh grade
+<lb/>level and the other for students who
+<lb/>need an accelerated program to stim
+<lb/>ulate their interests.
+<lb/>The classes for below-average
+<lb/>readers take considerable planning
+<lb/>each year. Each student discusses
+<lb/>h\s own problems and ways of over
+<lb/>coming them with the teacher. His
+<lb/>self-confidence is bolstered by doing
+<lb/>reading exercises within his ability.
+<lb/>For teaching reading skills, we use
+<lb/>a text suggested by Dr. Paul Witty
+<lb/>of Northwestern University. These
+<lb/>students read orally in class as well
+<lb/>as listen to stories read by the teach
+<lb/>er. Vocabulary drill and concept
+<lb/>building are handled along with the
+<lb/>stories. We attempt to overcome the
+<lb/>oft-mentioned dislike for reading by
+<lb/>suggesting comparatively easy li
+<lb/>brary books on the students' hobbies
+<lb/>and interests. Units on the use of
+<lb/>the library, the dictionary and the
+<lb/>encyclopedia engender better study
+<lb/>habits.
+<lb/>The emphasis in our accelerated
+<lb/>program is on more challenging read
+<lb/>ing selections and a more thought-
+<lb/>provoking testing program. Oral
+<lb/>reports, dramatizations, discussions,
+<lb/>and summaries serve to motivate the
+<lb/>average and above-average readers.
+<lb/>A library book is the "pass" to
+<lb/>reading class. We try to congratu
+<lb/>late those students who read their
+<lb/>library books whenever they have a
+<lb/>little spare time in school.
+<lb/>The splendid cooperation of the
+<lb/>other teachers facilities correlation
+<lb/>within our departments. For example,
+<lb/>on occasions the social studies
+<lb/>teacher uses the reading class to
+<lb/>teach the meanings of difficult words
+<lb/>and the concepts necessary to the
+<lb/>understanding of certain phases of
+<lb/>her work. Besides, she provides
+<lb/>each student with lists of library
+<lb/>books which supplement other so
+<lb/>cial studies activities. The stu
+<lb/>dents who report on these books re-
+<lb/>26
+<lb/>On Council Activities
+<lb/>which was conducted as part of the
+<lb/>summer session at Syracuse Univer
+<lb/>sity. The six teachers were as fol
+<lb/>lows: Miss Mary Lou Dickinson,
+<lb/>Fayetteville-Manlius Central School;
+<lb/>Miss Clara M. Evans, Syracuse Pub
+<lb/>lic Schools; Miss Marjorie Freland,
+<lb/>Sherburne Central School; Mrs. Ur-
+<lb/>salaKishman, Solvay Public Schools;
+<lb/>Mrs. Veronica Locke, Fayetteville-
+<lb/>Manlius Central School; and Miss
+<lb/>Ruth Parker, Fayetteville-Manlius
+<lb/>Central School. Assisting the group
+<lb/>in its work was Mrs. Evelyn Norem,
+<lb/>Elementary School Supervisor at the
+<lb/>Fayetteville-Manlius Central School.
+<lb/>Revisions Called For
+<lb/>These units, which parallel the
+<lb/>state syllabus, are to be utilized
+<lb/>by teachers in any manner they deem
+<lb/>best Each teacher is asked to
+<lb/>make changes or additions in each
+<lb/>unit as she uses it. The comments
+<lb/>of each teacher are then to be pooled
+<lb/>for each school system and com
+<lb/>bined on one copy of each unit. This
+<lb/>copy of each unit will be transmitted
+<lb/>to the Committee on Flexibility by
+<lb/>the chief representative on that
+<lb/>Committee from the school system.
+<lb/>These suggested changes will then
+<lb/>be combined from all member schools
+<lb/>and the units will be revised and
+<lb/>re-published in a final edition.
+<lb/>These final editions will be issued
+<lb/>as they are ready, next spring, sum
+<lb/>mer, and fall.
+<lb/>Units Listed
+<lb/>The titles of the fifteen resource
+<lb/>units for fifth grade social studies
+<lb/>are as follows: 1, Our Global World;
+<lb/>II, How the New World Was Discov
+<lb/>ered and Explored; 111, The Chesa
+<lb/>peake Bay Region; IV, The New
+<lb/>England Region; V, The Middle At
+<lb/>lantic States; VI, The South Atlantic
+<lb/>Region; Vll, The Region of the Gulf
+<lb/>States; Vlll, The Great J^akes Re
+<lb/>gion; IX, The Settlement of the Mis
+<lb/>sissippi-Missouri Region; X, The
+<lb/>Southwest; XI, The Pacific Coast
+<lb/>Region; Xll, The United States and
+<lb/>Her Resources; Xlll, Canada; XIV,
+<lb/>Mexico; and XV, Historical Summary.
+<lb/>SIXTH GRADE CITIZENSHIP
+<lb/>EDUCATION, PROMOTIONAL
+<lb/>POLICY CONCERN COMMITTEE
+<lb/>ON FLEXIBILITY
+<lb/>The Committee on Flexibility
+<lb/>is working in two sections again
+<lb/>this year. The sub-committee meet
+<lb/>ings are independent of each other
+<lb/>and each is concerned with its own
+<lb/>problems.
+<lb/>The Sub-Committee on Sixth
+<lb/>Grade Citizenship Education is work
+<lb/>ing on the development of resource
+<lb/>units in this area. These units are
+<lb/>similar in form to the fifth grade citi
+<lb/>zenship education resource units.
+<lb/>Outside of the regular meetings,
+<lb/>as interim activity. Council schools
+<lb/>are concerned with the further devel
+<lb/>opment of the fifth grade program in
+<lb/>citizenship education. These schools
+<lb/>are developing the remaining re
+<lb/>source units as individual projects.
+<lb/>The Planning Committee revised their
+<lb/>original plans to make this possible
+<pb n="8" facs="#page-007"/>
+<lb/>On Council Activities Patterns Of Action
+<lb/>and to facilitate the emphasis on the
+<lb/>sixth grade program.
+<lb/>The Committee is planning a hu
+<lb/>man relations seminar for supervisors
+<lb/>and elementary principals. This will
+<lb/>be under the direction of Dr. Arthur
+<lb/>Combs as was last year's human re
+<lb/>lations seminar for chief school ad
+<lb/>ministrators. The first meeting of
+<lb/>this group is scheduled for February.
+<lb/>The Sub-Committee on Promo
+<lb/>tional Policy, after an organizational
+<lb/>meeting September 28, is seeking to
+<lb/>form fundamental philosophy and cri
+<lb/>teria in promotional policy. The
+<lb/>group is using as consultant William
+<lb/>Young, Director of Guidance in Rome.
+<lb/>Elections were held in the Pro
+<lb/>motional Policy meeting of Septem
+<lb/>ber 28 and the following members of
+<lb/>the Planning Committee were chosen:
+<lb/>Anna L. Murtagh, Solvay, Chairman;
+<lb/>Eltha Rowland West Winfield, Chief
+<lb/>Recorder, Ethel Moss, Cortland, As
+<lb/>sistant Recorder and William Young.
+<lb/>The Chairman of the Sub-Commit
+<lb/>tee on Sixth Grade Citizenship Edu
+<lb/>cation is Mildred C. Webb, Sherburne.
+<lb/>Working with six unit-development
+<lb/>committees in Citizenship Education
+<lb/>are the following co-chairmen: Mary
+<lb/>Miller, Baldwinsville; Pauline Nev
+<lb/>ille, Hannibal; Mary Wellman, Cam-
+<lb/>den; Robert Lenny, Old Forge; Eve-
+<lb/>lynNorem, Fayetteville-Manlius; Tom
+<lb/>Blair, Cazenovia; Lynn Brown, Jr.,,
+<lb/>Waterloo; Edna Crane, Red Creek;
+<lb/>Wilbur Olmstead, Norwich; Henry
+<lb/>Hort, Sidney; Margaret Phelps, Syra
+<lb/>cuse; and Ann Kuppel, Nedrow.
+<lb/>CITIZENSHIP COMMITTEE
+<lb/>PLANS THREE STUDIES
+<lb/>Sixty representatives of member
+<lb/>schools attended the first meeting
+<lb/>for the current year of the Committee
+<lb/>on Citizenship at Drumlins on No
+<lb/>vember 6.
+<lb/>Afternoon Session
+<lb/>Meeting in small groups during
+<lb/>the afternoon session, the members
+<lb/>of the Committee selected three
+<lb/>problems for study during the bal
+<lb/>ance of this year„ The first one is
+<lb/>the further development of student
+<lb/>participation in various aspects of
+<lb/>school life. The second is the con
+<lb/>sideration of the desirable citizen
+<lb/>ship role of the teacher in community
+<lb/>life. The planning and organization
+<lb/>of local school-community citizen
+<lb/>ship workshops was selected as the
+<lb/>third problem for study.
+<lb/>Next Meeting Scheduled
+<lb/>The next meeting of the Com
+<lb/>mittee will be held on Wednesday,
+<lb/>December 3, at Drumlins.
+<lb/>Felix Describes CEP
+<lb/>In the morning session the speak
+<lb/>er was Dr. Allai 0. Felix, Coordi
+<lb/>nator of Community Projects in the
+<lb/>Citizenship Education Project at
+<lb/>Teachers College, Columbia Uni
+<lb/>versity. Dr. Felix described some
+<lb/>of the achievements and procedures
+<lb/>of the CEP. A summary of his talk
+<lb/>will be presented in the next issue
+<lb/>of THE REPORTER.
+<lb/>Ceramic lions, tigers, and a panther
+<lb/>moved among the trees.
+<lb/>The Sport display consisted of
+<lb/>a collection of sport books flanked
+<lb/>on the sides and back by shinguards,
+<lb/>a baseball and bat, and a football
+<lb/>and basketball.
+<lb/>Small ceramic animals gave at
+<lb/>mosphere to the Animals display,
+<lb/>many of them being salt and pepper
+<lb/>shakers. A rubber dagger, gun, arid
+<lb/>magnifying glass brought attention
+<lb/>to the Detective Story display, while
+<lb/>the Classic and Folk Tale display
+<lb/>featured cutout scenes from Alice in
+<lb/>Wonderland. Two large size ships
+<lb/>gave a salty flavor to the Adventure
+<lb/>display, and oddly enough, salt was
+<lb/>used as sand in the desert scene for
+<lb/>the Western Hero exhibit.
+<lb/>The Did You Know? arrangement
+<lb/>caused quite a bit of comment. The
+<lb/>centerpiece consisted of the world
+<lb/>globe. Surrounding it girls placed
+<lb/>reference books and signs with such
+<lb/>questions as "Did you know you
+<lb/>"The Sea Stories Display"
+<lb/>could find Tonia Marcini's address
+<lb/>in the Endicott Directory?" In order
+<lb/>to prove the answer to this question
+<lb/>the Endicott Directory was opened
+<lb/>to the page where this information
+<lb/>could be found. Who's Who in Amer
+<lb/>ica, encyclopedias, and other special
+<lb/>reference books were featured.
+<lb/>Each committee was responsible
+<lb/>for all materials which they used in
+<lb/>connection with their displays. Bed
+<lb/>sheets were used to cover the tables
+<lb/>in order to have a uniform-looking
+<lb/>display. Each committee was also
+<lb/>responsible for compiling a bibliog
+<lb/>raphy of books they used in their
+<lb/>displays. These lists were mimeo
+<lb/>graphed and run off on colored paper.
+<lb/>Placed on the tables, they were
+<lb/>accessible to those visiting the fair.
+<lb/>A fourth grade girl did the illustra
+<lb/>tions for these booklets.
+<lb/>The art and homeroom teachers
+<lb/>were contacted and expressed a de
+<lb/>sire to assist in the preparation of
+<lb/>a puppet show. The English teacher
+<lb/>supervised thewriting of the scripts,
+<lb/>while the art teacher assisted the
+<lb/>students with the making of the pup
+<lb/>pets and the stage. Scenes from
+<lb/>"Strawberry Girl" by Lois Lenski
+<lb/>and "Bulldog Shell a" by T. F. Hick-
+<lb/>ey were dramatized with much suc
+<lb/>cess. A bit of comedy was imparted
+<lb/>with a quiz show featuring puppets
+<lb/>personifying Danny Kaye, Jerry
+<lb/>Lewis, and Amos. Such questions
+<lb/>as "What kind of animal was Freddy
+<lb/>the Pig?" and "In what profession
+<lb/>was Freddy the Detective?" brought
+<lb/>chuckles from the audience.
+<lb/>8 25
+<pb n="9" facs="#page-008"/>
+<lb/>Patterns Of Action On Council Activities
+<lb/>WE HAD A BOOK FAIR
+<lb/>Francesco La Sorte
+<lb/>George Washington Junior High
+<lb/>School, Endicott
+<lb/>At one library club meeting early in
+<lb/>October I casually asked the group
+<lb/>if they would be interestedin putting
+<lb/>on a book fair. The response was
+<lb/>overwhelming! In amazement, I
+<lb/>quickly gathered my composure and
+<lb/>tried to answer many of the ques
+<lb/>tions thrown at me at one time. If
+<lb/>you are familiar with the enthusiasm
+<lb/>of junior high school students you
+<lb/>will understand my predicament.
+<lb/>"Will it be like the one at the
+<lb/>Enjoy Club House you had a couple
+<lb/>of years ago? "
+<lb/>This question surprised me be
+<lb/>cause I didn't think they had enjoy
+<lb/>ed that exhibit so much. Since most
+<lb/>of them were in fourth or fifth grade
+<lb/>at the time, the display put on by
+<lb/>the Endicott librarian then must
+<lb/>have made a lasting impression.
+<lb/>"NO," I replied, "it will be a
+<lb/>miniature fair here in our library. "
+<lb/>"I want to put up a display on
+<lb/>sports," cried one.
+<lb/>" Me too, " shouted another.
+<lb/>A few more chimed in with other
+<lb/>ideas. After the children calmed
+<lb/>down, it was suggested that they
+<lb/>name committees and determine
+<lb/>themes for the exhibit. The follow
+<lb/>ing themes were approved:
+<lb/>Adventure and mystery, jungle
+<lb/>stories, animal stories, career stor
+<lb/>ies, sports as you like them, nature
+<lb/>and science, western heroes, detec-
+<lb/>" A Corner of the Book Fair"
+<lb/>tive stories, folk tales and the
+<lb/>classics, and did you know?
+<lb/>Some of the ideas for the dis
+<lb/>plays were fantastic and impossible,
+<lb/>I thought, but the children were sure
+<lb/>their ideas could be carried out. Of
+<lb/>course, I couldn't dogmatically say,
+<lb/>"No, it can't be done," but I was
+<lb/>very skeptical. A week was set
+<lb/>aside for meetings of the committee.
+<lb/>The Jungle display plagued me most.
+<lb/>The committee was going to build a
+<lb/>big palm tree and a waterfall for the
+<lb/>background My good library tables!
+<lb/>After a bit of discussion they real
+<lb/>ized that a library table was too
+<lb/>Small to house a jungle scene and
+<lb/>a display of books too, so the scene
+<lb/>was modified. They made a collec
+<lb/>tion of jungle books which were
+<lb/>placed behind the jungle scene. The
+<lb/>scene consisted of green vegetation
+<lb/>suggested by green felt, small palm
+<lb/>trees made of crepe paper and pipe
+<lb/>cleaners, and a waterfall formation
+<lb/>made of small flat stones. No water!
+<lb/>SECONDARY CURRICULUM
+<lb/>COMMITTEE PLANS
+<lb/>PUBLICATION WORKSHOP
+<lb/>On Wednesday, October 22, 1952,
+<lb/>The Committee on Secondary School
+<lb/>Curriculum Development met at Drum-
+<lb/>lins in Syracuse for a working ses
+<lb/>sion on the studies launched during
+<lb/>the 1951-52 school year. The pur
+<lb/>pose of the meeting was to compile
+<lb/>and organize results of the year's
+<lb/>study and to plan for a publication
+<lb/>workshop during November necessary
+<lb/>to put the findings into publication
+<lb/>form.
+<lb/>The study groups of the commit
+<lb/>tee had concentrated on three of the
+<lb/>ten "Imperative Needs of Adoles
+<lb/>cent Youth": family living, rational
+<lb/>thinking, and worthwhile use of lei
+<lb/>sure. These three needs had been
+<lb/>indicated through a survey of Coun
+<lb/>cil member schools a year ago as
+<lb/>most in need of study.
+<lb/>Prior to the meeting, each of the
+<lb/>study groups had issued a progress
+<lb/>report here summarized in brief.
+<lb/>Study Group I - Family Living
+<lb/>"All youth need to understand
+<lb/>the significance of the family for the
+<lb/>individual and society and the con
+<lb/>ditions conducive to successful
+<lb/>family life."
+<lb/>The basic interests and charac
+<lb/>teristics of students in grades 7, 8,
+<lb/>and 9 have been studied and listed.
+<lb/>Work is still incomplete on grades
+<lb/>10, 11, and 12.
+<lb/>One of the areas which needs to
+<lb/>be investigated more completely is
+<lb/>concerned with the skills, attitudes,
+<lb/>and understandings which are to be
+<lb/>developed in the program of family
+<lb/>life education.
+<lb/>Several significant lists of avail
+<lb/>able materials are in the editing
+<lb/>stage at the present time. These
+<lb/>include a tabulation of devices now
+<lb/>being used in our schools to more
+<lb/>effectively meet the need stated
+<lb/>above. These devices are divided
+<lb/>into those which are used at the
+<lb/>junior high school level and those
+<lb/>more appropriate for use in the sen
+<lb/>ior high school.
+<lb/>Rather extensive annotated lists
+<lb/>of books of fiction, biographies, and
+<lb/>other reference materials have been
+<lb/>compiled and are now ready for final
+<lb/>editing. These materials were chos
+<lb/>en and listed in order to provide the
+<lb/>classroom teacher with resource ma
+<lb/>terials and other aids suitable for
+<lb/>the family life program.
+<lb/>Also in the editing stage is a
+<lb/>suggested list of desirable behaviors
+<lb/>which may be used as a guide for
+<lb/>teachers in developing a school-wide
+<lb/>program in family living in junior and
+<lb/>senior high schools.
+<lb/>The committee has studied care
+<lb/>fully suggestions of experiences
+<lb/>which the school can provide in such
+<lb/>a program, and more work will be
+<lb/>done in this particular area of study.
+<lb/>The problem of evaluating prog
+<lb/>ress in the developing of skills, at
+<lb/>titudes, understandings, and desir
+<lb/>able behaviors was not discussed
+<lb/>thoroughly during the past year.
+<lb/>24
+<pb n="10" facs="#page-009"/>
+<lb/>On Council Acfivifies
+<lb/>Evaluation will be an important
+<lb/>phase of the program, but time did
+<lb/>not permit its detailed consideration.
+<lb/>A chart has been devised to aid
+<lb/>in studying and classifying the top
+<lb/>ics in the family life program. An
+<lb/>effort was made to consider particu
+<lb/>lar needs, interests, and character
+<lb/>istics of students at the various
+<lb/>grade levels, although much over
+<lb/>lapping was found. All the lists now
+<lb/>in the editing stage and the other
+<lb/>materials in the process of develop
+<lb/>ment, while primarily concerned with
+<lb/>either the junior or the senior high
+<lb/>school program, will be of value to
+<lb/>both levels.
+<lb/>Study Group II - Rational Thinking
+<lb/>Because of the nebulous nature
+<lb/>of its study, the group working on
+<lb/>the development of rational thinking
+<lb/>in the' secondary curriculum encoun
+<lb/>tered considerable difficulty in de
+<lb/>fining its attack on the problem.
+<lb/>However, by December of 1951, the
+<lb/>group had developed a concept it
+<lb/>considered defensible of what con
+<lb/>stitutes rational thinking. The an
+<lb/>alysis comprised eight points: dis
+<lb/>cerning facts, recognizing problems,
+<lb/>thinking soundly, attacking a problem
+<lb/>systematically, using analogy if and
+<lb/>when valid, making appropriate gen
+<lb/>eralizations, proving an attitude of
+<lb/>critical mindedness, and drawing and
+<lb/>utilizing sound conclusions.
+<lb/>From this analysis the committee
+<lb/>has begun developing a collection of
+<lb/>experiences in investigation, prob
+<lb/>lem-finding, and problem solving. It
+<lb/>is considering the relation of these
+<lb/>experiences to the curriculum, nec
+<lb/>essary specific understandings and
+<lb/>abilities which underlie rational
+<lb/>thinking, and methods of finding the
+<lb/>material needed for a study such as
+<lb/>this one.
+<lb/>Study Group III - Worthwhile Use of
+<lb/>Leisure Time
+<lb/>Last October this committee be
+<lb/>gan to explore the problems involved
+<lb/>in helping "all youth to use their
+<lb/>leisure time well, to budget it wise
+<lb/>ly, balancing activities that yield
+<lb/>satisfaction to the individual with
+<lb/>those that are socially useful."
+<lb/>Since early investigations re
+<lb/>vealed a striking lack of available
+<lb/>resource material, the group began
+<lb/>by describing many practices com
+<lb/>mon to the schools represented on
+<lb/>the committee. Such factors as the
+<lb/>novelty, the opportunity for action,
+<lb/>and the chance for recognition were
+<lb/>identified in an effort to develop
+<lb/>criteria for determining the compara
+<lb/>tive value of the various activities.
+<lb/>By December the group accepted
+<lb/>the philosophy that a good activity
+<lb/>is any activity that adds to the phy
+<lb/>sical, moral, and mental fiber of a
+<lb/>person and that leisure refers to that
+<lb/>time not occupied by the demands of
+<lb/>the job or the necessities of daily
+<lb/>living.
+<lb/>An extensive checklist of leisure
+<lb/>time activities was developed. In
+<lb/>aneffortto provide a fundof success
+<lb/>ful practices all committee members
+<lb/>were urged to obtain thumbnail
+<lb/>sketches of what were considered
+<lb/>10
+<lb/>Patterns Of Actions
+<lb/>When the vegetables were full
+<lb/>grown and ready to use, the class
+<lb/>decided to use part of the vegetables
+<lb/>to make a tossed salad. The rest of
+<lb/>the vegetables were cooked to illus
+<lb/>trate how we can conserve our vita
+<lb/>mins as well as use the vitamins
+<lb/>which have dissolved in the water.
+<lb/>ACTION RESEARCH IN READING
+<lb/>Reglna Ryan, South Broad
+<lb/>Street School, Norwich
+<lb/>We decided to try a simple research
+<lb/>project in our sixth grade. The pur
+<lb/>pose of this study was to determine
+<lb/>to what extent there is growth in read
+<lb/>ing when good reading habits and
+<lb/>study skills are emphasized in social
+<lb/>studies. The unit developed was on
+<lb/>Ancient Greece.
+<lb/>The effectiveness of this exper
+<lb/>imental study was objectively deter
+<lb/>mined by gains shown in the Iowa
+<lb/>Basic Skills Test, Type B, Work-
+<lb/>Study Skills, which was given before
+<lb/>and after the five-week study of
+<lb/>Greece.
+<lb/>Discussion periods were used to
+<lb/>formulate problems, organize ideas,
+<lb/>raise questions, share experiences,
+<lb/>summarize concepts, and evaluate
+<lb/>objectives. Committee groups inves
+<lb/>tigated specific problems and report
+<lb/>ed their findings to the class.
+<lb/>General group instruction was
+<lb/>given to aid in difficulties in vocab
+<lb/>ulary; location of supplementary ma
+<lb/>terials; use of supplementary ma
+<lb/>terials such as the atlas. World Al
+<lb/>manac, supplementary texts, news
+<lb/>papers, and weekly magazines; in
+<lb/>terpretation of maps, graphs, charts,
+<lb/>and tables; organization of material
+<lb/>developing techniques of note taking,
+<lb/>outlining, and summarizing; critical
+<lb/>reading and an appreciation of the
+<lb/>need for wide reading; use of the
+<lb/>globe; and formulation of generaliza
+<lb/>tions based on fact.
+<lb/>The gain in work-study skills as
+<lb/>measured by the Iowa Basic Skills
+<lb/>Test ranged from .2 to 2.1 on the
+<lb/>scale provided with the test; the
+<lb/>average gain was .64. There was
+<lb/>definite growth in reading when read
+<lb/>ing habits and specific study skills
+<lb/>were emphasized.
+<lb/>Many worthwhile values, not ob
+<lb/>jectively measured, were evident to
+<lb/>the observer. A few of these were
+<lb/>shown in the children's discussion
+<lb/>groups as they contributed facts from
+<lb/>many sources, and questioned ma
+<lb/>terial given in references. The
+<lb/>children showed independence and
+<lb/>ease in studying, ability to take
+<lb/>notes effectively and to outline ma
+<lb/>terial, and confidence in oral ex
+<lb/>pression.
+<lb/>(Editor's Note: In trying this kind of
+<lb/>experiment again, it would be inter
+<lb/>esting to use a matched control
+<lb/>group. The control group could be
+<lb/>taught the same material without
+<lb/>emphasizing reading habits and study
+<lb/>skills. A comparison of the before
+<lb/>and after test results of the experi
+<lb/>mental group with those of the con
+<lb/>trol group might give an indication
+<lb/>of the relative value of emphasizing
+<lb/>reading habits and study skills.)
+<lb/>23
+<pb n="11" facs="#page-010"/>
+<lb/>Patterns Of Actions On Council Activities
+<lb/>ASSEMBLING SOCIAL
+<lb/>STUDIES POSTERS
+<lb/>Alice Mosher, Earlville
+<lb/>In order to arouse a desire for further
+<lb/>reading in social studies, news
+<lb/>papers and other sources were used
+<lb/>to secure captions for posters de
+<lb/>picting the various ways of sending
+<lb/>messages. The words, letters, and
+<lb/>pictures were cut from the papers
+<lb/>and pasted on the posters. The
+<lb/>children also made their own tele
+<lb/>grams by selecting and cutting out
+<lb/>the words, and pasting them on yel
+<lb/>low paper which resembled the origi
+<lb/>nal telegram. This work was done
+<lb/>entirely as an activity at home over
+<lb/>a period of one week. The children
+<lb/>were interested and produced some
+<lb/>very attractive and illustrative pos
+<lb/>ters.
+<lb/>WHAT PLACE IS THIS?
+<lb/>Eugenia M. Baker
+<lb/>Lincaln School, Auburn
+<lb/>To make review in social studies
+<lb/>more interesting, we sometimes use
+<lb/>a game of Twenty Questions. The
+<lb/>class organizes into two groups. One
+<lb/>group thinks of a place we have
+<lb/>studied about in social studies. The
+<lb/>rest of the class has twenty ques
+<lb/>tions to locate the place. Questions
+<lb/>must be worded so as to be answered
+<lb/>yes or no.
+<lb/>This is an example of how the
+<lb/>questioning proceeds: Is it land?
+<lb/>Is it a city? Is it in our country? Is
+<lb/>it in Europe? Is it in Africa? Is it
+<lb/>on the Nile River? Is it Cairo?
+<lb/>If the group asking the questions
+<lb/>can discover the correct answer that
+<lb/>group then selects a place and
+<lb/>answers the questions of the other
+<lb/>group.
+<lb/>GARDENS NOW - SALAD LATER
+<lb/>Helen Warren, North Syracuse
+<lb/>Our fourth grade began a unit on
+<lb/>good eating, including what vitamins
+<lb/>we need in our diet and why they
+<lb/>are so important to us. As a result
+<lb/>of our study, the children decided to
+<lb/>plant some vegetable gardens.
+<lb/>We were fortunate in having three
+<lb/>boys in our room whose fathers are
+<lb/>truck farmers. Therefore, we were
+<lb/>able to get fertilized black soil and
+<lb/>boxes in which we could plant our
+<lb/>seeds.
+<lb/>First, we divided ourselves into
+<lb/>sixeswitha chairman for each group.
+<lb/>Then each group did a little research
+<lb/>to find out what vegetables grew
+<lb/>the quickest and easiest in the class
+<lb/>room. They discovered that some
+<lb/>vegetables need certain special
+<lb/>conditions in which to grow, and
+<lb/>others can be grown in the class
+<lb/>room without too much trouble. They
+<lb/>then decided to grow radishes, leaf
+<lb/>lettuce, green onions, and carrots.
+<lb/>On the day of the planting one
+<lb/>child in each group read the direc
+<lb/>tions while the others carried them
+<lb/>out. Then we carefully watered the
+<lb/>plants and set them on the ledge
+<lb/>near the windows. Every day a dif
+<lb/>ferent child took the responsibility
+<lb/>of watering and weeding the gardens.
+<lb/>highly desirable practices in their
+<lb/>own school. Later this same request
+<lb/>was made to all schools in the
+<lb/>Council.
+<lb/>Within the school leisure time
+<lb/>experiences are made available to
+<lb/>pupils through homeroom organiza
+<lb/>tions, activity periods, noon hour
+<lb/>programs, after school meetings and
+<lb/>practice sessions, study units with
+<lb/>the regular class program, and through
+<lb/>various groupings in the fields of
+<lb/>music, art, science, homemaking and
+<lb/>industrial arts. Such related phases
+<lb/>of the leisure time program as the
+<lb/>problem of transportation, the ques
+<lb/>tion of eligibility, the need to stim
+<lb/>ulate certain pupils to participate
+<lb/>more widely, and the limitation of
+<lb/>those who spread their energies too
+<lb/>widely, were subjects of group dis
+<lb/>cussion.
+<lb/>In the spring of 1952 it became
+<lb/>evident that more time than was then
+<lb/>available would be required to as
+<lb/>semble this material into some form
+<lb/>of an evaluative instrument. Some
+<lb/>thou^t was given to the scope and
+<lb/>format of the proposed tool that is
+<lb/>intended to help schools identify
+<lb/>their own strengths and weaknesses
+<lb/>in the area of the wise use of leisure
+<lb/>time. The last meeting closed with
+<lb/>a  request that each member seek
+<lb/>further examples of eminently suc
+<lb/>cessful practices.
+<lb/>In addition, a questionnaire has
+<lb/>been circulated to each Council mem
+<lb/>ber school this fall seeking pertinent
+<lb/>information concerning leisure time
+<lb/>attitudes and practices from ten stu
+<lb/>dents a ndten teachers in each school.
+<lb/>The response has been highly grati
+<lb/>fying and has supplied a rich source
+<lb/>of material to the committee which,
+<lb/>it is expected, will be of great value
+<lb/>to other member schools. For the re
+<lb/>sponse, especially on unavoidably
+<lb/>short notice, the committee wishes
+<lb/>to thank the schools, administrators,
+<lb/>teachers, and students who contribu
+<lb/>ted so well.
+<lb/>Further Plans of Committees
+<lb/>At the October 22 meeting each
+<lb/>study group developed a tentative
+<lb/>table of contents for its publication,
+<lb/>identified gaps in the collected ma
+<lb/>terial and made specific assignments
+<lb/>of responsibility to eliminate them,
+<lb/>planned for any further necessary in
+<lb/>dividual group meetings, and planned
+<lb/>for a workshop organization which
+<lb/>would best suit its needs and avail
+<lb/>ability.
+<lb/>November Workshops
+<lb/>The study group on family living
+<lb/>will meet all day from 10:00 a.m. on
+<lb/>November 20, 21, and, possibly, 22.
+<lb/>The group which has been work
+<lb/>ing in the area of Rational Thinking
+<lb/>will meet at 2:00 p.m. on November
+<lb/>5, at the Board of Education building
+<lb/>in Syracuse. Subsequent meetings
+<lb/>will be planned at that time.
+<lb/>The Leisure time workshop will
+<lb/>be conducted from November 17
+<lb/>through 21, starting each day at
+<lb/>10:00 a.m.
+<lb/>It is expected that the results of
+<lb/>the study will be ready in published
+<lb/>form for school use early in 1953.
+<lb/>22 11
+<pb n="12" facs="#page-011"/>
+<lb/>On Council Aciivities Patterns Of Actions
+<lb/>LEADERSHIP CONFERENCE
+<lb/>RATED SUCCESSFUL
+<lb/>Thirty-two participants from 18 Coun
+<lb/>cil schools and the Council staff
+<lb/>took part in the Leadership Confer
+<lb/>ence held September 19-21 at Pine
+<lb/>Brook Camp, Upper Saranac Lake.
+<lb/>Fifteen members of families of the
+<lb/>participants also attended.
+<lb/>Two conference sessions were
+<lb/>devoted to planning for the work of
+<lb/>study committees during the current
+<lb/>year. In the other two sessions con
+<lb/>sideration was given to the nature
+<lb/>of democratic leadership in study
+<lb/>groups and some of the problems in
+<lb/>volved in this kind of group activity.
+<lb/>The conference was called in re
+<lb/>sponse to one of the recommendations
+<lb/>made at the Imagineering Conference
+<lb/>held last May at Pine Brook Camp.
+<lb/>At that time it was felt that such
+<lb/>a leadership conference held at the
+<lb/>beginning of the school year would
+<lb/>further develop the understanding
+<lb/>and skills of committee leadership
+<lb/>and group dynamics on the part of
+<lb/>study committee leaders.
+<lb/>Halverson Was Consultant
+<lb/>Serving as chief consultant for
+<lb/>the conference was Dr. Paul M. Hal
+<lb/>verson, Associate Professor of Edu
+<lb/>cation at Syracuse University. Dr.
+<lb/>Halverson joined the faculty at Syr
+<lb/>acuse in July of this year after
+<lb/>serving two years on the staff of
+<lb/>the Horace Mann-Lincoln Institute
+<lb/>of School Experimentation, Teachers
+<lb/>College, Columbia University. Dr.
+<lb/>Halverson had prior experience as
+<lb/>Principal of the Battle Creek (Michi
+<lb/>gan) Senior High School, Principal
+<lb/>of the Battle Creek Junior High
+<lb/>School, and principal and teacher in
+<lb/>two Minnesota high schools.
+<lb/>Committees Represented
+<lb/>In attendance at the conference
+<lb/>were chairman and members of the
+<lb/>planning committees of the Committee
+<lb/>on Flexibility, the Committee on
+<lb/>Secondary School Curriculum Develop
+<lb/>ment, the Committee on Citizenship
+<lb/>Education, and the Committee on
+<lb/>School Plant Two members of the
+<lb/>Council Executive Committee and
+<lb/>several members of steering commit
+<lb/>tees were also present.
+<lb/>Problems Considered
+<lb/>The following problems of commit
+<lb/>tee operation were identified by the
+<lb/>participants at the beginning of the
+<lb/>general session on group dynamics:
+<lb/>(1) What are the techniques for elim
+<lb/>inating the mechanics of meetings?
+<lb/>(2) To what extent should a meeting
+<lb/>be structured? (3) What percentage
+<lb/>of time spent in a series of meetings
+<lb/>should be given to planning and
+<lb/>evaluation? (4) To what extent does
+<lb/>the assignment of a specific job to
+<lb/>be done stifle leadership? (5) How
+<lb/>should the leader deal with questions
+<lb/>that are philosophical or of purely
+<lb/>academic interest?
+<lb/>(6) How does a group proceed to
+<lb/>set up its own goals and purposes?
+<lb/>(7) What can be done about the ten
+<lb/>dency to go off on a tangent? (8)
+<lb/>How can you deal with the problem
+<lb/>children decided to do something
+<lb/>about thia
+<lb/>Each Monday every boy and girl
+<lb/>makes a new glass of milk with his
+<lb/>name on it. Then each day that the
+<lb/>child drinks milk a symbol is added
+<lb/>to his glass. At the end of the week
+<lb/>the glasses are full of symbols show
+<lb/>ing milk during the week.
+<lb/>The health center has been made
+<lb/>on one of the walls. Miss Grow-Up
+<lb/>stands with the glasses of milk be
+<lb/>neath her. At one side is a height
+<lb/>chart made so that the children's
+<lb/>names can be written opposite their
+<lb/>height for each of the remaining
+<lb/>months of the year to see how much
+<lb/>they have grown in height. Above
+<lb/>this is the invitation, "Come and
+<lb/>see how tall you are. "
+<lb/>The children have shown a great
+<lb/>deal of interest and enthusiasm for
+<lb/>this project with its accompanying
+<lb/>learnings in arithmetic (measurement)
+<lb/>and reading (contextual clues in
+<lb/>signs).
+<lb/>PRACTICE IN WORD
+<lb/>RECOGNITION
+<lb/>Grace Vought, Red Creek
+<lb/>I have found it rather difficult to get
+<lb/>little children to do extra drill on
+<lb/>new or difficult words in reading.
+<lb/>But the children like to play this
+<lb/>little word practice game.
+<lb/>I make cards with the new and
+<lb/>difficult words printed on them. The
+<lb/>children blind their eyes and I hide
+<lb/>the words around the room on window
+<lb/>sills, book shelves, and in other
+<lb/>places. Six or seven children are
+<lb/>then chosen to find the words. As
+<lb/>soon as all of the cards are found,
+<lb/>these children go to the front of the
+<lb/>room and read the words that are on
+<lb/>the cards. The children in their
+<lb/>seats watch to see that the words
+<lb/>are given correctly. Then the cards
+<lb/>are hidden again and another group
+<lb/>finds them, until all the children
+<lb/>have had a turn.
+<lb/>This is a rather pleasant way to
+<lb/>study new words and all the children
+<lb/>get a chance to move about the room
+<lb/>for a few minutes.
+<lb/>"ALL ABOARD FOR
+<lb/>HEALTHLAND"
+<lb/>Fl ossie Derr, La Fayefete
+<lb/>School, Wotertown
+<lb/>The children, after reading several
+<lb/>health stories, decided to travel to
+<lb/>Healthland by train.
+<lb/>Every car in our health train
+<lb/>represented a particular health habit
+<lb/>that we must cultivate. The engine
+<lb/>was called Exercise, We included a
+<lb/>cleanliness car, a food car, and a
+<lb/>fresh air coach. A Sunshine Station
+<lb/>was made from a graham cracker box
+<lb/>covered with yellow paper. For the
+<lb/>Slumber Tunnel one half of a large
+<lb/>oatmeal box was labeled "ten
+<lb/>hours." A track made from brown
+<lb/>construction paper passed through a
+<lb/>small forest called Tooth Brush
+<lb/>Forest. The trees were small twigs
+<lb/>set in clay. Tiny paper tooth brushes
+<lb/>hung on the trees. Health posters
+<lb/>werehung to advertise the excursion.
+<lb/>As each child constructed a part
+<lb/>of the project and took the imaginary
+<lb/>journey with us, his understanding
+<lb/>of health grew.
+<lb/>12 21
+<pb n="13" facs="#page-012"/>
+<lb/>Patterns Of Actions On Council Activities
+<lb/>OUR HOBBY CORNER
+<lb/>Mary E. Ernenwein, Washington
+<lb/>Avenue School, Onelda
+<lb/>The rear of our first grade room is a
+<lb/>most interesting and popular place,
+<lb/>with its library table, science table,
+<lb/>garden, and easel.
+<lb/>The children enjoy the responsi
+<lb/>bility of caring for the garden, where
+<lb/>there is something growing through
+<lb/>out the school year. At the present
+<lb/>time we have tulip and narcissus
+<lb/>bulbs growing surrounded by ivy.
+<lb/>The children never seem to lose
+<lb/>interest in the science table which
+<lb/>contains a variety of stones, shells,
+<lb/>nuts, rock formations, goldfish,
+<lb/>turtles, a chemical garden, and other
+<lb/>interesting objects which are in our
+<lb/>environment during the different
+<lb/>seasons. The chemical garden (made
+<lb/>with a piece of coal and a liquid mix
+<lb/>ture of bluing, water, ammonia, and
+<lb/>salt - with a few drops of mercuro-
+<lb/>chrome added for color) seems to
+<lb/>hold the greatest fascination.
+<lb/>The donations for the science
+<lb/>table are brought in by the children
+<lb/>and this leads to varied and informal
+<lb/>discussions regarding the procure
+<lb/>ment of the articles and other ex
+<lb/>periences involved in the search.
+<lb/>We then have a reading period in
+<lb/>connection with this project which
+<lb/>is thorou^ly enjoyed by all.
+<lb/>MISS GROW-UP TELLS
+<lb/>ABOUT MILK
+<lb/>Louise C. Kellogg, Hannibal
+<lb/>In our first grade there is a new ad
+<lb/>dition. She is "Miss Grow-Up." Miss
+<lb/>Grow-Up is a friend made of oak tag
+<lb/>covered with attractive print cloth.
+<lb/>This young lady has told the boys
+<lb/>and girls that milk is much better
+<lb/>than coffee for breakfast and she is
+<lb/>a daily reminder to them. She came
+<lb/>to our room one morning when a
+<lb/>child told in news that he had drunk
+<lb/>coffee for breakfast. The class was
+<lb/>very distrubed. Upon inquiring, they
+<lb/>discovered that many of the children
+<lb/>had been drinking coffee daily. The
+<lb/>e
+<lb/>of changing personnel? (9) How can
+<lb/>you tactfully re-direct a person who
+<lb/>is monopolizing a discussion? (10)
+<lb/>How can adequate research material
+<lb/>be made aval lable to working groups?
+<lb/>(11) Howdoyou get maximum par
+<lb/>ticipation in a discussion? (12) How
+<lb/>can you pre-stimulate new members?
+<lb/>(13) How can you get better results
+<lb/>from between-meeting assignments?
+<lb/>(14) How does a leader cope with a
+<lb/>situation which runs counter to his
+<lb/>ideas? (15) How does one start a
+<lb/>meeting?
+<lb/>(16) What can be done about the
+<lb/>selection of participants from a school
+<lb/>and the nature of their background
+<lb/>for work of committees? (17) How
+<lb/>does a chairman avoid dominating a
+<lb/>group? (18) How can a leader deter
+<lb/>mine after discussion when a group
+<lb/>is ready to reach a conclusion? (19)
+<lb/>How Can you develop better rapport
+<lb/>among group members?
+<lb/>Tape Recording Used
+<lb/>After a discussion of some of
+<lb/>these problems. Dr. Halverson pre
+<lb/>sented tape recordings of several
+<lb/>situations involving small groups
+<lb/>in action. These were analyzed for
+<lb/>their broader meanings.
+<lb/>Halverson Suggests Principles
+<lb/>In opening the second general
+<lb/>conference session on leadership
+<lb/>problems. Dr. Halverson briefly pre
+<lb/>sented some considerations about
+<lb/>the nature of democratic leadership.
+<lb/>"The nature of groups is deter
+<lb/>mined by their purposes," he said.
+<lb/>"Groups may establish their own
+<lb/>purposes, or someone may establish
+<lb/>purposes for the group. Within this
+<lb/>framework, leadership is the activity
+<lb/>of that person who is perceived by
+<lb/>the group as providing or controlling
+<lb/>the maximum means by which the
+<lb/>group can reach its goal. This defi
+<lb/>nition controls what the leader is
+<lb/>and how he works. "
+<lb/>"According to this definition,"
+<lb/>Halverson continued, "situational
+<lb/>factors help determine who is the
+<lb/>leader and when he functions. Any
+<lb/>feeling that leadership is a born
+<lb/>characteristic would thus make
+<lb/>leadership training of little value.
+<lb/>This idea, therefore, has to be dis
+<lb/>carded. "
+<lb/>"But related to these ideas is
+<lb/>a problem: should we all have the
+<lb/>same concept of leadership? For
+<lb/>instance, one general expectation of
+<lb/>leaders is that they ought to tell
+<lb/>people what to do. But this," Hal
+<lb/>verson emphasized, "is not the con
+<lb/>cept of leadership in vogue today.
+<lb/>Instead we have the concept of shar
+<lb/>ed leadership. All group members
+<lb/>have a responsibility along with the
+<lb/>leader."
+<lb/>Halverson suggested certain oth
+<lb/>er pertinent leadership problems.
+<lb/>What should be done when tensions
+<lb/>arise in a group? How does a leader
+<lb/>help a group reach a concensus and
+<lb/>communicate with the group? How
+<lb/>can conflicts be resolved between
+<lb/>individual goals and group goals?
+<lb/>In conclusion, Halverson stated
+<lb/>that the Council leadership problem
+<lb/>20 13
+<pb n="14" facs="#page-013"/>
+<lb/>On Council Activities
+<lb/>is to consider face-to-face problems
+<lb/>of groups and group leadership. He
+<lb/>pointed out, "Freedom in relation to
+<lb/>group activity is the philosophical
+<lb/>foundation of the above concept of
+<lb/>leadership. If group processes deny
+<lb/>this freedom and the democracy we
+<lb/>profess, then we are faced with a
+<lb/>serious conflict. "
+<lb/>Group Discusses Problems
+<lb/>In the discussion which followed,
+<lb/>the group discussed many of these
+<lb/>ideas and a number of the problems
+<lb/>listed above. A topic which received
+<lb/>considerable attention was the or
+<lb/>ganization and planning of the con
+<lb/>ference itself.
+<lb/>Brought out in the discussion
+<lb/>was the danger of underestimating
+<lb/>the amount of time needed for plan
+<lb/>ning and evaluating in group work.
+<lb/>Observer Used
+<lb/>Dr. Richard C. Lonsdale, Execu
+<lb/>tive Secretary, served as observer
+<lb/>for both general sessions of the con
+<lb/>ference. In his comments he not
+<lb/>only analyzed the flow and dynamics
+<lb/>of each session, but also demon
+<lb/>strated the function and use of a
+<lb/>group observer.
+<lb/>Conference Participants
+<lb/>The conference participants were
+<lb/>as follows: Miss Evelyn Allan of
+<lb/>Fayetteville-Manlius, Mr. and Mrs.
+<lb/>Carl Andrews and their two children
+<lb/>of Hannibal, Mr. Edward Andrews of
+<lb/>Morrisville-Eaton, Mr. and Mrs. Le-
+<lb/>Roy Baker of Rome, Mr. and Mrs.
+<lb/>Thomas Blair of Cazenovia, Mr. and
+<lb/>Mrs. Martin Bortnick of Endicott, Mr.
+<lb/>Albert Brown of Waterloo, Mr. Lynn
+<lb/>Brown of Waterloo, Mr. and Mrs.
+<lb/>Roger De Waters of Elbridge, Mr.
+<lb/>Claude Doxtater of Waterloo, Mr.
+<lb/>Frederick Gibbons of Fulton.
+<lb/>Dr. Paul Halverson, Mr. Thomas
+<lb/>Hart of the Council staff, Mr. and
+<lb/>Mrs. Winston Hart and their son of
+<lb/>Elbridge, Mr, and Mrs. Vernon Lee of
+<lb/>Herkimer, Miss Myrtle Larkin of Her-
+<lb/>kimer, Mr. and Mrs. Edward Long and
+<lb/>their son of Dryden, Dr. and Mrs.
+<lb/>Richard Lonsdale and their son of
+<lb/>the Council staff, Mr. Edward Lundy
+<lb/>of Mohawk.
+<lb/>Mr. Sidney MacArthur of Newark,
+<lb/>Mr. James Manwaring of the Council
+<lb/>staff. Miss Mary Miller of Baldwins-
+<lb/>ville. Miss Pauline Neville of Han
+<lb/>nibal, Mr. and Mrs. Russell Norem of
+<lb/>Fayetteville-Manlius, Mr. C. Robert
+<lb/>Otis of Fulton, Miss Josephine Paj:k-
+<lb/>hurst of Oswego State Teachers Col
+<lb/>lege, Mr. Nathaniel Perry of Cato-
+<lb/>Meridian, Miss Margaret Phelps of
+<lb/>Syracuse, Miss Jean Sandersof Bald-
+<lb/>winsville.
+<lb/>Mr. Herbert Schroeder of Cato-
+<lb/>Meridian, Miss Mildred Webb of Sher-
+<lb/>burne, and Mr. William Young of Rome.
+<lb/>PATTERN CATALOG
+<lb/>Kindergarten — Activities
+<lb/>Happy And His Surprises
+<lb/>Grade 1 —Activity Corner
+<lb/>Our Hobby Corner
+<lb/>Grade 1 —Health
+<lb/>Miss Grow-Up Tells About Milk
+<lb/>Grade 2— Reading
+<lb/>Practice In Work Recognition
+<lb/>Grade 2--Health
+<lb/>"All Aboard For Healthland"
+<lb/>Grade 3" Social Studies, Reading
+<lb/>Assembling Social Studies
+<lb/>Posters
+<lb/>Grade 4—Social Studies
+<lb/>What Place Is This?
+<lb/>Grade 4—Science, Health
+<lb/>Gardens Now - Salad Later
+<lb/>Grade 6" Reading, Social Studies
+<lb/>Action Research In Reading
+<lb/>Grades 7-9—Library
+<lb/>We Had A Bookfair
+<lb/>Grade 7— Reading
+<lb/>A Reading Program For
+<lb/>Seventh Graders
+<lb/>Grades 7-8—Social Studies
+<lb/>Becoming Familiar With
+<lb/>Important People
+<lb/>Grade 9--Student Government
+<lb/>Campaigning For Citizenship
+<lb/>Secondary--Social Studies
+<lb/>Stamps Tell A Story
+<lb/>Grades 11-12 —Home Nursing
+<lb/>Safety First
+<lb/>Patterns Of Actions
+<lb/>Robert F. Bickei, Research Assistant
+<lb/>HAPPY AND HIS SURPRISES
+<lb/>Agnes T. Kraft, Seymour
+<lb/>Street School
+<lb/>In our kindergarten we have a puppet
+<lb/>clown called Happy. He is helpful
+<lb/>in many ways; and has been es
+<lb/>pecially helpful in interesting and
+<lb/>encouraging the children to be
+<lb/>bankers on each banking day.
+<lb/>Happy lives in a yellow cambric
+<lb/>bag which hangs in our room. He
+<lb/>comes out every morning for a visit
+<lb/>with the children. On Monday he is
+<lb/>always certain to remind the children
+<lb/>that Tuesday is banking day. He
+<lb/>often tells them that there will be a
+<lb/>surprise in the yellow bag. Some
+<lb/>times the surprise is a new book for
+<lb/>our library table, a toy auto, or a
+<lb/>turtle or fish or a plant for our room.
+<lb/>Last week to his surprise, a five
+<lb/>year old put his chubby hand into
+<lb/>the bag and found an egg timer for
+<lb/>our science table. The children look
+<lb/>forward to the surprises found in the
+<lb/>bag. Our puppet has created much
+<lb/>interest and caused much excitement
+<lb/>in our room.
+<lb/>(NOTE: In the April-June 1952 is
+<lb/>sue of THE REPORTER a descrip
+<lb/>tion entitled 'TheThree Little Pigs"
+<lb/>was incorrectly credited to Gertrude
+<lb/>Kellogg of Hannibal Central School.
+<lb/>The description was actually written
+<lb/>by Elizabeth Goggin of Newark High
+<lb/>School. Please forgive us. It was
+<lb/>one of those human errors. —ED.)
+<lb/>14 19
+<pb n="15" facs="#page-014"/>
+<lb/>From Ofber Councils
+<lb/>Philadelphia Area School Study
+<lb/>Council, Southern New Jersey
+<lb/>group. Ideas For Your Class
+<lb/>room. Philadelphia, Pa. 1825
+<lb/>North Broad St., Temple Univ.,
+<lb/>1952. Pp. 4. (no price).
+<lb/>These publications take the form of
+<lb/>bulletins generally designed for
+<lb/>teacher, principal, and superintend
+<lb/>ent. Each has its own motif, the last
+<lb/>three numbers having the titles:
+<lb/>"Effective Bulletin Boards," "Tips
+<lb/>for Helping Poor Readers to Learn, "
+<lb/>and " Tricks of the Trade. "
+<lb/>"Effective Bulletin Boards"
+<lb/>deals with the reasons for using bul
+<lb/>letin boards, what they are used for,
+<lb/>and the tools needed to prepare bulle
+<lb/>tin boards. It also considers sources
+<lb/>of material, pointers for operation,
+<lb/>themes for the bulletin board, and
+<lb/>styles of arrangement.
+<lb/>Reading problems are considered
+<lb/>in the last of these three bulletins
+<lb/>and this, as the name implies, in the
+<lb/>form of pertinent practices for slow
+<lb/>readers. Several techniques for mak
+<lb/>ing reading more interesting and ex
+<lb/>citing are outlined here. This num
+<lb/>ber would be effective for general
+<lb/>distribution in a secondary school as
+<lb/>it is primarily aimed at reading prob
+<lb/>lems at this level.
+<lb/>"Tricks of the Trade" takes up
+<lb/>a collection of many classroom prac
+<lb/>tices, generally aimed at overcoming
+<lb/>problems and increasing efficiency.
+<lb/>Such things as grading of papers,
+<lb/>preparation for class, and assign
+<lb/>ments and discipline are considered.
+<lb/>Northern New Hampshire School
+<lb/>Study Council. Tricks of the
+<lb/>Trade. Practices for the Indi-
+<lb/>viduali-zation of Instruction. Con
+<lb/>cord, New Hampshire. TheCoun-
+<lb/>cil. Room 409B, State House
+<lb/>Annex, 1951. Pp. 30.
+<lb/>"A fact to which we will all give
+<lb/>lip service, but which we too often
+<lb/>seem to disregard in practice, is that
+<lb/>if education of a person is to be in
+<lb/>accord with his needs, and persons
+<lb/>differ, one from the other, then the
+<lb/>offering to each person must be dif
+<lb/>ferent. A different kind of percep
+<lb/>tion of the same stimuli by different
+<lb/>persons is another logical expecta
+<lb/>tion. Thus the Northern New Hamp
+<lb/>shire School Study Council chose
+<lb/>individualization of instruction as
+<lb/>its first phase of study. Practices
+<lb/>for the individualization of instruc
+<lb/>tion were solicited from teachers of
+<lb/>the member schools."
+<lb/>The publication lists practices
+<lb/>dealing with individualization of in
+<lb/>struction in both the elementary and
+<lb/>secondary school levels, The
+<lb/>methods in the schools are stated
+<lb/>according to the subject matter. Ele
+<lb/>mentary school subjects noted are
+<lb/>arithmetic, art, language arts, music,
+<lb/>social studies, and other useful prac
+<lb/>tices. The secondary school courses
+<lb/>are business, foreign languages, lang
+<lb/>uage arts, science and social studies.
+<lb/>An interesting comment in the
+<lb/>pamphlet notes that the enthusiasm
+<lb/>for these products of council ac
+<lb/>tivities grew out of the First Nation
+<lb/>al Conference of School Study Coun
+<lb/>cils held at Syracuse.
+<lb/>18
+<lb/>On Council Activities
+<lb/>CHIEF REPORTERS VOTE
+<lb/>CHANGES IN REPORTER
+<lb/>At their annual meeting on October
+<lb/>23, the member school chief reporters
+<lb/>voted a variety of changes in THE
+<lb/>REPORTER. Most striking is the
+<lb/>new format used for the first time
+<lb/>with this issue. Exactly one-half
+<lb/>the former size, the smaller publi
+<lb/>cation will be easier to read and to
+<lb/>carry.
+<lb/>Other recommendations made by
+<lb/>the chief reporters will be incorpor
+<lb/>ated in future issues of THE RE
+<lb/>PORTER
+<lb/>Meeting for a whole day at Drum-
+<lb/>lins, the group spent the morning
+<lb/>becoming oriented to the purposes
+<lb/>and background of Council journals.
+<lb/>They studied the major publications
+<lb/>which have been issued by the Coun
+<lb/>cil and examined journals published
+<lb/>by other school study councils in
+<lb/>other parts of the state and nation.
+<lb/>HART AND MANWARING
+<lb/>JOIN STAFF
+<lb/>Thomas Hart and James Manwaring
+<lb/>have joined the Council staff as re
+<lb/>search assistants this year. Mr. Hart
+<lb/>taught business education at North-
+<lb/>ville Central School for two years.
+<lb/>He earned his M.A. at the University
+<lb/>of Buffalo. Mr. Manwaring taught
+<lb/>science for three years at Penfield
+<lb/>Central School. He earned his M.A.
+<lb/>at Syracuse University. Both men
+<lb/>are working toward doctor's degrees
+<lb/>in the School of Education at Syra
+<lb/>cuse University.
+<lb/>Donald Donley is rendering his
+<lb/>third year of service as a research
+<lb/>assistant.
+<lb/>Former Research Assistants
+<lb/>Dr. Arthur E. Smith, second re
+<lb/>search assistant in the history of
+<lb/>the Council, is now Chairman of the
+<lb/>Art Department of the Duluth Branch
+<lb/>of the University of Minnesota, where
+<lb/>he has been since 1949. He com
+<lb/>pleted his Ed. D. degree at Syracuse
+<lb/>University this past summer.
+<lb/>Herbert B. Smith is serving as
+<lb/>Principal of the High School at Co
+<lb/>lumbia Central School in East Green-
+<lb/>bush, New York.
+<lb/>Walter B. Sheppard is Guidance
+<lb/>Counselor at Suffern Central School.
+<lb/>Harris and Robinson
+<lb/>Raymond P. Harris and Darrol E.
+<lb/>Robinson are Professors of Elemen
+<lb/>tary Education and Secondary Edu
+<lb/>cation, respectively, at Plymouth
+<lb/>StateTeachers College inNew Hamp
+<lb/>shire. Part of Mr. Harris' responsi
+<lb/>bility is to serve as Executive Secre
+<lb/>tary of the Northern New Hampshire
+<lb/>School Study Council. He served in
+<lb/>a similar capacity with the Genesee
+<lb/>Valley School Study Council last
+<lb/>year on a one-year appointment. Mr.
+<lb/>Robinson served last year as Super
+<lb/>visor of Secondary Education at Sid
+<lb/>ney Central School.
+<lb/>Patricia and Bickel
+<lb/>Charles P. Patricia is teaching
+<lb/>junior high school mathematics at
+<lb/>Oneida.
+<lb/>Robert F. Bickel is serving in
+<lb/>the U. S. Army.
+<lb/>15
+<pb n="16" facs="#page-015"/>
+<lb/>From Other Councils
+<lb/>James R. Manwaring, Research Assistant
+<lb/>CITIZENSHIP, PUBLIC RELATIONS, DISCIPLINE, INSTRUCTIONAL
+<lb/>BULLETINS INTEREST OTHER COUNCILS
+<lb/>chosen previously, meet and decide
+<lb/>Mid-Hudson School Study Coun
+<lb/>cil. Good Citizenship Practices.
+<lb/>New Palta: Mid-Hudson School
+<lb/>Council, State University Teach
+<lb/>ers College, 1952. Pp. 25. $.15.
+<lb/>This booklet is a collection of prac
+<lb/>tices for the teaching of good citi
+<lb/>zenship at all levels in the school.
+<lb/>There are practices extending from
+<lb/>kindergarten through the primary and
+<lb/>intermediate grades into the high
+<lb/>school.
+<lb/>In cooperation with the Citizen
+<lb/>ship Education Project, practices
+<lb/>were collected from council schools
+<lb/>and were then selected and refined
+<lb/>by an editorial committee. The prac
+<lb/>tices are divided into three classifi
+<lb/>cations: economic practices, politi
+<lb/>cal practices and social practices.
+<lb/>The form in which these prac
+<lb/>tices are recorded makes reading and
+<lb/>reference quite simple. The form
+<lb/>used is as follows: Title of the prac
+<lb/>tice, grade level, values to be de
+<lb/>rived, and a description of the prac
+<lb/>tice. The practices are mainly sug
+<lb/>gestive and may be modified to fit
+<lb/>any particular teaching situation.
+<lb/>An example of a practice listed
+<lb/>is as follows: "Title-Current Events
+<lb/>Day. Grade Level: Junior High
+<lb/>School. Values: Developing the abil
+<lb/>ity to read and organize information
+<lb/>about current events. Description:
+<lb/>One day a week is set aside for cur
+<lb/>rent events. Three class members.
+<lb/>what events their class will cover
+<lb/>and how the material will be present
+<lb/>ed. Two days before the current
+<lb/>events period, the students meet with
+<lb/>the teacher to go over the plans. The
+<lb/>presentation of the material may in
+<lb/>clude quizzes, panel discussion, and
+<lb/>map work."
+<lb/>Philadelphia Suburban School
+<lb/>Study Council, Group B, Public
+<lb/>Pupil-Parent-Pedagogue. Phila
+<lb/>delphia: Philadelphia Suburban
+<lb/>School Study Council, Educa
+<lb/>tional Service Bureau, School of
+<lb/>Education, University of Penn.,
+<lb/>1952. Pp. 23. (no price).
+<lb/>This publication was developed by
+<lb/>the Committee on Public Relations,
+<lb/>consisting of elementary and sec
+<lb/>ondary school teachers. In it the
+<lb/>committee has brought together a
+<lb/>large number of practices all dealing
+<lb/>with the improvement of public re
+<lb/>lations.
+<lb/>The committee has broken the
+<lb/>subject into four categories: the use
+<lb/>of printed materials, radio and tele
+<lb/>vision, cooperation with community
+<lb/>agencies, and improved person-to-
+<lb/>person relationships.
+<lb/>In the first category they con
+<lb/>sider the use of printed materials as
+<lb/>an instrument of improving public re
+<lb/>lations. The use of local newspapers
+<lb/>is the first possibility and under this
+<lb/>we find suggested methods for organ
+<lb/>izing to collect and release news.
+<lb/>general procedures, and forming the
+<lb/>content of news releases. This is
+<lb/>followed by a consideration of school
+<lb/>newspapers and their use in improved
+<lb/>public relations.
+<lb/>The preparation and use of pam
+<lb/>phlets and brochures are outlined
+<lb/>along with suggested topics for this
+<lb/>type of publication. Many other types
+<lb/>of printed matter are listed and each
+<lb/>type is considered. Among these are
+<lb/>handbooks for students, parents, and
+<lb/>teachers; yearbooks; fliers; letters;
+<lb/>and report card "staffers. "
+<lb/>"Radio and television offer an
+<lb/>excellent method for projecting the
+<lb/>school into community homes. The
+<lb/>personal appeal of this type of home
+<lb/>contact is of tremendous value in
+<lb/>that it arouses mutual school-com
+<lb/>munity interest." Following this in
+<lb/>troduction, the committee reviews the
+<lb/>varied types of suitable broadcasts
+<lb/>to use, and the procedures for ob
+<lb/>taining radio and television time.
+<lb/>Also, we find important procedures
+<lb/>for program preparation.
+<lb/>The last two categories, improv
+<lb/>ing public relations through coopera
+<lb/>tion with community agencies and
+<lb/>through person-to-person relation
+<lb/>ships, are as well-developed as the
+<lb/>earlier section of this booklet.
+<lb/>Philadelphia Suburban School
+<lb/>Study Council. Discipline in
+<lb/>Our Schools. Philadelphia, Pa :
+<lb/>Educational Service Burea u.
+<lb/>School of Education, University
+<lb/>of Pennsylvania, Sept,, 1952
+<lb/>Pp,, 18. $.50 ($.35 apiece in
+<lb/>lots of 100 or more).
+<lb/>From Other Councils
+<lb/>The approach to the problems of pu
+<lb/>pil discipline used in this publica
+<lb/>tion is reflected in the letter to par
+<lb/>ents found on the third page: "Dear
+<lb/>Parents: Is there discipline in our
+<lb/>schools today? Some who interpret
+<lb/>discipline as the imposition of au
+<lb/>thority say NO. Others who regard
+<lb/>discipline as punishment for wrong
+<lb/>doing also say No. Those who be
+<lb/>lieve that control of self can lead to
+<lb/>socially acceptable behavior say
+<lb/>Yes. This self-discipline is based
+<lb/>on the belief that an individual learns
+<lb/>self-control when he takes responsi
+<lb/>bility for his own behavior and thinks
+<lb/>and plans for himself. It is this con
+<lb/>cept of discipline which our schools
+<lb/>are trying to develop. At the same
+<lb/>time, schools recognize there must
+<lb/>be a judicious balance between im-
+<lb/>positionof authority onthe one hand,
+<lb/>and delegation of responsibility to
+<lb/>the individual on the other. This
+<lb/>booklet explains how our schools
+<lb/>help children develop into self-dis
+<lb/>ciplined individuals. "
+<lb/>Social aspects of child discipline
+<lb/>are considered, such as adjustment
+<lb/>to school, self-reliance, considera
+<lb/>tion for others, and respect for au
+<lb/>thority. The booklet concludes with
+<lb/>suggestions to parents, outlining
+<lb/>their function in the development of
+<lb/>proper attitudes in their child.
+<lb/>This publication was designed
+<lb/>by a committee of classroom teachers
+<lb/>for parent education purposes. It con
+<lb/>tains an excellent group of pictures.
+<lb/>It is easily read and easily under
+<lb/>stood.
+<lb/>16 17
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>justice returned letters</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/justice/justice_returned_letters/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/justice/justice_returned_letters/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/justice/justice_returned_letters/p-002.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Mr &amp; Mrs
+<lb/> Christopher M
+<lb/>oshor42
+<lb/> Ridgeley A
+<lb/>v
+<lb/>e
+<lb/>.
+<lb/>Fairfield, C
+<lb/>T 06430-4408
+<lb/>flUS ̂
+<lb/>g UL 3MS716fl2.ot pfifHi'AWV£V/ 
+<lb/>9Ef2-M 
+<pb n="2" facs="#page-001"/>
+<lb/>Chris Mosher
+<lb/>42 RidgeleyAve.
+<lb/>Fairfield, CT 06430-4408
+<lb/>August 28, 1994
+<lb/>Dear Mr. Justice,
+<lb/>I am an amateur genealogist trying to trace my family history, and I have run across an ancestor with
+<lb/>the Justice name, who lived in New Bern in the 1800s. I'm writing to you in hopes that you might
+<lb/>be related to my ancestor.
+<lb/>My great-grandfather was Harry Hamilton Disosway. His parents were Israel Disosway and Anne
+<lb/>Mariah Justice. I have checked the US Census records from 1850, 1860, 1870, and 1880 for New
+<lb/>Bern. These records indicate that Anne Mariah Justice was born around 1827; she had a sister
+<lb/>named Elizabeth Justice (who was born around 1817); Anne married Israel Disosway around 1855
+<lb/>(Israel ran a drug store); and together they had 6 children:
+<lb/>John (Israel?) Disosway
+<lb/>Reginald Justice Disosway
+<lb/>Harry Hamilton Disosway
+<lb/>Emma (or Annie) Disosway
+<lb/>Clarence Disosway
+<lb/>John Disosway
+<lb/>(born c1856)
+<lb/>(born cl857)
+<lb/>(born 1861)
+<lb/>(born cl863)
+<lb/>(born cl867)
+<lb/>(born cl869)
+<lb/>If you by any chance are related to Anne Mariah Justice, or have any information that might help
+<lb/>me, please write back and let me know. I am most interested in finding out who her parents were,
+<lb/>and tracing her ancestry back as far as possible. Thank you very much for your help.
+<lb/>Sincerely,
+<lb/>Chris Mosher
+<pb n="3" facs="#page-002"/>
+<lb/>4563 Rivershore Dr.
+<lb/>Rew Bern, K.G. 28560
+<lb/>Sept. 6, 1994
+<lb/>Dear Chris Mosher,
+<lb/>I regret that I am unable to help you in
+<lb/>locating information pertaining to Anne Mariah
+<lb/>Justice. I am not a native of this area. I
+<lb/>relocated here jfrqm Rew Jersejr jn _1^2_. T
+<lb/>know another Justice that works in a store I
+<lb/>patronize and I will show him your letter the
+<lb/>next time I see him. Maybe he will be able to
+<lb/>help you.
+<lb/>Sincerely,
+<lb/>Wilson L. Justic
+</ab>
+    </body>
+  </text>
+</TEI>

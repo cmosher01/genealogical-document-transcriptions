@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher fred death records</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_death_records/p-014.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>WILL
+<lb/>I, FREDEHICK C. MOSHER., of Earlville, Madison County,
+<lb/>New York, do make and publish this ray Last Will and iesta-
+<lb/>ment, in manner and form as follows, to wit;
+<lb/>FIRST: I direct ray Executor hereinafter named to pay
+<lb/>all ray just debts and funeral expenses as soon after ray
+<lb/>death as may be convenient.
+<lb/>SECOND: I give, devise and bequeath all ot ray property,
+<lb/>of every kind and description unto ray wife, ALICE H. MOoHER,
+<lb/>if she shall survive me by more than thirty (30) days.
+<lb/>THIRD: If my said wife shall predecease rae, or die
+<lb/>within thirty (30) days after ray death, then I give, devise
+<lb/>and bequeath ray entire estate as aforesaid unto ray son,
+<lb/>BARRY REXFORD MOSHER, if he shall be living; otherwise to his
+<lb/>issue per stirpes.
+<lb/>FOURTH AND LASTLY: I nominate, constitute and appoin^
+<lb/>ray son, BARRY REXFORD MOSHER, Executor of this ray Will.
+<lb/>IN WITNESS WHEREOF, I have hereunto set ray hand and seal
+<lb/>A  I y*'
+<lb/>(:■' r- -• (SEAL)
+<lb/>Frederick C. Mosher
+<lb/>SIGNED, SEALED, PUBLISHED and DECLARED by FREDERICK C.
+<lb/>MOSHER, the Testator, as and for his Last Will and Testament
+<lb/>in the presence of us, who, at his request, in his presence,
+<lb/>and in the presence of each other, have hereunto subscribed
+<lb/>our names as witnesses.
+<pb n="2" facs="#page-001"/>
+<lb/>I, Hereby Solemnly Attest, That this is a true Transcript from the Public
+<lb/>Register of Death as kept in the Village of Hamilton, County of Madison, State
+<lb/>of New York.
+<lb/>Dated at Hamilton, New York the
+<lb/>Signed
+<lb/>Official Title Registrar
+<pb n="3" facs="#page-002"/>
+<lb/>NCHS
+<lb/>4C4G7A7B25
+<lb/>RECORDED DISTRICT
+<lb/>REGISTER NUMBER
+<lb/>E: FIRtfr
+<lb/>NEW YORK STATE
+<lb/>DEPARTMENT OF HEALTH
+<lb/>CERTIFICATE
+<lb/>OF DEATH
+<lb/>r
+<lb/>L
+<lb/>STATE FILE NUMBER
+<lb/>n
+<lb/>j
+<lb/>1. NAME: FIR6
+<lb/>FREDERICK
+<lb/>MIDDLE
+<lb/>COLVIN
+<lb/>LAST
+<lb/>MOSHER
+<lb/>RESIDENCE
+<lb/>2. SEX:
+<lb/>MALE FEMALE
+<lb/>El Da
+<lb/>I 4A. PLACE OF DEATH:
+<lb/>I  (Check only one)
+<lb/>3A. DATE OF DEATH:
+<lb/>HOSPITAL HOSPITAL HOSPITAL NURSING PRIVATE
+<lb/>DOA ER OUTPATIENT INPATIENT HOME RESIDENCE
+<lb/>MONTH DAY YEAR
+<lb/>JuiylU4|yz i 12:01PM
+<lb/>OTHER (Specify) 48. IF FACILITY.[  DATE ADMITTED:
+<lb/>; 4C. NAME OF FACILITY: (If not facility give address)
+<lb/>9 Eaton Street
+<lb/>, 4D. LOCALITY: (Check one and specify)
+<lb/>CITY OF VILLAGE OF TOWN OF
+<lb/>I  □ n Hamilton
+<lb/>4F. MEDICAL RECORD NO.
+<lb/>MONTH DAY YEAR
+<lb/>4E. COUNTY OF DEATH:
+<lb/>Madison
+<lb/>92-0422
+<lb/>. 4G. WAS DECEDENT TRANSFERRED FROM ANOTHER INSTITUTION? (If yes, specify institution name, city or town, county and state)
+<lb/>NO YES
+<lb/>□
+<lb/>5. DATE OF BIRTH:
+<lb/>MONTH DAY YEAR
+<lb/>■May
+<lb/>I 8
+<lb/>1911
+<lb/>. SERVED IN U.S. ARMED FORCES?
+<lb/>NO YES (Specify years)
+<lb/>0 0 n 1
+<lb/>12. SOCIAL SECURITY NUMBER:
+<lb/>1116-05-0086
+<lb/>IF UNDER 1 YEAR
+<lb/>months days
+<lb/>IF UNDER 1 DAY
+<lb/>hours minutes
+<lb/>. RACE: (Black, White, etc.)
+<lb/>White
+<lb/>7A. CITY AND STATE OF BIRTH: (Country
+<lb/>it not U.S.A.)
+<lb/>\ 78. IF AGE UNDER 1 YEAR. NAME OF
+<lb/>HOSPITAL OF BIRTH:
+<lb/>Lebanon, New York
+<lb/>10. HISPANIC ORIGIN? (If yes. specify)
+<lb/>NO YES
+<lb/>B □
+<lb/>13. MARTIAL NEVER MARRIED OR
+<lb/>STATUS: MARRIED SEPARATED WIDOWED DIVORCED
+<lb/>□ B: □ 4
+<lb/>15A. USUAL OCCUPATION: (Do not enter retired)
+<lb/>11. DECEDENT'S EDUCATION (Specify only highest grade completed)
+<lb/>Elementary/Secondary (0-12) College (1-4 or 5 + ) 2
+<lb/>14. SURVIVING SPOUSE: (If wife, provide maiden name)
+<lb/>15B. KINO OF BUSINESS OR INDUSTRY:
+<lb/>General Contractor 1 Construction
+<lb/>16A. RESIDENCE. STATE:
+<lb/>New York
+<lb/>I6B. COUNTY:
+<lb/>Madison
+<lb/>I 16C. LOCALITY: (Check one and specify)
+<lb/>.  CITY OF VILLAGE OF TOWN OF
+<lb/>16C. NAME AND LOCALITY OF COMPANY OR FIRM;
+<lb/>Self-Employed
+<lb/>□
+<lb/>I6D. STREET AND NUMBER OF RESIDENCE:
+<lb/>9 Eaton Street
+<lb/>□ Hamilton
+<lb/>16E. ZIP CODE:
+<lb/>1  13346
+<lb/>16F. IF CITY OR VILLAGE. IS
+<lb/>RESIDENCE WITHIN CITY OR
+<lb/>VILLAGE LiMITS?%] YES □ NO
+<lb/>IF NO. SPECIFY TCJWN:
+<lb/>17. NAME OF
+<lb/>FATHER:
+<lb/>Lewis Mosher
+<lb/>18. MAIDEN NAME
+<lb/>OF MOTHER:
+<lb/>PEARL Colvin
+<lb/>19A. NAME OF INFORMANT:
+<lb/>Mrs. Alta Benedict
+<lb/>2OA. BURIAL. CREMATION. REMOVAL
+<lb/>OR OTHER DISPOSITION: (Specify) MONTH DAY YEAR
+<lb/>H Cremation July! 6 I 9 2
+<lb/>19B. MAILING ADDRESS: (Include zip code)
+<lb/>RR 1 Box 47/ Hamilton. Nev York 13346
+<lb/>20B. PLACE OF BURIAL. CREMATION. REMOVAL OR
+<lb/>OTHER DISPOSITION:
+<lb/>X-Ja-hervi 1 1 p rpmRhPry
+<lb/>I 20C. LOCATION: (City or town and state)
+<lb/>Waterville, New York
+<lb/>3031BORQS
+<lb/>OCOD
+<lb/>CANCER
+<lb/>2 =
+<lb/>S O
+<lb/>; 21A. NAME AND ADDRESS OF FUNERAL HOME
+<lb/>Paul Funeral Home, P.O. 239 South St
+<lb/>, 21B. REGISTRATION NUMBER:
+<lb/>on, N.Y. 1234(?2 02153
+<lb/>22C22A. NAME OF FUNERAL DIRECTOR: , 22B. SIGN/ru F FUNER . REGISTRATION NUMBER
+<lb/>Jeffrey T. Paul Q4033
+<lb/>24A. BURIAL OR REMOVAL PERMIT ISSUED BY23A. SIGNATURE OF REGISTRAR: 23B. DATE
+<lb/>FILLED: MONTH ^ d^Y VEAR
+<lb/>ITEMS 25 - 33 COMPLETED BY CERTIFYING PHYSICIAN
+<lb/>24B. DATE
+<lb/>ISSUED: MONTH DAY YEAR
+<lb/>v ' L, ^
+<lb/>— OR — ITEMS 25 - 33 COMPLETED BY CORONER OR MEDICAL EXAMINER
+<lb/>25A. TO THE BEST OF MY KNOWLEDGE. DEATH OCCURRED AT THE TIME. DATE
+<lb/>AND PLACE AND DUE TO THE CAUSES STATED.
+<lb/>SIGNATURE: MONTH DAY YEAR
+<lb/>I 258. THE PHYSICIAN ATTENDED THE DECEASED
+<lb/>MONTH DAY YEAR MONTH DAY YEAR
+<lb/>: 25C. LAST SEEN ALIVE:
+<lb/>MONTH DAY YEAR
+<lb/>25D. NAME OF ATTENDING PHYSICIAN:
+<lb/>25D. ATTENDING PHYSICIAN LICENSE NUMBER
+<lb/>25A. ON THE BASIS OF INVESTIGATION AND SUCH EXAMINATIONS.
+<lb/>AS I FELT NECESSARY. IN MYQW-WON DEATH OCCURRED AT THETIME. DATE AND PLACE A^p^E^0;p♦1E CAUSES STATED.
+<lb/>SIGNATURE
+<lb/>AND TITLE: W
+<lb/>258. PRONOUNCED DEAD
+<lb/>MONTH DAY YEAR
+<lb/>OM iluly 104 I q?
+<lb/>□ CORONER
+<lb/>_ CORONER'S
+<lb/>□ PHYSICIAN
+<lb/>_ MEDICAL
+<lb/>□ EXAMINER
+<lb/>25D. DATE SIGNED:
+<lb/>MONTH DAY YEAR
+<lb/>25E. SIGN/^TURE OF CORONER OR CORONER'
+<lb/>12:niT^ .Tilly 104 I Q?
+<lb/>iNER'S PHYSICIAN. IF OTHERTHAN CERTIFIER:
+<lb/>25F. ME/COR. PHYS.
+<lb/>LICENSE NUMBER
+<lb/>26. NAME AND ADDRESS OF CERTIFIER WHO SIGNED 254 , ^ ^ x.
+<lb/>Dr.Erik K.Mitchell 330 W.Onondaga St. Syracuse,N.Y. 13202
+<lb/>14nS44-1
+<lb/>27. MANNER OF DEATH:
+<lb/>NATURAL CAUSE ACCIDENT
+<lb/>UNDETERMINED
+<lb/>CIRCUMSTANCES
+<lb/>PENDING
+<lb/>INVESTIGATION
+<lb/>28. WAS CASE REFERRED TO
+<lb/>CORONER OR MEDICAL EXAMINER?
+<lb/>□ 0 NO 20, YES
+<lb/>29A. AUTOPSY? | 29B. IF YES. WERE FINDINGS USED
+<lb/>NO YES I TO DETERMINE CAUSE OF DEATH?
+<lb/>0,'□ &lt; 2j n 0 NO 20, YES_
+<lb/>CONFIDENTIAL SEE INSTRUCTION SHEET FOR COMPLETING CAUSE OF DEATH CONFIDENTIAL
+<lb/>30. DEATH WAS CAUSED BY: (ENTER ONLY ONE CAUSE PER LINE FOR (A). (B). AND (C).) APPROXIMATE INTERVALBETWEEN ONSET AND DEATH
+<lb/>I PART I. IMMEDIATE CAUSE:
+<lb/>\m.
+<lb/>DUE TO OR AS A CONSEQUENCE OF
+<lb/>Acute Myocardial Infarction
+<lb/>DUE TO OR AS A CONSEQUENCE OF
+<lb/>PART M. OTHER SIGNIFICANT CONDITIONS CONTRIBUTING TO
+<lb/>DEATH BUT NOT RELATED TO CAUSE GIVEN IN PART I (A)'
+<lb/>31A. IF INJURY, DATE;
+<lb/>MONTH DAY YEAR
+<lb/>I HOUR; I 31B, LOCALITY: (City or town and county and state)
+<lb/>I 31E. AT WORK?
+<lb/>I  NO YES
+<lb/>32. WAS DECEDENT HOSPITALIZED IN
+<lb/>LAST 2 MONTHS? NO YES
+<lb/>□ 0 □
+<lb/>I 310. DESCRIBE HOW INJURY OCCURRED:
+<lb/>33A. IF FEMALE. WAS DECEDENT 1 338. DATE OF
+<lb/>PREGNANT IN LAST NO YES | DELIVERY:
+<lb/>6 MONTHS? , j—. ,
+<lb/>I  lo LJ 1 ,
+<lb/>MONTH DAY YEAR
+<lb/>DOH-1961 (1/91) vs-eo
+<pb n="4" facs="#page-003"/>
+<lb/>RESIDENCE
+<lb/>ucrMn nviciY 1 •
+<lb/>CERTIFICATE
+<lb/>OF DEATH L J
+<lb/>REGISTER NUMBER
+<lb/>FREDERICK COLVIN MOSHER
+<lb/>2. SEX:
+<lb/>MALE FEMALE
+<lb/>B 1 n 2
+<lb/>3A. DATE OF DEATH: ! 38. HOUR:
+<lb/>MONTH DAY YEAR *
+<lb/>July 04 92 ; 12:01PM ^
+<lb/>NCHS
+<lb/>4C7A7810253031318QROS
+<lb/>QCOD
+<lb/>CANCER
+<lb/>DOA
+<lb/>□ 1
+<lb/>ER
+<lb/>□ 2 □ □ □
+<lb/>j 4C. NAME OF FACILITY: (K not fadtity give address)
+<lb/>9 Eaton Street
+<lb/>B
+<lb/>40. LOCALITY: (Ctyeck one and specify)
+<lb/>OTYOF VILLAGE OF TOWN OF
+<lb/>□ n Hamilton
+<lb/>MONTH DAY YEAP
+<lb/>4E. COUNTY OF DEATH:
+<lb/>Madison
+<lb/>4F. MEDICAL RECORD NO. 4G. WAS DECEDENT TRANSFERRED FROM ANOTHER INSTITUTION? (if yes. specify institution name, dty Of town county and state)
+<lb/>I  NO YESi  92-0422 I ra n
+<lb/>■ 5, DATE OF BIRTH:
+<lb/>H MONTH DAY YEAR
+<lb/>4G H
+<lb/>■May 28 1911
+<lb/>6. AGE; _ j IF UNDER 1 YEAR
+<lb/>^  nwitK«
+<lb/>81 yrs.
+<lb/>-IF UNDER-1 DAY
+<lb/>l&gt;QOf» mwHrtes
+<lb/>8. SERVED IN U.S. ARMED FORCES?[ NO YES (Spedfy years)
+<lb/>0-0 CD 1
+<lb/>12. SOCIAL SECURITY NUMBER;
+<lb/>1116-05-0086
+<lb/>. RACE: (Black, White, etc.)
+<lb/>White
+<lb/>7A. CITY-AND STATE OF BIRTH; (Country
+<lb/>if not U.S.A.)
+<lb/>; 7B. IF AGE UNDER 1 YEAR, NAME OF
+<lb/>\  HOSPITAL OF BIRTH:
+<lb/>Lebanon, New York
+<lb/>10. HISPANIC ORIGIN? (if yes. specify)
+<lb/>NO YES
+<lb/>13. MARTIAL
+<lb/>STATUS:
+<lb/>Q- □
+<lb/>NEVER MARRIED OR
+<lb/>MARRIED SEPARATED WIDOWED DIVORCED
+<lb/>□ , □ ; Q:
+<lb/>ISA. USUAL OCCUPATION; (Do not enter retired)
+<lb/>11. DECEDENTS EDUCATION (Spedfy only highest grade completed)
+<lb/>EI«fn®n(aryfS®condary (0-12) College (1-4 or S4) 2
+<lb/>14. SURVIVING SPOUSE: (If wife, provide maiden name)
+<lb/>158. KINO OF BUSINESS OR INDUSTRY: , ISC. NAME AND LOCALITY OF &lt;X)MPANY OR FIRM;
+<lb/>General Contractor ' Construction
+<lb/>16A. RESIDENCE. STATE:
+<lb/>New York
+<lb/>, 168. COUNTY;
+<lb/>I  Madison
+<lb/>, 16C. LOCALITY: (Check one artd specify)
+<lb/>,  CITY OF WLLAGEOF TOWN OF
+<lb/>Self-Employed
+<lb/>□
+<lb/>160. STREET AND NUMBER OF RESIDENCE;
+<lb/>9 Eaton Street
+<lb/>-M. □ Harm'1 ton
+<lb/>, 16F. IF CITY OR VILLAGE. IS
+<lb/>RESIDENCE WITHIN CITY OR
+<lb/>I VILLAGE LIMITS?^ YES Q NO
+<lb/>( TOWN:' IF NO. SPECIFY T
+<lb/>19A. NAME OF INFORMANT:
+<lb/>Mrs. Alta Benedict
+<lb/>I  16E.ZIP CODE:
+<lb/>!  13346
+<lb/>17. NAME OF FIRST Ml LAST 18. MAIDEN NAME ' FIRST Ml LAST
+<lb/>FATHER; OF MOTHER:
+<lb/>Lewis Mosher PEARL Colvin
+<lb/>2OA. BURIAL. CREMATION. REMOVAL
+<lb/>OR OTHER DISPOSITION: (Specify)
+<lb/>Cremation
+<lb/>MONTH DAY YEAR
+<lb/>J u 1 yl 6 I 9 2
+<lb/>19B. MAILING ADDRESS: (Include zip code)
+<lb/>RR 1 Box 47, Hamilton. New York 13346
+<lb/>20B. PLACE OF BURIAL. CREMATION. REMOVAL OR
+<lb/>OTHER DISPOSITION;
+<lb/>WatervT11e Cemetery
+<lb/>I 20C. LOCATION: (City or town and state)
+<lb/>21A. NAME AND ADDRESS OF FUNERAL HOME:
+<lb/>Paul Funeral Home, P.O. 239 South St
+<lb/>22A. NAME OF FUNERAL DIRECTOR:
+<lb/>Jeffrey T. Paul
+<lb/>23A. SIGNATURE OF REGISTRAR:
+<lb/>F FUNERA
+<lb/>238. DATE 24
+<lb/>!Waterville, New York
+<lb/>, 21B. REGISTRATION NUMBER:
+<lb/>L DISE
+<lb/>dirson, N.Y&gt; 1234(;)2 02153
+<lb/>FILLED: MONTH ' til^Y
+<lb/>ITEMS 25 - 33 COMPLETED BY CERTIFYING PHYSICIAN
+<lb/>A. BURIAL OR REMOVAL PERMIT ISSUED BY;
+<lb/>, 22C. REGISTRATION NUMBER;
+<lb/>! 040^2
+<lb/>; 24B. DATE
+<lb/>, ISSUED; MONTH DAY YEAR
+<lb/>— OR — ITEMS 25 - 33 COMPLETED BY CORONER OR MEDICAL EXAMINER
+<lb/>25A. TO THE BEST OF MY KNOWLEDGE. DEATH OCCURRED AT THE TIME. DATE
+<lb/>AND PLACE AND DUE TO THE CAUSES STATED.
+<lb/>SIGNATURE:
+<lb/>MONTH DAY YEAR
+<lb/>I 25B. THE PHYSICIAN ATTENDED THE DECEASED
+<lb/>MONTH DAY YEAR MONTH DAY YEAR
+<lb/>' 25C. LAST SEEN ALIVE:
+<lb/>MONTH DAY YEAR
+<lb/>250. NAME OF ATTENDING PHYSICIAN:
+<lb/>250. ATTENDING PHYSICIAN LICENSE NUMBER
+<lb/>25A. ON THE BASIS OF INVESTIGATION AND SUCH EXAMINATIONS.
+<lb/>AS I FELT NECESSARY. IN MYpOit^ DEATH OCCURRED AT THE
+<lb/>TIME. DATE AND PLACE CAUSES STATED.
+<lb/>SIGNATURE ^
+<lb/>AND TITLE: ^
+<lb/>25B. PRONOUNCED Of^D J 25D. DATE S
+<lb/>OH Tilliiri 04 I Q?
+<lb/>IGNED:
+<lb/>i
+<lb/>□ CORONER
+<lb/>_ CORONER'S
+<lb/>□ PHYSICIAN
+<lb/>_ MEDICAL
+<lb/>□ EXAMINER
+<lb/>1 ?!mPM July 104 I Q?
+<lb/>'fHE25E. SIGNATURE OF CORONER OR (X)RONER'$ PHYSICIAN, IF OYhER THAN CERTIFIER
+<lb/>25F. MEA:0R. PHYS. , , ^ ̂  .
+<lb/>LICENSE NUMBER | 40^44—1
+<lb/>26. NAME AND ADDRESS OF CERTIFIER WHO SIGNED 25A-
+<lb/>Dr.Erik K.fctchell 330 W.Oaondasa St, Syracuse,N.Y. 13202
+<lb/>27. MANNER OF DEATH;
+<lb/>NATURAL CAUSE ACCIDENT HOMICIDE
+<lb/>KXi n 2 n 3
+<lb/>UNDETERMINED PENDING
+<lb/>SUICIDE CIRCUMSTANCES INVESTIGATION
+<lb/>Da n 5 n 6
+<lb/>28. WAS CASE REFERRED TO
+<lb/>(XlflONER OR MEDICAL EXAMINER?
+<lb/>d 0 NO ^3 1 YES
+<lb/>29A AUTOPSY?
+<lb/>NO YES
+<lb/>1 29B. IF YES. WERE FINDINGS USEC
+<lb/>TO DETERMINE CAUSE OF DEATH'.
+<lb/>Id 0 NO ^3 1 YES
+<lb/>CONFIDENTIAL SEE INSTRUCTION SHEET FOR COMPLETING CAUSE OF DEATH CONFIDENTIAL
+<lb/>30. DEATH WAS CAUSED BY: (ENTER ONLY ONE CAUSE PER LINE FOR (A). (8). AND (C).) APPROXIMATE INTERVALBETWEEN ONSET AND DEATH
+<lb/>PART 1. IMMEDIATE CAUSE: ,
+<lb/>(A) Acute Myocardial Infarction [
+<lb/>DUE TO OR AS A CONSEQUENCE OF
+<lb/>JBL
+<lb/>DUE TO OR AS A CONSEOUENCe OF
+<lb/>I  |C)
+<lb/>PART II. other SIGNIFICANT CONOlTlONS CONTRIBuriNG TO
+<lb/>death but NOT RELATED TO CAUSE GIVEN IN PART I (A)
+<lb/>I 31A. IF INJURY, DATE:
+<lb/>'  MONTH DAY YEAR
+<lb/>I 3iB. LOCALITY: (City or town and county and state)
+<lb/>310. PLACE:
+<lb/>DOH-1961 (W9M
+<lb/>I 3ie. AT WORK?
+<lb/>I  NO YES
+<lb/>32. WAS DECEDENT HOSPITALIZED IN
+<lb/>LAST 2 MONTHS? NO YES
+<lb/>□ o □
+<lb/>33A. IF FEMALE. WAS OECEOENT
+<lb/>PREGNANT IN LAST nO YES
+<lb/>6 MONTHS? p_,
+<lb/>LJo LJ 1
+<lb/>I 31C. DESCRIBE HOW INJURY OCCURRED:
+<lb/>I 338. DATE OF
+<lb/>I  DELIVERY: DAY YEAR
+<lb/>VS-F
+<pb n="5" facs="#page-004"/>
+<lb/>REGISTER NUMBER
+<lb/>E: FIR^
+<lb/>ucTMn nvicH I ur ncMLin
+<lb/>CERTIFICATE
+<lb/>OF DEATH L J
+<lb/>1. NAME: FIRS
+<lb/>FREDERICK
+<lb/>MIDDLE
+<lb/>COLVIN
+<lb/>LAST
+<lb/>MOSHER
+<lb/>2. SEX:
+<lb/>MALE FEMALE
+<lb/>El D 2
+<lb/>3A. DATE OF DEATH: | 3B. HOUR:
+<lb/>MONTH DAY YEAR '
+<lb/>04192 ; 12:01PMJuly
+<lb/>RESIDENCE
+<lb/>NCHS
+<lb/>4C4G7A7B1025
+<lb/>4A. PLACE OF DEATH:
+<lb/>{Check only one)
+<lb/>HOSPITAL HOSPITAL HOSPITAL NURSING PRIVATE
+<lb/>DOA ER OUTPATIENT INPATIENT HOME RESIDENCE
+<lb/>□ 1 0 2 D 3 D 4 n K]
+<lb/>OTHER (Specify) 4B. IF FACILITY.
+<lb/>DATE ADMITTED:
+<lb/>4C. NAME OF FACILITY: (If not facility give address)
+<lb/>9 Eaton Street
+<lb/>4D. LOCALITY: (Check one and specify)
+<lb/>CITY OF VILLAGE OF TOWN OF
+<lb/>'  □ □ Hamilton
+<lb/>DAY YEAP
+<lb/>4E. COUNTY OF DEATH:
+<lb/>Madison
+<lb/>I 4F. MEDICAL RECORD NO. J 4G. WAS DECEDENT TRANSFERRED FROM ANOTHER INSTITUTION? (If yes, specify institution name, city or town, county and state)
+<lb/>I  NO YES
+<lb/>92-0422 1 H p
+<lb/>I 5. DATE OF BIRTH;
+<lb/>MONTH DAY YEAR
+<lb/>|May 28 1911
+<lb/>6. AGE:
+<lb/>81 yrs.
+<lb/>IF UNDER 1 YEAR
+<lb/>monihs days
+<lb/>IF UNDER 1 DAY
+<lb/>hours
+<lb/>. SERVED IN U.S. ARMED FORCES?
+<lb/>NO YES (Specify years)
+<lb/>S -0 CD
+<lb/>9. RACE: (Black. White, etc.)
+<lb/>7A. CITY AND STATE OF BIRTH: (Country
+<lb/>if not U.S.A.)
+<lb/>78. IF AGE UNDER 1 YEAR. NAME OF
+<lb/>HOSPITAL OF BIRTH:
+<lb/>Lebanon, New York
+<lb/>10. HISPANIC ORIGIN? (If yes. specify)
+<lb/>NO YES
+<lb/>B □
+<lb/>11. DECEDENT'S EDUCATION (Specify only highest grade completed)
+<lb/>Elemdniary/Secondary (0-12) College (1-4 or 5 +) ^
+<lb/>12. SOCIAL SECURITY NUMBER: 13. MARTIAL NEVER MARRIED OR 14. SURVIVING SPOUSE: (If wife, provide maiden name)
+<lb/>STATUS: MARRIED SEPARATED WIDOWED DIVORCED
+<lb/>116-05-0086 □ , □ 2 S3
+<lb/>ISA. USUAL OCCUPATION: (Do not enter retired) , 15B. KIND OF BUSINESS OR INDUSTRY;
+<lb/>I
+<lb/>General Contractor ' Construction
+<lb/>16A. RESIDENCE. STATE:
+<lb/>New York
+<lb/>, 168. COUNTY:
+<lb/>I  Madison
+<lb/>, 16C. LCXJALITY: (Check one and specify)
+<lb/>CITY OF VILLAGE OF TOWN OF
+<lb/>ISC. NAME AND LOCALITY OF COMPANY OR FIRM:
+<lb/>Self-Employed
+<lb/>□ M. □ Kami 1 ton
+<lb/>16D. STREET AND NUMBER OF RESIDENCE: 16E. ZIP CODE:
+<lb/>13346
+<lb/>16F. IF CITY OR VILLAGE, IS
+<lb/>RESIDENCE WITHIN CITY OR
+<lb/>VILLAGE LIMITS^ YES □ NO
+<lb/>TCfWN:IF NO. SPECIFY T
+<lb/>I  ̂ 17. NAME OFFATHER: FIRST Ml LAST 18. MAIDEN NAME 'OF MOTHER: ' FIRST Ml LAST
+<lb/>!  SI Lewis Mosher PEARL Colvin
+<lb/>19A. NAME OF INFORMANT:
+<lb/>Mrs. Alta Benedict
+<lb/>20A. BURIAL. CREMATION. REMOVAL
+<lb/>OR OTHER DISPOSITION: (Specify)
+<lb/>Cremation
+<lb/>MONTH DAY YEAR
+<lb/>.Tulyl 6 I 9?
+<lb/>19B. MAILING ADDRESS: (Include zip code)
+<lb/>RR 1 Box 47, Hamilton. New York 13346
+<lb/>20B. PLACE OF BURIAL. CREMATION. REMOVAL OR
+<lb/>OTHER DISPOSITION:
+<lb/>t^Taterv-j 1 1 p CPTnetpry
+<lb/>I 20C. LOCATION: (City or town and state)
+<lb/>I
+<lb/>IWaterville, New York
+<lb/>303131BQROS
+<lb/>QCOD
+<lb/>CANCER
+<lb/>21A. NAME AND ADDRESS OF FUNERAL HOME:
+<lb/>Paul Funeral Home, P.O. 239 South St
+<lb/>22A. NAME OF FUNERAL DIRECTOR:
+<lb/>Jeffrey T. Paul
+<lb/>218. REGISTRATION NUMBER:
+<lb/>23A. SIGNATURE OF REGISTRAR:
+<lb/>228. SIGN^fTU F FUNERAL DIRE
+<lb/>arson, N. Y. 1234(y2 02153
+<lb/>, 23B. DATE
+<lb/>FILLED: MONTH
+<lb/>24A. BURIAL OR REMOVAL PERMIT ISSUED BY:
+<lb/>ITEMS 25 - 33 COMPLETED BY CERTIFYING PHYSICIAN
+<lb/>, 22C. REGISTRATION NUMBER:
+<lb/>04038
+<lb/>248. DATE
+<lb/>ISSUED: MONTH DAY YEAR
+<lb/>— OR — ITEMS 25 - 33 COMPLETED BY CORONER OR MEDICAL EXAMINER
+<lb/>k. kpa.
+<lb/>25A. TO THE BEST OF MY KNOWLEDGE. DEATH OCCURRED AT THE TIME. DATE
+<lb/>AND PLACE AND DUE TO THE CAUSES STATED.
+<lb/>SIGNATURE:
+<lb/>MONTH DAY YEAR
+<lb/>258. THE PHYSICIAN ATTENDED THE DECEASED
+<lb/>MONTH DAY YEAR MONTH DAY YEAR
+<lb/>I FROM
+<lb/>~l
+<lb/>TO
+<lb/>2SC. LAST SEEN ALIVE:
+<lb/>MONTH DAY YEAR
+<lb/>I 2SD. NAME OF ATTENDING PHYSICIAN:
+<lb/>! 2SD. ATTENDING PHYSICIAN LICENSE NUMBER
+<lb/>25A. ON THE BASIS OF INVESTIGATION AND SUCH EXAMINATIONS.
+<lb/>AS I FELT NECESSARY. IN MYOOiNION DEATH OCCURRED AT THE
+<lb/>TIME. DATE AND PLACE Ah;0^UE&gt;d^E CAUSES STATED.
+<lb/>SIGNATURE ^
+<lb/>AND TITLE: W
+<lb/>25B. PRONOUNCED DEAD
+<lb/>MONTH DAY
+<lb/>OM Tn1-7
+<lb/>YEAR
+<lb/>□ CORONER
+<lb/>_ CORONERS
+<lb/>□ PHYSICIAN
+<lb/>^ MEDICAL
+<lb/>□ EXAMINER
+<lb/>04 q?
+<lb/>25D. DATE SIGNED:
+<lb/>ZSETsIGNATURE of coroner or CORONER'S
+<lb/>.Tnly 104 I 92
+<lb/>NER'S PHYSICIAN. IF OTHER THAN CERTIFII
+<lb/>DAY YEAR
+<lb/>T
+<lb/>25F. ME/COR. PHYS.
+<lb/>LICENSE NUMBER
+<lb/>26. NAME AND ADDRESS OF CERTIFIER WHO SIGNED 25^ , « ^ -v-r xr
+<lb/>Dr.Erik K.Mitchell 330 W.Onondaga St. Syracuse,N.Y. 13202
+<lb/>UnS44-1
+<lb/>27. MANNER OF DEATH: UNDETERMINED PENDING 28. WAS CASE REFERRED TO 29A. AUTOPSY? 1 29B. IF YES. WERE FINDINGS USEC
+<lb/>NATURAL CAUSE ACCIDENT HOMICIDE SUICIDE CIRCUMSTANCES INVESTIGATION CORONER OR MEDICAL EXAMINER? NO YES 1 TO DETERMINE CAUSE OF DEATH1
+<lb/>1  KXl D 2 □ 3 □ 4 □ 5 □ e D 0 NO ^3 1 YES
+<lb/>0
+<lb/>dl 0 NO ^0- 1 YES
+<lb/>CONFIDENTIAL SEE INSTRUCTION SHEET FOR COMPLETING CAUSE OF DEATH CONFIDENTIAL
+<lb/>30. DEATH WAS CAUSED BY: (ENTER ONLY ONE CAUSE PER LINE FOR (A). (8). AND (C).)
+<lb/>APPROXIMATE INTERVAL
+<lb/>BETWEEN ONSET AND DEATH
+<lb/>PART I, IMMEDIATE CAUSE
+<lb/>JAj
+<lb/>DUE TO OR AS A CONSEQUENCE OF
+<lb/>Acute Mvocardial Infarction
+<lb/>I DUE TO OR AS A CONSEOUEnCE OF
+<lb/>Li9_
+<lb/>PART II. OTHER SIGNIFICANT CONDITIONS CONTRlDUTING TO
+<lb/>DEATH BUT NOT RELATED TO CAUSE GIVEN IN PART I (A)
+<lb/>31A. IF INJURY. DATE:
+<lb/>MONTH DAY YEAR
+<lb/>1 HOUR: I 318. LOCALITY: (City or town and county and state) I 31C. DESCRIBE HOW INJURY OCCURRED:
+<lb/>I
+<lb/>I 31E. AT WORK''
+<lb/>I  NO YES
+<lb/>32. WAS DECEDENT HOSPITALIZED IN
+<lb/>LAST 2 MONTHS? NO YES
+<lb/>[J 0 dl 1
+<lb/>33A. IF FEMALE. WAS DECEDENT
+<lb/>PREGNANT IN LAST NO YES
+<lb/>6 MONTHS? r—, f—,
+<lb/>I  10 U 1
+<lb/>I 338. DATE OF
+<lb/>t  DELIVERY: MONTH DAY
+<lb/>DOH-1961 (1/91) VS-F
+<pb n="6" facs="#page-005"/>
+<lb/>Frederick C. Mosher
+<lb/>Hamilton — Frederick C.
+<lb/>Mosher, 81, of 9 Eaton Street,
+<lb/>died Saturday, July 4,1992 at his
+<lb/>home.
+<lb/>He was bom on May 28,1911
+<lb/>in Lebanon, the son of Lewis and
+<lb/>Pearl Colvin Mosher. He was a
+<lb/>graduate ofHamilton High School
+<lb/>and attended Colgate University.
+<lb/>On July 3,1933, in Hamilton Mr.
+<lb/>Mosher married Alice Harrison.
+<lb/>During WWII, Mr. Mosher
+<lb/>worked as a civilian construction
+<lb/>contractorbuildingsoldier'shous-
+<lb/>ing in Alaska. Mr. Mosher was
+<lb/>also one of the contractors in
+<lb/>volved in the consUnction of the
+<lb/>present Oneida High School. He
+<lb/>had an avid interest in antiques
+<lb/>and at one time was an active
+<lb/>dealer in the state. Mr. Mosher
+<lb/>was a life long resident of the
+<lb/>Hamilton-Earlville area.
+<lb/>Mr. Mosher is survived by his
+<lb/>son Barry of Wilmington, DE,
+<lb/>one sister Mrs. E. Jcril (Alta)
+<lb/>Benedict of Hamilton, 2 grand
+<lb/>children, 1 great grandchild, and
+<lb/>several nieces and nephews.
+<lb/>He was predeceased by his wife
+<lb/>in 1971 and a brother William.
+<lb/>The funeral was on Tuesday,
+<lb/>July 7 from the Paul Funeral
+<lb/>Home, 3592 South Street, Madi
+<lb/>son with the Rev. Robert Knapp,
+<lb/>Pastor of the Madison Baptist
+<lb/>Church officiating. Interment
+<lb/>will be in the Edgewood Memo
+<lb/>rial Park, Glen Mills, PA. Contri
+<lb/>butions may be made in the
+<lb/>memory of Mr. Mosher to the
+<lb/>American Heart Association.
+<pb n="7" facs="#page-006"/>
+<lb/>Frederick C. Mosher
+<lb/>HAMILTON — Frederick C. Mosher, 81, of 9 Eaton Street, died Satur
+<lb/>day, July 4, 1992, at his home.
+<lb/>He was born on May 28, 1911, in Lebanon, the son of Lewis and Pearl
+<lb/>Colvin Mosher.
+<lb/>He was a graduate of Hamilton High School and attended Colgate Uni
+<lb/>versity.
+<lb/>On July 3,1933, in Hamilton, Mr. Mosher married Alice Harrison. She
+<lb/>died in 1971.
+<lb/>During World War II Mr. Mosher worked as a civilian construction con
+<lb/>tractor, building soldier's housing in Alaska.
+<lb/>Mr. Mosher was also one of the contractors involved in the construction
+<lb/>of the present Oneida High School.
+<lb/>He had an avid interest in antiques and at one time was an active dealer
+<lb/>in the state.
+<lb/>Mr. Mosher was a life long resident of the Hamilton-Earlville area.
+<lb/>Surviving are one son, Barry Mosher, of Wilmington, Dela.; one sister,
+<lb/>Mrs. E. Jeril (Alta) Benedict of Hamilton; two grandchildren; one great-
+<lb/>aaandchild and several nieces and nephews. (See Death Notice.)
+<pb n="8" facs="#page-007"/>
+<lb/>Q. Mosher
+<lb/>IIAIvULTON — Frederick C.
+<lb/>Mosher, 81, of 9 Eaton St., died
+<lb/>Saturday at his home.
+<lb/>He was bom in Lebanon and
+<lb/>v.'as a life resident of the Hamil-
+<lb/>ton-Earlville area.
+<lb/>Surviving are a son, Barry &lt;rf
+<lb/>Wilmington, Del.; a sister, Alta
+<lb/>Benedict of Hamilton; two grand-
+<lb/>children; one great-grandchild;
+<lb/>;; ;d several nieces add nephews.
+<lb/>Services will be 2 p.m. Tuesday
+<lb/>the Paul Funeral Home, 3592
+<lb/>.  ith St., Madison. Burial will be
+<lb/>Glen Mil|^s, Pa.
+<lb/>Contributions may be made to
+<lb/>I aerican Heart Association.
+<pb n="9" facs="#page-008"/>
+<lb/>OFFICE OF THE
+<lb/>MADISON COUNTY CORONER
+<lb/>BOX 578
+<lb/>WAMPSVILLE, NEW YORK 13163
+<lb/>(315) 366-2236
+<lb/>FAX: (315) 366-2503
+<lb/>TO: Barry R. Mosher
+<lb/>FROM: DONALD F. CERIO, JR., CORONER
+<lb/>RE: Frederick C. Mosher
+<lb/>DATE: November 20, 1992
+<lb/>Pursuant to your request, enclosed herewith please find a copy of
+<lb/>the autopsy report regarding Frederick C. Mosher.
+<lb/>If you have any questions, please feel free to contact this office.
+<pb n="10" facs="#page-009"/>
+<lb/>jCP
+<lb/>FREDERICK MOSHER CASE FILE# 92-0422
+<lb/>CAUSE OF DEATH; Acute myocardial infarction.
+<lb/>MANNER OF DEATH: Natural.
+<lb/>•T ,
+<lb/>ERIK K. MITCHELL, M.D.
+<lb/>T: 7/9/92 dw
+<lb/>fc ra E I W I
+<lb/>JUL 2 41992
+<lb/>DISTRICT ATTORNEY'S OFFICE
+<lb/>"  M&amp;niSQN COUNTY
+<lb/>/ (&gt; "JA CO
+<lb/>DATE
+<lb/>.V. -
+<pb n="11" facs="#page-010"/>
+<lb/>FREDERICK MOSHER CASE FILE# 92-0422
+<lb/>JULY 4, 1992 4:00 P.M.
+<lb/>EXTERNAL EXAMINATION:
+<lb/>The body is that of a 67 inch, 153 pound, Caucasian male who
+<lb/>appears compatible with the stated age of 81. There is no external
+<lb/>evidence of acute injury. The orbits are free of petechiae. There
+<lb/>is no bruising about the mouth. There are no marks on the neck.
+<lb/>There are no acute marks on the chest, abdomen, back or extremities.
+<lb/>There is a right paramidline remote scar in the lower quadrant
+<lb/>of the abdomen. The left arm shows deformity with depression of
+<lb/>muscle anterior to the left shoulder. It is uncertain if there
+<lb/>is a chronic dislocation of the bone.
+<lb/>INTERNAL EXAMINATION:
+<lb/>The scalp is without bruise over an unbroken calvarium. The
+<lb/>1,530 gram brain has bilaterally symmetry with a clear meningeal
+<lb/>surface. The meninges are clear. There is some increase in width
+<lb/>of sulci but the gyri do not appear excessively narrowed. Multiple
+<lb/>sections shows a uniform gray matter ribbon and symmetric deep
+<lb/>gray structures without focal discoloration or loss of tissue.
+<lb/>The intracranial vasculature is without obstruction. The cerebellar
+<lb/>folia are full. The pons and medulla are without discoloration.
+<lb/>The soft tissues of the anterior neck on layered dissection
+<lb/>are without discoloration. There is no fracture of the larynx
+<lb/>2
+<pb n="12" facs="#page-011"/>
+<lb/>FREDERICK MOSHER CASE FILE# 92-0422
+<lb/>or the hyoid and no hemorrhagic discoloration of the soft tissues
+<lb/>adjacent to pressure points deep thereto. The epiglottis is free
+<lb/>of petechiae. There is no foreign material in the airway and no
+<lb/>mucus plugging of the airway. The thyroid is a normal size, shape,
+<lb/>texture and location. The precervical fascia is without
+<lb/>discoloration and the bony structure of the neck is stable.
+<lb/>The chest wall is free of acute injury.
+<lb/>The 580 gram heart shows concentric thickening of the left
+<lb/>ventricle. There is a normal coronary distribution with extensive
+<lb/>calcific atheromatous involvement of all three major coronary
+<lb/>vessels with areas of reduction in lumen to pinpoint dimension
+<lb/>or less. There is no superimposed thrombus visible. The highest
+<lb/>degree of obstruction is in the proximal course of the vessels.
+<lb/>The myocardium is red over the anterior wall and the septxim. The
+<lb/>posterior wall of the left ventricle and the obtuse margin has
+<lb/>a mottling yellow on red of the basic red color elsewhere in the
+<lb/>myocardium. An estimated 40% of the myocardium on cut section
+<lb/>is involved from the apex to the base of the ventricle. The valves
+<lb/>are well formed. The aorta has dilatation to an estimated 3
+<lb/>centimeter width distal to the aortic valve. The distal aorta
+<lb/>above the iliac bifurcation has concentric calcific atheromatous
+<lb/>deposit with an aneurysmal bulge estimated at 3 to 4 centimeters
+<lb/>in maximum dimension.
+<pb n="13" facs="#page-012"/>
+<lb/>FREDERICK MOSHER CASE FILE# 92-0422
+<lb/>The 550 gram right lung and 500 gram left lung have a wet
+<lb/>tissue with a foamy serous ooze expressible from the cut surface.
+<lb/>The airways are free of foreign material. There is no lumpiness
+<lb/>of texture. Alveolar size, to gro^s examination, appears slightly
+<lb/>enlarged. There is mild black deposit visible in the pleural
+<lb/>lymphatic distribution. The vessels are free of ante mortem
+<lb/>thrombus.
+<lb/>The 1,350 gram liver has a nutmeg appearance on section with
+<lb/>a copious sanguinous ooze from the cut surface. There is no
+<lb/>intrinsic nodularity. There are five smooth impressions in the
+<lb/>surface of the liver forming parallel lines of depression going
+<lb/>from the dome to the acute margin at approximate right angles to
+<lb/>the ribs. The gallbladder is present and contains a thin bile
+<lb/>free of calculi. The extrahepatic biliary tree is without
+<lb/>obstruction.
+<lb/>The spleen is in a mass of adhesions in the left upper quadrant
+<lb/>and is diminutive and soft. It is estimated at 50 grams with a
+<lb/>pulpy red tissue with a barely apparent white pulp.
+<lb/>The esophagus is without ulceration or discoloration. The
+<lb/>gastric mucosa shows no ulceration of acute nature and no
+<lb/>discoloration of the mucosa. The small and large bowel have some
+<lb/>fibrous adhesions of the serosal surfaces but otherwise are without
+<lb/>discoloration or intrinsic mucosal lesion.
+<pb n="14" facs="#page-013"/>
+<lb/>FREDERICK MOSHER CASE FILE# 92-0422
+<lb/>The pancreatic lobulations are pink and well separated with
+<lb/>no fat necrosis or fibrosis.
+<lb/>The adrenals have a 0.1 centimeter yellow pale cortex and
+<lb/>a red central region. Z'
+<lb/>The 140 gram kidney and 150 gram left kidney have a diffuse
+<lb/>fine distinct cortical grain. There is a uniform cortical thickness
+<lb/>estimated at 0.5 centimeters. The papillae are without ulceration
+<lb/>or calculus and the ureters without dilatation go into a bladder
+<lb/>which contains and estimated 3 to 5 milliliters of a cloudy urine
+<lb/>over a very trabeculated mucosa with occasional diverticular
+<lb/>outpouchings of the mucosa. The prostate is markedly enlarged
+<lb/>with an estimated 6 centimeter width and is a mass of nodules of
+<lb/>&gt; - • - ■ .•
+<lb/>Variable texture, some of which are partially calcified. The
+<lb/>nodules are up to 1 centimeter in dimension and occasional nodules
+<lb/>are hemorrhagic.
+<lb/>Z.
+<lb/>1. Severe coronary atherosclerotic deposit.
+<lb/>2. Focal myocardial discoloration.
+<lb/>3. Cardiomegaly.
+<lb/>4. Finely granular renal cortices.
+<lb/>5. Systemic coronary atherosclerotic deposit.
+<lb/>6. Nutmeg liver.
+<lb/>7. Visceral congestion.
+<lb/>5
+<pb n="15" facs="#page-014"/>
+<lb/>O M o D Ai Gi COUMITY TOXICOL-OGY DE:F&gt; AFR YMEIM Y
+<lb/>Erik K. Mitchell M. D., Director ^
+<lb/>H. Chip Walls, Toxicologist
+<lb/>600 South State Street
+<lb/>Syracuse, New York 13202
+<lb/>lOO
+<lb/>D ays: 435-3802 Evenings: 435-3163
+<lb/>Onondaga County Medical Examiner
+<lb/>330 West Onondaga Street
+<lb/>Syracuse, NY 13210
+<lb/>Lab Number :ME092-0422
+<lb/>Date Received:7/07/92
+<lb/>Date Reported:7/09/92
+<lb/>Name: Frederick Mosher
+<lb/>Race: White Sex: Male Age:81
+<lb/>County: Madison
+<lb/>Pathologist:Dr. Mitchell
+<lb/>Routi ne L-ABORAYOfRY REF&gt;0F;Y FINAL
+<lb/>Volatile* Test Results
+<lb/>Blood None Detected . Aortic
+<lb/>*-Volatiles include ethanol, uethanoi, acetone, isopropanol, and toluene.
+<lb/>i iW 5% ■
+<lb/>Page-1
+<lb/>i1 1
+<lb/>g ® n w ii
+<lb/>JUL 2 T1992
+<lb/>DISTRICT ATTORNEY'S OFFICE
+<lb/>MADISON COUNTY
+<lb/>H. Chip Walls, Toxicologist
+</ab>
+    </body>
+  </text>
+</TEI>

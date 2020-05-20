@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison elmer deed hornby center 1920</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_elmer_deed_hornby_center_1920/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_elmer_deed_hornby_center_1920/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Stat^ of 3?ork,
+<lb/>County ofnui
+<lb/>of
+<lb/>ss.
+<lb/>On this
+<lb/>nine hundred and
+<lb/>h
+<lb/>7
+<lb/> in the year One thousand
+<lb/>, before me, the subscriber, personally appeared
+<lb/>to me personally known to be the same person^ described in and who executed the foregoing
+<lb/>instrument, and ihe.*t acknowledged to me that executed the same.
+<lb/>m
+<lb/>%^Tff
+<lb/>cU]lx/4
+<lb/>'t^'
+<lb/>oduooHfl
+<lb/>Land Contract—Long Form. 54 Williamson Law Book Co., Publishers, Rochester, N. Y. l-20-6r
+<lb/>.-Articles of -Agreement
+<lb/>Made the.. .day of.
+<lb/>nine hundred 2Xi^.-.lMI'.P'kY^...
+<lb/>.'...., ip the year One thousand
+<lb/>!^etween.
+<lb/>and
+<lb/>, owner , of the first part.
+<lb/>, purchaser , of the second part,
+<lb/>in the manner following: The said partu of the first part, in consideration of the covenants and
+<lb/>agreements hereinafter contained, to be'performed on the part of the part if of the second part,
+<lb/>do®/ hereby covenant and agree to and with the said part m of the second part, to sell and convey
+<lb/>to huym fee simple by a good and sufficient deed and conveyance, with covenants of warranty,
+<lb/>free and clear from all liens, rights of dower or other incumbrances (unless hereinafter specified,)
+<lb/>of New York, briefly described as follows:
+<pb n="2" facs="#page-001"/>
+<lb/>The partlf of the second part covenants and agrees to purchase of the said part^ of the ■
+<lb/>first part the premises above described, and to pay and secure to be paid therefor, the sum of ■
+<lb/>: I
+<lb/>Dollars
+<lb/>—), in the manner following:
+<lb/>That is to say, the sum of •. Dollars
+<lb/>is to be paid on the
+<lb/>and the sum of Dollars on the
+<lb/>day , 192/,and the sum
+<lb/>.day of.AA)M&lt;ark7^... Dollars on..
+<lb/>with interest on all sums unpaid from the. . day of.o^^^i;^ir........ \^2^d payable with each of said payments.
+<lb/>And upon the making of the payments aforesaid in full, and the payment of all interest, said
+<lb/>deed is to be executed and delivered, .a-nd itlif p"i^^Ja.3SQ-.TTirrmi^j }-inirfg^t-iie-sum of
+<lb/>^liDiiars-_
+<lb/>(i..), ie. to 'he-seetmed-of Lhe secuifd
+<lb/>party -. ha the manner hereinafter deocribed:
+<lb/>On payment of the sums to be so paid on or before the..»^:/r:J!^. day
+<lb/>192^,'*the party of the first part covenants ori that day at hls own proper cost-ajid, expense, to,^^
+<lb/>execute and deliver to the party of the second part the deed aforesaid; rthI concurrnnt therewitb
+<lb/>.11".' r'ul - s'^cnnd pi^r^'rri-"fi'i'rrf—smct-agroe—te- sceure to the part—-ef-thc first part tho^.
+<lb/>balance of the pnrchase ..monpjr aforesaid, by o:!ieeuting and fiehvering—jjond theroforr'witlra
+<lb/>mortgage upon paid prcinise.a, duly nic1r.nnwlGdgod ao collateral theretor'which bond .and mortgage
+<lb/>■iib.Tti ."fintnin tbn. iimiai iT&gt;gnrfinPf»,tn,-!r nnd nnrrnqmPTit nlgnsps, and shall he crmrjitimipd fn .pay
+<lb/>ji: ̂ llirJJ. Jit lijvrt. Ji/I-rj^ ajmMtd iian^ duty
+<lb/>■i
+<lb/>f
+<lb/>00
+<lb/>■="-«fnti"'°Mortg3ger=shsdlHbe—ddiveied and thcTnOT^^^aidr^at thff
+<lb/>The party of the first part covenants and agrees that on the day
+<lb/>, 19Z^, and upon the performance by the partly of the second part
+<lb/>of the covenants herein contained on. ...part to be performed, he will deliver to the
+<lb/>party of the second part quiet and peaceable possession of said premises, in as good condition as
+<lb/>they now are, natural wear excepted.
+<lb/>Said party of the....t,*e.&lt;ic&lt;!:?^.^. ....part also agree $ to pay ALL Taxes and_Assessaa««±SL that shall, be taxed or asspsp^d upon said premises from the date hereof until the said sum
+<lb/>of shall be fully paid as aforesaid.
+<lb/>31 Is furl^ftr (rovetianla6 an6 "T^greei. That in case the party of the second part has
+<lb/>possession of said premises before the execution and delivery of said Deed, and in case of failure on
+<lb/>his part to perform any of the covenants herein contained, he will yield and deliver to the
+<lb/>party of the first part quiet and peaceable possession of said premises; that the party of the
+<lb/>first part may, immediately after such failure, re-enter and take possession of the same without any
+<lb/>previous notice to quit, in reference to any legal proceedings to recover possession thereof.
+<lb/>3t Is TnutuallY ^ovanantci an6 T^grcaft, That in case either party fails to perform the
+<lb/>covenants herein agreed to be performed by such partiO-S , the party so failing shall and will pay
+<lb/>t^he other the sum of. .. Dollars , which
+<lb/>sum is hereby fixed and agreed upon as liquidated damages for such failure and not otherwise, and
+<lb/>that the same shall in no event be considered a. penalty. - — —
+<lb/>And it is agreed that the stipulations aforesaid are to apply to and bind the heirs, executors,
+<lb/>i administrators and assigns of the respective parties.
+<lb/>IFn WitRC5s '^l)ereof, The said parties have hereunto set their hands and seals
+<lb/>the day and year first above written.
+<lb/>3n of
+</ab>
+    </body>
+  </text>
+</TEI>

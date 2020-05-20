@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher colvin records</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-007.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_colvin/mosher_colvin_records/p-014.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+
+
+
+<pb n="1" facs="#page-000"/>
+<head><lb/>Guests at Wedding</head>
+<lb/>Geneva Ross dead
+<lb/>Thomas Babcock ”
+<lb/>William Colvin ”
+<lb/>Mrs. William Colvin ” dead
+<lb/>Grandma Mosher ”
+<lb/>Mrs. Orson Mosher ”
+<lb/>Clarence Colvin
+<lb/>Mr. James Colvin ”
+<lb/>Mrs James Colvin ”
+<lb/>Mr Anthony House ” dead
+<lb/>Mrs Anthony House ”
+<lb/>Emmette House
+<lb/>Mr Clarence Scott
+<lb/>Mrs Clarence Scott
+<lb/>Mr Legrande Mosher ” dead
+<lb/>Mrs. Le Grande Mosher
+<lb/>Beatrice Mosher
+<lb/>Mr D.C. Head ” dead
+<lb/>Mrs D.C. Head dead
+<lb/>Mrs Lynn Head
+<lb/>Mr Lynn Head ” dead
+<lb/>Clyde Head
+<lb/>Mr Fred Ross ” dead
+<lb/>Mrs Fred Ross dead
+<lb/>Mr Gene Ross
+<lb/>Mrs Gean Ross
+<lb/>Mr Dewitt Ross
+<lb/>Mrs. Dewitt Ross ” dead
+<lb/>Mr Arthur Richmond dead
+<lb/>Mrs Arthur Richmond ” dead
+<lb/>Mr Charles Lovejoy ” dead
+<lb/>Mrs Charles Lovejoy ” dead
+<lb/>Mr Arthur Guzlay
+<lb/>Mrs Arthur Guzlay ” dead
+<lb/>Miss Florence Tyler
+<lb/>Mrs Amelia Orvis
+<lb/>Mr. &amp; Mrs Tomlinson ” dead
+<pb n="2" facs="#page-001"/>
+<lb/>Miss Gladys Head
+
+
+
+<pb n="3" facs="#page-002"/>
+<lb/>2-4-42-10,000-M
+
+<lb/>Public Health Is Purchasable
+<lb/>Within Natural Limitations Any Community Can Determine Its Own Death Rate
+
+<lb/>STATE OF NEW YORK
+<lb/>DEPARTMENT OF HEALTH
+<lb/>ALBANY
+
+<lb/>EDWARD S. GODFREY, JR., M. D.
+<lb/>COMMISSIONER
+<lb/>PAUL B. BROOKS, M. D.
+<lb/>DEPUTY COMMISSIONER
+<lb/>DIVISION OF VITAL STATISTICS
+<lb/>JOSEPH V. DE PORTE, PH. D.
+<lb/>DIRECTOR
+<lb/>JOHN O. SPAIN, LL. M.
+<lb/>ASSISTANT DIRECTOR
+<lb/>ELIZABETH PARKHURST, S. M.
+<lb/>SENIOR STATISTICIAN
+
+<lb/>Certificate No. 28619
+<lb/>THIS IS TO CERTIFY
+<lb/>that Frederick Colvin Mosher
+<lb/>sex Male was born on May 28, 1911
+<lb/>in Town of Lebanon, County of Madison, N. Y.
+<lb/>as shown by the duly registered certificate of birth of said person on file in
+<lb/>this Department.
+<lb/>J. V. DePorte
+<lb/>Director
+<lb/>RC
+
+<lb/>[SEAL]
+<lb/>Dated at Albany, N. Y.
+<lb/>April 25, 1942
+
+<pb n="4" facs="#page-003"/>
+<lb/>ELEMENTARY REPORT CARD
+<lb/>Pupil's Name Mosher, Frederick
+<lb/>HAMILTON HIGH SCHOOL
+<lb/>Year 1921–22 Grade 6 th
+<lb/>Quarter I Quarter II Quarter III Quarter IV Average
+<lb/>SUBJECTS Est. Test.
+<lb/>English 80 76 90 92 90 93 90 94
+<lb/>Arithmetic 80 82 85 87 90 96 90 87
+<lb/>Geography 75 70 80 85 85 90 90 87
+<lb/>Spelling 75 70 75 a 90 94 90 84
+<lb/>Grammar
+<lb/>History 80 80 80 84 90 89 92 91
+<lb/>Reading 80 80 80 80 95 95 95 95
+<lb/>Writing 80 80 80 80 90 90 92 92
+<lb/>Drawing 80 78 [] 85 [] 88 [] 89
+<lb/>Physiology 80 84 80 81 [] [] [] []
+<lb/>Nature Study [] [] [] [] 90 95 90 91
+<lb/>Music 85 [] 80 88 80 86 85 88
+<lb/>Phy, Tr. F
+<lb/>Honor Roll 91.6 [for quarter iii]]
+<lb/>Absent ½ 1 2 0
+<lb/>Late 1 2 0 1
+<lb/>Opposite each subject every quarter, will be found two numbers on the
+<lb/>same line, the one expressing the teacher’s estimate of the pupil’s daily
+<lb/>work in oral recitations and written tests, the other the standard reached
+<lb/>in the formal quarterly test.
+<lb/>Miss Davis Teacher
+<pb n="5" facs="#page-004"/>
+<lb/>Quarter Date Signature of Parent or Guardian
+<lb/>I Lewis W Mosher
+<lb/>II Jan 25. Mrs Lewis Mosher
+<lb/>III Mrs Lewis Mosher
+<lb/>IV []
+<lb/>Scholarship is rated on the basis of 1oo%. The passing mark is [] %.
+<lb/>Please return this card to the teacher.
+<pb n="6" facs="#page-005"/>
+<lb/>Certificate
+<lb/>of Promotion
+<lb/>This certifies that
+<lb/>Fredrick Mosher
+<lb/>has satisfactorily completed the Course of Study pre‐
+<lb/>scribed for the Seventh Grade of the Hamilton
+<lb/>High School, and is therefore entitled to this testi‐
+<lb/>monial, and to admission to the Eighth Grade.
+<lb/>Given at Hamilton, state of New York, this 25<hi rend="sup underline">th</hi>
+<lb/>day of June 1923.
+<lb/>P. F. Snebel Principal
+<lb/>Ruth G. Pulley Teacher
+<pb n="7" facs="#page-006"/>
+<lb/>Certificate
+<lb/>of Promotion
+<lb/>This certifies that
+<lb/>Frederick Mosher
+<lb/>has satisfactorily completed the Course of Study pre‐
+<lb/>scribed for the 8th Grade of the Hamilton
+<lb/>High School, and is therefore entitled to this testi‐
+<lb/>monial, and to admission to the H. H. S. Grade.
+<lb/>Given at Hamilton, state of New York, this 20th
+<lb/>day of June 1924.
+<lb/>P. F. Snebel Principal
+<lb/>Ruth G. Pulley Teacher
+<pb n="8" facs="#page-007"/>
+<lb/>The University of the State of New York
+<lb/>Preliminary Certificate
+<lb/>Be it known that
+<lb/>June 16‐20, 1924
+<lb/>Frederick Mosher
+<lb/>Satisfactorily completed the requirements for admission to academic grade by
+<lb/>passing examinations in the
+<lb/>following subjects at
+<lb/>Hamilton High School
+<list>
+<item>READING</item>
+<item>WRITING</item>
+<item>GEOGRAPHY</item>
+<item>SPELLING</item>
+<item>ELEMENTARY ENGLISH</item>
+<item>ARITHMETIC</item>
+<item>ELEMENTARY U. S. HISTORY</item>
+</list>
+<lb/>Geo. M. Wiley
+<lb/>Assistant Commissioner for Elementary Education
+<lb/>No. 597 on the school records
+<lb/>P. F. Snebel Principal
+<pb n="9" facs="#page-008"/>
+<lb/>LEWIS MOSHER FARMS
+<lb/>HAMILTON
+<pb n="10" facs="#page-009"/>
+<lb/>Surrogate’s Court
+<lb/>MADISON COUNTY
+<lb/>IN THE MATTER OF THE LAST
+<lb/>WILL AND TESTAMENT OF
+<lb/><supplied>Lewis William Mosher</supplied>
+<lb/>Deceased.
+<lb/>Letters Testamentary
+<lb/>STATE OF NEW YORK
+<lb/>Madison County
+<lb/>SURROGATE’S OFFIC SS.
+<lb/>Recorded on this 31<hi rend="sup">st</hi> day
+<lb/>of January A.D., 1963
+<lb/>in Book No. 25 of Letters
+<lb/>Testamentary, at page 102 and
+<lb/>examined.
+<lb/>Clerk of the Surrogate's Court
+<pb n="11" facs="#page-010"/>
+<lb/>The People of the State of New York:
+<lb/>BY THE GRACE OF GOD FREE AND INDEPENDENT
+<lb/>To all whom these presents may come or may concern
+<lb/>SEND GREETING:
+<lb/>KNOW YE, That at the village of Wampsvllle in
+<lb/>the town of and County of Madison, on the 31st
+<lb/>day of January, 1963, before ROSS PATANE, Esq. our
+<lb/>Surrogate of our County of Madison aforesaid, the last Will and Testament
+<lb/>late of the Village of Hamilton in said County, was approved,
+<lb/>and is now approved and allowed by us, and the said deceased having whilst living and at the
+<lb/>time of his death, goods, chattels or credits within this State by reason whereof the
+<lb/>proving and registering of said Will, and granting administration of all and singular the said
+<lb/>goods, chattels and credits; and also the auditing, allowing and finally discharging the accounts
+<lb/>thereof, doth belong unto us: And whereas the said deceased did in and by his Last
+<lb/>Will and Testament, constitute and appoint FREDERICK MOSHER, successor
+<lb/>executor thereof; And he having taken and subscribed an oath faith‐
+<lb/>fully and honestly to discharge the duties of such Successor/Executor.
+<lb/>NOW THEREFORE, We do grant unto you the said
+<lb/>FREDERICK MOSHER
+<lb/>full power by these presents, to administer and faithfully to dispose of the said goods, chattels and
+<lb/>credits, according to the provisions and directions of said Will, to ask, demand, recover and re‐
+<lb/>ceive the debts which unto the said deceased while living and at the time of his death,
+<lb/>did belong; and to pay the debts which the said deceased did owe, so far as such goods, chattels
+<lb/>and credits will thereunto extend, and the law requires Hereby requiring you to make or cause
+<lb/>to be made a true and perfect inventory of all and singular the goods, chattels and credits of the
+<lb/>said deceased, which have or shall come into your hands, possession or knowledge. Also to make
+<lb/>or cause to be made duplicates of such Inventory, and cause the same to be signed by the ap‐
+<lb/>praisers and the same so made and signed, that you make return thereof to the Surrogate of the
+<lb/>County of Madison within three months from the date hereof, and further to render a just and
+<lb/>true account of your administration when thereunto required.
+<lb/>In Testimony Whereof, we have caused the seal of our said
+<lb/>Surrogate's Court to be hereunto affixed.
+<lb/>Witness, ROSS PATANE, Esq., Surrogate of
+<lb/>our said County of Madison, at his office in Wampsville,
+<lb/>in said County, the 31st day of January,
+<lb/>in the year of our Lord one thousand nine hundred and
+<lb/>Sixty‐Three.
+<lb/>Clerk of the Surrogate's Court
+<pb n="12" facs="#page-011"/>
+<lb/>DEPARTMENT OF HEALTH EDUCATION AND WELFARE USA
+<lb/>Health Insurance
+<lb/>SOCIAL SECURITY ACT
+<lb/>NAME OF BENEFICIARY
+<lb/>PEARL M MOSHER
+<lb/>CLAIM NUMBER
+<lb/>056‒38‒7497‒T
+<lb/>SEX
+<lb/>FEMALE
+<lb/>IS ENTITLED TO EFFECTIVE DATE
+<lb/>HOSPITAL INSURANCE 7‒1‒66
+<lb/>MEDICAL  INSURANCE 7‒1‒66
+<lb/>SIGN
+<lb/>HERE
+<lb/>⇨ Pearl M Mosher
+<pb n="13" facs="#page-012"/>
+<lb/>Verified Transcript of Death
+<lb/>131
+<lb/>Williamson Law Book Co., Rochester 9, N.Y.
+<lb/>A Verified Transcript from the Register of Death
+<lb/>Name of Deceased Pearl Mosher
+<lb/>Date of Death (Month) Sept (Day) 17 (Year) 1968 Register No. [blank]
+<lb/>Place of Death Madison New York
+<lb/>Usual Residence Hamilton New York
+<lb/>Length of Stay in Town, City or Village 1 mo
+<lb/>Race or Color white Sex Female
+<lb/>Single [blank] Married [blank] Widowed Widowed Divorced [blank]
+<lb/>Age: Years 86 Months [blank] Days [blank]
+<lb/>Social Security No. 056‒38‒7497
+<lb/>War Veteran (if yes what war) —
+<lb/>Occupation house work
+<lb/>Birthplace New York
+<lb/>Citizen of What County U.S.A
+<lb/>Father's Name George Colvin
+<lb/>Mother's Maiden Name Nancy Spooner
+<lb/>Cause of Death Interval Between Onset and Death
+<lb/>A. Coronary Arteriosclerosis 15 yrs
+<lb/>B. Arteriosclerosis generalized
+<lb/>C. with Cardio Vascular renal diease 10 yrs
+<lb/>Medical Attendance or other Attendant Jackson W Theo M.D.
+<lb/>Undertaker Henry W Beecher
+<lb/>Place of Burial Woodlawn Cemetery Hamilton NY
+<lb/>I hereby solemnly attest that this true transcript from the Register of Deaths kept
+<lb/>in the Town of Madison
+<lb/>County of Madison State of New York
+<lb/>Dated at Madison the 20 day of Sept, 1968
+<lb/>( Signed ) Margaret J. Bucknill
+<lb/>( Official ) REGISTRAR OF VITAL STATISTICS
+<pb n="14" facs="#page-013"/>
+<lb/>HENRY W. BEECHER
+<lb/>25 Broad Street
+<lb/>HAMILTON, NEW YORK
+<lb/>Mrs. Pearl Mosher, Est
+<lb/>Hamilton
+<lb/>N.Y.
+<lb/>DATE: Sept. 17, 1968
+<lb/>Re: Fiuneral Expenses of
+<lb/>Pearl Mosher
+<lb/>Casket and Services $750.00
+<lb/>Vault &amp; Cemetery Equipment 150.00
+<lb/>Cash Disbursements $935.00
+<lb/>Opening Grave $70.00
+<lb/>Rev. Vernon Ross 15.00
+<lb/>1 Transinpl? 2.00
+<lb/>marking Stone 14.00 101.00
+<lb/>$1036.00
+<lb/>Credit Check 1‒3‒60 $400.00 400
+<lb/>636.00
+<lb/> ” ” 2‒3‒69 $236.00 236.00
+<lb/>400.00
+<pb n="15" facs="#page-014"/>
+<lb/>STATE OF NEW YORK,
+<lb/>Madison County Surrogate’s Office
+<lb/>I, FREDERIC N. RANN, Clerk of the Surrogate’s Court of said County,
+<lb/>Do Hereby Certify, That on the 9<hi rend="sup underline">TH</hi> day of JAN in the
+<lb/>year one thousand nine hundred SIXTY‐NINE Letters Testamentary of the Last
+<lb/>Will and Testament of PEARL M. MOSHER
+<lb/>late of the TOWN of HAMILTON  in said county, deceased, were duly
+<lb/>granted and issued by the Surrogate’s Court of said County of Madison, to
+<lb/>FRED C. MOSHER &amp; JERIL BENEDICT
+<lb/>and that the same are unrevoked of record and are in full force.
+<lb/>In Testimony Whereof, I have hereunto set my hand and affixed the seal of the
+<lb/>Surrogate’s Court of said County, at the Village of Wampsville, this 9<hi rend="sup underline">TH</hi> day
+<lb/>of JAN A. D., 1969.
+<lb/>Frederic N. Rann
+<lb/>Clerk of the Surrogate's Court.
+</ab>
+    </body>
+  </text>
+</TEI>

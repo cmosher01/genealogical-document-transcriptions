@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>lopez vitals fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lopez/lopez_vitals_fixed/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lopez/lopez_vitals_fixed/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lopez/lopez_vitals_fixed/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lopez/lopez_vitals_fixed/p-003.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>.CITY OT NEW YORK
+<lb/>DEPARTMENT OF HEALTH
+<lb/>JRt-MJ fY R[C. Rl i', /.KjQ RTaTIjTICS
+<lb/>BoTi □ h of ERJOKLYN Yorl EJ DEC 121966
+<lb/>ohotosf o' ic ' . .
+<lb/>and Stotiitici o' t.... Di t artrnnnt o( Hn.jlth of thn
+<lb/>py n' a ci r,t,- „n 1 . .. p,,. R.,,
+<lb/>of Nrw Y .-i
+<lb/>I PLACE OF DEATH STATE OF NEW YORK
+<lb/>,  Department of Health of The Qty of New York
+<lb/>OROUSH OF BUREAU OF RECORDS
+<lb/>_  , . , STANDARD CERTIFICATE OF DEATH
+<lb/>_st.
+<lb/>Character of premlseSf
+<lb/>trbetbcr teaeineDt. priTtte.hoteh^hospital or other i^ace. etc^^i^
+<lb/>'FULL NAME-a^jC
+<lb/>Registered 24398
+<lb/>8 OCCUPATION ^ .
+<lb/>B  (a) Trade, profession. Of ^ y
+<lb/>iH » pa^cular kind of work. t/gtrVr&lt;C.
+<lb/>(b) General nature of IndusUy,
+<lb/>business or sstabl'tshment in
+<lb/>&gt; ^U.cict&lt;j tf
+<lb/>13 BIRTHPLACE
+<lb/>OP MOTHER
+<lb/>(istate or country)
+<lb/>that I last 8aioA^jm.^liveonthe^Ji/S^.^ay of
+<lb/>.  that death occurred on
+<lb/>the date stated above at..^..j^.^J\£i, and that
+<lb/>the cause of death was as follows : - ' «« ^
+<lb/>-JLo-JUtjeitsn^A
+<lb/>Fonuer or 1
+<lb/>usual residence/
+<lb/>17 PLACE OF BURIAL
+<lb/>Hnrntinn / y rs. 11108, OS.
+<lb/>Witness my hand this—/^day ot^g.C^—191^
+<lb/>Signaturcj^^nlOgo /3jLJka^6t.CkM.%Af!!tM. D.
+<lb/>' Address
+<lb/>^  DATE OF BURIAL
+<lb/>IS^g^TAKER
+<lb/>j. I :
+<lb/>ThU is to certify that the foregoinq is o true copy of o record in my curfody.
+<lb/>Loiii^ Wiener
+<lb/>Acting Director Borough Registrar
+<lb/>WAK5IIfO: DO »0T ACCEPT THIS TRAJISCRIPT UFfLESS THE RAISED
+<lb/>SEAL OF THE ECPAHTKHTfT OF HEALTH IS AFFIXED THEREON. THE REPRO-
+<lb/>I  rXJCTION OR ALTERATIOa OF THIS TRANSCRIPT IS PROHIBITED BY SECTION
+<lb/>; 3.21 OF THE IfEW YORK CITY HEALTH CODE.
+<lb/>'■ NOTICE: In Isaulna this transcript of the Record, the Depart-
+<lb/>aant of Haalth of tha City of New York does not certify to the
+<lb/>truth of tha stataaents aada theraon, as no Inquiry as to tha facts
+<lb/>baa bean prorldad by law.
+<pb n="2" facs="#page-001"/>
+<lb/>t PviCfN I Oh HEALTH
+<lb/>URtAU Tif RtCC'RH'; AND statistics
+<lb/>bureau of RECoRns AFJD statistics
+<lb/>BorouqB o( E R l'O X L Y N New Yor\ N J£C 121966
+<lb/>Below O o photos.□■ .c s, ,py of o crrtlRco... oo Bur,.p., of ■ '.c, -d,
+<lb/>ond Slotlslici 0. Di-raftrmTit of Hi-oilh of the -ity of N,.w Y,,-i
+<lb/>1 PLACE OF DEATH „ . STATE OF NEVYOWt
+<lb/>,"2 ^ ' Dqsartment of Health of The Qty of New York 'JOHOF. / BUREAU OF RECCffiOS -
+<lb/>^  ' STANDARD CERTaiCATK eat DEATH w " i
+<lb/>St.- • '
+<lb/>ISH "F-
+<lb/>Cteneter ot praolKi^
+<lb/>wlHibcr teoement. printti
+<lb/>. faDtci..ho«pK«) or oUier pltee, Me.^
+<lb/>•FULL
+<lb/>H LESS than
+<lb/>y  • t &lt;ityM~J&gt;ra&gt;
+<lb/>• OCCUPATION
+<lb/>«V„mL&lt;2ta
+<lb/>(b) Genaral natura of Indntiy*
+<lb/>buHnes or ostabfishmeflt in c
+<lb/>'&gt;i- whicli empioyed (or employer):;*^
+<lb/>^ OBIflTHPLACE ^
+<lb/>S /'^-sftStateorcouatiy} '
+<lb/>f RaoMefed No^
+<lb/>}  Iher^y certify that the foregoing^kirHi^ : ^
+<lb/>ulars (JVb«; 1 to 14 ineluaive) are correct as near-y-.
+<lb/>as the same can .be ascertained, and I farther
+<lb/>certify that I-.attended ̂ he deeeaaed /rom.
+<lb/>19l7LU-JlCC^I£Z—19t:t, &gt;
+<lb/>■that 1 last saw6ten aliveon the...lt^.~^day of
+<lb/>l  # XBli^ ihat death oeearredtmm: -
+<lb/>the date stated, above at.j3:A,^^si and
+<lb/>the eaueeof d^ath .was as follows t ^ -
+<lb/>0 \HQwloaff:retil
+<lb/>e) deotioOUy
+<lb/>Go&amp;tnbntoiy.
+<lb/>(SecoodnrT). :&gt;
+<lb/>UfilRTHPLACE
+<lb/>? CPFATHER
+<lb/>(S^teorceontry)
+<lb/>.  / ywi - mrta. &gt;1^
+<lb/>w Witness toy hand this day ot™lcje*—191)1
+<lb/>Signalurei^ggfl M. D.
+<lb/>wVddrcfw
+<lb/>&gt;8 birthplace:
+<lb/>: OF MOTHER
+<lb/>' . (SUteorcouotn)
+<lb/>..'-14 Special INFORMATION requind to deatba io ttoaplUtoud luttta
+<lb/>tlouoodio'deatteolDon&gt;fe*ldeniiukditcenirBaldOBU. . ^
+<lb/>lunial Toeid^nce
+<lb/>cer+Ify fhaf the foregoing Is o true copy of o record in my curtody.
+<lb/>^  borough RegistrarLouid WienerActing Director
+<lb/>WiilSIEQ: DO BOT ACCEPT THIS TRAESCBIPT OffLESS THE RAISED
+<lb/>SEAL or THE EEPABTKENT OE HEALTH IS AmXED THKHEOH. THE REPRO-
+<lb/>I  EUCTION OR ALTERATIDE Of THIS TRANSCRIPT IS PROHIBITED BY SECTION
+<lb/>, , 3.21 or THE NEW TORE CITY HEALTH CODK.
+<lb/>'  NOTICE; In Issulna this trnnscript of the Record, the Depert-
+<lb/>a«nt of Henlth of the City of New York does not certify to the
+<lb/>truth OJT tNn
+<lb/>Bor ough of ERl-CXLYN Ncvw Yor^ N V. DEC-61965
+<lb/>B,.low IS o photoltc.'.c uupy of u cfrtlRcot.. on IT.- ,n Ih,. Burn,;,, pt rnc, -dl
+<lb/>and Stctijticj o* tn.&gt; Dfrartmont of H'-oith of tho ^ity of Ni w Y.tr!!
+<lb/>[
+<lb/>KUaEAU ot
+<lb/>^ SOPOo^ Of V ''OOKItW
+<lb/>3&lt;0 OCT IS Wl 8 5 25 ^
+<lb/>l; NAUE OF ngrpAsgn
+<lb/>' fflrrtiflfate rf SraicST Ceriificafe
+<lb/>that I last saw h fai.-alive I S .. . 19.t^F
+<lb/>and that die facts stated in Henis 16.420 are 4»rrect; . /
+<lb/>Statement of canse of death is based on (autopsjr) (operatiaiO
+<lb/>(laboiatoiy.test) (dinkal findtQg9)&lt;CfM* «m imiu siMi d» afMpii
+<lb/>I Dais OP
+<lb/>Principal canse of death: I / . . .OitSKr '
+<lb/>to IF DECEAS^
+<lb/>WAS VETERAN.
+<lb/>NAME WAR -
+<lb/>Contnbutmy can
+<lb/>and othericoodrti
+<lb/>U BIRTHPLACE
+<lb/>OP MOTHER '-j:; wHaW)
+<lb/>(A&gt;nditton f&lt;N ..
+<lb/>which performedT ■■ i ,
+<lb/>CITY OF. NEW YBUREAU OF RECO
+<lb/>Tfiis it to certify that the foregoing Is o true copy of a record in my curtody.
+<lb/>Louid Wiener
+<lb/>Acting Director
+<lb/>BY
+<lb/>borough Registrar
+<lb/>WARNINO: DO NOT ACCEPT THIS TRANSCHIPT UNLESS THE RAISED
+<lb/>SEAL OP THE CCPARTKENT OP HEALTH IS APPnCZD THEREON. THE REPRO-
+<lb/>I  DUCTION OR alteration Of THIS TRANSCRIPT IS PROHIBITED BY SECTION
+<lb/>.  3.21 OP THE NEW YORK CITY HEALTH CODE.
+<lb/>NOTICE; In Issuing this transcript of the Record, the Depart.
+<lb/>■«nt of Health of the City of New York doss not certify to the
+<lb/>truth of tt^ statofflants sasd® theraon, as no Inqiilrv as to the
+<pb n="3" facs="#page-002"/>
+<lb/>Chris Mosher
+<lb/>1211 Brook Drive
+<lb/>Wilmington, DE 19803
+<lb/>lir/
+<lb/>Biis^au QJC Vi ta]^;tatl:
+<lb/>Jii^i^apa, E^^ador
+<lb/>J
+<lb/>tn /iT/.. . n
+<lb/>illtnois S6o
+<lb/>w
+<lb/>S' ^ ̂
+<lb/>■  V
+<lb/>Texas i8go
+<lb/>I
+<lb/>ifi !
+<lb/>■ x ■—
+<lb/>J
+<pb n="4" facs="#page-003"/>
+<lb/>Ciaris Mosner
+<lb/>1211 Brook Drive
+<lb/>Wilmington, D£ 19803
+<lb/>June 22, 1S6l
+<lb/>Bureau of Vital Statistics
+<lb/>Jipijapa, Ecuador
+<lb/>Dear Sirs;
+<lb/>Would you kindly send me one full copy of the Birth
+<lb/>Certificate of the following person:
+<lb/>Delia Lopez
+<lb/>sex: Female race: White
+<lb/>born: August 26, 1877 Jipijapa, Ecuador
+<lb/>father; Felicisimo Lopez
+<lb/>mother: Prancisca Eomero
+<lb/>This person is my great-grandmother. I will be using this
+<lb/>certificate for genealogical purposes.
+<lb/>If you carmot obtain her birth certificate, please
+<lb/>send me any information on how I may obtain it.
+<lb/>Thank you for your trouble.
+<lb/>Very truly yours.
+<lb/>Chris Mosher
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>rapp erik wedding 2009</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_erik_wedding_2009/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_erik_wedding_2009/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_erik_wedding_2009/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/inlaws/rapp/rapp_erik_wedding_2009/p-003.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Irina: I, Irina commit myself in marriage to you Eric; from this dayforward, for better, for worse; for richer, for poorer; in sickness and inhealth; to love and to cherish until death parts us, according to God'sholy ordinance; and thereto I pledge myself truly with all my heart.EXCHANGE OF RINGS:Pastor: Irina and Eric, what will you share to symbolize your love?PRAYERPastor: By these rings of covenant promise, gracious God, remindIrina &amp; Eric of your encircling and unending faithfulness that in alltheir life together they may know joy and peace in one anotherGroom: Irina, I give you this ring as a sign of my love and faithfulness.Bride: I receive this ring as a sign of our love and faithfulness.Bride: Eric, I give you this ring as a sign of my love and faithfulness.Groom: I receive this ring as a sign of our love and faithfulness.ANNOUNCEMENT OF MARRIAGE:Pastor: Irina &amp;. Eric, you are wife and husband with the blessing ofChrist's church. Be merciful in all your ways, kind in heart, andhumble in mind. Accept life, and be most patient andtolerant with one another. Forgive as freely as God has forgiven you.And, above everything else, be truly loving. Let the peace of Christrule in your hearts. Remembering that as members of one body youare called to live in harmony, and never forget to be thankful for whatGod has done for you.BENEDICTIONTHE MARRIAGEofIRINA OSTROVNAYAandERIC RAPPSaturday, November 6, 2009
+<pb n="2" facs="#page-001"/>
+<lb/>WELCOME
+<lb/>Pastor: Dear friends, w
+<lb/>e
+<lb/> have come together in the presence of G
+<lb/>o
+<lb/>d
+<lb/>for the marriage of Irina and Eric, to share their joy and to promise
+<lb/>them our love and support.
+<lb/>Marriage is a gift of God, sealed hy a sacred covenant. G
+<lb/>o
+<lb/>d
+<lb/> gives
+<lb/>human
+<lb/> love. T
+<lb/>hrough
+<lb/> that love, husband a
+<lb/>n
+<lb/>d
+<lb/> wife c
+<lb/>o
+<lb/>m
+<lb/>e
+<lb/>to know each other with mutual care and companionship.
+<lb/>As Irina and Eric give themselves to each other today, we remember
+<lb/>that at Cana in Galilee Jesus made the wedding feast as a sign of God's
+<lb/>reign of love. And so let us come to G
+<lb/>o
+<lb/>d
+<lb/> with joyful thanksgiving.
+<lb/>SOLEMN CHARGES
+<lb/>Pastor: (T
+<lb/>o
+<lb/> the Congregation)
+<lb/>It is into holy matrimony that these two persons have come to be
+<lb/>joined. If anyone can show just cause why they may not lawfully he
+<lb/>joined together, let that person n
+<lb/>o
+<lb/>w
+<lb/> declare it, or else hereafter forever
+<lb/>keep silent.
+<lb/>Pastor: (T
+<lb/>o
+<lb/> those to be married)
+<lb/>I charge you, each and both, as you shall answer to the O
+<lb/>n
+<lb/>e
+<lb/> before
+<lb/>whom
+<lb/> the secrets of all hearts are open, that if either of you knows of
+<lb/>any reason w
+<lb/>h
+<lb/>y
+<lb/> you m
+<lb/>a
+<lb/>y
+<lb/> not lawfully be married, declare it now. For
+<lb/>be assured that if any persons are joined together contrary to the
+<lb/>Word
+<lb/> of G
+<lb/>o
+<lb/>d
+<lb/>,
+<lb/> their marriage is not blessed of G
+<lb/>o
+<lb/>d
+<lb/>,
+<lb/> nor is it lawful in
+<lb/>God's eyes.
+<lb/>PRAYER
+<lb/>All: Almighty and eternal God, giver of all good gifts, look with favor,
+<lb/>we pray, on these your servants w
+<lb/>h
+<lb/>o
+<lb/> lift up their hearts to you. Enable
+<lb/>them to make their vows to one another in all sincerity, as in your
+<lb/>sight, and to be faithful hereafter in keeping them, to the glory of your
+<lb/>holy n
+<lb/>ame. Amen.A
+<lb/> time of silence follows
+<lb/>READING
+<lb/> - R
+<lb/>omans
+<lb/> 12: 1-2, 9-18
+<lb/>MEDITATIONDECLARATION OE INTENTION
+<lb/>Pastor: Before G
+<lb/>o
+<lb/>d
+<lb/> and this congregation, 1 ask you to affirm your
+<lb/>willingness to enter this covenant of marriage and to share all the joys
+<lb/>and sorrows of this new relationship, whatever the future may hold.
+<lb/>T
+<lb/>o
+<lb/> Groom: Eric, will you have Irina to be your wife and will you love,
+<lb/>comfort, honor, and protect her faithfully as long you both shall live?
+<lb/>Groom: 1
+<lb/> will.
+<lb/>T
+<lb/>o
+<lb/> Bride: Irina, will you have Eric to be your husband and will you
+<lb/>love, comfort, honor, and protect him faithfully as long you both shall
+<lb/>live?
+<lb/>Bride: I
+<lb/> will.
+<lb/>PLEDGE OE SUPPORT:
+<lb/>Pastor: Will the families and friends of Irina &amp;
+<lb/>.
+<lb/> Eric please answer in ,
+<lb/>support of this couple.
+<lb/>D
+<lb/>o
+<lb/> you offer your blessing and loving support to this marriage? If so,
+<lb/>please say, "
+<lb/>W
+<lb/>e
+<lb/> do."
+<lb/>AU:Wedo.VOWS:
+<lb/>Pastor: Irina &amp;. Eric, join hands and in faith make your promises to
+<lb/>each
+<lb/> other.
+<lb/>Eric: I, Eric commit myself in marriage to you Irina; from this day
+<lb/>forward, for better, for worse; for richer, for poorer; in sickness and in
+<lb/>health; to love and to cherish until death parts us, according to God's
+<lb/>holy ordinance; and thereto I pledge myself truly with all m
+<lb/>y
+<lb/> heart.
+<pb n="3" facs="#page-002"/>
+<lb/>CAt'^ Mos&lt;k^r
+<lb/>Toc^^ 7
+<pb n="4" facs="#page-003"/>
+[A transcription of this page is not available.]
+</ab>
+    </body>
+  </text>
+</TEI>

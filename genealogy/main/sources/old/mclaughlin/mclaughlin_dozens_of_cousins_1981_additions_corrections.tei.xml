@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin dozens of cousins 1981 additions corrections</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1981_additions_corrections/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1981_additions_corrections/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>AnDITTONS Sr. nOHHEGTIONS TO "DOZENS OF COUSINS"
+<lb/>BIRTHS
+<lb/>William to rTuy&amp;Bernsdette Hill 1977
+<lb/>Julie to Michael &amp; Nancy McLaughlin 1977
+<lb/>Molly to John &amp; Mary Aranda 1978
+<lb/>Dennis to Steven &amp; Patricia Kessler 1978
+<lb/>Michael to John &amp; Mary Kay Brennon 1978
+<lb/>Amber to Michael &amp; Debbie Frost 1977
+<lb/>James to James Edward &amp; Jean Horigan 1979
+<lb/>Matthew to Thomas &amp; fiose Ann McLaughlin 1978
+<lb/>Matthew to John &amp; Jane Morovich 1978
+<lb/>Jason to Michael &amp; Nancy McLaughlin 1979
+<lb/>Donald to Michael &amp; Francine Ward 1979
+<lb/>Ann Elizabeth to James Ewd. &amp; Jean Horigan 1977
+<lb/>Alyson to Stehpen &amp; Jamye Becker 1977
+<lb/>Erich toStephen and Jamye Becker 1975
+<lb/>Gretchen to Thomas &amp; Jayne Becker 1977
+<lb/>Ste;t&gt;hanie to Thomas A Jayne Becker 1975
+<lb/>'Amy Beth to Ctaig &amp; sharlll Davenport 1976
+<lb/>Vanissa to Terry &amp; Edwardo Abadia 1977
+<lb/>Cory to James A Flo Bixby 1977
+<lb/>Chelsea To Michael A Francine Ward 1976
+<lb/>Patrick To Guy A Bernadette Hill 1979
+<lb/>Luke to Thomas A Rose Ann McLaughlin 1980
+<lb/>Amanda to Sue A Kevin Rook 1980
+<lb/>Rebeca to Craig A Sharill Davenport 1979
+<lb/>Jeremy to Richard AWendy McLaughlin 1980
+<lb/>Christopher to Mark A Sue Hendrick 1980
+<lb/>Brandv to Julia A Michael Dykes Sr. 1979
+<lb/>Megan to Thimas A Mable Brower 1980
+<lb/>Scott to Thomas A Mable Brower
+<lb/>Corey to James A Flbrella Bixby 1977
+<lb/>Brett to James A Florella Bixby 1979
+<lb/>Heidi Jude to Maynard A Marylin McLaughlin
+<lb/>Kenneth to Michael A Nancy McLaughlin 1980
+<lb/>Kerry to John A barbara McLaughlin 1980
+<lb/>Mark to John A Jane Morovich 1981
+<lb/>Michael to Anthony A Ruth Lynch 1981
+<lb/>Adam to Thomas A RoseAnn McLaughlin 1981
+<lb/>Donna to Michael A Deborah Frost 1980
+<lb/>Katie-to Jack A Rosalind Frost 1981
+<lb/>Sabrena to Steven A Patricia Kessler 1981
+<pb n="2" facs="#page-001"/>
+<lb/>Marriages
+<lb/>Mark Hendrick to Sue 1976
+<lb/>Deborah McLaughlin to Edward Scheldon J978
+<lb/>Collen Mclaughlin to A^'^ihie Hanar 1977
+<lb/>Barbara McLaughlin to Tim Jennings 1977
+<lb/>Susan Bulkley to Kevin Rook 1978
+<lb/>Hussel Brion to Katherine Kozlick 1977
+<lb/>Charles McGannon to McCarty 1978
+<lb/>Rick Bulkley to Carol Swan 1978
+<lb/>Patrick Frost to Marylin Cervoni 1978
+<lb/>Mary Ellen Becker to Donald Faulkner 1978
+<lb/>Richard McLaughlin to Wendy Allyn 1979
+<lb/>Christine Harrison to Thomas Andreassi 1980
+<lb/>Julia Bixby to Michael Dykes Sr. 1979
+<lb/>Rose Tennant to David Bixby 1980
+<lb/>Phyllis Saxbnry to Pobert Bixby 1979
+<lb/>Jim Bixby i;o Florella Haynes 1967
+<lb/>Deaths
+<lb/>Florence Frost 1977
+<lb/>Gerald Harrison 1977
+<lb/>Ann &amp; Michael Murray 1978
+<lb/>Bill McLaughlin 1979
+<lb/>Clair McCarty 1981
+<lb/>Corrections
+<lb/>Thomas to Bernard&amp; Pat Mclaughlin should be Patrick
+<lb/>A daughter Bernadette to Bernard &amp; pat McLaughlin 1969
+<lb/>Joyce McLaughlin Married Robert Anderson I967
+<lb/>A son Mark to Joyce &amp; Robert Ander.son 1969
+<lb/>Edward McLAughlin a son Mickey I967
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison alice mes bijoux 1929</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-035.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-036" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-036.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-037" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-037.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-038" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/harrison_alice_mes_bijoux_1929/p-038.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>o
+<pb n="2" facs="#page-001"/><lb/>aya oni. yjHiou
+<lb/>AUI 01
+<lb/>i-. '
+<lb/>1 . ■ -
+<lb/>w
+<lb/>■;i
+<lb/>7 #
+<pb n="3" facs="#page-002"/>
+<lb/>P-d ? H sfrrr. I J K- Qd v* 11 .
+<lb/>''^e Sea d?ickd»-cl Hovc^, ,
+<lb/>"Rcces o^dtve. S^cke. oJ? ^luulnri.— Oav-1 SaKQl?u.»-^,
+<lb/>P'l^m be HiQkdT — ^av-aJ^ Tecbsdalo—.
+<pb n="4" facs="#page-003"/>
+<lb/>SOMSTHiSS
+<lb/>Across tlie fields of yesterday
+<lb/>He sometimes comes to me,
+<lb/>A little lad just "back from play-
+<lb/>flie lad I used to "be.
+<lb/>And yet lie smiles so wistfully
+<lb/>Once lie Has crept within,
+<lb/>I wonder if he hopes to see
+<lb/>fhe man I might have been.
+<lb/>I Uov^as S. ^one "3 ,
+<lb/>if
+<pb n="5" facs="#page-004"/>
+<lb/>GOB'S WOEID
+<lb/>0 world. I canuot tiold. thee olose
+<lb/>enoughI
+<lb/>Thy v/ind.s thy wide grey skies I
+<lb/>Thy mists that roll and rise I
+<lb/>Thy woods this autumn day,that ache
+<lb/>and say
+<lb/>And all but cry with colorl That
+<lb/>gaunt crag
+<lb/>To crush ! To lift the lean of their
+<lb/>black bluff!
+<lb/>World,world, I cannot hold thee
+<lb/>close enough!
+<lb/>long have I known a glory in it all.
+<lb/>But never knew I this;■ •
+<lb/>Here such a passion is
+<lb/>As stretcheth me apart- Lord I do
+<lb/>fear
+<lb/>Thou'st made the world too beautiful
+<lb/>this year;
+<lb/>My soul is all but out of me,-let
+<lb/>fall
+<lb/>iJo burning leaf; prithee, let no
+<lb/>bird call.
+<lb/>Edna St.Vincent Millay.
+<pb n="6" facs="#page-005"/>
+<lb/>GTHY TH333
+<lb/>The trees along the city street.
+<lb/>Save for the traffic and the trains
+<lb/>Would make a sound as thin and sweet
+<lb/>As trees in country lanes.
+<lb/>And people standing in theer shade
+<lb/>Out of a shower,undoubtedly
+<lb/>Would hear such music as is made
+<lb/>Upon a country tree.
+<lb/>Oh,little leaves that are so dumb
+<lb/>Against the shrieking city air,
+<lb/>I watch you when thw wind has come,-
+<lb/>I " I-^ow what souid is there.
+<lb/>3dna St.Vincent Millay.
+<pb n="7" facs="#page-006"/>
+[A transcription of this page is not available.]
+<pb n="8" facs="#page-007"/>
+<lb/>SOMST
+<lb/>I shall forget You Presently.
+<lb/>I shall forget you presently,my dear.
+<lb/>So make the most of this,your little day.
+<lb/>Your little month,your little half a year,
+<lb/>Ere I forget,or die, or move away.
+<lb/>And we are done forever, by and by
+<lb/>I shall forget you,as I said,but now.
+<lb/>If you entreat me with your lovliest lie
+<lb/>I will protest you with my favorite vow.
+<lb/>I would indeed that love were longer-live^..
+<lb/>And vows were not so brittle as they are.
+<lb/>But so it is ,and nature has contrived
+<lb/>To struggle on without a break thus far,-
+<lb/>Whether or not we find what we are seeking
+<lb/>Is idle,biologically speaking.
+<lb/>Edna St,Vincent Millay,
+<pb n="9" facs="#page-008"/>
+<lb/>■ :-i
+<lb/>PEDIGHSS
+<lb/>The pedigree of honey
+<lb/>Does not concern the bee;
+<lb/>A clover,any time,to him
+<lb/>Is aristocracy.
+<lb/>Emily Dickinson.
+<lb/>DAlfDELIOI
+<lb/>0 little soldier with the golden helmet,
+<lb/>«"/hat are you guarding on my lawn?
+<lb/>You with your green gun
+<lb/>And your yellow beard,
+<lb/>•ifhy do you stand so stiff?
+<lb/>There is only grass to fight I
+<lb/>Hilda Oonkling.
+<pb n="10" facs="#page-009"/>
+<lb/>I KEEP WOllDSRIIIG
+<lb/>I saw a mountain.
+<lb/>And lie was like Wo tan looking at
+<lb/>himself in the water.
+<lb/>I saw a cockatoo,
+<lb/>And he was like sunset clouds.
+<lb/>Even leaves and little stones
+<lb/>Are different to my eyes sometimes.
+<lb/>I keep wondering through and through
+<lb/>my heart
+<lb/>Where all the "beautiful things in
+<lb/>the world
+<lb/>Come from
+<lb/>And while I wonder
+<lb/>They go fim. "be 11%^ "beautiful.
+<lb/>Hilda Oonkling,
+<lb/>"S
+<pb n="11" facs="#page-010"/>
+<lb/>CHAEOlLiSSS
+<lb/>I never saw tlie moor,
+<lb/>I never saw tlie sea;
+<lb/>Yet I know how the heather looks,
+<lb/>And what a wave must he.
+<lb/>I never spoke with God,
+<lb/>llor visited in Heaven;
+<lb/>Yet certain am I of the spot
+<lb/>As if the chart w^re given.
+<lb/>Saily Dickinson.
+<pb n="12" facs="#page-011"/>
+<lb/>BG YOU P3.^' THS, WHIP, ?
+<lb/>Do you fear tlie force of the v;ina.
+<lb/>The slash of the rain ?
+<lb/>Go face the:a ana fight them.
+<lb/>Be savage again.
+<lb/>Go hungry and cold like the v/olf.
+<lb/>Go wade like the craiii;
+<lb/>The palms of your hands will thicken.
+<lb/>The skill of your cheek will tan.
+<lb/>You'll grow ragged and weary and
+<lb/>swortliy.
+<lb/>But you'll v/alk like a man.
+<lb/>Hamlin Garlin,
+<pb n="13" facs="#page-012"/>
+<lb/>TEi3 SEA GYPSY.
+<lb/>I am. fervered. witli the sunset,
+<lb/>I am fretful with the hay,
+<lb/>Per the wander-lust is on me
+<lb/>And my soul is in Cathay,
+<lb/>There's a soooner in the offing,
+<lb/>With her topsails shot with fire.
+<lb/>And my heart has gone aboard her
+<lb/>i?or the islands of Sesire,
+<lb/>I must forth again tomorrowI
+<lb/>With the sunset I must he
+<lb/>Hull down on the trail of rapture
+<lb/>In the v/onder of the sea.
+<lb/>Richard Hovey.
+<lb/>J
+<pb n="14" facs="#page-013"/>
+<lb/>a?Hs WAi^oEisa
+<lb/>3Ee always learned to watch for us,
+<lb/>Anxious if we were late.
+<lb/>In winter by the window.
+<lb/>In summer by the gate.
+<lb/>And though we mocked her tenderly
+<lb/>//ho had such foolish care,
+<lb/>The long way home would seem more
+<lb/>safe
+<lb/>Her thoughts were all for us.
+<lb/>She never could forgetI
+<lb/>And so I think that where she is
+<lb/>She must be watching yet
+<lb/>Waiting till we come home to her.
+<lb/>Anxious if v/e are late-
+<lb/>Watching from Heaven's window,
+<lb/>leaning fromJEeaven's gate.
+<lb/>Margaret Widdemer,
+<pb n="15" facs="#page-014"/>
+<lb/>THE HEAirf'S GOUHTHY
+<lb/>Hill people turn to tHear Hills;
+<lb/>3ea folk are siok for tHe sea:
+<lb/>fHou are my land. and. my country.
+<lb/>And. my heart calls out for thee.
+<lb/>The "bird, heats his wings for the open
+<lb/>The captive hums to he free;
+<lb/>But I-I cry at thy wind.ow.
+<lb/>For thou art my liberty.
+<lb/>Florence Wilkinson.
+<pb n="16" facs="#page-015"/>
+<lb/>DUSK
+<lb/>Her feet along the lewey Hills
+<lb/>Are lighter tlian blown thistle
+<lb/>down.
+<lb/>She bears the glammour of one star
+<lb/>Upon her violet crown.
+<lb/>With her soft touch of mothering.
+<lb/>How soothing to the sense she seems!
+<lb/>She holds within her,gentle hand
+<lb/>The quiet gift of dreams.
+<lb/>Clinton ScollaBd,
+<pb n="17" facs="#page-016"/>
+<lb/>HSY DST 1
+<lb/>If tlie day were always morning
+<lb/>Or tlae world, were always June,
+<lb/>',i?iiat a hey d.ey lot of sweetness
+<lb/>i7e*dL he missingi
+<lb/>S'or completeness
+<lb/>Kever comes until Octoher,
+<lb/>And. a golden afternoon.
+<lb/>Dixie Wilson.
+<pb n="18" facs="#page-017"/>
+<lb/>Thougli I am "beaten
+<lb/>lTo"bo(iy shall know
+<lb/>I'll wear defeat so proudly
+<lb/>I shall go
+<lb/>Ahout my husinessi
+<lb/>As I did before
+<lb/>Only,when I have safely »j-|
+<lb/>Closed the door
+<lb/>Against you and the rest
+<lb/>Shall I he free
+<lb/>fo hov/ my head
+<lb/>\?hen there is none to see.
+<lb/>Tonight I'll shed my tears
+<lb/>Tomorrow, when
+<lb/>I talk v/ith you
+<lb/>I will he gay again.
+<lb/>Though I am heaten
+<lb/>hohody shall guess
+<lb/>For I will walk
+<lb/>As though I knew success.
+<lb/>By Abigail,
+<pb n="19" facs="#page-018"/>
+<lb/>UHDJiia A TSiaFHOKE POLS
+<lb/>I am a copper wire slung in the air.
+<lb/>Slim against the sun I maie not even
+<lb/>a clear line of shadow,
+<lb/>light and day I keep singing; it is
+<lb/>the fighting and the tears,
+<lb/>the work and the want.
+<lb/>Death and laughter of men and women ' ̂
+<lb/>passing through me,carrier of speech.
+<lb/>In the rain and the wet dripping,in
+<lb/>the dayra and the shine drying,
+<lb/>A copper v/ire.
+<lb/>QABi SAICDBUSa.
+<pb n="20" facs="#page-019"/>
+<lb/>HAPPIH^S
+<lb/>I asked the professors who teaoh the
+<lb/>meaning of life to tell me what
+<lb/>is happiness.
+<lb/>And I went to famous executives who
+<lb/>hoss the work of thousands
+<lb/>of men.
+<lb/>They all shook thier heads and gave me
+<lb/>a smile as though I was trying- to
+<lb/>fool with them.
+<lb/>And then one Sunday afternoon I
+<lb/>wandered out along the Desplaines
+<lb/>river.
+<lb/>And I saw a crowd of Hungarians under
+<lb/>under the trees with their women
+<lb/>and children and a keg of
+<lb/>heer and an accordion.
+<lb/>Carl Sandhurg.
+<pb n="21" facs="#page-020"/>
+<lb/>THHSa PISGiJS OF SMOKE OE AUTUMJ
+<lb/>Smoke of autumii is on it all.
+<lb/>The streams loosen and travel,
+<lb/>file red west is stopped with a
+<lb/>gray haze.
+<lb/>They fill the ash trees,they
+<lb/>wrap the oaks,
+<lb/>They ]^ke.;a long-tailed rider
+<lb/>In the pocket of the first,
+<lb/>the earliest evening star.
+<lb/>Carl Sandhurg,
+<pb n="22" facs="#page-021"/>
+<lb/>SEPTSLIBSR HI GET
+<lb/>We walked in the dew in the drowsy
+<lb/>starlight
+<lb/>To the sleepless sleepy sound
+<lb/>Of insects singing in low sea meadows
+<lb/>For miles and miles around
+<lb/>With a wheel and a whir the resistless
+<lb/>rhythm
+<lb/>Trembled incessantly;
+<lb/>Antares was red in the sky before us,
+<lb/>And behind,the blackness of the sea,
+<lb/>Sara Teasdale.
+<pb n="23" facs="#page-022"/>
+<lb/>TH0S3 MO LOYE
+<lb/>Those who love the most.
+<lb/>Do not talk of their love,
+<lb/>Pranc e s ca,Guineve re
+<lb/>Durde,Isult,Heloise,
+<lb/>In the fragrant gardens of heaven
+<lb/>Are silent,or if they speak at all
+<lb/>Of fragile inconsequient things.
+<lb/>And a woman I used to know
+<lb/>Who loved one man from her youth.
+<lb/>Against the strength of the fate.
+<lb/>Fighting in somher pride,
+<lb/>never spoke of this thing.
+<lb/>But,hearing his name hy chanoe,
+<lb/>A light would pass over her face.
+<lb/>Sara Teasdale,
+<pb n="24" facs="#page-023"/>
+<lb/>TO A, POST OPPICa IKKT/aLL
+<lb/>How many 11131111)16 hearts haTe dipped
+<lb/>In you,and scrawled their manusripti
+<lb/>Have shared their secrets told their
+<lb/>cares,
+<lb/>Their curious and guaint affairsi
+<lb/>You pool of ink, your scratchy pen.
+<lb/>Have moved the lives of unknown men.
+<lb/>And watched young people breathing
+<lb/>hard.
+<lb/>Put heaven on a postal card.
+<lb/>Chris toiiher Morley.
+<pb n="25" facs="#page-024"/>
+<lb/>THE HUMAII TOUGH
+<lb/>Higli thoughts and noUle in all lands
+<lb/>Help me;my soul is fed "by such.
+<lb/>But ah,the touch of lips and hands,-
+<lb/>The human touchI
+<lb/>Warm,vital,close,life*s symbols dear^'
+<lb/>These need I most,and nov/ and here.
+<lb/>Richard Burton.
+<lb/>My Prayer
+<lb/>By Ramona Ross Keller
+<lb/>Lord, let me learn the joy
+<lb/>of simple deeds,
+<lb/>The kind that fit into a
+<lb/>comrade's needs:
+<lb/>A handclasp that will lend en
+<lb/>couragement,
+<lb/>A smile—upon a cheering mis
+<lb/>sion sent.
+<lb/>Let me not be too husy, nor
+<lb/>too blind.
+<lb/>To see when others need me
+<lb/>to be kind.
+<pb n="26" facs="#page-025"/>
+<lb/>IF
+<lb/>If all the land were apple pie.
+<lb/>And all the sea were inlc;
+<lb/>And all the trees were bread and
+<lb/>cheese,
+<lb/>V/hat should we do for a drink?
+<lb/>Anonymous.
+<pb n="27" facs="#page-026"/>
+<lb/>MOTHER
+<lb/>I have praised many loved ones in
+<lb/>my song,
+<lb/>And yet I stand
+<lb/>Before her shrine,to whom all things
+<lb/>"belong,
+<lb/>V/ith empty hand.
+<lb/>^Perhaps the ripening future holds a
+<lb/>time
+<lb/>Por things unsaid;
+<lb/>Hot now,men do not cele"brate in
+<lb/>rhyme
+<lb/>Their daily bread.
+<lb/>Theresa Helburn.
+<pb n="28" facs="#page-027"/>
+<lb/>IIJ-B
+<lb/>Life turns up like fire.
+<lb/>And song goes up like flame,
+<lb/>Tiie radiant tody smoulders
+<lb/>To tke ashes from vviiich it
+<lb/>came •
+<lb/>Out of things it rises
+<lb/>With a mouth that laughs
+<lb/>and sings
+<lb/>Backward it fades and falters
+<lb/>In the char of things
+<lb/>Yet soars a voice ahove it-
+<lb/>love is holy and strong;
+<lb/>The test of us forever
+<lb/>Escapes in love and song.
+<lb/>John Hall Wheelock.
+<pb n="29" facs="#page-028"/>
+<lb/>SQirG
+<lb/>What lovely woman stoops to folly.
+<lb/>And finds too late that men hetray
+<lb/>What charm can soothe her melancholy
+<lb/>What art can wash her guilt away.
+<lb/>The only art her guilt to cover,
+<lb/>To hide her shame from every eye.
+<lb/>To give repentance to her lover.
+<lb/>And wring Ms hosom is - to die.
+<lb/>Oliver Goldsmith,
+<pb n="30" facs="#page-029"/>
+<lb/>3UlffiI3E3
+<lb/>I've never seen tlie great sun rise,
+<lb/>For tlien I am in "bed;
+<lb/>The sands of slumher in my eyes
+<lb/>Hold down my dreary head.
+<lb/>I think the sun olimhs up the sky
+<lb/>And throws the clouds away.
+<lb/>Then girds her flaming tunic high
+<lb/>And strides to meet the sky.
+<lb/>Soft-touched hy "birds' wings is her
+<lb/>head;
+<lb/>- .Her feet caressed by trees;
+<lb/>She turns their leaves to gold and red
+<lb/>And stoops to drink the seas.
+<lb/>Katharine Kosmalt,
+<pb n="31" facs="#page-030"/>
+<lb/>WSAHY OF iTYSSLF
+<lb/>My time will come.lDut oii.liov/ long it
+<lb/>seems to me
+<lb/>Before tlie fruit is ripened, on tlie
+<lb/>full grown tree.
+<lb/>Before tiie time when I may be what I
+<lb/>am going to be.
+<lb/>Louise Laidlaw,
+<pb n="32" facs="#page-031"/>
+<lb/>AH OLD 3T0EY
+<lb/>Strange that I hicL not know him then.
+<lb/>That friend of minel
+<lb/>I did not even show him then
+<lb/>One friendly sign;
+<lb/>But cursed him for the v/ays he had
+<lb/>To make me see
+<lb/>liy envy of the praise he had
+<lb/>For praising me.
+<lb/>I would have rid the earth of him
+<lb/>Once in my pride,
+<lb/>I never kne¥/ the v/orth of him
+<lb/>Until he died.
+<lb/>Sdwin Arlington Eohinson.
+<pb n="33" facs="#page-032"/>
+<lb/>THE HOUSE Oil THE HIIL
+<lb/>They are all gone away.
+<lb/>The House is shut and still.
+<lb/>There is nothing more to say.
+<lb/>Through broken walls and gray
+<lb/>The winds blov/ bleak and shrill:
+<lb/>They are all gone away.
+<lb/>llor is there one today
+<lb/>To speak them good or ill:
+<lb/>There is nothing more to say.
+<lb/>iiVhy is it then we stray
+<lb/>Around the sunken sill?
+<lb/>They are all gone away.
+<lb/>And our poor fancy play
+<lb/>Eor them in wasted skill:
+<lb/>There is nothing more to say,
+<lb/>There is ruin and decay
+<lb/>In the House on the Hill:
+<lb/>They are all gone away.
+<lb/>There is nothing more to say.
+<lb/>Edwin Arlington Robinson.
+<pb n="34" facs="#page-033"/>
+<lb/>A SHSLTiSIi Iir YOUii 3133
+<lb/>I do not know you love me,dear.
+<lb/>By any word or sign;
+<lb/>But tker's a silent comradship
+<lb/>Between your glanoe and mine.
+<lb/>You have not given me one word
+<lb/>To weave my dreams about;
+<lb/>But there's shelter in your eyes
+<lb/>To which my heart cries out.
+<lb/>Eileen Keliher.
+<pb n="35" facs="#page-034"/>
+<lb/>SHAHDS
+<lb/>I can never remake the thing I have
+<lb/>destroyed;
+<lb/>I brushed the golden dust from the
+<lb/>moth's bright wing,
+<lb/>I called down wind to shatter the
+<lb/>cherry blossoms,
+<lb/>I did a terrible thing.
+<lb/>I feared that the cup might fall, so
+<lb/>I flung it from me;
+<lb/>I feared that the bird might fly,
+<lb/>so set it free;
+<lb/>I feared that the dam might break, so
+<lb/>I loosed the river;
+<lb/>May its waters cover me.
+<lb/>jiline 3£ilmer.
+<pb n="36" facs="#page-035"/>
+<lb/>MSIES
+<lb/>Over tlie sEiouMers and slopes of the
+<lb/>dune
+<lb/>I saw the white dasies go down to the
+<lb/>sea,
+<lb/>A host in the sunshine,an army in June,
+<lb/>The people God sends us to set our
+<lb/>hearts free.
+<lb/>The hobolinks rallied them up from the
+<lb/>dell.
+<lb/>The orioles whistled them out of the
+<lb/>wood;
+<lb/>And all of their singing was "Sarth,
+<lb/>it is well!"
+<lb/>And all of their dancing was ,"life,
+<lb/>thou art good! "
+<lb/>Bliss Carman.
+<pb n="37" facs="#page-036"/>
+<lb/>-  ' i'
+<lb/>'I Than\ Thee, Lord!"
+<lb/>By Edgar Daniel Kramer ■
+<lb/>For all the harvest's garnered yield,
+<lb/>That I have wrested from each field
+<lb/>In fragrant fruit and golden grain,
+<lb/>That trembled in the sun and rain,
+<lb/>That hearkened to the pale dew's tread
+<lb/>And, lifting from the earth's dark bed.
+<lb/>Attained fulfillment in our bread,—
+<lb/>1 thank Thee, Lord!
+<lb/>For strength to toil with plow and hoc
+<lb/>From dawning till the dark swung low.
+<lb/>Blessed with the consciousness of health,
+<lb/>That is the ultimate in wealth.
+<lb/>And for the kindliness to share
+<lb/>The anguish and the black despair
+<lb/>My fellowmen are made to bear,—
+<lb/>1 thank Thee, Lord I
+<lb/>For my dear lass and our wee son,
+<lb/>Who greet me, when each day is done.
+<lb/>With kisses in the open door.
+<lb/>As lamplight floods the cottage floor,
+<lb/>Where heaven walks the ways of earth
+<lb/>And, deeming Grief of little worth,
+<lb/>Love fills my heart with joyous mirth,-
+<lb/>1 thank Thee, Lord!
+<pb n="38" facs="#page-037"/>
+<lb/>T^roud Torsos
+<lb/>'By Carl Sandburg
+<lb/>^UST before the high time of autumn
+<lb/>Comes with the crush of its touch,
+<lb/>And the leaves fall, the leaves one by one.
+<lb/>The leaves by a full darkening sky fall.
+<lb/>The trees look proud, the horscchestnut
+<lb/>Stands with a gathered pride, the ivies
+<lb/>Are gathered around the stumps.
+<lb/>The ivies are woven thick with a green coat
+<lb/>Covering the stumps. Yes, the trees
+<lb/>Look proud now; it is the hig time.
+<lb/>Have they not all had summer?
+<lb/>Didn't they all dimmer with faint
+<lb/>Lines of green in the spring,
+<lb/>A thin green mist as if it might
+<lb/>Be air or it might be new green leaves?
+<lb/>So, the first weeks of September are on.
+<lb/>And each tree stands with a murmur,
+<lb/>"I stand here with a count of one more year.
+<lb/>One more number, one more ring in my
+<lb/>torso."
+<lb/>Two weeks, five, six weeks, and the trees
+<lb/>Will be standing—stripped, gaunt.
+<lb/>The leaves gone, the coat of green gone. . . .
+<lb/>And they will be proud, but no longer
+<lb/>With the gathered pride of the days
+<lb/>In the high time.
+<pb n="39" facs="#page-038"/>
+<lb/>LiJ^a
+<lb/>Beiiold. us toiling up a mountain side;
+<lb/>Its summit we may attain;
+<lb/>Tlien through increasing impetus descend.
+<lb/>And "breathless reach the plain.
+<lb/>And so the steeps of life are slowly
+<lb/>IDassed
+<lb/>Until its zenith won,
+<lb/>Adown its slopes we glide-
+<lb/>its years like trees
+<lb/>aiit "by- and life is done.
+<lb/>Bellh Si. Harrison.
+</ab>
+    </body>
+  </text>
+</TEI>

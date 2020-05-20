@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>lopez manifest request form</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lopez/lopez_manifest_request_form/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lopez/lopez_manifest_request_form/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>OfiDER AND BILLING
+<lb/>FOR COPIES OF
+<lb/>PASSENGER ARRIVAL
+<lb/>RECORDS
+<lb/>Please follow instructioos bolow.
+<lb/>Submit a separate set of order forms for each passenger arrival.
+<lb/>Do not remove any of the sheets of this 3-part set. You will be
+<lb/>billed $3.00 for each list reproduced. Do not mail payment with
+<lb/>your order. This form will be returned to you and serves as your
+<lb/>bill when we fill your order.
+<lb/>Date received
+<lb/>Mali the complete
+<lb/>set of this order to ► Passenger Arrival Records (NNCC), Washington, DC 20408
+<lb/>IDENTIFICATION OF ENTRY 7VW
+<lb/>DATE OF ARRIVAL
+<lb/>P r~: ! u n\"y (4- 1 c2
+<lb/>NAME OF IMMIGRANT
+<lb/>OR NAMES OF MEMBERS OF IMMIGRANT FAMILY AGE SEX
+<lb/>PORT OF ENTRY /
+<lb/>ViOrL C/'ty Ff^ljri'kimo LojoeZ S2. M
+<lb/>WHERE NATURALIZED (if knowr^) /
+<lb/>M I I" ■
+<lb/>Lei L. ooex 2.Z F
+<lb/>SHIP nAME (or carrier line) /
+<lb/>I sc c:( o m e r o 47 F
+<lb/>PASSENGER'S COUNTRY OF ORIGIN
+<lb/>V i 11 O r h-'t cinu&amp;l pvn Ziy-,, ix n 2sr M
+<lb/>.  NOTE
+<lb/>The National Archives has customs passenger lists dating back to 1820 with a few as early as 1787. Lists prior to 1820 that are not at
+<lb/>the National Archives may be on file at the port of entry or the State archives in the State where the port is located. The Morton Allan
+<lb/>Directory of European Passenger Steamship Arrivals may be useful in determining the name and arrival date of ships arriving at New
+<lb/>York, 1890—1930, and Philadelphia, Baltimore, and Boston, 1904—1926.
+<lb/>Please fill in as much of the information called for above as possible. We will advise you if the information is inadequate to enable us to
+<lb/>locate the entry you are seeking.
+<lb/>We do not maintain a list of persons who do research for a fee; however, many researchers advertise their services in genealogical
+<lb/>periodicals, usually available in libraries.
+<lb/>YOUR NAME &amp; ADDRESS
+<lb/>wo%03N■DioaQ'PPLX-lo
+<lb/>D n-
+<lb/>rrroUJn-Vrr
+<lb/>&gt; a.
+<lb/>aia
+<lb/>2
+<lb/>«&lt;
+<lb/>NUMBER OF BLANK ORDER
+<lb/>FORMS VOU WOULD W
+<lb/>LIKE SENT TO YOU •
+<lb/>j
+<lb/>NATIONAL ARCHF U
+<lb/>DO NOT WRITE BELOW - SPACE IS FOR REPLY TO YOU
+<lb/>THIS IS
+<lb/>I  I YOUR
+<lb/>BILL
+<lb/>WERE
+<lb/>UNABLE TO
+<lb/>^ COMPLETE
+<lb/>YOUR ORDER
+<lb/>I  I SEE REVERSE
+<lb/>RECORD
+<lb/>ENCLOSED
+<lb/>RECORD
+<lb/>SEARCHED
+<lb/>FOR BUT
+<lb/>NOT FOUND
+<lb/>ARRIVAL. DATE SH P
+<lb/>MICROF LM PUBLICATION make check or money order
+<lb/>payable to NATF (NNCC)
+<lb/>AMOUNT
+<lb/>DUE
+<lb/>%MICROFILM PUBLICATION
+<lb/>DATE SEARCHED
+<lb/>□ A SEARCH WAS NOT MADE FOR THE REASON INDICATED:
+<lb/>1. Our index to New York passenger arrivals covers the periods 1820 — 1846 and 1897 —
+<lb/>1943. We regret that we cannot undertake a page-by-page search of the lists for the
+<lb/>period between 1847 — 1896, inclusive.
+<lb/>2. Masters of vessels departing from U.S. ports were not required to list the names of
+<lb/>passengers. Therefore, we would not have a list for the passenger you have cited.
+<lb/>3. Our holdings of passenger lists do not include any for Pacific coast ports. The San
+<lb/>Francisco passenger lists were destroyed by fires in 1851 and 1940. (Consult the two
+<lb/>works by Louis J. Pasmussen, San Francisco Ship Passenger Lists, 4 vols., 1965; and
+<lb/>Railway Passenger Lists of Overland Trains to San Francisco and the West, 1 vol., 1966.)
+<lb/>4. Overland arrivals Into the U.S. from Canada and Mexico are notdocumented In passenger
+<lb/>list records.
+<lb/>5. Justice Department restrictions prohibit us from making searches In Immigration and
+<lb/>Naturalization records less than 50 years old. We suggest that you direct an inquiry to;
+<lb/>District Director, Immigration and Naturalization Service, New York, NY 10007.
+<lb/>ST FUND BOARD NATF FORM 40 (12-79)
+<pb n="2" facs="#page-001"/>
+<lb/>PASSENGER LISTS IN THE NATIONAL ARCHIVES
+<lb/>lo ^
+<lb/>1. We found several entries for persons of the same name arriving at the same port during the same period. Additional
+<lb/>'  ̂ information, such as age, occupation, etc., will help in resolving this problem.
+<lb/>[  I 2. We found the requested information on the passenger index, but we regret that the corresponding passenger list
+<lb/>is missing. A copy of the index card is enclosed.
+<lb/>I  I 3. We are unable to locate the passenger l ist for the ship listed and have found no entry on the passenger index fot tji
+<lb/>requested party at that port.
+<lb/>4. We examined the passenger list for the requested ship and were unable to find an entry for the requested passenger. .
+<lb/>5. The register of ship arrivals did not show any entry for the ship named.
+<lb/>6. Our only passenger lists for the cited port do not cover the date that you have requested, and we were unat
+<lb/>find an entry on the index to the lists we have. ^ —
+<lb/>7. You may find some help in the book Irish and Scotch-Irish Ancestral Research by Margaret Dickson Falley (1962).
+<lb/>It is a guide to genealogical records and repositories in Ireland and is normally available in larger libraries.
+<lb/>8. Passports are issued to persons leaving the U.S., not arriving but early arrivals are frequently documented in passen
+<lb/>ger lists, which are described in the enclosed leaflet.
+<lb/>9. The National Archives has abstracts of Naturalization proceedings for the New England States (1787 — 1906) and
+<lb/>the District of Columbia (1802 — 1926). For information about citizenship granted elsewhere before September
+<lb/>27, 1906, send inquiries to the clerk of the Federal, State, or other court that issued the naturalization certificate.
+<lb/>The Immigration and Naturalization Service, Washington, DC 20536, can furnish information on naturalizations
+<lb/>that occurred after September 26, 1906.
+<lb/>H 3-1A3.
+<lb/>to ,j-i£ si! oi 'iatiutwi ton if .cq .r: -j rr-oi! (; vtiBqab. aiswr'-'V to- S-
+<lb/>bft?: ' sri; ■iOi 'i'i: ! avgri loo S&gt;iuow"W .s'lOts.'jHT
+<lb/>3 s!® .rf.oq .'jECziOJltas" Toi aboijOi ion ob wgooEssq to 8gnifcici-.--.u0. t
+<lb/>C.A-J 5* rt cnoO)-J3-?'S0b;.e ;• SmP VA tevutHea b1?-/v i.9r&gt;.-io?»6C OoiiOiTSlT
+<lb/>bos .affit:
+<lb/>! 3S?r , !ov r .txaWofh fane nrsiswriE ;" --if-C y yoic'iT brtsifcr-'O-tu-ewi.i ■.agnaMs'} ' avyfisH
+<lb/>r-
+<lb/>■ bc.tfia'- -.-:-jOjBP j-.E p -.x. ia ij-ot; six^nfcO iniiit .2,U br't otn; •l ie hnatTftyi' t-
+<lb/>-jhm'.ist »il
+<lb/>boa oeTji- leliT.mi' ni f-soarea; g/ir-iafii :rr;oi! -jb tidiriv'fc En-;:;:,;. :-9 - jnanoK- -3 iuttfuL .?
+<lb/>; jpr.i nt, ioSciir. pov j«rt».lKia5Xi2 aW .bto-E .asv Q? Rs'lt rasi afcnooft' noiTErx'. iutoVl
+<lb/>.. .J
+<lb/>■^Q
+<lb/>! . ■
+<lb/>i
+<lb/>r  n D t
+<lb/>w
+<lb/>f/
+</ab>
+    </body>
+  </text>
+</TEI>

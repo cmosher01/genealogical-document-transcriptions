@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher richards driver killed pedestrian witness</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_richards_1997/mosher_richards_driver_killed_pedestrian_witness/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_richards_1997/mosher_richards_driver_killed_pedestrian_witness/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>trociuiii tmay tmss.- -xw.WMqyrT-v-w^x'^b-nci^ cmtr i
+<lb/>MORNING STROLL ENDS IN TRAGEDY
+<lb/>SCHOOL
+<lb/>K HG
+<lb/>I
+<lb/>Tracy Deer/Connecticut Post
+<lb/>Under investigation: Police search for evidence around the tarp-shrouded body of a pedestrian, killed by a car in front of Owen Fish Park on
+<lb/>Stratfield Road in Falrfleld Tuesday morning.
+<lb/>Driver held in bizarre death
+<lb/>Pedestrian, 85, killed in hit-run
+<lb/>Car towed:
+<lb/>Falrfleld police
+<lb/>talk with a
+<lb/>Kyle's
+<lb/>Automotive
+<lb/>worker who
+<lb/>towed the
+<lb/>vehicle
+<lb/>allegedly
+<lb/>Involved In the
+<lb/>death of an
+<lb/>85-year-old
+<lb/>pedestrian.
+<lb/>By ANDREW BROPHY
+<lb/>abrophy@ctpost.cbm
+<lb/>FAIRFIELD — An 85-year-
+<lb/>old man was struck and in
+<lb/>stantly killed on Stratfield
+<lb/>Road Tuesday morning by a
+<lb/>driver who fled the scene, drove
+<lb/>back past the body and was ar
+<lb/>rested after colliding with an
+<lb/>other car a short distance away,
+<lb/>police said.
+<lb/>The victim was identified by
+<lb/>police as James Eberhardt,
+<lb/>whose Bennett Street home was
+<lb/>near where he died, across
+<lb/>from Owen Fish Park.
+<lb/>Liza Lamb, 41, of Beacon-
+<lb/>view Drive, Fairfield, was
+<lb/>charged with felony evading re
+<lb/>sponsibility and failure to drive
+<lb/>right.
+<lb/>&gt; Please see DRIVER on A13
+<lb/>Gulf War veterans' suit
+<lb/>STAFF AND WIRE REPORTS
+<lb/>NEW YORK — Blaming cor
+<lb/>porations fpr fueling former
+<lb/>Iraqi leader Saddam Hussein's
+<lb/>more than 100,000 soldiers. ; ,i
+<lb/>Lawyers annoimced thfe
+<lb/>class action,lawsuit in front of
+<lb/>federal court in Brooklyn, say
+<lb/>ing they hoped to force chemi-
+<lb/>Many happy
+<lb/>returns:
+<lb/>Lindsay
+<lb/>Daven^i^t
+<lb/>retUfhsaifelll;
+<lb/>hit byJeleria
+<lb/>Dokicinthe
+<lb/>: ̂  Riot Pen;
+<lb/>Tennis
+<lb/>tournament
+<lb/>Tuesday.
+<lb/>AHrlitinnfll
+<lb/>Davenj
+<lb/>By OMR
+<lb/>vV ccasaVa
+<lb/>V NEW-HAVEN
+<lb/>Davenport beat J
+<lb/>minutes Tuesday
+<lb/>vance to the thi
+<lb/>the Pilot Pen Tei
+<lb/>ment. Davenport
+<pb n="2" facs="#page-001"/>
+<lb/>FROM PAGE A1
+<lb/>Driver caught at scene of 2nd crash
+<lb/>Continued from A1 "Pm „I m sad about it
+<lb/>Police said the accident re
+<lb/>mains under Investigation, and
+<lb/>more charges against Lamb are
+<lb/>likely.
+<lb/>Lamb's bond was set at
+<lb/>$100,000, and she was admitted
+<lb/>to St. Vincent's Medical Center
+<lb/>In Bridgeport after complain
+<lb/>ing of injuries, police said.
+<lb/>Asked whether intoxication
+<lb/>may have been a factor in the
+<lb/>accident, police Lt. Gary Mac-
+<lb/>Namara said only. "What fac
+<lb/>tors played a role in the
+<lb/>accident are under investiga
+<lb/>tion."
+<lb/>Eberhardt was walking on
+<lb/>thb side of Stratfield Road,
+<lb/>against traffic, when Lamb
+<lb/>struck him head-on, police
+<lb/>siid.
+<lb/>There are no sidewalks
+<lb/>along that stretch of Stratfield
+<lb/>Road, and Eberhardt was walk
+<lb/>ing between the edge of the
+<lb/>road and a white line, about 2
+<lb/>feet away that runs its length.
+<lb/>Police did not fault Eberhardt
+<lb/>for walking there.
+<lb/>," Rosemary
+<lb/>PetroceUi, one of Eberhardt's
+<lb/>neighbors, said Tuesday after
+<lb/>noon. "He seemed like a very
+<lb/>nice man."
+<lb/>Eberhardt walked to the Strat
+<lb/>field IGA Supermarket and to
+<lb/>Owen Fish Park every day ftum
+<lb/>his home, where he lived with
+<lb/>relatives, PetroceUi said.
+<lb/>"If 1 was working outside, he
+<lb/>would come over and talk and
+<lb/>joke. He liked to walk," Petro
+<lb/>ceUi said. "Sometimes I would
+<lb/>see him m the supermarket,
+<lb/>and I asked him if he wanted a
+<lb/>ride, and he said, no, he wanted
+<lb/>to walk."
+<lb/>George Wensky, another
+<lb/>neighbor, said Eberhardt used
+<lb/>to offer him rides after Wensky
+<lb/>lost the abUity to drive about
+<lb/>eight years ago. "1 gave him my
+<lb/>CadUlac car. He used to take me
+<lb/>everywhere," Wensky said. "He
+<lb/>was kind of a loner, but he was
+<lb/>a very nice man."
+<lb/>Eberhardt lived in the neigh
+<lb/>borhood for at least several
+<lb/>decades, Wensky said.
+<lb/>Lamb was driving a 1991-
+<lb/>"It's scary when you
+<lb/>think about it. This poor
+<lb/>guy got up to take a walk
+<lb/>this morning, and now
+<lb/>he's dead. It's pretty
+<lb/>scary, how quick it
+<lb/>happens."
+<lb/>— Bob Sorrentino,
+<lb/>Bridgeport resident
+<lb/>Pontiac north on Stratfield
+<lb/>Road about 8:50 a.m. when she
+<lb/>aUegedly struck Eberhardt,
+<lb/>who was walking south, near
+<lb/>LUalyn Drive. Eberhardt was
+<lb/>thrown over Lamb's car after
+<lb/>striking the hood and wind
+<lb/>shield, police said.
+<lb/>Lamb faUed to stop after
+<lb/>striking Eberhardt, police said.
+<lb/>EventuaUy, Lamb turned
+<lb/>around and drove south on
+<lb/>Stratfield Road, passing Eber
+<lb/>hardt, who was lying on the
+<lb/>grassy shoulder. She did not
+<lb/>stop, but continued to Stratfield
+<lb/>Center, where she got into a
+<lb/>second accident on Fairfield
+<lb/>Woods Road, police said.
+<lb/>No one else was injured in
+<lb/>the second accident in which
+<lb/>Lamb reportedly struck anoth
+<lb/>er car.
+<lb/>Police officers responding to
+<lb/>the scene found Lamb at the
+<lb/>scene of the second accident,
+<lb/>complaining of injuries. Lamb
+<lb/>\yas listed in satisfactory condi
+<lb/>tion Tuesday evening in St.
+<lb/>Vincent's.
+<lb/>Police closed a section of
+<lb/>Stratfield Road for several
+<lb/>hours while they investigated
+<lb/>the scene.
+<lb/>Bob Sorrentmo, 55, of
+<lb/>Bridgeport, watched the police
+<lb/>investigation from Owen Fish
+<lb/>Park. "They said it was a hit-
+<lb/>and-run," Sorrentino said. "It's
+<lb/>scary when you think about it.
+<lb/>This poor guy got up to take a
+<lb/>walk this morning, and now
+<lb/>he's dead. It's pretty scary, how
+<lb/>quick it happens."
+<lb/>Andrew Brophy, who covers
+<lb/>Fair/ield, can be reached at
+<lb/>330-6255.
+<lb/>Overcrowding cited for shifting school lines
+<lb/>Continued from Ai
+<lb/>• The changes also have creat
+<lb/>ed ripple effects well beyond
+<lb/>Central. Blackham, a kinder
+<lb/>garten- through-eighth-grade
+<lb/>school whose students go on to
+<lb/>attend Central, was also over
+<lb/>crowded. Steps are being taken
+<lb/>to reduce enrollment there by
+<lb/>sending students to Roosevelt
+<lb/>School in the South End.
+<lb/>Because Bassick High wHl
+<lb/>need to use more classroom
+<lb/>space, the system needs to re
+<lb/>duce enrollment at Ellas Howe
+<lb/>School, which currently uses
+<lb/>some Bassick classrooms.
+<lb/>Those Howe youngsters will be
+<lb/>Capriati in
+<lb/>toni^t's match
+<lb/>Continued from A1
+<lb/>Davenport had the easiest
+<lb/>match. The three-time PUot
+<lb/>Pen finalist advances to play
+<lb/>Magui Serna or Maleeva on
+<lb/>Thursday.
+<lb/>shitted to Longfellow Annex.
+<lb/>Among other schools affect
+<lb/>ed, John Wlnthrop, another
+<lb/>kindergarten-through-eighth-
+<lb/>grade school — whose students
+<lb/>traditionally go on to Central
+<lb/>— wiU instead go to Harding.
+<lb/>Huydlc said meetings about
+<lb/>redistricting began last winter,
+<lb/>and principals sent out letters
+<lb/>this spring. Some schools also
+<lb/>had meetings for parents In
+<lb/>volved, he said.
+<lb/>Does that mean there wiU be
+<lb/>some confusion, anyway?
+<lb/>"No doubt about it," he said.
+<lb/>The matter, however, never
+<lb/>came up for formal approval
+<lb/>before the Board of Educafion,
+<lb/>but officials contend that does
+<lb/>n't matter.
+<lb/>"It's not invalid," said board
+<lb/>President Joan K. Nobriga of
+<lb/>the redistricting. Nobriga said
+<lb/>that in the case of school dis
+<lb/>trict modifications in the past,
+<lb/>atoinistrators have made ad
+<lb/>justments as needed.
+<lb/>Stm, she said, she wished
+<lb/>the board had had the opportu
+<lb/>nity for an open airing of the
+<lb/>matter, as it would have provid
+<lb/>ed parents with an opportrmity
+<lb/>to learn about the changes.
+<lb/>"I'd rather deal with the
+<lb/>complaints right now," she
+<lb/>said, rather than waiting untU
+<lb/>the start of the school year or
+<lb/>the next full board meeting.
+<lb/>Huydic said the fuU impact
+<lb/>of redistricting won't be felt for
+<lb/>several years.
+<lb/>Huydic said parents who
+<lb/>stm reaUy want to 'have their
+<lb/>chUd attend a school out of dis
+<lb/>trict can stm ask for a transfer,
+<lb/>but there simply may not be a
+<lb/>spot.
+<lb/>"We try to accommodate the
+<lb/>parents' needs as much as we
+<lb/>can," Huydic said. "However,
+<lb/>there are times we just can't do
+<lb/>that."
+<lb/>Susan Silvers, who covers
+<lb/>regional issues, can be reached
+<lb/>at 330-6426.
+<lb/>Mimsters protest choice
+<lb/>of gay Episcopal bishop
+<lb/>HAPTPnun /Am ,HARTFORD (AP) read
+<lb/>ONLII
+<lb/>— Minis
+<lb/>ters from across the state
+<lb/>marched on the Episcopal Dio
+<lb/>cese of Connecticut Tuesday to
+<lb/>protest the recent election of a
+<lb/>pav hichnn t-.
+<lb/>passages from the Bible as
+<lb/>they marched toward the Epis
+<lb/>copal Diocese of Connecticut m
+<lb/>Hartford, where they were met
+<lb/>by an even greater number of
+</ab>
+    </body>
+  </text>
+</TEI>

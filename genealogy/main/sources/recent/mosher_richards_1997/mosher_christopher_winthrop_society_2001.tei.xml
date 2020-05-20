@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher christopher winthrop society 2001</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_richards_1997/mosher_christopher_winthrop_society_2001/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_richards_1997/mosher_christopher_winthrop_society_2001/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>The WiriTHROP SOCIETY
+<lb/>PR/ESERVARE ET TRANSMITTERE
+<lb/>John Stimson Beardsley, SECRETARY 2690 Walker Avenue, Carmel, CA 93923
+<lb/>4 December, 2001
+<lb/>Dear Mr. Mosher
+<lb/>Welcome to The Winthrop Society, and thank you for your
+<lb/>participation! Exciting things are in the ofOng. As you perhaps know, the
+<lb/>Society is construeting a World Wide Web site*, where all family
+<lb/>historians may find information about our Society, as well as useful
+<lb/>genealogical information for free downloading. We aspire to make it the
+<lb/>best resource available on the 'net for early Massachusetts history and
+<lb/>genealogy. As a free serviee to our Members, a web page wall be
+<lb/>maintamed where you may post queries about your ancestors (limited to
+<lb/>pre-1800 birth-dates. New England, New Jersc}^ and New York). The
+<lb/>Society will forward responses to the Member who made the postmg.
+<lb/>The Society's library has recently made major acquisitions, and we have
+<lb/>become a Member Society of the Federation of Genealogical Societies.
+<lb/>Promising new soruces of fundmg should soon permit greater services to
+<lb/>our Members and the public.
+<lb/>Enclosed are your Certificate of Membership £md your first issue of
+<lb/>the Winthrop Society Quarterly. Yoiu subscription to fotu issues will run
+<lb/>from Volume 2, #3 through Volume 3, #2. Other back issues may be had
+<lb/>for ̂ 5 each, subject to availability.
+<lb/>We are udshing you and yotu family a very pleasant holiday season!
+<lb/>Thanlt you very much for your support!
+<lb/>Best regards.
+<lb/>* Om- website is at httpi/ATOw.WmthropSociety.org/home.htin
+<lb/>We can be reached by e-mail at JSB@WinthropSociety.org
+<pb n="2" facs="#page-001"/>
+<lb/>;jj\nTHRoyt&gt;
+<lb/>Society"PICfiSERVARE ET TRANSMITTERE"
+<lb/>Whereas, Governor John Winthrop and the Puritan families who came to plant the Massachusetts Bay Colony in 1630 were
+<lb/>the m
+<lb/>o
+<lb/>s
+<lb/>t
+<lb/> important a
+<lb/>n
+<lb/>d
+<lb/> influential g
+<lb/>roup
+<lb/> of Europeans that ever arrived in North America, the W
+<lb/>INTHROP SOCIETY is
+<lb/>dedicated to preserving their m
+<lb/>emory
+<lb/> and tradition, and transmitting their example of courage, strong faith, integrity and civic
+<lb/>duty. T
+<lb/>h
+<lb/>e
+<lb/> Society is o
+<lb/>p
+<lb/>e
+<lb/>n
+<lb/> to m
+<lb/>en and women
+<lb/> of good character and proven descent f
+<lb/>r
+<lb/>o
+<lb/>m
+<lb/> one or more of the settlers w
+<lb/>h
+<lb/>o
+<lb/>arrived in the Massachusetts B
+<lb/>a
+<lb/>y
+<lb/> before 1633. Therefore, the Society is pleased to w
+<lb/>elcome
+<lb/> into its m
+<lb/>embershipCtlRISTOPtlER ALAM MOStlERin affirmation of his descent fromMr. Nathaniel Turner,
+<lb/>a passenger of the W
+<lb/>inthrop
+<lb/> fleet, 1630.
+<lb/>■Dn.oriBy His ExcEtLEKcy
+<lb/>'/r^nvyU^k-Ja
+<lb/>VaOTimothy
+<lb/> L. J
+<lb/>acobsPRESIDENTMember #10318, 2 December, 2001
+</ab>
+    </body>
+  </text>
+</TEI>

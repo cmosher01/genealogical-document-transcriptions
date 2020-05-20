@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin mary recipes newspaper clippings</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_mary_recipes_newspaper_clippings/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_mary_recipes_newspaper_clippings/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>CHICKEN CACCIATORE
+<lb/>4-lb. chicken, disjointed; '/2 cup
+<lb/>seasoned flour; '/j' cup fat"; 1
+<lb/>garlic clove; 2 medium onions;
+<lb/>1 green pepper; 1 No. 2 con tom
+<lb/>atoes; 1 con tomato paste; l/| lb.
+<lb/>mushrooms, sliced; l'/2 teaspoon
+<lb/>salt; teaspoon pepper; %
+<lb/>teaspoon oregono (optional).
+<lb/>Dredge chicken in flour. Brown
+<lb/>on oil sides in hot fat. Mince gar
+<lb/>lic; chop onions; dice green pep
+<lb/>per; odd with tomatoes, tomato
+<lb/>paste, mushrooms, salt, pepper,
+<lb/>and oregano. Simmer for about
+<lb/>one hour, or until the chicken is
+<lb/>tender. Approximate yield is 6
+<lb/>servings.
+<lb/>Cooked Salad Dressing
+<lb/>3 tablesp. salad oil
+<lb/>2 tablesp. flour
+<lb/>2 tablesp. sugar
+<lb/>1M teasp. salt
+<lb/>1 teasp. prepared mustard
+<lb/>Speck cayenne pepper
+<lb/>1 c. milk
+<lb/>6 tablesp. lemon juice
+<lb/>or vinegar
+<lb/>2 eggs, slightly beaten
+<lb/>Mix first 7 ingredients in double-boiler top. Cook,
+<lb/>stirring, over boiling water until thickened. Stir in
+<lb/>combined lemon juice and eggs. Cook, stirring, over hot,
+<lb/>not boiling, water until thickened. Makes about 11/2 c.
+<lb/>Fluffy Dressing: Make Cooked Salad Dressing, using
+<lb/>2 egg yolks. Beat 2 egg whites stiff, and fold into cooled
+<lb/>dressing.
+<lb/>Curry Dressing; Into cooled Cooked Salad Dressing,
+<lb/>stir 1/4 teasp. curry powder and Vi c. pickle relish.
+<lb/>Mustard Cole-Slaw Dressing: Make Cooked Salad Dress
+<lb/>ing, increasing prepared mustard to 2 tablesp.
+<lb/>Peanut Dressing: Into hot Cooked Salad Dressing, stir
+<lb/>'i c. peanut butter. Chill. Delicious with fruit salad.
+<lb/>horseradish Dressing: Add 1 tablesp. bottled horse-
+<lb/>sh to hot Cooked Salad Dressing.
+<lb/>89
+<lb/>Italian Spaghetti Casserole '•&gt;7
+<lb/>^ Pound Spaghetti
+<lb/>1 Large Onion
+<lb/>2 Cups Cooked Corn
+<lb/>4 Cups Cooked Tomatoes
+<lb/>Jg Cup Drippings or Oil 1 Cup Grated Cheese
+<lb/>^ Pound Ground Beef Salt and Pepper
+<lb/>Cook spaghetti in boiling malted water and drain.
+<lb/>Dice onion and cook in oil until golden brown. Re
+<lb/>move onion and fry meat in the same oil imtil
+<lb/>medium well done. Mix with remaining ingredients
+<lb/>and bake in a flat pan in a moderate oven (375° F.)
+<lb/>about 20 minutes. Serves 12.
+<lb/>Sauerkraut, home-made sausages, Sauerbraten,
+<lb/>potato salad, diU pickles, coffee cake, pretzels,
+<lb/>German cookies—these spell the good and kearty
+<lb/>German cooking. We brought back an old German
+<lb/>recipe for Sour Cream Salad, and our kitchen
+<lb/>tasters agreed that we should pass it on to you.
+<lb/>German Sour Cream Salad *
+<lb/>1 Cup Thick Sour Cream Teaspoon Salt
+<lb/>1 Tablespoon Powdered Sugar ̂  Teaspoon Pepper - ,
+<lb/>1 Teaspoon Lemon Juice Lettuce
+<lb/>Whip cream and beat in sugar, lemon juiCe and .■
+<lb/>seasonings.. Setve dressing over shredded lettucej^'lsi
+<lb/>I
+<lb/>1.
+<lb/>IT
+<lb/>Shrimp Relish
+<lb/>1% lbs. fresh shrimp
+<lb/>1 cup minced onion
+<lb/>1 cup minced parsley
+<lb/>% cup salad oil
+<lb/>% cup vinegar
+<lb/>1 clove garlic, minced
+<lb/>IV2 tsp. salt
+<lb/>Speck pepper
+<lb/>Wash shrimp; drop into
+<lb/>2 qts. boiling water with 1
+<lb/>tbsp. salt. Simmer, covered
+<lb/>for 5 mins. Drain; rinse in
+<lb/>cold water; then^ remove
+<lb/>shells and black vein run
+<lb/>ning down back of shrimp.
+<lb/>Combine shrimp, onion, and
+<lb/>parsley. Combine oil, vine
+<lb/>gar, garlic, and seasonings;
+<lb/>beat vyell; then pour over
+<lb/>shrimp. Chill, covered, in
+<lb/>refrigerator for 1 hour be
+<lb/>fore serving. Serves 4.
+<lb/>Crisp, Buttered French
+<lb/>Bread
+<lb/>Slash long loaf of French
+<lb/>bread into thick slices, be
+<lb/>ing careful not to sever
+<lb/>completely. Spread % cup
+<lb/>softened butter generously
+<lb/>between slices and over top
+<lb/>of loaf. Sprinkle lightly
+<lb/>with salt; bake in moderate
+<lb/>ly hot oven of 375 deg. F.
+<lb/>for 15 min. Serves 6.
+<lb/>Delicious Meat Loaf
+<lb/>2 lbs. chuck beef, ground
+<lb/>1 egg, slightly beaten
+<lb/>2% tsp. salt
+<lb/>% tsp, pepper
+<lb/>2 tsp. dried sage
+<lb/>IV2 tsp. celery salt
+<lb/>1 onion, minced
+<lb/>% green pepper, minced
+<lb/>1 8-ounce can tomato
+<lb/>sauce (1 cup)
+<lb/>In a bowl blend all in
+<lb/>gredients except tomato
+<lb/>sauce. Add half of tomato
+<lb/>sauce; then pack into a
+<lb/>10-in.x5-in.x3-in. loaf pan.
+<lb/>Store in refrigerator until
+<lb/>ready to bake. Pour rest of
+<lb/>tomato sauce over top of
+<lb/>meat loaf. Bake in moder
+<lb/>ate oven, 350 Deg. F., 1
+<lb/>hour and 15 minutes, or
+<lb/>until done. Serves 6 to 8.
+<lb/>Eganom '"ream
+<pb n="2" facs="#page-001"/>
+<lb/>ONE-TQ-A-CUSTOMER ROAST CHICKEKiN Syracuse
+<lb/>, li
+<lb/>ves 
+<lb/>Mrs
+<lb/>. L.
+<lb/> H. Morgan, who l
+<lb/>ikes
+<lb/> a p
+<lb/>icn
+<lb/>ic i
+<lb/>f sh
+<lb/>e can havethe cooking over with when she leaves the house. About her most favoritemenu she says, "I have a certain picnic meal that I enjoy so much. IndividualRoast Chicken Dinner. For each person I get a small chicken (2 pounds orless). I stuff and roast them (potato stuffing is good). After they cool, I wrapeach separately in wax paper. For the rest of the menu I take bottles of olivesand pickles, washed and wax-paper-wrapped celery, some salt, potato chips,coke or cookies and soft drinks." Fancy having a whole chicken to yourself toeat in the carefree manner permitted on picnicslStuffed small chickens will roast in Wa to IVi hours in a slow oven, 325^ F.The chickens con be stuffed the day before they're cooked, but be sure bothchicken and stuffing are cold before chickens are stuffed and put in therefrigerator; then worm to room temperature before roasting.&lt;T&gt; "STUFFED ROLLS, MEXICAN-STYLEWHEN
+<lb/> it'
+<lb/>s her turn to furnish the main dish for apicnic, Mrs. Kay Matthews provides Stuffed Rolls,Mexican-style. They're a combination of crusty Frenchrolls ond a well-seasoned meatless filling, preparedin such a way that they're especially nice for lunchwhich is fixed at home and served without the helpof a fire or camp stove. The rolls will stay pleasantlywarm for a couple of hours if tightly wrapped. Mrs.Matthews lives in Seattle, Wash., and can drive toMt. Rainier or Vancouver, B. C. for outings.On such occasions these delicious Stuffed Rolls orefor more popular than ordinary sandwiches becausethey do not dry out. To fill IVi dozen rolls (enough for5 or 6 people), shred % pound of the sharpest American cheese available. Add W cup chopped pimiento,1 Vi teaspoons chili seasoning, cup chopped ripeolives, Vi cup minced onion, 3 chopped hard-cookedeggs, 1 minced clove garlic, Vs cup salad oil, Vi cuptomato sauce, 1 teaspoon salt and V4 teaspoon pepper. Cut the tops halfway off the French rolls, leavingenough uncut portion to form a hinged lid. Scoop outsome of the soft center, replace with filling. Wrap eachfilled roll in waxed paper. Put in large roasting pan.Bake 1 hour in very slow oven, 25rap pan inseveral thicknesses of heavy paper and take to picnic.PICNIC SANDWICHES FOR A CAMPFIRE"I IVING in Denver, Colorado, right at the foot of the beou-L
+<lb/> tif
+<lb/>ul Rockies," soys Mrs. Robert t. Foltz like to pocka lunch and hie to the hills for relaxation, fun and outdooreating. A hot dish is welcome even in July because of thecrisp cool air." Mrs. Foltz gave directions for making verysatisfying campfire Picnic Sandwiches. Start with a coldskillet and fry 1 pound bacon until crisp. Remove bacon,pour off half the fat and fry 1 pound of dried beef untilcrisp but not brown. Add 1 cup chili sauce and Vi pound ofcheese which has been shredded at home. Stir until cheesemelts. Crumble bacon into mixture and quickly spread on adozen large split buns.
+</ab>
+    </body>
+  </text>
+</TEI>

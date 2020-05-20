@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin william civil war pension</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-035.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-036" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-036.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-037" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-037.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-038" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-038.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-039" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-039.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-040" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-040.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-041" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-041.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-042" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-042.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-043" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-043.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-044" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-044.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-045" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-045.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-046" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-046.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-047" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-047.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-048" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-048.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-049" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-049.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-050" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-050.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-051" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-051.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-052" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-052.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-053" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-053.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-054" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-054.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-055" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-055.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-056" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-056.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-057" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-057.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-058" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-058.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-059" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-059.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-060" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-060.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-061" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-061.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-062" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-062.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-063" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-063.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-064" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-064.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-065" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-065.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-066" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-066.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-067" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-067.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-068" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-068.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-069" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-069.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-070" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-070.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-071" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-071.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-072" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-072.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-073" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-073.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-074" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-074.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-075" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-075.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-076" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-076.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-077" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-077.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-078" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-078.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-079" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-079.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-080" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-080.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-081" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-081.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-082" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-082.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-083" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-083.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-084" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-084.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-085" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-085.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-086" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-086.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-087" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_civil_war_pension/p-087.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>"
+<lb/> 1 
+<lb/>5
+<lb/>tSfjMS
+<lb/>S
+<lb/>aSs;-K
+<lb/>•'JltxSe't"
+<pb n="2" facs="#page-001"/>
+<lb/>Company.
+<lb/>Regiment
+<lb/>Rate per Month
+<lb/>Commenczn^
+<lb/>?.A. , 190 X.Mailed
+<pb n="3" facs="#page-002"/>
+<lb/>r&gt;'
+<lb/>Issued,
+<lb/>Mailed
+<lb/>Rate and Period, $ ,frow. 18
+<lb/>Deductions;
+<lb/>13 Disability !-
+<lb/>Rate and/Peno
+<lb/>Rate and Period, f , from-— , to
+<lb/>Dedudions:
+<lb/>^ DisabiUty:
+<lb/>Issued--
+<lb/>Mailed —
+<lb/>Rate and Period, $—-. ,from.-
+<lb/>i  ApMmmi Pensiong.
+<lb/>i  ! 3, ma. :
+<lb/>i  i)edMCfo'ona:^-irrrJr!:ig-r£r~i~r-^^
+<lb/>INDORSE
+<lb/>Ja
+<lb/>XSEMENTS,^ .
+<lb/>jZfL ̂ 4^ r-
+<lb/>Deductions:
+<lb/>"8 Disability:
+<pb n="4" facs="#page-003"/>
+<lb/>imsMs
+<lb/>ifSS
+<lb/>t  I
+<lb/>EnlistGd:
+<lb/>DischargGd;....
+<lb/>Application filGd: M" Lqu.'1/la
+<lb/>A1 iGgGS\.aAz}£IL.. Itlci/uZ^kL..
+<lb/>IT
+<lb/>RG-Gnlist6d[ ..
+<lb/>ifjik
+<lb/>is^Oi '
+<lb/>rvtu^
+<lb/>■^jApiL
+<lb/>4  w ya^. koe^r M Sly'.S§Ziy-
+<pb n="5" facs="#page-004"/>
+<lb/>INVALID., {Sfies..
+<lb/>Cert. No.
+<lb/>■ Origin al Roll A
+<lb/>Issued. -12:.:.
+<lb/>Mailed
+<lb/>Deductions: t,
+<lb/>^  /&gt;
+<lb/>Issued, Iti
+<lb/>Mailed ,
+<lb/>Rate ana Period, $ ,from , 18
+<lb/>Deductions:
+<lb/>i  Disabiliiu.
+<lb/>I  ̂
+<lb/>Issued. , 18
+<lb/>Mailed ^ , 18
+<lb/>Rate and Period, $ ,from , 18
+<lb/>Deductions:
+<lb/>INDORSEMENTS.
+<pb n="6" facs="#page-005"/>
+<lb/>1
+<lb/>other claim.
+<lb/>m.
+<pb n="7" facs="#page-006"/>
+<lb/>PENSIONER DROPPED.
+<lb/>|(nibi
+<lb/>Pensioner .-
+<lb/>Soldier ...
+<lb/>The Commissioner of Pensions.
+<lb/>SIP: I have the honor to re-port that the
+<lb/>above-named pensioner -who was Ifist paid
+<lb/>d,rppped b^ca^e
+<lb/>Yery respectfully,
+<lb/>United States Pension Agent^
+<lb/>NOTI5.—Every name dropped to be thus reportedyrt o^e,
+<lb/>and when cause ot" droppin.n: is death, state date^t &lt;watli
+<lb/>when known. I /CTa
+<pb n="8" facs="#page-007"/>
+<lb/>3- 182
+<lb/>BUREAU OF P
+<lb/>ashington, TS^
+<lb/>JVb. Claim,
+<lb/>CLaimantll/.^
+<lb/>Soldier,
+<lb/>l^spe^ully returuedjkr.
+<lb/>Wk
+<lb/>Approved
+<lb/>Medical Examin^ ̂ ^
+<lb/>Medical Referee.
+<pb n="9" facs="#page-008"/>
+<lb/>BUREAU OF PENSIONS,
+<lb/>ashingfon. P. 190..
+<lb/>JVo. Claim,..
+<lb/>Claimant, _
+<lb/>SoW,ier,-
+<lb/>Approved:
+<lb/>Medical Examiner.
+<lb/>Medical Referee.
+<pb n="10" facs="#page-009"/>
+<lb/>BUREAU OP PENSIONS
+<lb/>ccshington, TO.
+<lb/>Jmo. Claim.,
+<lb/>(Jlaimant,
+<lb/>Soldier.
+<lb/>m
+<pb n="11" facs="#page-010"/>
+<lb/>Division.
+<lb/>gepartmcMt of the Iwtmor,
+<lb/>bureau of pensions,
+<lb/>Washington, D, C., 190.—.
+<lb/>JVo. Claim,.
+<lb/>Cert. J^o
+<lb/>Claimant,.
+<lb/>Reg't-
+<lb/>[RIME ClKIJl
+<lb/>not ON FILE.
+<lb/>V/ chief.. .Division.
+<pb n="12" facs="#page-011"/>
+<lb/>3-1081.
+<lb/>PENSIONER DROPPED
+<lb/>Certiftfhte Jfo.
+<lb/>Class
+<lb/>Trui.
+<lb/>pensioner
+<lb/>F
+<lb/>Soldier,
+<lb/>. T
+<lb/>Service
+<lb/>/&lt; n
+<lb/>The Commissioner of Pensions. 905
+<lb/>SIjR: I have the hon$h4^^^ii^
+<lb/>ry
+<lb/>m CLu.
+<lb/>above-lkamed pensione/fiwho^was last p^d
+<lb/>ois^use of,.
+<lb/>Very respectfully,
+<lb/>United States JPension Agent.
+<lb/>NOTE.—Svery name dropped to be thus reported at onoe*
+<lb/>and whpii cause of droppings is death, state date of death
+<lb/>'.^heii kiioun. f ̂  ,
+<pb n="13" facs="#page-012"/>
+<lb/>^ WIDOWS PENSIOTsT.
+<lb/>* County,
+<lb/>Soldier,
+<lb/>Eank, ^
+<lb/>Sixteen,.-
+<lb/>Sixteen,.,
+<lb/>Sixteen,..
+<lb/>Sixteen,.
+<lb/>Oommencing.,
+<lb/>Payments- on all former certificates covering any portion of same time to be deducted.
+<lb/>All pension to terminate .. .., 1 , date of .-
+<lb/>REGOQlSriZElD ^TTORI&gt;TEY.
+<lb/>Name
+<lb/>/£&gt;JFee, — Agent .
+<lb/>1
+<lb/>/ q/AruHmitted for
+<lb/>A^roved :
+<lb/>Articles filed
+<lb/>continuance ofi?7
+<lb/>origin and Approved *: deatififr^^altg
+<lb/>.  ■:■ from
+<lb/>accepted due to .
+<lb/>-which has been legally accepted.
+<lb/>Ai al Reviewer.. ' "' ^ Reviewery I M^^^cal at Revpswer.
+<lb/>/ V ^ Re-Reviewer. ' Medical Referee.X&gt;gL-.^ r. ^
+<lb/>IMEORT^lSTT EA.TES.
+<lb/>Enlisted:— , l&lt;2i?-/^f^^i^Pormer marriage of soldier 1
+<lb/>•7/7^ A / ' r-» of claimant 1—
+<lb/>Eied , ^
+<lb/>_  , . AilfZ) ZZ' ^ vl'r'Death of former husband —Declaration filed , (j ( / /
+<lb/>Invalid appPn filed , * Claimant's^m^ri^ge to soldier XS'-Z/f
+<lb/>/ Mustered
+<lb/>^ Discharged -C
+<lb/>/ Died .j££i
+<lb/>/ Declaration filed-
+<lb/>Former marriage of soldier
+<lb/>)eath of former wife
+<lb/>i Invalid last paid to / ciaimant&gt;Wied I--...
+<lb/>Claimant does .—T^ write.
+<pb n="14" facs="#page-013"/>
+<lb/>WIDOWS DflCLARXTION FOE, PENSION^
+<lb/>OH IISTCHEASIS OE PENSIO^NT.
+<lb/>..jtiT.r. day of.
+<lb/>, AON THIS jtiT.r. day of , A. D. one thousand hundred
+<lb/>and IXiirX). personally appeared before me,
+<lb/>of , a Court of Eocord within and for tne County and State aforesaid,
+<lb/>, aged-..'^-.^- years, who being duly sworn
+<lb/>accordinglo law, makes tlxe following declaration in order to obtain the Pension provided by
+<lb/>Acts of Congress granting pension to widows ; That she is the widow
+<lb/>lllko£.aM,QjL£La. , who-fku^iliudcfili under the name
+<lb/>at "1 - , on the.....'^...^-..day A. D. 1
+<lb/>in. Cn . j"Th ■̂  (O^goay and Eegimefit of Service, if in the Araiy: or VeBsel and Ran^/Tf In the Navy.)
+<lb/>in the war , ̂'\io.^ira^..7fLkk^&gt;i,rs^s,in the war of....y^^_&lt;^ LJX.^Jkcl£^jt(}^ , (State nature of wounds, and all ciroumstanrasalloniliiiK
+<lb/>the^or "the disease and manner in which It was iilcwfted.-ta elt^r case showing soldier's death to have been the sequence.)
+<lb/>^
+<lb/>that she was married under the name of...
+<lb/>("In the service aforesaid," or otherwise.)
+<lb/>to said .}t.djL&lt;A^ lllk..Xa^JLi^. ,^on the.../..'.' Ay
+<lb/>A. D. 18.^i , \sy..Rut^jAb.kIC(ku%^i..^..^^. A-...-...-,
+<lb/>there being no legal barrier to such marriage.; that neither she nor her husband had been
+<lb/>^  ̂ * * (If either have been previously married, so state, and give date of death or divorce of former spouse.)
+<lb/>; that she has to
+<lb/>present date remained his widow ; that the following are the names and dates of birth of all his
+<lb/>legitimate children yet surviving who were under sixteen years of age at father s death,, viz :
+<lb/>IQ
+<lb/>that she has not abandoned the support of any one of her children, but that they are still under
+<lb/>her care or maintenance.
+<lb/>(For such children rfs are not under her care claimant should account.)
+<lb/>that she has not in any manner engaged in, or aided or abetted, the rebellion in the United States;
+<lb/>that__22aj prior application has been filed
+<lb/>; that she hereby appoints, with full
+<lb/>giving number assigned to it.) ^ ̂  ^ ^ ^
+<lb/>power of substitution and revocation, - ^ &gt;
+<lb/>of her attorney , to prosecute the above
+<lb/>claim; that her residence is N©-...
+<lb/>and her Post Office address is . ."2%
+<lb/>(Two witnesses who can write, sign here.)
+<lb/>-&gt;c y
+<lb/>Signature of Claimant.)
+<pb n="15" facs="#page-014"/>
+<lb/>iiesiding^t(^!/^^r!Z77^ &gt; persons whom 1 certify to be respectable and
+<lb/>enlitle^'^to credit, and who, being by me duly sworn, say that they were present and saw
+<lb/>..cAarc...^:a^-. 22lM.....£a^^A£^ , the claimant, sign her name (make
+<lb/>her mark) to the foregoing declaration; that they have every reason to believe, from the
+<lb/>appearance of said claimant and their acquaintance with her, that she is the identical person
+<lb/>she represents herself to be; and that they have no interest in the prosecution of this claim.
+<lb/>(If .\ffiants sign by mark, two persons who can write, sign here.) (Signature of Affiants.)
+<lb/>Sworn to and subscribed before me, this......^.. ^—day of... ,
+<lb/>A. D. 1 and I hereby certify that the contents of the above declaration, &amp;c.,
+<lb/>were fully made known and explained to the applicant and witnesses, before swearing,
+<lb/>including the words erased,
+<lb/>and the words - added ; and
+<lb/>that I have no interest, diicot or indirect, in the prosecution of this claim.
+<lb/>/  / / nrR/,4al ai.rT.ftr,iwi \ ^(Official Slgnatore.)
+<lb/>{Official Charmter.)
+<lb/>8@"To be executed before a Court of Record or some officer thereof having custody of its seal, a Notary Public, or Justice
+<lb/>of the Peace, whose official signature shall be verified by his official seal, and in case he has none, his signature and official
+<lb/>character shall be certified by a Clerk of a Court of Record, or a City or County Clerk.
+<lb/>^  0
+<lb/>H
+<lb/>^ I
+<lb/>O I
+<lb/>P S" ' 0
+<lb/>H^ D1M
+<lb/>C.0 h.9
+<lb/>Ph
+<lb/>ro ^
+<lb/>i
+<lb/>m-. %
+<pb n="16" facs="#page-015"/>
+<lb/>'  ■ .il ' ^ ^The physician will be c-'^'-erul tp; state t ||i«s approximate date wnen kn^ie^nfe
+<lb/>ioldier; what his physical t hditioh^as al jhat tjme, giving a. full desoriptkm or
+<lb/>of all disabilities from which fie was^ then 'stJffering. tre shpdld then state,^j^pp^itha1^^\
+<lb/>how often he has treated the s^diei^sinCe that date, an(J for what disabilityc&lt;r'dj^bilides/^&lt;^|-j^\^
+<lb/>treatment has been for a disease or injury that has cauMd otfier organs to ba^m,e aft^te^,^ \ ^
+<lb/>or other diseases to result as^i-^ebiU^ce of the origincu, disunity, thi^ aff^^^l^l^lj^^d state
+<lb/>clearly what such sequences are wtf^n developed, and explain their j^thWtiasfic^r^^dorr' to ,
+<lb/>the original disease or injuryv yf ' ^ ' j ' / ^ ' ;
+<lb/>l^on^to
+<lb/>State of-
+<lb/>County of- 'L 1
+<lb/>In the pension claim
+<lb/>{Name of olakaant.)
+<lb/>(Company a^vBegiment, or Vessel, or other organization or de^^rtment.^
+<lb/>Personally came before me, a
+<lb/>ftforesaid County and State,
+<lb/>Z
+<lb/>(  ̂ (SKy or vUlMre.)
+<lb/>(JuBtloe of tte Feacg^r Notafy Public, as the case iaay be.)
+<lb/>.., of the County of
+<lb/>., in and for
+<lb/>a reijident
+<lb/>State of... , who, being duly sworn, decJUires, in relation to the afoiesaid
+<lb/>case as follows:
+<lb/>1 have been practicing medicine years.years. 1 first knew the soldier aoout
+<lb/>I first treated him professionally about. , 18
+<lb/>jLA.
+<lb/>And be further declares that he has no intere^in said case, and is not concerned in its prosecution,
+<lb/>/Z
+<lb/>(Blaiia^iflT-etPbTsioiari or .Surireon. If errr In tXp ink and seirloa.) '
+<pb n="17" facs="#page-016"/>
+<lb/>Sworn to and subscribed before me this day ; and I hereby certify that the affian^Qs a prad^lnf
+<lb/>physician; that I am not interested in the prosecution of this claim, and that the afiBaJi;^^^|uaint^
+<lb/>himself with the contents of the affidarit before he executed the same
+<lb/>y
+<lb/>Witness my hand and official seal thia.
+<lb/>':w ,
+<lb/>Stale of J^eto ̂ orlt, [
+<lb/>Schuyler County Clerk's Office, j I, CHARLES R. WATKINS, Clerk of said County and of the County and Su-
+<lb/>prMe (^irts^^ing Courts of Record, do hereby certify that
+<lb/>Esq., before whom the annexed affidavit purport
+<lb/>f  have been made, was, at the date of the samer7'^
+<lb/>in and for said County, duly authorized to ndprmister oaths, and(^at I am well acquainted
+<lb/>i... with his hand-writing and verily believe his signature to the jurat of such affidavit to be
+<lb/>genuine.
+<lb/>IN TESTIMONY WIIf^EOP, I have hereunto set ray hand and affixed my official
+<lb/>seal, at Watkins, this... ila.y 190.3...^
+<lb/>Clerk.
+<lb/>V^
+<lb/>I  : LJJ
+<lb/>il ^
+<lb/>K
+<pb n="18" facs="#page-017"/>
+<lb/>aworn bo and snibscribcd before me this day; and I hereby certify that the afliau^ps a prad^lng
+<lb/>physician; that I am not interested in the prosecntion of this claim, and that the aflSan^^^^aint^
+<lb/>himself with the contents of the affidavit before he executed ttie same
+<lb/>Witness my hand and official seal this- -, 1!
+<lb/>here^
+<lb/>(Justloe, Notair.jULPlerk of Oeart. u Uie oaae ttaj Ka.)
+<lb/>THE OfFICER BWeRE WHOM THIS AFFIDAVIT IS EXECUTED MUST BE SURE AND NOTE IN HIS CERTIFICATE ALL ERASURES AN»
+<lb/>INTERLINEATIONS WIHCH MAY BE MADE IN THE BODY OF THE AFFIEAWT.
+<lb/>(ad.—This insfartuaeBt shsnld be ezeeated bofors • Jutioe ef the Peace, Sfotaiy Public, or any^^person autboriaed
+<lb/>oaths for i^neral porpoeea. , ^
+<pb n="19" facs="#page-018"/>
+<lb/>em C)
+<lb/>PAGES.
+<lb/>INDKX
+<lb/>TO SPECIAL EXAMINER'S REPORT.
+<lb/>NAMES OF WITNESSES, ETC.
+<lb/>1 to Index
+<lb/>; Notice to claimant
+<lb/>'to.— i Summary.
+<lb/>to Claimant statement
+<lb/>L
+<lb/>Exhibits.
+<lb/>keputation
+<pb n="20" facs="#page-019"/>
+<lb/>3-1876.
+<lb/>Department of the Interior,
+<lb/>BUBBAtr OP, PENSIONS,,
+<lb/>Blnghamton, N, Y.jNovenber 21, 1902.
+<lb/>Comnilssioner of Pensions,
+<lb/>Washington, D. 0,
+<lb/>I have the honor to return a credibility inquiry in ciain Wid. Grig.
+<lb/># 761,1V2, Margaret McLaughlin, widow of William McLaughlin, Co. M, 15
+<lb/>N. Y. Engrs.,and submit for consideration the attached testimony which
+<lb/>was tahen in pursuance to instructions contained in said inquiry. The
+<lb/>claimant's post office address is given as Hornby, Steuben Co.,N. Y.
+<lb/>This deponent Dr. James Touhey is a man of good reputation and of
+<lb/>good professional standing as country physicians go. He appeared to be
+<lb/>candid and franh in his testimony in this case and was not unduly biased.
+<lb/>I recommend tliat tliis be refered to the Chief of the Eastern Division
+<lb/>for such action as nay be deemed proper.
+<lb/>Very respectfully,
+<lb/>,  Special Examiner.
+<pb n="21" facs="#page-020"/>
+<lb/>Case of.
+<lb/>DEPOSITION
+<lb/>„ ̂ o.JlLllx
+<lb/>On r% 9/ ai
+<lb/>cauni^ o/..
+<lb/>ul'^o^ l-ein^ me da/^ AtUo'&gt;fn Ic
+<lb/>em&amp;u/ed c^ile'H'HO-^ciid'HceA ^'H&lt;A^io-U7idecl lo /i dcctfcn^ iAd A^iecccU
+<lb/>examcnation &lt;Zj/oAt-e6acd cdcicm ^zenAcon^ de^ioAed- a,nd Acz^A.'
+<lb/>Pn.fSp. _ TipnmttioTh 1,Page. -S^- DepoeitioTh.
+<pb n="22" facs="#page-021"/>
+<lb/>A^aJ
+<lb/>t  r
+<lb/>Deponent.
+<lb/>Qhla'A-n lo &lt;z7id &amp;u6Acp-c6-ec^ 6e/o'y-e me lAeA—
+<lb/>A^O-—, and &lt;Jl ccA-ic^^ lAat iAe conCenCA iae-t&lt;^e
+<lb/>('■^'^e Ai^7icn^.
+<lb/>t^l ̂ nouln lo dsi
+<lb/>Special Examiner.
+<pb n="23" facs="#page-022"/>
+<lb/>3—289.
+<lb/>Case of-
+<lb/>DEPOSITION
+<lb/>y  Oi.O
+<lb/>ulAo^ l-ecn^ ̂  TTze du/^ AaJ.o'H-'n lo
+<lb/>cc-nAulU^ ci'l^ C7il€'')^'&gt;^o^&lt;ZM'HceA ̂ ''HO^oownded lo A — duT^cn^ lAd A^ieccaA
+<lb/>exa7ncp,&lt;zito-n a^o't'-eAcdd cda^im^O')^ ̂ zen&amp;io-n^c^io&amp;eA cmd da^A: n
+<lb/>IaA
+<lb/>Page— .j;^. —. DffposHion
+<pb n="24" facs="#page-023"/>
+<lb/>A,
+<lb/>■tf iiii iiy
+<lb/>Deponent.
+<lb/>Qliio'P''n la ctncld-a.6dc&gt;^c6-ec^'6-e/a'&gt;t&amp; trte IA(A f.^. rlwi^
+<lb/>J^Ol^ and cJ? cez&lt;-lc^^ lAat lAe canlencd- uiez^e made Anatdn la de^ianenl
+<lb/>^|^a'^^e At^7icn^. ,
+<lb/>Special Examiner.
+<pb n="25" facs="#page-024"/>
+<lb/>m
+<lb/>doltdyiU^.
+<pb n="26" facs="#page-025"/>
+<lb/>^fTULy
+<pb n="27" facs="#page-026"/>
+<lb/>Div.
+<lb/>BUREAU OF PENSIONS,
+<lb/>Washington, D. C.; 190^,
+<lb/>In the above-entitled claim
+<lb/>P. 0. address was..
+<lb/>testified befm-e
+<lb/>[G-ive street ari^number.
+<lb/>whose
+<lb/>Please refer this letter to a special examiner with instructions to ascertain the witness' reputation
+<lb/>for veracity, and knowledge of the matters set forth above.
+<lb/>The claimant's name and address is
+<lb/>The attorney
+<lb/>'s,
+<lb/>Very respectfully,
+<lb/>The Chief of the
+<lb/>Special Examination Division. Divinnn.
+<pb n="28" facs="#page-027"/>
+<lb/>'^4,r. ^t N,\A^.-.-yj'-'MiName of witness jBpecWl examination division,Bureau of Pensions.WashingtD_CT__3-1-J9, 190—lespe^fulW referred to, Special, Examiner at*"■ bo w
+<lb/>ill 
+<lb/>interview the witnfe and report on h credi^•- Di
+<lb/>lity
+<lb/>. No depos
+<lb/>itio
+<lb/>n sl^^ld be (aken unless it appgafsthat the afSdavit sets forth matters not within the witness'personal knowledge, but if taken, it should he maile on theusual deposition-blank and attached hereto; and shouldshow what the witness personally knows of the facts, hmeans of knowledge, and any improper practice in connection with the preparation of the affidavit.By direction of the Commissioner :Chie E.jUivition,. 190—spectfully returned to the Chief of theDivisionChief, S E. DiuisionPHt §
+<pb n="29" facs="#page-028"/>
+<lb/>Claimant:
+<lb/>Soldier:
+<lb/>p. O. addrerss:
+<lb/>County: __
+<lb/>Recormnendation:
+<lb/>Special Examiner.
+<lb/>REFERENCE.
+<lb/>Re?;ie
+<lb/>Chief c
+<lb/>for consioe.
+<lb/>Chief, «vj,^ Diviaion*
+<lb/>Chief X E. Division.
+<lb/>RECOMMENDATION.
+<lb/>Reviewer.
+<lb/>ACTION.
+<lb/>190.
+<lb/>Commissioner
+<pb n="30" facs="#page-029"/>
+<lb/>(If Affiant signs by mark, two witnesses who can write sign h&lt;
+<lb/>■  (Signiatnre of Affiant.)
+<lb/>rVUA/lfe?.
+<lb/>.further declares that.... ...no interest in said case and /2(^iU_...not concerned in its prosecution,
+<lb/>SPECIAL XOTICE.—The
+<lb/>civU officer before ivhora this affidavit is executed should be careful to
+<lb/>fill a all spaces, bdth in the caption and jurat. .
+<lb/>GENERAL AFFIDAVIT.
+<lb/>ON THIS.. J_/ -day of- , A. D. 19..&lt;?..2._., personally appeared before me
+<lb/>n .. ^ aforesaid County, duly authorized to administer
+<lb/>HlyyL-NC C-'dLdlM .aged Xr.Si .years, a resident of...^e....^&lt;?ZAai...^...y^2iafe.^(?.....,
+<lb/>V  7"; _ j ^
+<lb/>whose Post-office address is... .(S..n..72^....t^ -
+<lb/>well known to he reputable and entitled to credit, and who, being duly sworn, declared in relation to aforesaid
+<lb/>'hloh he teetillegj n
+<lb/>S^AmAjsia 1
+<lb/>case as follows;
+<lb/>f  (HOTB.—Affiant should Btat« l^w he gains a knowledge of the facts
+<lb/>rjra£ J?a.
+<lb/>:L
+<lb/>.years, a
+<lb/>and State of.
+<lb/>E.imi. rZAA.
+<pb n="31" facs="#page-030"/>
+<lb/>State op..
+<lb/>, County op. : 7C..A3L
+<lb/>Sworn to and subscribed before me this day by the above named affiant, and I certify that I read^tsai^. ■ .
+<lb/>affidavit to said affiant, including the words..
+<lb/>mlh ite CODtenU befom £ - - l-e «&gt;me. I furlker certify that I un in noTOe inter-
+<lb/>ested in said case, nor am I concerned in its prosecution ; and that said affiant- - personally
+<lb/>known to me and that person.
+<lb/>..erased, and the words —
+<lb/>...added, and acquainted
+<lb/>(Official (
+<lb/>■B-To be executed before a Court of Record or some officer thereof having custody of its seal a Notary Public, or
+<lb/>Justice of the Peace, whose official signature shall be verified by his official seal, and m case he has none, his signature
+<lb/>and official character shall be certified by a Clerk of a Court of Record, or a City or County Clerk, unless such certificate
+<lb/>is already on file in the Pension Office, when such fact should be stated.
+<pb n="32" facs="#page-031"/>
+<lb/>SPECIAIi KOTICE.—The civil officer before whom this affidavit is executed should be careful to
+<lb/>fill in all spaces, both in the caption and jurat. ;
+<lb/>GENERAL AFFIDAVIT.
+<lb/>0f-
+<lb/>In the matter of...
+<lb/>©ottuta of
+<lb/>further declares that no interest in said case and..i^^^^^f!r.not concerneditf-ite prosecution
+<lb/>(If Afflant BlgDB by mark, two witnesses who can write sign here.)
+<lb/>tare of Affiant.)
+<pb n="33" facs="#page-032"/>
+<lb/>C-County of...C
+<lb/>Sworn to and subsCnbed jfefore me this day by the above named affiant, an^J^ertify that I read said
+<lb/>affidavit to said afflaotf-idWudiDg the words — -
+<lb/>erased, and the words ..y^.
+<lb/>..added, and acquainted..
+<lb/>with its contents before executed the same. I further certify that I am in nowise inter-
+<lb/>/
+<lb/>ested in said case, nor am I conc^ed in ijs prosecution; and that said affiant_. i...j)er8onaliy
+<lb/>OertifiC'O-tG on ul j coverJji^
+<lb/>[L.
+<lb/>(Offio^/ikftnMter.)
+<lb/>j®-To bo exenuted before ft Court of Becord o^wr thereof having custody of its seal a hTotary Public, or
+<lb/>Justice of the Peace, whose official signature shaU jse" verified hv his official seal, and in case he has none, his signature
+<lb/>and official character shall be certified by a Clerk of a Gtiurt of Ebqord, or a City or County Clerk, unless such certificate
+<lb/>is already on file in the Pension Office, when such fa6t&gt;khoidd be^^ted.
+<lb/>0^
+<lb/>I  I
+<lb/>r.,
+<lb/>O ? ^
+<pb n="34" facs="#page-033"/>
+<lb/>SPECIAL NOTICE.—The civil officer before whom this affidavit is executed should be careful to
+<lb/>iill in all spaces, both ia the caption and jurat.
+<lb/>GENERAL AFFIDAVIT.
+<lb/>Jitatje 0f , ©oaxutg of ..... , ss:
+<lb/>In the matter
+<lb/>ON day of i A. D. 19&lt;?.^.., personal ly
+<lb/>appeared before ine .L^.&lt;9f..&lt;rr&amp;5 ....̂ ^ in and for the afore
+<lb/>said County, duly authorized to administer
+<lb/>aged A years, a resident , in the County
+<lb/>A / A f A. /,y A;.
+<lb/>_, in the County
+<lb/>, and^ State of
+<lb/>whose Post-ofSce address x^.^A^.CAlyZA ..sX/a- AA
+<lb/>J^^I:IqA}iQ2aAaAa)0..^/£aAJ ^.., aged. .. ...years, a resident qX
+<lb/>and
+<lb/>/  , in the County oiA^./jLLJ- .-^yrCAAa -.,
+<lb/>and State whose Post-office address —
+<lb/>well known to be reputable andLntitled to credit, and who, being duly sworn, declared in relation to aforesaid
+<lb/>case as follows; MaJzA
+<lb/>^.01AAA.AAArAyyA...onfy'£r^.A£^.u.(h....(x£4AA&gt;...&lt;A£c^^
+<lb/>/| /Nrrtuinr/.^ ,siate how they giiin a knowledge of the^cts to which they testify.)
+<lb/>A ̂  Cy&amp;lZtAj ^iiAA^oz^^ uMez/r'yLA
+<lb/>-
+<lb/>cXycn^ /AAuL y z7
+<lb/>ff APR
+<lb/>U, 10
+<lb/>1902
+<lb/>..jSU^... further declare that..^jL^.Tr&lt;^^^&lt;^f"^rrr:....nd'.interest in said ease and....&lt;2i&lt;2A. .
+<lb/>not concerned in iits prosecution.
+<lb/>j
+<lb/>(Tf AfQants sign by mark' two witnesses who can write sign here.) (Signatures of Affiants.)
+<pb n="35" facs="#page-034"/>
+<lb/>State of- County
+<lb/>^ Sworn to and subscribed before me this day by the above named affiant i , and I certify that I read said
+<lb/>affidavit to said affiant**^ including the words
+<lb/>..m erased, and the words-
+<lb/>added, and acquainted..
+<lb/>with its contents before executed the same. I further certify that I am in nowise inter
+<lb/>ested in said case, nor am I concerned in its prosecution; and that said affiant.^ personally
+<lb/>known to me and that credible person 5 .
+<lb/>(Offiolal tSlgnatore.)
+<lb/>(Offiola^/Ohamoter.)
+<lb/>tSfTo be executed before a Court of Record or some officer thereof kaving custody of Its seal, a Notary Public, or
+<lb/>Justice of the Peace, whose official signature shall be verified by his official seal, and in case he has none, his signature
+<lb/>and official character shall be certified by a Clerk of a Court of Record, or a City or County Clerk, unless such certificate
+<lb/>is already on file in the Pension Office, when such fact should be stated.
+<lb/>H
+<pb n="36" facs="#page-035"/>
+<lb/>QEISPPIA^ AFFIDAVIT
+<lb/>/  /■
+<lb/>State of /
+<lb/>County of
+<lb/>.■ f
+<lb/>In tjie matter of claim iov
+<lb/>j^yx "Sv - r-U.yy/y '/] /* y«ir &gt;
+<lb/>Personally came before me, a
+<lb/>:. /■
+<lb/>aforesaid County and State, 1-4 . 4 -/4i
+<lb/>v/ . 1 ^ / AI
+<lb/>f /v (Cl^ract^^Dd number of cl^n.) ^ ^jr
+<lb/>elatloj»ffiip orclaimant, and name/i^ service of soldier.)/
+<lb/>,, (Justice, Not®, Judge, Clerk, or O^pW Clerk.)
+<lb/>■in and for
+<lb/>3f .., State
+<lb/>aged
+<lb/>^"J^—years, residing at.. . , County of,
+<lb/>TState of Vt-^
+<lb/>aforesaid case.as follows:
+<lb/>who, being duly sworn, declar^ in relation to the
+<lb/>'A&gt;A..J&lt;rr. fui'ther declare that. interest in said case, and
+<lb/>concerned in its prosecutiou.
+<lb/>If either affiant sign by X mark, two persona who write
+<lb/>their names MUST sign here as witnesses thereto. /
+<lb/>(Name m one witness to X mark.)
+<lb/>(Name of other witness to X mark.)
+<lb/>Signnture of* I
+<lb/>Affiant, or of ^
+<lb/>eacli Affiant. |j
+<lb/>CU4^
+<pb n="37" facs="#page-036"/>
+<lb/>SWORN TO AND SUBSCRIBED before me thl|:
+<lb/>%  4.d-ay ot.y
+<lb/>/t ^
+<lb/>K  / &gt; .
+<lb/>and I hereby certify that the contents of the foregoing 'a®&lt;}^it were fiiify
+<lb/>explained to the af&amp;antS before swearing thereto, inclnding the words
+<lb/>jn lln€_
+<lb/>(If any worda have been erased in thie affidavit, enter them here.)
+<lb/>,.6r^d, and in line
+<lb/>the words - (ifany words havo^'b^^^^^ in place of any erased, enter them here.)
+<lb/>that the affiants OU-to me well known and ^
+<lb/>(is or are.) (is or are.) /
+<lb/>that I have no interest, direct or indirecr,, in the prosecution of this claim.
+<lb/>added;
+<lb/>£iivw« Ui Ct* ■
+<lb/>/  Til ^ •- » of ofQcer beiore whom executed.)
+<lb/>^ "■
+<lb/>/  ̂(State whether Justice, Notai, &lt; lerk, 5r Deputy Clerk.)
+<lb/>The Officer before whom this affidavit is executed must be sure and note in his cer-
+<lb/>ificate ail erasures and interlineations, as indicated above.
+<lb/>^  v.
+<lb/> V V A
+<lb/>!  -n !
+<lb/>rs K uj ^
+<lb/>/A
+<pb n="38" facs="#page-037"/>
+<lb/>Certificate of Property Assessments.
+<lb/>, County ofState of %J&lt;r^^PrCh^. , County of
+<lb/>In the pension claim of. f-
+<lb/>of the County of. .7)...L£.,U,jLcdy:l^. in the State of /.feC^Ar:.
+<lb/>do hereby certify that I have carefully examined the Records of Assessments of real and personal property in and for
+<lb/>said County, and of which I am the lawful custodian, and find the assessment^nd valuations therein recorded against
+<lb/>property standing in the name of. for the years here
+<lb/>after desisrnated. to be as follows, to wit: ^
+<lb/>property standing in the name of.
+<lb/>after designated, to be as follows, to wit:
+<lb/>REAL ESTATE DESCRIPTION. VALUE. PERSONAL PROPERTY. I VALUE.
+<pb n="39" facs="#page-038"/>
+<lb/>Year. | REAL ESTATE, DESCRIPTION. VALUE. PERSONAL PROPERTY. VALUE.
+<lb/>And I further certify that no assessments appear during the foregoing period
+<lb/>average rate of the above-enumerated assessments is upon the basis of..... |o„^haiS„:thi,ds;„r thre^
+<lb/>of the fair cash value of the property assessed.
+<lb/>And I further certify that I have no interest in this claim for pension and that I am not concerned in its prosecution.
+<lb/>Witness my hand and offlcial seal this. .,..//..r-^rr. day of... A. D. l t-
+<lb/>^  i
+<lb/>(0^;ial Signature of Dffloer^
+<lb/>^SS'If ihe Custodian of the Assessment Jtecords has no Seal, he must make oath to his Statement, or ha.ve hw Signa
+<lb/>ture and OffirAal Charaeter dxdy Cerified,. See,form. t)elow.
+<lb/>SuVjScribed and sworn to before me this i -i - day of A. D.
+<lb/>State of .County op -
+<lb/>in and for tK County and State aforesaid, do hereby certify that &lt;.in and for tK County and State aforesaid, do hereby certify that &lt;.....r'r~r*rN^........
+<lb/>whose name is subscribed to the foregoing certificate, is the lawful custodian of the Assessment and Tax Records as by
+<lb/>him set out; th^t his said certificate is competent evidence in the Courts of this State, and that his signature thereto
+<lb/>attached is genuine. . . At A a r\
+<lb/>Witness ray hand and official seal this day of. .^. l.^...C.T^__
+<lb/>(Official Character.)
+<lb/>W  ' &gt;
+<pb n="40" facs="#page-039"/>
+<lb/>jmm i* 11^1.
+<lb/>iir*
+<lb/>14i40 Bi»»64imy, smit# fO§f
+<lb/>Mvw t0rkt !• f«
+<lb/>mmr Birt
+<lb/>:^«r Isttmr lm ftot9®t«ti0
+<lb/>■  &amp;f mwmUmm fU.## in Mnlf mi
+<lb/>to I®® np^ii %# «■*#&lt;
+<lb/>c@l»i«ei Mmwm Mt hmm xm4m of p.pr» !» tlw I^^Uiiwiag
+<lb/>o«jm:8* l0w«iF8r* «&amp;imM fmu 4mim tiMi®.# tn»y «iil ^
+<lb/>,na4« mpm rmqmmt Wmmfmr*
+<lb/>».©. mffm
+<lb/>mrtM I» MmpkiMm^ miM&amp;m
+<lb/>.  ̂ wilMmm mpkim «il«»
+<lb/>Millimm miMUsMllB
+<lb/>I, &amp; Mm rmtk loavy
+<lb/>mi» 0lmim mm ttim Ootobor Ml, If04 lat
+<lb/>of Mortfea Jf* m^im of Mm Bmmwkmk, CmmM,
+<lb/>i,a « t0m$
+<lb/>'tttff mim^kMmp wMmf '
+<lb/>iliMM Hilnmikiim
+<lb/>0„3» UUS »«w t&amp;nM foi®#
+<lb/>lilil»-«oiAi«r 4M«: '«feilo pii?ol#t friowr of lor
+<lb/>«t jkmmpmUm, i»» in.WitwIi JyiSi* Im Mj MM km mm
+<lb/>iai»i§4 to mtf l^efe «t Mmklmt tmitk mm i»®
+<lb/>poanloiMiO oo Ilia oMow mith p«o«i« tm mm
+<pb n="41" facs="#page-040"/>
+<lb/>i«Q» iiiMt
+<lb/>li i«ii t#ft Mgrft*
+<lb/>tlii« a(»Mi«r ttmw^ im M, Iteir foiHc fol*
+<lb/>fxon 9, 2i®§4 1m &lt;i^
+<lb/>l» mmmhft Wm tmwk^ »M 41«A f«4am®yy 2i, ltO«
+<lb/>ttt l«rfi1»^, i«n tl® iri4&lt;m, wlio fni» mmxrimA «a
+<lb/>juia jRistmirf' i» ISd £»isi« #f iKFip-At mwi^&amp;rty,
+<lb/>««« 9«inilcyiift&amp; mtil Imr mmm 'wm fmm Mm
+<lb/>199 0f iMir 4Mtllk«
+<lb/>ig Its l#v fwi: Imi*
+<lb/>4R!»Mi®i*' imsmwtw in MtxM«s Mi ̂
+<lb/>Ymtk ilii4 Mmmwf H, IfM 19 QmlmMm Ammm t
+<lb/>wmf. MM* Kin Jim# 4i»i
+<lb/>9m w§m iillim. !«»
+<lb/>iMm §, UfS iKUl limsi 1mm Wuhvmtf i@, ISfi*
+<lb/>It Si Mm tmk mf*
+<lb/>1% is ftilniffii In iyii« mi
+<lb/>i'woiiii mi mm mlm- ii.iinlwM»4 Iiliiiiia.t Im
+<lb/>mm Mm Mtf !.» Hii in Wm f^'K* i#
+<lb/>m  S4t itii Dili it fmitlAi is $«€!»%» W&amp;wMw»
+<lb/>IHnr fiTlK imt ilS: pNit iff in# at mm
+<lb/>Mm forkj .tiat at imttrlOTiit Mmw fmk mm ^.t .IM#
+<lb/>jii« «a« ttftnrlii m 4« l^iiiit: wm immmiMi 'ttet wm-
+<lb/>Mmmm mi ailllrm. «i«^# J«« Iwm £f» l§i#i
+<lb/>■Axam It* term Jmly Ot lAiii mmi. Wmtm i., ten A^tl Si, lifd.
+<pb n="42" facs="#page-041"/>
+<lb/>iw»si
+<lb/>il.HiaJH Urn Mlm
+<lb/>e, i firk C
+<lb/>©g t 3mw imk Ii»r©¥# Qmt*
+<lb/>1i:«ir iwekf mxA &lt;m Jto« »« M mm
+<lb/>ritt'i t«&gt; akll« iiiMi»iML m% !«*:»«%«? I wm tmU^ i@ il#i
+<lb/>ftol" in I IS'OS*
+<lb/>i*:C. fisii-
+<lb/>^mm wM^ir
+<lb/>WlllSi*
+<lb/>.St ISi tmmk I»f«
+<lb/>till* ii#Ml«3r mill kill#4 Im 'ii#tt#m Jmiift JLtM*
+<lb/>Hflnan «t Mm# § Mtmtm Birmmtt
+<lb/>MrmkXfm, wm t&amp;rk in 1®#? mm p&amp;mimmi mlth.
+<lb/>nMliimaal mmmimm tmm mimmm Q&gt;mmm mm
+<lb/>miU rnmm at imrk §tot«
+<lb/>.Hoafttal, Kix^m Mm f«rk « i, IS 3®#
+<lb/>a*@* sMMf
+<lb/>illXImiift .laid
+<lb/>s, ®i »mw f'f«-k mtrn
+<lb/>tlti# at S©f iawimaa
+<lb/>fiivt m tlalx fmw pemaimii Im
+<lb/>te.« mkmm mmmtmrn mmt mm hmifimg iNii® 4|##|
+<lb/>at Santeiaftimt .»• ©• ffein ©iitim mm .
+<lb/>Irmly .
+<lb/>Qmtm'
+<lb/>I ^
+<lb/>ot
+<pb n="43" facs="#page-042"/>
+<lb/>A ot, of JVIarcb. 2, 1895.
+<lb/>^Claimant, l-XX
+<lb/>j^'Date of death,.iy^.
+<lb/>71 ^■7i
+<lb/>/
+<lb/>Certificate— fded.
+<lb/>BOARD OF REVIEW.
+<lb/>Approved foi
+<lb/>.Excmfiner.
+<lb/>.Rereviewer,
+<lb/>CERTIFICATE DIVISION.
+<lb/>Accrued Pension Certificate and Order
+<lb/>Payable to.
+<lb/>Issued.-
+<lb/>Mailed.
+<lb/>Original certificate and voucher.
+<pb n="44" facs="#page-043"/>
+<lb/>No. 137.
+<lb/>Widow's Application for Accrued Rension.
+<lb/>of ...^(^onutn i ss:
+<lb/>On this Q../^.... -My o£ , 19 personally appeared
+<lb/>who, being duly sworn, declares that she is the lawful widow of
+<lb/>which is herewith returned (or if not, state why not)
+<lb/>••• ) deceased; that he died on the ^./... day
+<lb/>^t he had been granted a pension by Certificate
+<lb/>^at he had h^ paid the pension by the Pension
+<lb/>Agent at to the ^...L day , ?
+<lb/>after which date Ife had not been employed or paid in the Army, Navy, or Marine seVviee of the United States,
+<lb/>except..
+<lb/>she was married to the said
+<lb/>n the..Z
+<lb/>1^4/ , , in tj^tate of
+<lb/>.  iU«4- Urt-M r^nrvin Kq-T/wq oQi'rl marvifffTP wns.
+<lb/>• that her name before said marriage was
+<lb/>^.Mayyo^.. .; that she had-('«* had not) been previously married; that her husband kkd-.
+<lb/>(«frhad not) been previou^ married; that she hereby makes application for the pension which has accrued on
+<lb/>aforesaid certificate to the date of death.
+<lb/>at shyTierebf appoints, with full power of substitution ̂  revocation^
+<lb/>of.
+<lb/>her true and lawful attorney to prosecute this claim, the fee to be dollars,
+<lb/>&lt;A . Aas prescribed by law. a / ^
+<lb/>That her residence is street, - • ?|?i
+<lb/>and her post-office address is -
+<lb/>/y [Widow'
+<lb/>'s Signature.]
+<lb/>]so personally anj)eared^
+<lb/>.who, being duly sworn, say that they were present and .saw
+<lb/>signiier na^e (m^^ her imtrk) to the fji^g^i^ declaration;
+<lb/>thai^hey know her tob^^eH^ful ;
+<lb/>on the 11.^. ...day of. , i^/^-KTid that their means of knowledge
+<lb/>that said parties were h^band and wife, and that tnc-Jmrsband died on the said date, are as follows
+<lb/>Zd
+<lb/>^Ulc-JO
+<lb/>a
+<lb/>[Signatures of Witnesses.]
+<pb n="45" facs="#page-044"/>
+<lb/>Sworn to and subscribed before me, this Sr. day of.
+<lb/>and I certify that affiants are reputable persons; that they know the contents of their depositions, and that their
+<lb/>statements are entitled to full faith and credit.' I further certify that I have no interest, direct or indirect, in
+<lb/>the above claim.
+<lb/>[Signature.]
+<lb/>[Official Character.;
+<lb/>State op , County op.....t
+<lb/>, Clerk oftke. .1: Court of the
+<lb/>County and State aforesaid, do hereby certify that
+<lb/>is , duly commissioned and qualified; that his commission
+<lb/>was dated on the.. ..day of. , 1 , and will expire on the..
+<lb/>day of 19 , and that his signature within written is genuine.
+<lb/>Given under my hand and seal of said Court this..
+<lb/>When the amount of accrued pension is large the following evidence of marriage should accompany every
+<lb/>application for accrued pension:
+<lb/>1. A duly verified copy of a church or other public record; or
+<lb/>2. The affidavit of the clergyman or magistrate who officiated; or
+<lb/>3. The testimony of two or more eye-witnesses of the ceremony.
+<lb/>Tf nrior to the inarviow of the widow and the i-iensionev, eithei' of fh°m had. Keen married to another narty.
+<lb/>1  o . . I: j 7
+<lb/>the death of said party, or divorce from the same, must be proved.
+<lb/>This application and the blank voucher herewith should be properly executed and forwarded to the Com
+<lb/>missioner of Pensions.
+<lb/>It is desirable that the witnesses should be able to write their own names; if not, their marks should be
+<lb/>witnessed."
+<lb/>Kz;
+<lb/>cu,
+<pb n="46" facs="#page-045"/>
+<lb/>IN^
+<lb/>Clahnant
+<lb/>State,
+<lb/>Rate:, 9J..J..... -per moath, commencing
+<lb/>Company,
+<lb/>Regiment,
+<lb/>JDisabled
+<lb/>ie.EC!OC3-:tTIZElD
+<lb/>Nkme, Fee$i^- — , Agent —.to pay
+<lb/>Artielea filed - - —., 18
+<lb/>Submitted for 18
+<lb/>Approved iox.—/^ — — Approved for ....X.^
+<lb/>, Examiner
+<lb/>, Legal Reviewer, jj A^, 18 f^-- - - , Medical Refetee
+<lb/>Arrears allowed from. ., 18 , to. ., 18 , at
+<lb/>Declaration filed J , 18
+<pb n="47" facs="#page-046"/>
+<lb/>Soldier, .
+<lb/>County,
+<lb/>Rates,
+<lb/>ORIGINAL INVALID CLAIM.
+<lb/>Company,.
+<lb/>1 Regiment,
+<lb/>.... p- er month, commencing
+<lb/>Pensioned for
+<lb/>ILEOOOlSriZEX: jATTO^LdSTE-y.
+<lb/>Articles , 18^/i:
+<lb/>Approved
+<lb/>Submitted
+<lb/>, Examiner
+<lb/>Approved iar - Approved for ::
+<lb/>, Lega^l^evie^re)(^^^^ Med. Ex'r, Reviewer
+<lb/>,189 c?, — , Med. Referee
+<lb/>Must^d.
+<lb/>^oil^tion ffled ..,
+<lb/>3DA-TES.
+<lb/>BJLSXS. OIF OHuAIdVn..
+<lb/>/J.
+<pb n="48" facs="#page-047"/>
+<lb/>OECLARATiOW FOB OPiGiAL INVALID PENSION.
+<lb/>TO BE EXECUTED BEFORE A COURT OF RECORD OR SOAIE OFFICER THEREOF HAVING CUSTODY OF ITS SEAT.
+<lb/>Ou this day of. A. D. cue thousand eight hundred and-ei^^C^..O...
+<lb/>personally appeared before nie, of a court of
+<lb/>record within and for the County and State aforesai(^rM-.^--.^'VK.^^.&gt;^^
+<lb/>.CffJa... years, a resident of the.JCi2S^ of.. county of.
+<lb/>record within and for the County and State aforesaitfr^.^-.-?-----A
+<lb/>.Co (a... years, a resident of the.JCi2S^ of.. county of..2^^^-
+<lb/>V^rv . ̂ , o " A.- t{ ...^ ^ Itvoing &lt;3iily F3wori2 aocordmg to law- declaiBS
+<lb/>that he is the identical who was ENROLLED on
+<lb/>the day of. .., 18Cs»^|i in Company\\."\ef the....V.?3 Regiment
+<lb/>of... .yS&lt;\ commanded by ..w. .V.. .t.. .liA.i.c; .-t.5.commanded by . .V...t..
+<lb/>and TÔ  honorjiDly DISCHARGED at"/5^^fe^3^^4?MTVfrV..'fH.v..%...V...';&gt;r.'f...on the—j..^..^^^.. day
+<lb/>of. , 18fc J' ; that his personal descriptij^is as follows: Age,^.(&lt;...years: height
+<lb/>...SL....,fe(|t..ff inches; complexion, hair, ...^.«rr7-..V^r:...;
+<lb/>JDiat while a niember of the organization ̂ resaid, in the service and in the line of his duty
+<lb/>hw»fr3^r*rl&gt;r; in the State of ...h.^e^^rrrrrrrTTfTA on or about the -»&lt;ivda)
+<lb/>r.....;Tr.' , iot ; tiiat uia pcrsuuui uesunpL^ir-la aa luiiuwo . jra.j^o,'^..TT-,...^caia , uci^uo
+<lb/>inches; complexion, hair, ...^.«rr7-..V^r:...;
+<lb/>ember of the organization ̂ resaid, in the service and in the line of his duty
+<lb/>H«re stAto name or nature of dlseMe, or the loeatiou of wound or ii
+<lb/>diaTaao, stato fully its cauies; if bj froi^iFor injury, che precise manner in wl^ch received.
+<lb/>A
+<lb/>That he«was treated, in ho3pital8*«.»4#llewsi.^^
+<lb/>Here state the names or numbers, aad the localities of all hospitals In which treated, and the dates
+<lb/>of treatment.
+<lb/>That h/has.CV&gt;rfrr^...beleu employed in the military or naval service otherwise than as stated above,,.1  ,.f ^ Uere etate what
+<lb/>the e.ii'vice wa^^hetherMtoi''^r subsequent to that stated above, aud thedutec at which it hegwu and eudsd.
+<lb/>That since leaving the service this applicant has resided in the of.... /?
+<lb/>in the State of... .Vr.'t , and his occupation has been that of
+<lb/>That prior j^iis entry into tliejervice above narned he was a mau of good, sound, physical health, being when
+<lb/>enrolled That he is from obtaiuing his subsistence by
+<lb/>manual laboAby reason of his iuiuries, above descriWd, received |n the service of the United States ; and he there
+<lb/>fore makes this declaration for the purpose of: being flaced on the invalid pension roll of the United States.
+<lb/>He hereby appoints, with full power of ajihstitution and revocation
+<lb/>GHARLES-Eivf AlRMA-N--&amp;-G(^P|^^i-nmOnV"E|^.- tme and lajvul attorney
+<lb/>CO prosecute his claim, 'fnai. ne na8..1'y^r^^^M,s,....receiyed foii^^Reusion.J That hU
+<lb/>fosT Office address is ffl'll!'A'ii' 1 ''8!'. .v/..county of
+<lb/>State of..%
+<lb/>Atthst.
+<lb/>Claimant'» signature,
+<lb/>f
+<pb n="49" facs="#page-048"/>
+<lb/>certify to be reeipectnbie_and entitled V) credit, and who, being by mo dalf sworn, say they were pr^ent and sat
+<lb/>... , the claimant, sign his name (or make his mark) to tb&lt;
+<lb/>foregoing declaration ; that llv y Wve every reasoE to believe, from the appearance of said claimant and thei?:
+<lb/>acquaintance with him, that lie is the identical person he represents himself to be; and that they have no interest
+<lb/>in the prosecution of this claim.
+<lb/>(Signatures of W-itnesses.)
+<lb/>Sworn to and subscribed before me this day of
+<lb/>A. D. 181*' , and I hereby certify that the contents of the above decla
+<lb/>ration. &amp;c.. were fully made known and explained to the applicant and
+<lb/>witnesses before swearing, inciudiug the words
+<lb/>erased, and
+<lb/>the words
+<lb/>added; and tliat I have no interest, direct or indirect, in the proscculion
+<lb/>of this claim.
+<lb/>• ̂
+<lb/>&gt;jU
+<lb/>(SifipadrtTm^")
+<lb/>(OfBcial character.) /
+<lb/>4\ rN
+<lb/>The claimant's identity and loyalty must be proven by two witnesses, certifierl by the judicial officer to be
+<lb/>respectable and credible, who are present and witness the signature of the declarant," and certify to his identity
+<lb/>and loyalty under oath or affirmation. , ^ ' •'
+<lb/>Declarations and other papers should be as legible and clear in statement as possible.
+<lb/>Where any evidence is already on file in any Department of the Government, a definite description of and
+<lb/>specific reference to it will render it available in any subsequent claim.
+<lb/>The Post OFFtcE addkess (naming street and number in all large cities) of the applicant, attorney, and
+<lb/>witnesses, shoukl bo emfridiod in or accompany every application, and all evidence in each claim; and each cliamr«
+<lb/>ot residence of said parties, while coirum.nicating with the Pension Office or the nension agents, should be
+<lb/>tempted from any liability on account of the obligations of the peaeiouers, and no lieu
+<lb/>apon them can be recognized. ' i , ..ca
+<lb/>sirrnJiirpTrp"^.,? in a declaration may be taken before any officer whose antiiority andsignature are duly certified, and who shall disclaim any interest, direct or indirect, in the prosecution of the claim
+<lb/>,S@" Please give or send this blank to some one who may need it.
+<pb n="50" facs="#page-049"/>
+<lb/>Declaration for the Increase of an Invalid Pension,
+<lb/>and ninety.AiiA, personally appeared before me, a W;ZATftirrL&lt;C^.
+<lb/>witllin and for the County and State aforesaid...^..v..aforesaid... i/M..
+<lb/>years, a resident of pUcriULk'^ ,:.....
+<lb/>County of State of
+<lb/>who, being duly sworn according to law, declares that he is a pensioner of the United States, enrolled at the
+<lb/>u'l/LlfZ^.. ;.. .u Pension Agency at the rate of
+<lb/>dollars per moith. Certificate -So-t^.^.-./SXhy reason of disablUty^from
+<lb/>'  •' ■
+<lb/>..ijLukA^k&lt;^..:d.. Jd^.
+<lb/>incurred in the.. service of the United St^tes,.while serving
+<lb/>the army; vessel, if in the navy.
+<lb/>That he believes hihijself to be entitled to an increase of pension on account of
+<lb/>HereBtft'td the reatons" for a'ppl jinVioV Vncrekse, 'if on ftccouut of increase In the disability fOr which already pensioned, that shcreld/  ■ _ n dy j/d - ■ ■ .
+<lb/>b^^iibki"'K^£'dd£'^^^abil whic'h n'ot'pk'u'kik'nedl'the ioc'atikk'df thd'wk'ukd'drikj'uiT.'t'he name of the disease, and the
+<lb/>tiinerpiaoe, and circumstances of it's origin, and the names of hospitals, where treated in the service, should be fully stated.
+<lb/>• and that he hereby appoints, with full power of substitution and revocation
+<lb/>CH.'iRLES E. FAIRMAN of Washington, D. C.,
+<lb/>his true and lawful attorneysto proseoute his ^im.
+<lb/>*v, ,. His Post-Offioe address is
+<lb/>(W U
+<lb/>Signature of Claimant.
+<lb/>Two witness^^ho canmrite, sign here^,
+<pb n="51" facs="#page-050"/>
+<lb/>Also personally
+<lb/>k....c&gt;4^^ ....and.. residing at
+<lb/>whom I certify to be respectable and entitled to credit, a^ j' \iO
+<lb/>being by me duly sworn, say that they were present and saw...,/'..
+<lb/>. the claimant t I name (make his mark) to the foregoing
+<lb/>declaration; that they have every reason to believe, from the appearance of said claimant and their acquaintance with
+<lb/>him, that he is the identical person he represents himself to be, and that they have no interest in the prosecution of
+<lb/>this claim.
+<lb/>LIf Affiants sign by mark, two persons who can write, sign here.] Blgnat^pS of AffiantSyJ
+<lb/>Sworn to and subscribed before me day ot 189-^
+<lb/>and I hereby certify that the contents of the above declaration, &amp;c , were fully made known and explained to
+<lb/>the applicant and witnesses before swearing, including the words.
+<lb/>.erased and the words
+<lb/>, ,,-^^ldded; and I have no interest, direct or indirect, in the
+<lb/>ptosecution of this Claim.
+<lb/>o\ W Character.]
+<lb/>1s5 1&lt;&gt;
+<lb/>^ il i
+<lb/>,0
+<lb/>VrA.
+<lb/>- S St
+<lb/>O'wm dJ s
+<pb n="52" facs="#page-051"/>
+[A transcription of this page is not available.]
+<pb n="53" facs="#page-052"/>
+[A transcription of this page is not available.]
+<pb n="54" facs="#page-053"/>
+<lb/>yV/ I // /
+<lb/>STATE
+<lb/>COUNTY OF d.J.KL
+<lb/>In the Matter of the? Ori^nal IMYJlLID Pension Claim Mo.^
+<lb/>in and for the aforesaid County, duly authorized to administer
+<lb/>&gt;  ..(?.(?. years, a resident of• years, a resident of
+<lb/>iv^. in the Couiiiy of.
+<lb/>of , well kriowii to ine to be reputable and entitled to credit,
+<lb/>and who, b^g duly ̂ vorn, declares in relation to his claim for pension as follows : My Post Office Adclreas is
+<lb/>fk.u,i^ (fcf'A.. Q-/.(/ ■ Z.^- X/&gt; '-/ ■
+<lb/>{Uivu present acMrce:# in In'^ /y
+<lb/>For years immediately preceding my enlistment into the service of the United Btdtes on the
+<lb/>day of , 18G^, I resided in the Ibllowiug-named places:
+<lb/>(iiivu iiN tUa pfaces lii which yon rosi-lotl (liinng tho ubovo sttuod prior to youi^iiistnieut,]
+<lb/>and my nccupution whs that of a
+<lb/>Since my disclmrge from sititl service on the. / day of
+<lb/>{.Givu itutitti 01 tMch place wiU^ iiu or itny ciuaigu uf
+<lb/>- , 18615 ,1 have ro«ided in
+<lb/>and my occufiation has been t.lnitof a ^ f yf.
+<lb/>I further state that the disahility^i^ which I cltum'fr^Bnsion
+<lb/>which was ci^tracted . tCcy^ ...
+<lb/>^ / / /("iloro fitnte Mre time, placu, and trti tliu circaDt^tnceu tnidur whi^ 1 liu tor wl^cb p^slui^s claii»y{f
+<lb/>From my said discharge to tho present time, I have received tho following mod.d;al treatment for said disease
+<lb/>[Givo tl^ tiniiio mill mlilreKR of i.iic)i iili.vRiciiui i iHplii.vcil, ii/fl tiui dulo uiientt-iicli cinimi-iic.Mi mid coasi-d tii rrmfycia. Jf a y nf di.in aro diiceiisotl, so stmvf
+<lb/>Since the origin ot the disability for wliich peitsinii Js^ciainied, I have suffered with the following acute diseases:
+<lb/>[MoDtiuii ull uttHckn o! uitiitu ihu tiin'e wiiftt tntclv fiffwcUu occiiri'dd, tlieir cbnracter ttnd violence.]
+<lb/>for which [ was treated by Urz^. . .'
+<lb/>[Nnuie nud uddi'ttati uiid date ot troAtmoot.]
+<pb n="55" facs="#page-054"/>
+<lb/>And dunng all of the said time my physical condition and abilit\it»ia^rfor,^l^nu.aI^)or has been as folloaya:...
+<lb/>«sr t
+<lb/>iutf the date na ncnrlr j»h popsiMpfyoulnvo bren pievpnfwl Imni .TO«r iisiml oociipaHon.]:on Jjnvo bren pievrnfwi Imni lolk
+<lb/>[StHto whfttli'T vnn h-'Vo porf^iinotl nnv rnanunl labor Binco vonr iintl it'an. whiit Itinrl, jinfa-'ft'l^tli'^'PrrAtKaV'^Eime ami for what period or periodB. !(JT-
+<lb/>I further state thnt the entire service retatlerecl by me is as follows:, ^TTTtTTf^.
+<lb/>f n/ » [Ilere clainiftnt should state the dates of enlistr^ut and «
+<lb/>dipchargf oi'cach tcrrii,.&lt;&gt;f»€vvica rentlrred by him whethe/in the army ot navy,.upd tlfo complidy and regiment, or nnmo of^essels, in which k^^aovvi'd. '
+<lb/>/3ujh^~ :.
+<lb/>and that I iiave not served in the Army or Navy eithw prior or subsequent thereto.
+<lb/>[Two
+<lb/>ClaimanVs Signaiurt.
+<lb/>of , id , n
+<lb/>Swoni to and .siibsci ihed before inc this day, by the above-named affiant; and I certify that I read said affida
+<lb/>vit to S lid affiant, and anqiiaiiited liim with its contents before he executed the same. I further certify that I am
+<lb/>nowise interested in said case, nor am I concerned in the prosecution. The follo\mig interlineations and erasures
+<lb/>wore made before executin!' said affidavit; .?!^i
+<lb/>^ '}7T=^z.
+<lb/>Ofllclal Slgnalnre.i
+<lb/>Nom—This should be sworn to before a CLEEK.OP COURT, NOTARY PUBLIC, or JUSTICE CF THE PEACE. If before
+<lb/>a JUSTICE or NOTARY, then CLERK OF COUNTY COURT must add his certificate of Official character liereon, nod not on- a
+<lb/>Sbt)!irate slip of paper.
+<lb/>I&lt; TE.'E^^Tr™5^ , Clerk of the County Court in and for aforesaid County
+<lb/>and State, do certify that E^., who hath signed his name to the
+<lb/>foregoing affidavit was-at the time of so doing
+<lb/>in and for snid county and State, duly commissioned and sworn ; that all his official acts are entitled
+<lb/>to full faith and credit, and that liis signature thereunto is genuine.
+<lb/>^ 5i pi
+<lb/>OO I i
+<lb/>g! cl
+<lb/>Oj
+<lb/>CO 1 fd 05 i
+<lb/>i  Gj h&gt;it: t feO' :
+<lb/>1 &gt;!
+<pb n="56" facs="#page-055"/>
+<lb/>state c/\., , Cowrdy ss:
+<lb/>jON THIS...r^/^..^^^..-day of ........... A. D. 18^'', personally appeared before me a
+<lb/>in and for the aforesaid County duly authorized to administer oaths.
+<lb/>VZ*: / y:.d^... aged.. ̂.k..
+<lb/>Ein the County of and State of
+<lb/>years, a resident of....»z7^Krc?r
+<lb/>ftTid Stnie
+<lb/>well known to me to be reputable and entitled to credit, and who, being duly sworn, declared in relation to aforesaid
+<lb/>case as^pHows: ^ &gt;
+<lb/>[Note.—AiHants should, state^how they ̂ In a kMwledge of the fac^to which they testify.] ^ -y
+<lb/>....fBtthwe-deelaiu llmt IttHBtesegt inssaid caaa^aWI..., n(ft&lt;p{nil!h«n€liSB.
+<lb/>^If^^oslBJiiSBU— I t
+<lb/>.02MA^mA}?... £.....cA.
+<lb/>If Affiants sign by mark, two persons who can write sigh here.] •&gt;' ' tSighature of Affiants.]
+<pb n="57" facs="#page-056"/>
+<lb/>State County ss;
+<lb/>Sworn to and subscribed before me this day by the above-named affiant , and I certify that I read said affidavit
+<lb/>to said affiant , including the words •' erased, and the words
+<lb/>X:and acquainted with itits contents before executed the same. I further certify that I am
+<lb/>in nowise interested in said case, nor am I concerned in its prosecution; and that said affiants are credible persons.
+<lb/>I L. S. 1
+<lb/>lOfflcial Signature
+<lb/>[Ot^ial Character.]
+<lb/>Clerk of the County Court in and for
+<lb/>aforesaid County and State, do certify that ."..7...' ."Esq.,
+<lb/>who hath signed his name to the foregoing declaration and affidavit, was at the time of so doing
+<lb/>in for s3ldS?&gt;tmty and State duly commissioned and sworn;1 aha for sal^Cwmty an
+<lb/>that all his ofHcial acts are entitled to full faith and crs
+<lb/>Witness my hand and seal of otBce this
+<lb/>hil'^i^uri
+<lb/>-Vyl
+<lb/>e  thereunto is genuine.
+<lb/>[ L. S. ] Clerk of the.
+<lb/>NOTE.—This should be sworn to before a CLERK OF COURT, NOTARY PUBLIC, or JUSTICE OF THE PEACE.
+<lb/>If before a JUSTICE or NOTARY, then CLERK OF COUNTY COURT must add his certificate of character hereon, and
+<lb/>not on a separate slip of paper.
+<lb/>&gt;
+<lb/>! W
+<lb/>1 ^
+<lb/>PJ ^ P
+<lb/>m fa ̂  z
+<lb/>n  C O
+<lb/>u p4 Q
+<lb/>E H I
+<lb/>•A S-
+<pb n="58" facs="#page-057"/>
+<lb/>"Wri^ nothing above this line.
+<lb/>gcyaftwettt jtff tite
+<lb/>No. ^ ^
+<lb/>/?/ ^ X y A . BUREAU OK BENSIONS,
+<lb/>Washington, D. C., ,
+<lb/>It is alleged that enlisted / ,18.«.&gt;^
+<lb/>and served as a in Co. - . Eeg't —
+<lb/>also as a ! in Co..
+<lb/>and was discharged at , 18._
+<lb/>It is also alleged that while on duty at
+<lb/>on or about , 18 he was disabled byon or about LA
+<lb/>-  ?
+<lb/>and was treated in hospitals of which the names, locations, and dates of treatment.are as follows:'.
+<lb/>In case of the above-named soldier the War Department is requested to furnish an official statement of the
+<lb/>enrollment, discharge, and record of service so far as the same may be applicable to the foregoing allegation,
+<lb/>together with full medical history. Please give the rank he held at the time he is claimed to have incurred the
+<lb/>disability alleged, and if records show that he was not in line of duty during that period, let the fact be stated.
+<lb/>Very respectfully, —
+<lb/>/7 :
+<lb/>The Officer in Charge of the
+<lb/>Hecord and Pension Division,
+<lb/>War Department.
+<lb/>Commissioner.
+<lb/>19413 b—50 m
+<pb n="59" facs="#page-058"/>
+<lb/>WAR Department,
+<lb/>RECORD AND PENSION DIVISION.
+<lb/>RespectfvMy returned to the Commissioner^ ̂ -
+<lb/>r- /■
+<lb/>186(/y
+<lb/>X  -
+<lb/>The medial records show him treated as
+<lb/>fol^^s
+<lb/>CTtCZAYCjVO, . j._
+<lb/>and during that period the rolls show him
+<lb/>present
+<lb/>By authoriiyy&gt;f the Secretary of War;
+<lb/>Capiain and Ass't Surgeon, TfrS. Army.
+<lb/>„ . AUG 6 1890
+<lb/>fCOMMISSIONER OF PENSIONS.)
+<pb n="60" facs="#page-059"/>
+<lb/>PROOF OF DISABILITY.
+<lb/>NOTE.—This affidavit must be executed by a Commis8i&lt;%ed Officer, if possible, but if not possible to secure such'
+<lb/>evidence, then two of the soldier's comrades should testify.
+<lb/>STATE OP 0OUNTY OF SS:
+<lb/>On This. ..day of personally appeared before me, a
+<lb/>in and for the aforesaid County, duly autjrorized to administer^oaths,
+<lb/>1
+<lb/>.aged years, a resident of.
+<lb/>in the County of and State of y- ..who being
+<lb/>duly sworn according to law. state that.&gt;&lt;^..ifS^^D?^ acquainted with..,/^^C:*^^&lt;3'r7..M—
+<lb/>applicant for Invalid Pension, and know the said A.i....tobe the identical
+<lb/>A  fjJ . ''
+<lb/>person of that name who enlisted or volunteered as a l ...in Company C.:.a:x.x
+<lb/>Regiment of ,../.7 Vols., and who
+<lb/>A.*' [Died or was^scharged.j
+<lb/>^  about the day 186y^i-7
+<lb/>by reason of 'l-;."'j-' j i'Vi
+<lb/>[Here insert the reasonCof the soldier's discharge, if known; if not known, so state; or, if he died, so state.J
+<lb/>That the while in the line of his duty, at or near
+<lb/>the State of did, on or
+<lb/>[Here state the time and place a»d manner in which the wound or other injury was received, ̂escribe the wound or injury^ f-lie part 01 the
+<lb/>Regiment of.
+<lb/>ed oriSUired. and all the circumstances attending it. If^kness, state time and place when-Contracted what caused it, the
+<lb/>y't ^ !'T rT^rTT.o /-&gt;. y ''
+<lb/>That the facts stated are personally known to the affiant by reason oi[Here state affiant was with the ci^mand at the
+<lb/>^...y^Zi......iZ-. -Zr....
+<lb/>tini^he claimant contracted his disab^ty, or whether his knowledge was otherwise obtained. All the facts ̂ own to affiant relate to the
+<lb/>soldier's medical treatment for his disability while in the service should be stated, giving time ̂ d place, if possible.}
+<pb n="61" facs="#page-060"/>
+<lb/>And deponent further state that.,... well acquainted with the claimant, having known him for at
+<lb/>least., Sa.. and further, that A-^rr. knowledge of the facts above stated
+<lb/>derived from said acquaintance, and from having served of Company
+<lb/>•Regiment of. Volunteers from the...4^,frr!
+<lb/>day of ^ l86^tothe ;.day 186 3" And deponent
+<lb/>further state that the claimant was a sound and able-bodied man at ank^prior to enlistment, so far knew and
+<lb/>that.... totally disi^erested in this claim.
+<lb/>Post-office address of affiant is
+<lb/>[If Affiants sign by mark, two persons who can write sign here,]
+<lb/>.  y Z
+<lb/>-rrfrrTrr^..
+<lb/>[Signature of Affiant.] y
+<lb/>State op ..jucy:. .County of ss:
+<lb/>Sworn to and"subscribed before me this day by the above-named affiant , and I certify that I read said affidavit
+<lb/>to said affiant , including the words erased, and the
+<lb/>words..
+<lb/>and acquainted..,.« .&gt;^.&gt;'...^.^'.i6fith its contents before......&lt;iif^- executed the same. I further certify that I am in
+<lb/>\  f '
+<lb/>nowise interested in said case, nor I concerned in its prosecution; and that said affiant personally
+<lb/>known to me and that... ..credible person. / .
+<lb/>/f ̂  ^ Official Signature. -
+<lb/>/ C/^ official Clj!.̂racter.
+<lb/>•  JiT or -t -
+<lb/>(• 1 /
+<lb/>fva
+<lb/>Sq
+<lb/>-i tiyi § V
+<lb/>O
+<lb/>O i .
+<lb/>oa ^
+<lb/>2
+<lb/>r.i s: a
+<pb n="62" facs="#page-061"/>
+<lb/>Div.
+<lb/>Department of the InterigrK^^Sj
+<lb/>.  Bureau or Pensions,
+<lb/>licturn this letter with your rcfly.
+<lb/>Washington, D. G.,
+<lb/>aid i/u6- ̂ mi&amp;aa in /die^a^c/^ud/xaiw-n-n^l/ie a'im-^e cilsoicicw/n^
+<lb/>^lieaAe ̂ awxidA a AioyteTv.enl an ouJ-}z /laozdui-Tdlm^j &amp;eilcn^
+<lb/>X '
+<lb/>o/il I/m ̂ acid. otdAcn fiS'T^danai A7zoiUied^,e- v-aicUi^e la lAe inciai^^
+<lb/>^'cncc oi
+<lb/>ejloz o^e^id'Tj!'^tdr.aAc 6-e aA 6^isci^7c aAyiad'Siiiac'^z ')^d&gt;/'^ect'&lt;tp daded'y
+<lb/>aozd dedc^die ad- edcmi^/ ad- ̂- .o-a ca^z l/ie o'l-a/ui^e^ d-^m^dozrid^ ■ and exCenl
+<lb/>o-^l/ic didaiiiU'yy. \
+<lb/>i7n,'r?7xdta/e andf/dai^-^ anda^f-Axd- l/ie 6-ac/z SAid-
+<lb/>aiiii 6e a^z^naetadd.
+<lb/>(744—75 M.) 0—447
+<lb/>''{XidZddd Commissiojier.
+<pb n="63" facs="#page-062"/>
+<lb/>Post-office, address:.
+<lb/>l89-i-
+<lb/>In reply to your request I have to state that
+<lb/>yr 'jl aZ.
+<lb/>r  / ^:
+<lb/>CO^IMISSIONEB OF PENSIONS,
+<lb/>a '■
+<lb/>Washington, E. C.
+<pb n="64" facs="#page-063"/>
+<lb/>..Division,
+<lb/>|(nUri0r,
+<lb/>BUREAU OF PENSIONS,
+<lb/>ftj* Address: " Chief of the Record and Pension OtBce,
+<lb/>War Department. Washington. D. C."
+<lb/>^c(0vd and ffussion
+<lb/>WAR DEPARTMENT,
+<lb/>Washingtci^}^ , 189
+<lb/>Rnspeetfully returned to the
+<lb/>Commissioner of Pensions.
+<lb/>ie^ed^ee/ ADJUTAST
+<lb/>GENERAL U. S. A. a jf^otn ̂ Ae iecoieA
+<lb/>(Ay^'ce OA ̂  ̂Ae^iede^i^ d aAenoOj oti oi etAocdl
+<lb/>ASA&gt;f7
+<lb/>The rolls show that
+<lb/>(y'ViAAj 'WU
+<lb/>mentioned in the preceding endorsementU/^uS present
+<lb/>during the pmod named in that endorsement except
+<lb/>03 follows : (A/h/y 5-^/ 1) yi-yxty A-''^AaXP__
+<lb/>During the period named thesi^ion^the company
+<lb/>and regiment was as follon
+<lb/>By authouitt of the Seoretaky op War ;
+<lb/>Commisaioner.
+<lb/>Colonel, U. S. Army, Chief of Office.
+<lb/>3138 h-^lOO m fi "22
+<pb n="65" facs="#page-064"/>
+<lb/>PR@@F @P B5§AB5Mf Y.
+<lb/>NOTE.- This afSdavit must be executed by a Commissioned Ofit.cer, if possible, but if not possible to secure such evidence,
+<lb/>then two of the soldier's comrades should testify.
+<lb/>State oi. , County of , ss:
+<lb/>On this /p. A'aj ot.. , , A. D._, , personally appeared before me, a
+<lb/>in and for the aforesaid County, duly authorii^ed to administer oaths,
+<lb/>aged-.^iH years, a resident of -
+<lb/>in the County of and State of — and
+<lb/>.. aged. /. years, a resident of -.
+<lb/>in the County of and State of - -. who being
+<lb/>duly sworn according to law, state ih&amp;ipL^. .acquainted
+<lb/>applicant for Invalid Pension, and know the said ^PPJ. to be the identic^
+<lb/>person of that name who enlisted or volunteered as a. in Company '. T.Y.j,./.Y. ./T^.
+<lb/>Kegiment of H" ay. . Vols., and who.. A-^rryrYTf.,
+<lb/>(/ A [Died or was discharged.]
+<lb/>on or about the. J.P}. day Qi..-&lt;^AAr?Y'. , 186^
+<lb/>by reason of . i'TYYIY^.
+<lb/>[Here insert the reason of the ̂ dler's discharge, if known; if nofknown, so state; or, if he died, so state.]
+<lb/>That the said. .while in the line of his duty, at or near
+<lb/>in the State of did, on or
+<lb/>about the-^^.m. -.day of , ISsS , become disabled in the following manner, viz.:
+<lb/>[Here state" the"tinie and place and mannei' tn which the wound or other i"D)fflif»WlMi'f^®W»94W@«™''wounti or injury, the part of tl^^dy wounded
+<lb/>Tt-i—&lt;'«-*' ... j /^Arr^^TT- YtPA -*...
+<lb/>or i"njured,"and" al"l"t"h"e"clr"c"u"ius"tuuces attending it. If sickness, state the time and placg"Wlietr-«W«^^ caused it, the name of the slckness^nd how
+<lb/>fd ,
+<lb/>by reason of
+<lb/>That the facts stated ale personally known to the affiants by reason of — ^ —-
+<lb/>[Here state whether affiant was with the command at the
+<lb/>his disability, or was otherwise obtained. afflan^elati^^^^ti^
+<lb/>*lliuiei^m^irai^^eatmenrtolifsdf8abllity"whjleiJ^^erviiiesho^testated,'gi"vingtlmeandpl"ace, If possible.]
+<lb/>CyAhrPLsriryy^.» - -
+<pb n="66" facs="#page-065"/>
+<lb/>I  r\\
+<lb/>A  q
+<lb/>V'^ 57
+<lb/>/  .&lt;WAnd deponent/ further state that well acquainted witlvt%''^ai^S{^,,^^^^ known him for
+<lb/>at least,.•^^feA*rr^-t^tA'?V-,-(^-4-.J.y&lt;fe-i-and further, that...^'(^AA-'.....knowledge of the facts above
+<lb/>stated derived from said acquaintance, and from having served .. .of Company. ^
+<lb/>of the. .. Regiment of. ..Volunteers, from the
+<lb/>day of../^^f^'i(WrV^:^...18rr&gt;^ to the... day of....^?Vt^. ... 18^&gt;^ to the.../.^./^-day of ...IStk/. t-And deponent
+<lb/>further state that the claimant was a sound and able-bodied man at and prior to enlistment, so far as ̂ ^kir^^and
+<lb/>that.^^w. .^^VtVr totally disinterested in this claim.
+<lb/>Pc^toffice address of affian^is.
+<lb/>(If Alflants sig-n by'mark,'wo persons v/ho can wrlfcsij^n here.)
+<lb/>State —
+<lb/>^  k^-hx.
+<lb/>(Signature of Affiants.)
+<lb/>, County of— , ss:
+<lb/>■with its contents before. .aaah .. .executed the same. I further certify that I am in nowise interested
+<lb/>vSworn to and subscribed before me this day by the above-named affiant , and I certify that I read said
+<lb/>affidavit to said affiant including the words - .erased,
+<lb/>and the wards. added, and acquainted
+<lb/>"with its contents before .executed the same. I further certify that I am in nowise interested
+<lb/>in said case, nor am I concerned in its prosecution; and that said affiants — —personally known to me,
+<lb/>and that. . credible person.^ * "^^^7
+<lb/>(Officiai Signature.)
+<lb/>and that.. ...VW.. credible person.^ * "^^^7
+<lb/>(Official Signature.)
+<lb/>(O^iBiai dharacter.)
+<lb/>j  Clerk of the County Court, in and for
+<lb/>who hath signed his name to the foregoing declaration and affidavit, was at the time of so doing
+<lb/>in and for said County and State duly commissioned and sworn;
+<lb/>that all his official acts are entitled to full faith and credit, and that his signature thereunto is genuine.
+<lb/>Witness my hand and seal of office, this day of IgS^i'Witness my hand and seal of office, this.
+<lb/>[L. S.J ^lei|h of the.
+<lb/>A^oTE.—This should be sworn to before a CLERK OP GOLTRT, N"OTAR\ PUBLIC, or JU.STICE OB THE PEACE.
+<lb/>If before, a JUSTICE or NOTARY, then CLERK OB COUNTY COURT must add his certiflcate of character hereoii, and not
+<lb/>Oil a separate .slip of paper.
+<lb/>S-'
+<lb/>V^i
+<lb/>5 fl
+<lb/>6
+<lb/>0
+<lb/>r SH W
+<lb/>U
+<pb n="67" facs="#page-066"/>
+<lb/>fReturn this letter with yonr refly.
+<lb/>f  I
+<lb/>Department of the lNTERio^^&gt;ni^.-y
+<lb/>/  Bureau of PEKsioivrs,
+<lb/>Washington, D. G.,
+<lb/>aid /t/id r^m^eaa irb -lAe ad^udf caiw-oi. ajf tAe a/ioyile ciud eiaim^
+<lb/>^liea&amp;e ̂ wR-nid-A a dlOyleaneotl an ctUn Aaoxdalwtcn^^ d-e-Uan^
+<lb/>all -tie ̂ acM tUdAtn, ̂ atm jfie'}i-&amp;anal AnmUl&amp;d^e v-elaiid&amp; la llie ancu')^=
+<lb/>din ̂awRn^e^il^' dilc-a^d Ip- ad^ ad yialdlAle'in 'miypeMda Idaledy
+<lb/>■ - ■ 'a/nddedodlf. aA clxmA/- ad- ̂ aa-' can llie naluw^ da^niyilam.A^ ̂ and cadlenicadtcnl.
+<lb/>d didalililn.
+<lb/>'ouof (mmcdcala andaM')'-, tnda^Aed ((yiom'lAe lad ajl lAid lello-^,
+<lb/>tUill le ay/iwcialed.
+<lb/>'&gt;iCAytCCl/ull^^
+<lb/>CldCdtm Commissioner.
+<lb/>(744—75 M.) 0—447
+<pb n="68" facs="#page-067"/>
+<lb/>Post-ofjice address
+<lb/>In reply to your request I have to state that
+<lb/>C0iHiTXJ««X03^IiJS OjP pensions,
+<lb/>Washington, 2&gt;. C.
+<pb n="69" facs="#page-068"/>
+<lb/>,  Department of the iNTERioM^^i
+<lb/>(Return this -letter with your reply.
+<lb/>Bureau of PEmsioivrs,
+<lb/>Washington, D. C.,
+<lb/>^dewie ̂ tmnid-A a dlaieme'nl {/n o-iUn AeUin^
+<lb/>ad tAe yact6. tUUAiJz ̂ aim /im&amp;ancU Ano-uldcl^e o^e/alc'ile la i/ie a7zcia}i="
+<lb/>7^cmcc oy -
+<lb/>cJ^?. o'eyJy^ ydfa4r. 6e- ad dyieciyw ad yiadAfd/e idi wdy^ecl la daledy
+<lb/>,  and dcdcoH/f/e ad c/coAdyy ad-yaa caoz lAe TialuTt-e-^ dyjnyilanid^ and exle^xl
+<lb/>ine
+<lb/>^o-aa-i- (d7m.edca,lfi anda-'d^y cndao^R-d-^^ynov l/iedac/i' oy^/iid dlled'^^
+<lb/>a/id 6^ ayfiTiccio/ldd.
+<lb/>o^cAyteciyady^
+<lb/>Commissioner,
+<lb/>(744—75 M.) 0—447
+<pb n="70" facs="#page-069"/>
+<lb/>Post-office address:
+<lb/>In v^ly to your request I have to state that .
+<lb/>'Mfr
+<lb/>COMMISSIONBR OF PENSIONS,
+<lb/>j.
+<lb/>U
+<lb/>Washington, 2&gt;. Ci
+<pb n="71" facs="#page-070"/>
+<lb/>C^XX No. 10.
+<lb/>^c^artment of| lite |lttleriort
+<lb/>BUREAU OF PENSIONS,
+<lb/>ie^/ued^ec/ ADJUTANT
+<lb/>GENERAL U. S. A. a ienoiA/iom, Me
+<lb/>ad Jo jAeAiedence oi aAdencOj on oi aAoai
+<lb/>Record and Pension Division,
+<lb/>Washington, APR S3..L89I.. IS
+<lb/>Respectfully returned to the
+<lb/>Commissioner of Pensions.
+<lb/>The rolls show that ^ ^
+<lb/>^hA
+<lb/>mentioned in the preceding endorsement (J^^^^present
+<lb/>during the period named in that endorsement exceph
+<lb/>M-.-rA.J6£My^ANtl--i
+<lb/>c/ jAe dJaJcon, aJ jAaJ .o/aJe, jcAjAe .--
+<lb/>During the period named the station of the company
+<lb/>and regiment was as follows :
+<lb/>acm tJT o.
+<lb/>.r
+<lb/>"  Commissioner,
+<lb/>1944-^0 m. , 6—222
+<lb/>By authority of thk Secretary of War:
+<lb/>i Surgeon, U. S. Army.
+<pb n="72" facs="#page-071"/>
+<lb/>GENEKAL AEEIDAYIE
+<lb/>(5^5.
+<lb/>For the testimony of Employees or Neae Neighbors of soldier (other than relatives) vrho have known him
+<lb/>before his enlistment, or since his discharge and return from the army.
+<lb/>)State of .^.l£uJr. , County of , ^ , ss:
+<lb/>In th^atter of the application for pension of.
+<lb/>(hrrt^.L. larr.l..2r:i^.
+<lb/>Ok Tms^5 .^t^. dav of A. D., , personally appeared before meOn This^.5.Si dav of Lf/.kVr&lt;1^.. A. D., , personally appeared before me
+<lb/>aforesaid County, duly authorized to,administer oaths,
+<lb/>aged years, a resident of.
+<lb/>in the County 3-^*^ State of ^in the County of ..j. fSAr. /t. SEd State of
+<lb/>whosaPost Office address is U\.LC..k:J&lt;'.' &amp;.
+<lb/>fgeA..A.^.. . years, a resident of.
+<lb/>well known to be reputable and entitled to credit, and who being duly sworn, declared in relatioi^ to aforesaid case
+<lb/>a,R follows: That Oskc.. .have heen well and nersonallv acanaintedas follows: That Ml.. -have been well and personally acqaainted with a
+<lb/>for... 3 A'...... years, and years respectfully, and that
+<lb/>o/
+<lb/>' Instructions—Read
+<lb/>Carefully.
+<lb/>i
+<lb/>THK WITVKS8E8 MUST
+<lb/>l8t. Their respective
+<lb/>ages and occupation: the
+<lb/>leiigtn of time they have
+<lb/>Imve known the soldier,
+<lb/>Hiul ill what year or years
+<lb/>of I lie said peiioa they
+<lb/>have einpioyed. worked
+<lb/>wither forhini, or .ived
+<lb/>in theName neighliorliood
+<lb/>with him. and how near
+<lb/>to liiru.
+<lb/>2«l. If they haveemploy-
+<lb/>ed or worked with him
+<lb/>since his rerurii from the
+<lb/>Hrmy, they should state
+<lb/>where it was and at what
+<lb/>bUKlness; or, if I hey ha ve
+<lb/>known him as neighbors
+<lb/>only, they should state
+<lb/>about what distance from
+<lb/>him they lived; how fre-
+<lb/>(xueiitly. on an average,
+<lb/>each week, mouth, or
+<lb/>year, they saw him and
+<lb/>coversed with him, and
+<lb/>how intimate they were
+<lb/>with bim during this
+<lb/>time, and from what dis
+<lb/>ease or disability he has
+<lb/>Huttered during all the
+<lb/>time they employed hlin,
+<lb/>worked with him, or lived
+<lb/>near him,and how severe
+<lb/>ly; whether at any time
+<lb/>during this period he was
+<lb/>obliged to stop work, was
+<lb/>confined to his bed or
+<lb/>house, or was wholly un
+<lb/>able to do any manual
+<lb/>labor because of his alleg
+<lb/>ed disabilities, and give
+<lb/>dates, as uearas recollect
+<lb/>ed, when such attacks
+<lb/>occurred, how long they
+<lb/>lasted, and how severe
+<lb/>they were. In this con
+<lb/>nection, if the wiinesses
+<lb/>have been his employers,
+<lb/>or have worked with or
+<lb/>for him, they should state
+<lb/>about what proportion of
+<lb/>a sound, able -bodied
+<lb/>man's work he was able
+<lb/>to do—whether y^,
+<lb/>y^. or as the case may
+<lb/>have iieen; what his
+<lb/>actual earnings were, and
+<lb/>whether or not the wages
+<lb/>paid him were less in
+<lb/>amount, and how much
+<lb/>less, on account of his in
+<lb/>ability to labor, than
+<lb/>were paid to others phys
+<lb/>ically sound, and doing
+<lb/>the same kind of work.
+<lb/>They should also state
+<lb/>how they are able to say
+<lb/>what his disabilities have
+<lb/>been and are now, and
+<lb/>they should describe fully
+<lb/>and clearly the sj'inptons
+<lb/>as they appear to them In
+<lb/>his case; m fact, describe
+<lb/>his physical condition
+<lb/>luily during each year of
+<lb/>their acquainiance with
+<lb/>him.
+<lb/>L
+<lb/>k
+<lb/>~  yf
+<pb n="73" facs="#page-072"/>
+<lb/>/  16BI
+<lb/>t'Q 9 ■ ■ 1 i 1
+<lb/>. further declare that ..../^Kr no interest in said case and..j^^...^?^r^':^rrr....not concerned in
+<lb/>its prosecution.
+<lb/>[If Affiants sign by mark, two persons who can write sign here.] ' (.Signature of Afflants.jiir
+<lb/>NOTE.-Tlie witnesses, if not themselves equal to the task of drawing the affidavits should go to some Notary
+<lb/>Public, Justice of the Peace, or other officer or competent person, and have the blank filled out and properly exeoutea.
+<lb/>State op. County of\^
+<lb/>Sworn to and subscribed before me this day by the above-named affiant , and I certify that I,read said affidavit
+<lb/>to said affiant , including the words.
+<lb/>and the words..
+<lb/>.erased,
+<lb/>ard acquainted with its contents hetoie./..//^ executed the same, I further certify that I
+<lb/>am in nowise interested in i^aid^ase, nor am I concerned in its prosecution; and that said affiant .. .personally
+<lb/>known to me, and that ...credible person.
+<lb/>.J.
+<lb/>[ Official Si^iature, i
+<lb/>afffficial Cliara^er.J
+<lb/>Clerk of the County Court in and for
+<lb/>aforesaid County and State, do certify that ^irrT. .^... Esq.,
+<lb/>who Imth" siraed his m^e to the foregoing declaration and affidavit, was at the time of so doing
+<lb/>in and for said County and State duly commissioned and sworn;
+<lb/>that all his official acts are entitled to full faith and credit, and that his signature th^'eunto is genuine.
+<lb/>^  A r .Witness jmy hand and seal of office this d^y ot -yf-
+<lb/>[ L. S. ] Clerk of the.
+<lb/>NOTE.—This should be sworn to before a CLEEK OF COURT, NOTARY PUBLIC, or JUSTICE OF THE PEACE.
+<lb/>If before a JUSTICE or NOTARY, then CLERK OF COUNTY COURT must add his certificate of character hereon, and
+<lb/>not on a seperate slip of paper.
+<pb n="74" facs="#page-073"/>
+<lb/>Vyj 3 DEPARTMENT OP THE INTERIOR,
+<lb/>l/riAAy. BufiEAU OF PENSIONS,
+<lb/>Washington, o. o'.,
+<lb/>Return this letter with your reply.
+<lb/>jdi'R&amp;AeR- aid ̂Aid- Sda'mati loz ddeR-mronanp ^Ais o' neiaid- o-^ tAe
+<lb/>aio'iie endlied ciatm ̂o'R- ̂ zend-con^ Ae Aind enoa^A lo and.uleR- in ̂ owr-
+<lb/>o-iO'iz /landulR-iiMz^ i/ie ^oAAorulan^ t^ueAimozd-j ^itiMz^ Tno'R-e ca'in^Aie
+<lb/>detadA dian a^idaild a^oRdA.
+<lb/>v-u R-eAfzecuii
+<lb/>Commissioner.
+<lb/>nye
+<lb/>When did yon first see claimant after he returned from the army, and how do you fix the date?
+<lb/>Of u'hat disability did he complain, and how was he affected ?
+<lb/>,swer:
+<lb/>How frequently have you seen h'm siiifccryour first acquaintance f
+<lb/>Answer: -
+<lb/>If he has continued to suffer with such disability, please describe the symptoms zvhich were
+<lb/>apparent to you, and state to what extent he has been disabled for manual labor therehy during
+<lb/>each year? '
+<lb/>Answer:
+<lb/>ifd'
+<lb/>My in-eans of knowing the factsj^ the case are these:
+<lb/>COMMISSIONER OF P&amp;NSIONS,
+<lb/>Washinfftonf D. C.
+<lb/>Very respectfully,
+<lb/>3011 b—50 m
+<pb n="75" facs="#page-074"/>
+<lb/>DEPARTMENT OP THE INTERIOR,
+<lb/>&gt;^&lt;2^ Bureau of Pensiokts,
+<lb/>to. Washington, D. o.,
+<lb/>Washington, d. o.,
+<lb/>H yv,. y
+<lb/>Return this letter with your reply.
+<lb/>^WR-^/icR- aid iAiA ^^wmaa aiz deteO'f-mincn^ iAe TneR-id o-^ tAe
+<lb/>a'ltail6 endUed claam ^zeoxd-ion^ S-e /zi/nd enoa^'/i lo anAule'R- m ̂yu-'R-
+<lb/>otRiz '/landuiR-di'Ti.^ i/ie ^cd'^aulaiz^ caTnfi'^eie
+<lb/>detaid lAan ̂ouv- a^idailU a^ay-dA.
+<lb/>Commissioner.
+<lb/>Wlien (lid you first see claimant after he returned from the army, and how do you fix the date?
+<lb/>Ansiver:
+<lb/>Of luhat disability did he complain, and how was he affecte^ ^
+<lb/>tdJlU......
+<lb/>How frequently have you seen him since your first acquaintance? ,
+<lb/>Ansiver: 'JtcsAAhd. :
+<lb/>If he has continued to suffer with such disability, please describe the symptoms ivhich were
+<lb/>apparent to you, and state to ivhat extent he has bepn disabled for manual labor thereby durinfi
+<lb/>each year ̂ ^ ,
+<lb/>Answer:
+<lb/>Answer
+<lb/>My meaus of knowing the facts of the case a,re these:
+<lb/>COMMISSIONER OF PENSIONS,
+<lb/>Washinr/ton, D. C.
+<lb/>Very respectfully,
+<lb/>3011b—50 m
+<pb n="76" facs="#page-075"/>
+<lb/>GENEKAL AEE
+<lb/>For the testimony of Employers or Nbab Nbighbors of soldier {other than relatives) who have known him
+<lb/>before his enlistment, or since his discharge and return from the army.
+<lb/>State o/ , County of , ss:
+<lb/>In the matter of the application for pension of.
+<lb/>On This day of A. D., 18^/^ personally appeared before me
+<lb/>in and for the aforesaid County, duly authorized to administer oaths,
+<lb/>aged ..years, a resident of
+<lb/>in the County of and State of
+<lb/>whose Post Office addrespja .,*./.
+<lb/>.y/^.... aged..-^^..^... . years, a resident ot
+<lb/>in the County of and State of
+<lb/>whose Post Office address is...&lt;{4:fe..&gt;f:^..^..
+<lb/>well known to be reputable and entitled to credit, and who being duly sworn, declared in relating to aforesaid case
+<lb/>as follows: That.&lt;4:^..have been well and personally acquainted
+<lb/>for....^.uJ..... years, and.....27T 15^years respectfully, and that
+<lb/>Instructions—Read
+<lb/>Carefully.
+<lb/>THKWITNKSSKS MUST ^
+<lb/>statb:
+<lb/>Z^
+<lb/>lo do—whether
+<lb/>wUh tUm /~ ^ Z A / ^
+<lb/>ouid'^taie
+<lb/>al! the CZ CZ /Ae A cfGT^y y
+<lb/>ni%rlived AA Ac-C- A ZZZ) /-/Z O^A A-Z^Z.-C^ Zk AZe Az^AAT-i^t Z AZtiCjAjw^sevei-e- / y 7 " J / /"/ ""Z
+<lb/>odhewaa zzA^AzzC CV /2z^ At 7' tC~LeJ /ZACzCZcZ Z&gt;ZzZ ZZ-AZz of. dy/yt^UyAc^
+<lb/>work, wae T' ■
+<lb/>wholly hu- AcjS ^ ZZi'Z tyZi^-ty A z, A C^J Z ( f A-e" A A AZZ/c_iS
+<lb/>y tnaiiual Z y .. 1/
+<lb/>'aad'^give AAAtAl, A Z Zz- ̂ -- z A^ AACA Acz^t.-^ ;
+<lb/>i recollect- z /) ' k-k \ ' Z tZZ z 'Li'g^toey AA A. I A&lt;^ CA ^ /A'AzZeA^Zzz^ J'A~A \ j
+<lb/>wiiueeses ^y^^Z zAc'z Z zr ZzA AAv^zyA/ycA AA. , . AA^A At:^ Aczty Ac-Pt aT.zJ-t-&lt;. CAzZzzzz.AcA"inpioyetb. , . X y . I
+<lb/>of woi^® Axj O-P^. /err- A/C aA ti^A'^zCZZ^zP A^ AzS^z) Azz^A zAecz^c^ CpABz,also state / / B A / /a /? a a ■
+<lb/>UUes'have t / A ^3r ^ ac^ AfAcJ
+<lb/>SfSS^ zA^/y W/ - A ^ B, z A A
+<lb/>eyinptona &lt;7 ZZpC ^ PZ CTP-CP:^ r ZZ Zt-ZZZZ- /CjC- Zz z:P-£zf rpzy-p pzc. Zl^CZ-yi pcZ^ Zpjz^ ,to them in ' ' ^ J ^ f ^ A , ^ a
+<lb/>'eoS AfAzz^^ze A AAAA^ Zzzpzze. Ao zCjAAz! /^ /fpzj A-A-zzpi^ !
+<lb/>Lch year of ' / ' i
+<lb/>tAA Az^zzY- AAzczz cAu zA-'^^ppz.
+<lb/>zp-zzf •f &lt; Azcz-p PCZ^ . .Ajl
+<lb/>ZYzz-Z At&gt; y-e, zA-pzy
+<pb n="77" facs="#page-076"/>
+<lb/>. further declare that- I interest in said case and..4^'ki?^e:.../^!^.....not concerned in
+<lb/>its prosecution.
+<lb/>(U Affiants sign by mark, two persons who can write sign here.]
+<lb/>A
+<lb/>(.Signature of Affiants.]
+<lb/>Note.—The witnesses, if not themselves equal to the task of drawing the affidavits should go to some Notary
+<lb/>Public, Justice of the Peace, or other ollicer or competent person, and have the blank filled out and properly executed.
+<lb/>State of. ., County of..
+<lb/>Sworn to and subscribed before me this day by the above-named affiant ,^and I certify that I read said affidavit
+<lb/>to said affiant;? , including the words.
+<lb/>and the words.
+<lb/>, erased,
+<lb/>and acquainted. with its contents before .rf^i^^^T executed the same, I further certify that I
+<lb/>am in nowise interested in said case, nor am I concerned in its prosecution; and that said affiant ...&lt;&lt;^^i^ personally
+<lb/>known to me, and that credible person. /Z / -j .
+<lb/>Jr [OtticiaJ SIguature, j
+<lb/>^
+<lb/>[Official Cliaracter.J
+<lb/>Clerk of the County Court in and for
+<lb/>aforesaid County and State, Ho certify that Esq.,
+<lb/>who hath signed his name to the foregoing declaration and affidavit, was at the time of so doing
+<lb/>i  *
+<lb/>■  ij} and for said County and State duly commissioned and sworn;
+<lb/>that all his official acts are entitled to full faith and credit, and that his signature thereunto is genuine.
+<lb/>Witness.my hand and seal of office this..
+<lb/>f  . •
+<lb/>day of ; 188
+<lb/>f  f. y]. ^
+<lb/>[ L.- S. ] Clerk of the.
+<lb/>NOTE.—This should be sworn to before a CLERK OF COURT, NOTARY PUBLIC, or JUSTICE OF THE PEACE.
+<lb/>If before a JUSTICE or NOTARY, then CLERK OF COUNTY COURT must add his certificate of character hereon, and
+<lb/>not on a seperate slip of paper. ;
+<lb/>£ o
+<lb/>D  .
+<lb/>DQ a
+<lb/>g 0
+<lb/>g Z
+<pb n="78" facs="#page-077"/>
+<lb/>TAK}^ NOTICE This affidavit should, If possible, be In the handwriting of the affiant; the marginal Instructions should be care
+<lb/>fully observed before writing out the statoiuent. AU the facts la posseslon ot affiant as to the origin and contluance of the disability
+<lb/>should be fully set forth, and the dates of treatment should be specifically given. If the affidavit Is prepared from memoranda in pos
+<lb/>session of the physician, that fact should be stated.
+<lb/>■  State of ./j C i ..l. .f..t.l A..\&gt;^Qou7\iy of ss:
+<lb/>III tlie Pension Clami, No
+<lb/>lateot 4.'?;.'...?. H...
+<lb/>Company and reglmentofa^vice, if in tho army; m- vessel and rank, if the navy.
+<lb/>Personally came before n^a.. in and for the aforesaid
+<lb/>County and State citizen of
+<lb/>whose Post-Offlce address .!. As..I. Aff...... C! .V..fe. " iC^ ̂  ^
+<lb/>County and State citizen of
+<lb/>whose Post-Offlce address is.(.whose Post-Offlce address is. KJ. \ ^ X
+<lb/>^  / ■ / /
+<lb/>well known to me to be reputable and entitled to wedit, and who being; duly sworn, declares in relation to the afore
+<lb/>said case as follows:
+<lb/>That he U a practmsng phy,sici3,ii, and that he has been acquainted wtli said Soldier for about... years,
+<lb/>and that ...4t,.C„... ./(..Cf.:k. ....A^..C..C..'...&gt;.. ..■f..^.'ir...fJ^..A..e ^(Here embody all the facts known to the affiant in accordance with the mai'gi^l instructions. No erasures/^ Interlineations
+<lb/>[/
+<lb/>will be permitted unless the magistrate oertiites in hisjurat that they were made before executing the paper.)
+<lb/>JlZf
+<pb n="79" facs="#page-078"/>
+<lb/>He further declares that he has been a practitioner of medicine for.
+<lb/>he has no interest, either direct or indirect, in the prosecution of tluS claim.
+<lb/>.. .vears, and that.
+<lb/>SWORN to and subscribed before me this.
+<lb/>[Affiant's Give rank and service, if in the army.J
+<lb/>7^^.
+<lb/>A. D. 18^.fl...and I hereby certify that the affiant i.s a practicing physician in goodl'professional stand
+<lb/>ing; that the contents of the above declaration, &amp;c., were fully made known to hira before swearing,
+<lb/>including the words TTTT. erased, and the words
+<lb/>indirect, in the prosecution of this claim.
+<lb/>added; and that I have no interest, either direct or
+<lb/>[Magistrate'sSignature ]
+<lb/>(Official Chafl'acter.)
+<lb/>Clerk of the County Court in and for aforesaid
+<lb/>County and State, do certify that Esq., who has signed his
+<lb/>I to the foregoing affidavit was at the time of so doing
+<lb/>in and for said county and State, duly commissioned and sw^n:' that all his official Mts are entitled to full faith and
+<lb/>■ % .
+<lb/>credit, and that his signature thereunto is genuine. ' , * \
+<lb/>Witness my hand and seal of office, this day of
+<lb/>Clerk of the
+<lb/>188
+<lb/>Note.—This should be sworn to before a CLERK OF COURT. N^T&amp;^Y•;PBte)EOf JUSTICE OF THE
+<lb/>PEACE. If before 'a JUSTICE or NOTARY, then CLERK OF COUNTY COIJbl'.^W®t Jfd his certificate of official
+<lb/>character hereon, and not on a separate slip of paper. .
+<lb/>S  0
+<pb n="80" facs="#page-079"/>
+<lb/>f
+<lb/>/' y
+<lb/>Z
+<lb/>'
+<lb/>zfy
+<pb n="81" facs="#page-080"/>
+<lb/>CHARLES E. EAIRMA924 PENNSYLVANIA A"W"ashingtori) ID;^ 1 r- S'i ,LKKf-■R^ k
+<pb n="82" facs="#page-081"/>
+<lb/>JPIIYSICI^4&gt;_]Sr'S ^FFID^VIT.
+<lb/>TAKE NOTICE—This affidavit should, If possible, be In the haadwriting ot the affiant; the marginal instruotions should be care
+<lb/>fully observed before wrltUig out the statement. All the facts In possesion o( affiant as to the origin and coutluance of the disability
+<lb/>should be fully set forth, and the dates of treatment should be specllloally given. If the affidavit is prepared from memoranda in pos-
+<lb/>session of the physician, that fact should be stated.
+<lb/>ss:State of UZmam:. iinrf/'i County of - -
+<lb/>In the Pension Claim, No.. of...
+<lb/>late of Of Company and y^imenjE^ service, if in th^i^y; or vessel and rank, if the navy.
+<lb/>Personally came before me a. in and^for the afor^^d
+<lb/>County and State... oitizen of ki-A./.-i...
+<lb/>f In the army; or vessel and rank, if the navy.
+<lb/>Personally came before me a.)
+<lb/>County and State....^
+<lb/>in and for the aforesaid
+<lb/>ya citizen of.
+<lb/>whose Post-Office iidclres&lt;
+<lb/>well known to me to be reputable and entitled to credit, and who being duly sworn, declares in relation to the afore
+<lb/>said case as follows: /
+<lb/>That he is a practicing physician, and that he has been acqiiainted with said Soldier^for abou^.^f^CTT^^^ears,
+<lb/>and that ^i-^.(Here embody all the facts known to the afflantyin accordance with the marginal InStructlo^.' No erasures or Interlineations
+<lb/>will be permitted unless the magistrate certifies In his jurat that they were made before executing the paper.)
+<lb/>f. -ffL
+<lb/>NOTICE.
+<lb/>■| he physlcirtu'ti
+<lb/>AttldaviL should
+<lb/>show the tollow-
+<lb/>iiiX tMcr&gt;: ]
+<lb/>Ijst. lielher or ■
+<lb/>not lie Itnew iln
+<lb/>tioldier prior to
+<lb/>eiiHsnnenl; th« I
+<lb/>leiigtli oi lime he
+<lb/>has known hiru ; f
+<lb/>how imiinaiely, L
+<lb/>and what oppor- ■ ■■■-■
+<lb/>tunirieis he hau
+<lb/>had of oliserviug
+<lb/>iti« physical con-
+<lb/>dition, whether aa
+<lb/>ills family physl-
+<lb/>(dan or aa a iietgii;
+<lb/>i)or; and how near
+<lb/>he has lived to
+<lb/>iiiin. If he knew
+<lb/>that the soldier i
+<lb/>was a sound man
+<lb/>at enlistment he
+<lb/>should so stale,
+<lb/>adding,il-true,chat (-
+<lb/>had he been un
+<lb/>sound he wiuid
+<lb/>liave known it. ^
+<lb/>2d. if lie treated
+<lb/>cluiinant whliO in
+<lb/>the service, either
+<lb/>as his regimental - -
+<lb/>surgeon or while
+<lb/>claimant was
+<lb/>home on furlough,
+<lb/>that factshould be
+<lb/>stated. The claim-
+<lb/>ant's physical con-
+<lb/>diiioii at such .
+<lb/>limes should be
+<lb/>Clearly shown, as
+<lb/>well as the nature
+<lb/>of Ills disability —
+<lb/>and dates of treat
+<lb/>ment. !
+<lb/>8d. If he has
+<lb/>treated soldler
+<lb/>slnce discharge he
+<lb/>should so stale,
+<lb/>giving the date of
+<lb/>his lirst treat
+<lb/>ment; what his
+<lb/>physical condition
+<lb/>was at the time, ^
+<lb/>with! a complete /
+<lb/>diagnosis of the V
+<lb/>disability; the
+<lb/>.period during
+<lb/>which he treated
+<lb/>him should be /
+<lb/>stated, with dates,
+<lb/>as near as possible
+<lb/>of the prescrip- /
+<lb/>tiODS. -
+<lb/>4lli. The extent
+<lb/>to which claim
+<lb/>ant has been able
+<lb/>to perform man-
+<lb/>ual labor since dis
+<lb/>charge.
+<lb/>C
+<lb/>f
+<lb/>iX
+<lb/>fkZAZ.
+<lb/>aZ- Zh
+<lb/>X.i
+<pb n="83" facs="#page-082"/>
+<lb/>He further deelares that he has been a practitioner of medicine for. ..years, and that
+<lb/>he has no interest, either direct or indirect, in tlie prosecution of this claim.
+<lb/>SWORN to and subscribed before me this.
+<lb/>[Affiant's signature. Give ranlt and service, if in the army.J
+<lb/>.day of
+<lb/>A. D. 18y^...and I hereby certify that the affiant is a practicing physician in good professional stand
+<lb/>ing; that the contents of the above declaration, &amp;c., were fully made known to him before swearing,
+<lb/>indirect, in the prosecution of this claim.
+<lb/>added; and that I have no interest, either direct or
+<lb/>[Magistrate's vSignature'^f^
+<lb/>., Clerk of the County Court in and for aforesaid
+<lb/>County and State, do certify that •. .7:^.7:
+<lb/>name to the foregoing affidavit was at tlie time of so doing
+<lb/>v^p^hfts signed his
+<lb/>and for said county and State, duly commissioned and sW^rn: that all his official acts are entitled to full faith and
+<lb/>credit, and that his signature thereunto is genuine
+<lb/>Witness my hand and seal of office, this.,jj4..... dav of.
+<lb/>[L. S.] Clerk of the.
+<lb/>Note.—This should be sworn to before a CLERK OP COURT. NOTARY PUBLIC, or JUSTICE OF THE
+<lb/>PEACE. If before a JUSTICE or NOTARY, then CLERK OP COUNTY COURT must add his certificate of official
+<lb/>character hereon, and'not on a separate slip Of paper. ., l
+<lb/>«; o
+<lb/>f-| ^ z
+<lb/>CQ ^
+<lb/>Cl fe-J l~
+<lb/>Pd , ta SI O
+<lb/>p  tyo ^^ § fe s
+<lb/>ws Kl-J 5K p- ^
+<pb n="84" facs="#page-083"/>
+<lb/>Ineert character
+<lb/>and number of
+<lb/>claim.
+<lb/>Name and rank
+<lb/>of claimant.
+<lb/>Attention is invited to the outlines of the human skeleton and figure upon the back of
+<lb/>this certificate, and they should be used whenever it is possible to indicate precisely the location
+<lb/>of a disease or injury, the entrance and exit of a missile, an amputation, &amp;c.
+<lb/>The absence of a member from a session of a board and the reason therefor, if known, and
+<lb/>the name of the^ absentee, must be indorsed upon each certificate.
+<lb/>—A ^ ̂  -cr* Pension Claim No. ^ ^ ̂/y r^tat^bave whethejrmr originaQ^c/ease^or re/toratlon.] " ' /T* — V'
+<lb/>/f T^ankA, RanV—
+<lb/>C^pany^
+<lb/>Claimant's
+<lb/>Office address.
+<lb/>r ̂̂(ak
+<lb/>[Po^-office address of Uie Board.]
+<lb/>[Bate of exai^nation.]
+<lb/>_, iSg O
+<lb/>We hereby certify that in compliance with the requirements of the law we have carefully
+<lb/>examined this applicant,'wh^tates that he is suffering from the following disability, incurred
+<lb/>Cause of disa- in the service, viz:
+<lb/>bility. '
+<lb/>"m^heamonnll aiid that he receives a pension ofin the amount;
+<lb/>if not, erase the
+<lb/>whole line.
+<lb/>Here give the
+<lb/>claimant's
+<lb/>statement
+<lb/>dollars per month.
+<lb/>He makes the following statement upon which he bases his claim for
+<lb/>as briefly and //
+<lb/>as comnactlv '' ;
+<lb/>'nti
+<lb/>y~
+<lb/>Upon examination we find the foMowing objective conditions: Pulse rate, —^._k2
+<lb/>respiration, ^ ; temperaturd,--^ /" ; height, '"•5" feet inches; weight,
+<lb/>pounds; age, years.
+<lb/>Bare give a full
+<lb/>description of
+<lb/>the disabili
+<lb/>ties, in accord-
+<lb/>anco with pars.
+<lb/>5,6,51,52, &amp;c.,
+<lb/>of Book of In
+<lb/>structions for
+<lb/>1889
+<lb/>J-yvY K
+<lb/>PLcoi^-
+<lb/>Hate for EACH , j
+<lb/>cause of disa- fating for the disability caused by 1
+<lb/>.. He is, in our -opinion, entitled to a
+<lb/>r  fof that caused
+<lb/>for that caused by
+<lb/>N. B.—Always forward a certificate of examination whether aj^sability is found to exist or not.
+<lb/>[632—150 M.) C-55?
+<pb n="85" facs="#page-084"/>
+<lb/>i
+<lb/>ii
+<pb n="86" facs="#page-085"/>
+<lb/>Ensert charartor
+<lb/>and nnmbcr of
+<lb/>claim.
+<lb/>Attention is invited, to the outline'? of the human skeleton and figure upon the bac ̂ o
+<lb/>this certificate, and they should be used whenever it is possible to indicate precisely the location
+<lb/>of a disease, or injury, the entrance and exit of a missile, an amputation, &amp;c.
+<lb/>The absenee of a member from a session of a board and the reason therefor, if known, and
+<lb/>the name of the absent^,-must be indorsed upon each certificate.
+<lb/>A  Pension Claim No. 7 ^^'3
+<lb/>I o(®5ftl&gt;i^rease, or restoratioD
+<lb/>Name and rani;
+<lb/>of claimant.
+<lb/>Claimanrs poet*
+<lb/>office address.
+<lb/>Company
+<lb/>[Post-office address of the Board.]
+<lb/>[Date of examination.]
+<lb/>_i. State,
+<lb/>—, 189 3
+<lb/>Cause of dis
+<lb/>bility.
+<lb/>We here"^ certify that in compliance with th/^equirements. of the law we have carefully
+<lb/>examined this applicant, 1^0 states that he is suffering from the following disability, ineurred
+<lb/>in the service, viz:
+<lb/>'^^n'^SeamouS" and that he rece.ives a pension of _ ^ -^7=—=^=:- aoiiar.
+<lb/>if not,erase the 1_ • 1 • X ■line. makes the following statement upon which he bases his claim tor ^ (
+<lb/>dollars
+<lb/>[Original, incre
+<lb/> per month.
+<lb/>ase, restoration, &amp;c.]
+<lb/>Here give the
+<lb/>claimant's
+<lb/>statement _,
+<lb/>as briefly and
+<lb/>as ronipactly
+<lb/>as possible. —
+<lb/>"  Upon examination we find the fol^ying objective conditions : i^ulse rate,
+<lb/>respiration, temperature, .^Z^height, _xC- feet ..eT^inches; weight,
+<lb/>pounds; age, year^ X / 3 ^^7T~T~nV77T7T7~7'.
+<lb/>Hero giro a full
+<lb/>description of
+<lb/>the disabilities,
+<lb/>in accordance ,
+<lb/>uith Book of
+<lb/>Instructions.
+<lb/>Rate for EACH ^ j
+<lb/>cause of disa- rating for the disability caused
+<lb/>by AZx-
+<lb/>He is, in pur opinion, entitled to a
+<lb/>-t A y * A-iO-i-' ^//X_ for tnat caused
+<lb/>for that caused by .
+<lb/>N. B.—Always forward a certificate of examination whether a disability is found to exist o/not.
+<lb/>(7567—200,000.) 6-552
+<pb n="87" facs="#page-086"/>
+<lb/>Attention is invited to the outlines of the human skeleton and figure upon the back of
+<lb/>this certificaie, and they should be used whenever itls possible to indicate precisely the location
+<lb/>of a disease or injury, the entrance and e&gt;:it of a missile, an amputation, &amp;c.
+<lb/>The absence of a member from a session of a board and the reason therefor, if known, and
+<lb/>the n^e of the absentee, must be indorsed upon each certificate.
+<lb/>Company K-eg't
+<lb/>(^eas
+<lb/>Pension Claim No yxco.y ?■
+<lb/>o, or restoratioD
+<lb/>ad(^S8j)£lh0 Board. |
+<lb/>Date of examination. ]
+<lb/>State,
+<lb/>We hereby certify that in compliance with the requirements of the law we have carefully
+<lb/>examined this applicant, who pates that he is suffering from the following disability, incurred
+<lb/>iothe5PIvte,viz; ^
+<lb/>and that he receives a pension of (^^lars per month.
+<lb/>He makes the following statement upon which he bases his claim for [Original, Increase, restoration, &amp;c.J
+<lb/>0^
+<lb/>Upon examination we find the following objective conditions: Pulse rate, £ ;
+<lb/>respiration, ^ ̂ ; temperature, ; height, ^— feet ^— inches; weight,
+<lb/>pounds; age. . years.
+<lb/>Each disability
+<lb/>must be ruled
+<lb/>Pt'piiru t ely,
+<lb/>tbeuci tifih'ii-
+<lb/>gresa of Mar.
+<lb/>2, KSlTi, re-
+<lb/>qiiiriuu ''that
+<lb/>the report
+<lb/>such exarrtin-
+<lb/>ing surgeons
+<lb/>shiill spfoih-
+<lb/>cally state
+<lb/>the rating
+<lb/>w h i &lt;• h, i n
+<lb/>their jndg-
+<lb/>inenl, the Jip-
+<lb/>pl ioaiit. is en
+<lb/>titled to."
+<lb/>^  yAt^^ -f CkAAkf^
+<lb/>A, Pres. Sec'y- ^ Treas.
+<lb/>N. B.—^Always forward a certificate of examination whether a disability i4 found to exist or npt.
+<pb n="88" facs="#page-087"/>
+<lb/>opuCOPCOri"CDHPPDate of Examination:Post office
+</ab>
+    </body>
+  </text>
+</TEI>

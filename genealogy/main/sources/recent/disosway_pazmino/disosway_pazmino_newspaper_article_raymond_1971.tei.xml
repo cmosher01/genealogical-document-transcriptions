@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>disosway pazmino newspaper article raymond 1971</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_pazmino/disosway_pazmino_newspaper_article_raymond_1971/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_pazmino/disosway_pazmino_newspaper_article_raymond_1971/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>0o^^s De€kre(l Schweitzer 5 Accuser Sane
+<lb/>TipBy FRANK VAN RIPER® llWl by New York News
+<lb/> Inc.
+<lb/>JFf 
+<lb/>Washington, Aug. 4 (NEWSSBiireau)—Michael Raymond, whose bribery charges
+<lb/>i^ainst New York State Supreme (|ourt Justice Mitchell D. Schweitzer have touched off
+<lb/>.■':'furor, was dtciared not psychotic
+<lb/>n any 
+<lb/>w
+<lb/>ay" 
+<lb/>by Bellevue 
+<lb/>H
+<lb/>ospital 
+<lb/>psychiatrists
+<lb/>kfter his arrest in :'956 ■for larcei^v a"d '
+<lb/>S
+<lb/>chw
+<lb/>eitzer face to face fo
+<lb/>r the firs
+<lb/>t tin
+<lb/>i
+<lb/>M
+<lb/>oreover, 
+<lb/>docum
+<lb/>ents 
+<lb/>obtained
+<lb/>By 
+<lb/>The N
+<lb/>ew
+<lb/>s—
+<lb/>including an in-
+<lb/>Irestigative 
+<lb/>report 
+<lb/>prepared 
+<lb/>in
+<lb/>1956 
+<lb/>by 
+<lb/>the 
+<lb/>Probation 
+<lb/>Depart.-
+<lb/>^^ient of the New York C
+<lb/>ourt of
+<lb/>after exhib
+<lb/>cope w
+<lb/>ith nRaymondterized as
+<lb/>ock fraud that ultim
+<lb/>ately brought R
+<lb/>aym
+<lb/>ond and
+<lb/>Ipeneral Sessions—
+<lb/>support the ac-
+<lb/>.jffuracy of R
+<lb/>aym
+<lb/>ond's ow
+<lb/>n descrip-
+<lb/>iio
+<lb/>n
+<lb/> of his crim
+<lb/>inal career m
+<lb/>adetost m
+<lb/>onth 
+<lb/>before 
+<lb/>the 
+<lb/>.S
+<lb/>enate
+<lb/>Slackets subcom
+<lb/>m
+<lb/>ittee.
+<lb/>§ Raym
+<lb/>ond was exam
+<lb/>ined by psy
+<lb/>c
+<lb/>h
+<lb/>ia
+<lb/>tris
+<lb/>ts at B
+<lb/>ellevue 
+<lb/>after his
+<lb/>ikri'est on Jan. 16, 
+<lb/>1956. He. ha.l
+<lb/>■ allegedly engaged in a string of
+<lb/>Illegal transactions and had useb
+<lb/>'.ikom
+<lb/>e 
+<lb/>of the 
+<lb/>proceeds 
+<lb/>to 
+<lb/>live 
+<lb/>itip w
+<lb/>hile 
+<lb/>on 
+<lb/>the 
+<lb/>lam
+<lb/> 
+<lb/>in 
+<lb/>Puerto
+<lb/>"T
+<lb/>h
+<lb/>is 
+<lb/>defendant 
+<lb/>is 
+<lb/>not 
+<lb/>psy-
+<lb/>Ihotic, 
+<lb/>and 
+<lb/>is 
+<lb/>of 
+<lb/>average 
+<lb/>in
+<lb/>telligence," the psychiatric report
+<lb/>aid. "There is no 
+<lb/>evidence 
+<lb/>thatle is 
+<lb/>psychotic 
+<lb/>in
+<lb/> 
+<lb/>any 
+<lb/>wayrechnica
+<lb/>lly, 
+<lb/>he 
+<lb/>can 
+<lb/>be 
+<lb/>called 
+<lb/>a
+<lb/>self-centered 
+<lb/>in
+<lb/>d
+<lb/>ivid
+<lb/>ual, w
+<lb/>hlcn
+<lb/>loes not give an adequate classi
+<lb/>fication."
+<lb/>The report w
+<lb/>as addressed to the
+<lb/>'Hon. .Mitchell D. Schwe
+<lb/>itze
+<lb/>ince 
+<lb/>R
+<lb/>aym
+<lb/>ond's 
+<lb/>testim
+<lb/>ony
+<lb/>ast m
+<lb/>onth, 
+<lb/>S
+<lb/>chw
+<lb/>eitzer's 
+<lb/>law
+<lb/>yers
+<lb/>rave 
+<lb/>attem
+<lb/>pted to 
+<lb/>ca.st 
+<lb/>doubt 
+<lb/>on
+<lb/>R
+<lb/>aym
+<lb/>ond's 
+<lb/>mental state 
+<lb/>and 
+<lb/>his
+<lb/>reracity. 
+<lb/>T
+<lb/>hey 
+<lb/>have 
+<lb/>P
+<lb/>ointed 
+<lb/>out
+<lb/>;hat R
+<lb/>aym
+<lb/>ond received a m
+<lb/>edical
+<lb/>lischarge from
+<lb/> the A
+<lb/>rm
+<lb/>y in 1951
+<lb/>tin
+<lb/>g
+<lb/> 
+<lb/>an- in
+<lb/>a
+<lb/>b
+<lb/>ility 
+<lb/>to
+<lb/>ilita
+<lb/>ry
+<lb/> life
+<lb/>,
+<lb/>also h
+<lb/>as'been charac-
+<lb/>"born 
+<lb/>liar" by aMiam
+<lb/>i federal judges
+<lb/>D
+<lb/>uring 
+<lb/>h;s 
+<lb/>appearance 
+<lb/>before
+<lb/>the Senate jsanel, R
+<lb/>aym
+<lb/>bnd, testi
+<lb/>fyin
+<lb/>g
+<lb/> under' the alias of "G
+<lb/>eorge
+<lb/>W
+<lb/>hite" ou'l of fear for his life,
+<lb/>described 
+<lb/>,jn 
+<lb/>detail -the 
+<lb/>illegal
+<lb/>financial dealings th
+<lb/>a
+<lb/>t led to his
+<lb/>arrest in -I'S-SG and, later, to his
+<lb/>appearance^ beforfe 
+<lb/>Schw
+<lb/>eitzer.
+<lb/>The circum
+<lb/>stances surrounding
+<lb/>that case, in w
+<lb/>hich R
+<lb/>aym
+<lb/>ond says
+<lb/>he 
+<lb/>bohg-fit . an 
+<lb/>eight-m
+<lb/>onth 
+<lb/>slap-
+<lb/>on-the-W
+<lb/>rist 
+<lb/>sentence 
+<lb/>from the
+<lb/>judge for S25,000, are-the key in
+<lb/>gredients 
+<lb/>in 
+<lb/>pending 
+<lb/>investiga
+<lb/>tions into charges th
+<lb/>a
+<lb/>t S
+<lb/>chw
+<lb/>eitzer
+<lb/>accepted 
+<lb/>bribes. 
+<lb/>Raym
+<lb/>ond 
+<lb/>could
+<lb/>have cl|'awn a sentence of up to 10
+<lb/>y
+<lb/>e
+<lb/>a
+<lb/>rsPri ssul'te* F
+<lb/>rom Rockefeller
+<lb/>] Through his attoraega,.Schw
+<lb/>eit
+<lb/>zer has denied a
+<lb/>ll of the charges
+<lb/>brouglit against him
+<lb/>. In apparent
+<lb/>reaction 
+<lb/>to 
+<lb/>pressure 
+<lb/>from Gov.Rocke'eller 
+<lb/>and 
+<lb/>New Y'ork State
+<lb/>judicial officials, he .has stepped
+<lb/>dfownrominve
+<lb/>stfca
+<lb/>tio
+<lb/>n
+<lb/>charg!
+<lb/>T
+<lb/>h
+<lb/>e
+<lb/>doeum the 
+<lb/>bench 
+<lb/>pending
+<lb/>:of 
+<lb/>thd 
+<lb/>bribery
+<lb/>ejits 
+<lb/>obtained 
+<lb/>by
+<lb/>The 
+<lb/>R
+<lb/>ew
+<lb/>s portray R
+<lb/>aym
+<lb/>ond 
+<lb/>as
+<lb/>a 
+<lb/>"suaye, 
+<lb/>unscrupulous con 
+<lb/>m
+<lb/>an
+<lb/>(w
+<lb/>ho) expresses no feehng of re
+<lb/>m
+<lb/>orse 
+<lb/>or guilt for his"unethical
+<lb/>conduct 
+<lb/>and 
+<lb/>dishonesty." 
+<lb/>He' isp
+<lb/>ictu
+<lb/>re
+<lb/>d
+<lb/> as a m
+<lb/>an w
+<lb/>ith
+<lb/>o
+<lb/>u
+<lb/>t a con
+<lb/>scie
+<lb/>n
+<lb/>ce
+<lb/>.
+<lb/>In addition, the docum
+<lb/>ents offer
+<lb/>a 
+<lb/>m
+<lb/>iscroscopic 
+<lb/>look 
+<lb/>at 
+<lb/>the 
+<lb/>1956
+<lb/>case 
+<lb/>against 
+<lb/>R
+<lb/>aym
+<lb/>ond 
+<lb/>u
+<lb/>n
+<lb/>til 
+<lb/>the
+<lb/>tim
+<lb/>e 
+<lb/>of his 
+<lb/>light 
+<lb/>sentencing 
+<lb/>by
+<lb/>S
+<lb/>chw
+<lb/>eitzer. 
+<lb/>The 
+<lb/>S
+<lb/>tate 
+<lb/>of New-
+<lb/>York 
+<lb/>had 
+<lb/>indicted 
+<lb/>the 
+<lb/>fat, 
+<lb/>be
+<lb/>spectacled hood on no few
+<lb/>er than
+<lb/>20 
+<lb/>counts 
+<lb/>of 
+<lb/>first-degree 
+<lb/>grand
+<lb/>larceny and 14 counts of second-
+<lb/>degree grand larceny.
+<lb/>R
+<lb/>aym
+<lb/>ond's crim
+<lb/>es were said to
+<lb/>have 
+<lb/>ranged 
+<lb/>from
+<lb/> 
+<lb/>swindling 
+<lb/>a
+<lb/>Brooklyn w
+<lb/>idow
+<lb/> out of her hus
+<lb/>band's savings, to stealing $40,-
+<lb/>000 w
+<lb/>orth of securities, to bilk
+<lb/>ing w
+<lb/>hat was then the Chem
+<lb/>ical
+<lb/>C
+<lb/>orn 
+<lb/>Exchange 
+<lb/>Bank 
+<lb/>out 
+<lb/>of
+<lb/>nearly 
+<lb/>$4,000 
+<lb/>w
+<lb/>ith 
+<lb/>a 
+<lb/>w
+<lb/>orthless
+<lb/>check.
+<lb/>T
+<lb/>ells o
+<lb/>f T
+<lb/>w
+<lb/>o B
+<lb/>ribes
+<lb/>D
+<lb/>unng his Senate appearance,
+<lb/>R
+<lb/>aym
+<lb/>ond 
+<lb/>sw
+<lb/>ore 
+<lb/>that 
+<lb/>he 
+<lb/>bribed
+<lb/>Schw
+<lb/>eitzer tw
+<lb/>ice. The 
+<lb/>first tim
+<lb/>e
+<lb/>involved the alleged $25,000 bribe
+<lb/>for the light sentence. 
+<lb/>(The deal
+<lb/>w
+<lb/>as 
+<lb/>said to 
+<lb/>have been 
+<lb/>arranged
+<lb/>throu.gh 
+<lb/>an 
+<lb/>interm
+<lb/>ediary 
+<lb/>in 
+<lb/>the
+<lb/>lobby o
+<lb/>f the C
+<lb/>oncourse P
+<lb/>laza H
+<lb/>o
+<lb/>tel). 
+<lb/>The second bribe allegedly
+<lb/>w
+<lb/>as 
+<lb/>m
+<lb/>ade 
+<lb/>in 
+<lb/>1961, 
+<lb/>w
+<lb/>hen 
+<lb/>R
+<lb/>ay
+<lb/>m
+<lb/>ond says he raised 
+<lb/>$25,000 fo
+<lb/>r
+<lb/>the 
+<lb/>judge 
+<lb/>in return fo
+<lb/>r his 
+<lb/>"re
+<lb/>lease" 
+<lb/>from
+<lb/> 
+<lb/>probation 
+<lb/>follow
+<lb/>ing
+<lb/>iM
+<lb/>itchell D. Schw
+<lb/>eitzer 
+<lb/>M
+<lb/>ichael Raym
+<lb/>ond
+<lb/>The accused judge and his accuser
+<lb/>co
+<lb/>n
+<lb/>victio
+<lb/>n in a 
+<lb/>stock 
+<lb/>fraud 
+<lb/>case
+<lb/>in Massachuse
+<lb/>tts.
+<lb/>Q
+<lb/>i.ving out w
+<lb/>ith w
+<lb/>hat appeared
+<lb/>to be a self-effacing chuckle, R
+<lb/>ay
+<lb/>m
+<lb/>ond told the Senate panel that
+<lb/>he 
+<lb/>thought 
+<lb/>the 
+<lb/>m
+<lb/>oney 
+<lb/>was well
+<lb/>spent, 
+<lb/>as 
+<lb/>it 
+<lb/>allow
+<lb/>ed him to get
+<lb/>back 
+<lb/>on 
+<lb/>the 
+<lb/>street 
+<lb/>and_ pursue
+<lb/>his 
+<lb/>m
+<lb/>u
+<lb/>ltim
+<lb/>illio
+<lb/>n financial 
+<lb/>crim
+<lb/>es
+<lb/>fo
+<lb/>r another ten years.
+<lb/>|Y
+<lb/>hat about the 1956 case that
+<lb/>netted 
+<lb/>R
+<lb/>aym
+<lb/>ond 
+<lb/>a 
+<lb/>sentence 
+<lb/>of
+<lb/>only 
+<lb/>eight 
+<lb/>m
+<lb/>onths?. 
+<lb/>(H
+<lb/>e. served
+<lb/>only 
+<lb/>4Pa 
+<lb/>m
+<lb/>onths.) 
+<lb/>H
+<lb/>ere, 
+<lb/>fro
+<lb/>m
+<lb/>the court investigation report, is
+<lb/>thej 
+<lb/>case 
+<lb/>against 
+<lb/>M
+<lb/>ichael 
+<lb/>Raymond. t"On O
+<lb/>ctober 
+<lb/>14, 
+<lb/>1955, 
+<lb/>at 111 (
+<lb/>B
+<lb/>roadw
+<lb/>ay, 
+<lb/>M
+<lb/>anhattan, 
+<lb/>the 
+<lb/>de-
+<lb/>fe
+<lb/>n
+<lb/> d a
+<lb/>n
+<lb/>t 
+<lb/>(M
+<lb/>ichael 
+<lb/>R
+<lb/>aym
+<lb/>ond)
+<lb/>w
+<lb/>ith 
+<lb/>intent 
+<lb/>to 
+<lb/>defraud 
+<lb/>and 
+<lb/>by-
+<lb/>m
+<lb/>eans 
+<lb/>of 
+<lb/>false 
+<lb/>representations:
+<lb/>stole from the McGrath Secu
+<lb/>ri- ^
+<lb/>ties 
+<lb/>C
+<lb/>orp. 
+<lb/>40,000 
+<lb/>shares 
+<lb/>of Sha-w
+<lb/>ano 
+<lb/>D
+<lb/>evelopm
+<lb/>ent 
+<lb/>C
+<lb/>orp. 
+<lb/>stock
+<lb/>valued 
+<lb/>a
+<lb/>t 
+<lb/>$40,000; 
+<lb/>and 
+<lb/>on 
+<lb/>O
+<lb/>c
+<lb/>tober 18, 1955, at 111 B
+<lb/>roadw
+<lb/>ay,
+<lb/>M
+<lb/>anhattan, 
+<lb/>the 
+<lb/>defendant 
+<lb/>stole
+<lb/>fi'om
+<lb/> 
+<lb/>M
+<lb/>rs. 
+<lb/>B
+<lb/>elle 
+<lb/>S
+<lb/>chw
+<lb/>inger 
+<lb/>a ,
+<lb/>quantity 
+<lb/>of 
+<lb/>stock 
+<lb/>valued 
+<lb/>a
+<lb/>t;
+<lb/>$4,048.45; 
+<lb/>and 
+<lb/>op 
+<lb/>O
+<lb/>ctober 
+<lb/>17,.
+<lb/>(C
+<lb/>ontinued on pafe. 42, col. J) 
+<lb/>i
+<pb n="2" facs="#page-001"/>
+<lb/>L(Continued from pog" 3)^
+<lb/> i. 
+<lb/>in Ttrnad St., Manhat-Unt U, defraud worthless checkR.nk and between Oc-cbange Bank,^ and October 11,at 111 Broadway, Manhat-1955, atin the County'f'New Sri t^e defendant bylans of false representationsTfrauded varioos persons of'tin. a.Kayinond, bro^jfj'y &amp; S.eiWe"°e sl- ofthe de of Tbem Got Ulcers« TII..O lla Disoway, a• Mrs. Street,widow, of ,L„t Haymonddebased hnsband's fi-was her September ofkidS  d.&lt;.5i)sistence to cai yplanned arrangement,SrirBFtoSs^lDisoway states that as
+<lb/>d^'l
+<lb/>tomacb co.She estimates her loss arChemical Bank fraud
+<lb/>^lle
+<lb/>pdl
+<lb/>y ;
+<lb/>J,ii
+<lb/>e?oXclecktStorheAonlymhisbank accounti , rj«4^ cl I-p cM b&lt;! oT!ffl• The Shawano stock casehad Raymond abscondmg w^h$40 OOQ worth of secu
+<lb/>riti
+<lb/>es. He^ent to Puerto Rico for threemonths, but on Jan. 1 Raymond surrendered to de-tectives in New York. He agreedto plead guilty to 
+<lb/>firs
+<lb/>t-degreegrand larcenhe arresting officer.ncints out that his investigationrevealed that Raymond was aghrewd and unscrupulous operator of the 'con man' type whoseemingly had dissipated forpersonal pleasures and ex™"|ant living the sums _which hehad 
+<lb/>illi
+<lb/>citly procured, the investigation report says.liledical DischargeCharles S
+<lb/>till
+<lb/>man, Schweitzer'slawyer, disclosed &gt;st week thatRaymond wasdischarge from the Army oecause of psychiatric reasons.Raymond was discharged from+v« v 1951 because ol hisCsuitah
+<lb/>ilit
+<lb/>y" to mi
+<lb/>lita
+<lb/>ry ser-■vice According to the investiga-Hfn report, it was deterat no amount of tiaimngishme
+<lb/>nt, 
+<lb/>botherapy or;manipulation of environmentcould change Raymonds poorattitude.„ t orToday, Edward Boshell Jr-&gt; ^b,a Chicago banker, accused Raymond of being a bar m everything he said about Boshell inBworn testimony. Raymond hadaccused Boshell of being an inside bank o
+<lb/>ffic
+<lb/>ial who arrangedloans against collateral of stolenstocMedical records show thaymond had undergone psycho-therapy for a period beginningtin January 1955. yI S .  UJ IB rPI—t  ^tC o e: o gn EhkI O 40 ^
+<lb/>la OJ
+</ab>
+    </body>
+  </text>
+</TEI>

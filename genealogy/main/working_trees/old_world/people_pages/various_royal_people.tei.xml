@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>various royal people</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-035.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-036" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-036.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-037" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-037.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-038" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-038.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-039" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-039.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-040" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-040.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-041" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-041.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-042" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-042.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-043" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-043.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-044" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-044.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-045" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-045.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-046" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-046.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-047" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-047.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-048" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-048.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-049" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-049.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-050" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-050.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-051" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-051.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-052" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-052.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-053" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-053.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-054" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-054.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-055" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-055.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-056" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-056.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-057" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-057.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-058" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-058.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-059" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-059.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-060" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-060.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-061" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-061.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-062" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-062.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-063" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-063.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-064" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-064.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-065" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-065.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-066" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-066.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-067" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-067.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-068" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-068.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-069" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-069.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-070" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-070.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-071" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-071.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-072" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-072.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-073" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-073.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-074" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-074.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-075" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-075.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-076" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-076.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-077" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-077.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-078" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-078.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-079" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-079.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-080" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-080.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-081" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-081.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-082" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-082.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-083" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-083.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-084" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-084.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-085" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-085.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-086" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-086.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-087" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-087.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-088" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-088.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-089" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-089.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-090" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-090.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-091" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-091.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-092" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-092.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-093" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-093.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-094" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-094.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-095" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-095.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-096" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-096.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-097" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-097.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-098" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-098.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-099" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-099.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-100" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-100.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-101" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-101.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-102" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-102.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-103" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-103.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-104" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-104.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-105" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-105.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-106" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-106.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-107" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-107.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-108" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-108.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-109" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-109.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-110" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-110.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-111" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-111.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-112" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-112.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-113" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-113.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-114" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-114.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-115" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-115.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-116" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-116.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-117" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-117.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-118" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-118.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-119" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-119.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-120" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-120.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-121" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-121.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-122" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-122.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-123" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-123.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-124" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-124.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-125" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-125.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-126" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-126.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-127" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-127.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-128" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-128.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-129" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-129.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-130" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-130.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-131" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-131.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-132" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-132.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-133" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-133.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-134" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-134.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-135" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-135.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-136" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-136.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-137" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-137.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-138" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-138.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-139" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-139.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-140" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-140.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-141" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-141.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-142" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-142.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-143" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-143.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-144" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-144.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-145" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-145.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-146" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-146.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-147" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-147.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-148" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-148.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-149" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-149.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-150" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-150.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-151" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-151.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-152" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-152.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-153" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-153.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-154" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-154.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-155" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-155.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-156" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-156.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-157" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-157.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-158" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-158.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-159" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-159.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-160" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-160.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-161" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-161.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-162" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-162.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-163" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-163.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-164" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-164.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-165" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-165.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-166" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-166.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-167" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-167.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-168" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-168.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-169" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-169.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-170" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-170.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-171" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-171.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-172" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-172.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-173" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-173.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-174" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-174.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-175" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-175.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-176" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-176.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-177" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-177.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-178" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-178.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-179" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-179.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-180" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-180.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-181" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-181.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-182" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-182.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-183" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-183.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-184" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-184.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-185" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-185.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-186" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-186.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-187" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-187.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-188" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-188.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-189" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-189.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-190" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-190.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-191" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-191.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-192" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-192.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-193" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-193.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-194" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-194.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-195" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-195.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-196" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-196.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-197" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-197.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-198" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-198.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-199" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-199.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-200" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-200.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-201" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-201.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-202" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-202.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-203" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-203.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-204" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-204.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-205" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-205.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-206" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-206.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-207" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-207.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-208" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-208.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-209" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-209.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-210" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-210.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-211" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-211.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-212" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-212.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-213" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-213.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-214" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-214.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-215" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-215.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-216" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-216.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-217" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-217.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-218" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-218.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-219" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-219.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-220" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-220.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-221" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-221.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-222" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-222.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-223" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-223.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-224" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-224.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-225" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-225.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-226" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-226.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-227" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-227.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-228" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-228.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-229" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-229.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-230" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-230.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-231" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-231.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-232" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-232.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-233" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-233.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-234" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-234.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-235" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-235.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-236" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-236.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-237" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-237.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-238" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-238.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-239" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-239.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-240" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-240.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-241" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-241.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-242" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-242.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-243" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-243.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-244" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-244.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-245" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-245.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-246" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-246.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-247" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-247.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-248" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-248.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-249" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-249.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-250" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-250.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-251" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-251.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-252" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-252.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-253" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-253.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-254" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-254.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-255" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-255.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-256" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-256.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-257" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-257.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-258" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-258.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-259" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-259.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-260" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-260.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-261" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-261.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-262" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-262.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-263" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-263.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-264" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-264.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-265" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-265.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-266" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-266.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-267" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-267.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-268" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-268.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-269" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-269.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-270" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-270.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-271" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-271.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-272" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-272.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-273" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-273.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-274" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-274.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-275" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-275.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-276" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-276.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-277" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-277.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-278" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-278.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-279" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-279.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-280" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-280.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-281" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-281.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-282" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-282.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-283" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-283.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-284" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-284.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-285" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-285.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-286" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-286.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-287" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-287.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-288" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-288.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-289" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-289.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-290" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-290.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-291" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-291.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-292" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-292.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-293" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-293.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-294" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-294.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-295" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-295.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-296" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-296.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-297" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-297.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-298" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-298.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-299" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-299.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-300" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-300.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-301" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-301.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-302" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-302.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-303" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-303.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-304" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-304.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-305" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-305.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-306" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-306.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-307" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-307.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-308" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-308.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-309" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-309.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-310" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-310.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-311" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-311.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-312" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-312.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-313" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-313.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-314" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-314.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-315" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-315.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-316" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-316.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-317" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-317.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-318" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-318.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-319" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-319.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-320" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-320.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-321" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-321.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-322" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-322.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-323" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-323.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-324" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-324.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-325" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-325.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-326" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-326.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-327" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-327.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-328" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-328.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-329" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-329.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-330" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-330.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-331" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-331.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-332" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-332.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-333" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-333.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-334" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-334.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-335" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-335.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-336" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-336.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-337" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-337.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-338" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-338.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-339" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-339.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-340" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-340.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-341" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-341.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-342" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-342.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-343" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-343.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-344" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-344.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-345" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-345.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-346" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-346.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-347" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-347.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-348" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-348.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-349" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-349.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-350" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-350.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-351" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-351.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-352" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-352.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-353" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-353.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-354" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-354.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-355" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-355.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-356" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-356.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-357" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-357.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-358" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-358.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-359" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-359.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-360" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-360.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-361" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-361.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-362" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-362.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-363" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-363.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-364" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-364.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-365" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-365.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-366" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-366.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-367" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-367.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-368" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-368.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-369" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-369.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-370" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-370.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-371" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-371.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-372" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-372.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-373" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-373.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-374" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-374.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-375" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-375.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-376" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-376.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-377" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-377.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-378" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-378.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-379" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-379.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-380" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-380.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-381" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-381.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-382" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-382.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-383" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-383.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-384" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-384.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-385" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-385.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-386" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-386.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-387" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-387.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-388" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-388.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-389" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-389.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-390" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-390.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-391" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-391.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-392" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-392.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-393" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-393.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-394" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-394.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-395" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-395.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-396" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-396.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-397" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-397.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-398" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-398.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-399" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-399.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-400" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-400.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-401" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-401.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-402" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-402.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-403" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-403.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-404" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-404.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-405" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-405.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-406" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-406.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-407" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-407.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-408" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-408.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-409" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-409.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-410" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-410.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-411" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-411.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-412" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-412.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-413" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-413.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-414" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-414.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-415" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-415.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-416" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-416.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-417" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-417.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-418" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-418.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-419" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-419.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-420" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-420.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-421" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-421.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-422" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-422.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-423" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-423.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-424" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-424.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-425" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-425.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-426" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-426.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-427" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-427.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-428" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-428.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-429" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-429.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-430" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-430.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-431" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-431.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-432" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-432.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-433" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-433.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-434" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-434.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-435" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-435.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-436" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-436.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-437" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-437.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-438" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-438.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-439" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-439.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-440" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-440.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-441" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-441.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-442" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-442.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-443" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-443.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-444" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-444.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-445" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-445.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-446" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-446.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-447" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-447.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-448" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-448.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-449" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-449.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-450" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-450.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-451" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-451.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-452" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-452.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-453" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-453.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-454" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-454.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-455" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-455.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-456" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-456.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-457" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-457.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-458" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-458.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-459" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-459.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-460" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-460.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-461" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-461.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-462" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-462.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-463" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-463.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-464" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-464.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-465" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-465.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-466" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-466.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-467" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-467.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-468" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-468.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-469" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-469.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-470" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-470.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-471" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-471.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-472" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-472.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-473" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-473.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-474" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-474.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-475" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-475.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-476" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-476.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-477" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-477.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-478" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-478.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-479" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-479.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-480" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-480.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-481" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-481.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-482" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-482.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-483" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-483.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-484" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-484.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-485" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-485.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-486" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-486.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-487" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-487.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-488" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-488.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-489" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-489.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-490" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-490.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-491" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-491.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-492" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-492.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-493" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-493.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-494" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-494.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-495" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-495.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-496" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-496.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-497" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-497.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-498" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-498.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-499" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-499.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-500" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-500.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-501" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-501.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-502" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-502.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-503" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-503.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-504" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-504.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-505" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-505.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-506" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-506.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-507" url="https://mosher.mine.nu/images/genealogy/main/working_trees/old_world/people_pages/various_royal_people/p-507.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/>
+[A transcription of this page is not available.]
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+[A transcription of this page is not available.]
+<pb n="4" facs="#page-003"/>
+[A transcription of this page is not available.]
+<pb n="5" facs="#page-004"/>
+[A transcription of this page is not available.]
+<pb n="6" facs="#page-005"/>
+[A transcription of this page is not available.]
+<pb n="7" facs="#page-006"/>
+[A transcription of this page is not available.]
+<pb n="8" facs="#page-007"/>
+[A transcription of this page is not available.]
+<pb n="9" facs="#page-008"/>
+[A transcription of this page is not available.]
+<pb n="10" facs="#page-009"/>
+[A transcription of this page is not available.]
+<pb n="11" facs="#page-010"/>
+[A transcription of this page is not available.]
+<pb n="12" facs="#page-011"/>
+[A transcription of this page is not available.]
+<pb n="13" facs="#page-012"/>
+[A transcription of this page is not available.]
+<pb n="14" facs="#page-013"/>
+[A transcription of this page is not available.]
+<pb n="15" facs="#page-014"/>
+[A transcription of this page is not available.]
+<pb n="16" facs="#page-015"/>
+[A transcription of this page is not available.]
+<pb n="17" facs="#page-016"/>
+[A transcription of this page is not available.]
+<pb n="18" facs="#page-017"/>
+[A transcription of this page is not available.]
+<pb n="19" facs="#page-018"/>
+[A transcription of this page is not available.]
+<pb n="20" facs="#page-019"/>
+[A transcription of this page is not available.]
+<pb n="21" facs="#page-020"/>
+[A transcription of this page is not available.]
+<pb n="22" facs="#page-021"/>
+[A transcription of this page is not available.]
+<pb n="23" facs="#page-022"/>
+[A transcription of this page is not available.]
+<pb n="24" facs="#page-023"/>
+[A transcription of this page is not available.]
+<pb n="25" facs="#page-024"/>
+[A transcription of this page is not available.]
+<pb n="26" facs="#page-025"/>
+[A transcription of this page is not available.]
+<pb n="27" facs="#page-026"/>
+[A transcription of this page is not available.]
+<pb n="28" facs="#page-027"/>
+[A transcription of this page is not available.]
+<pb n="29" facs="#page-028"/>
+[A transcription of this page is not available.]
+<pb n="30" facs="#page-029"/>
+[A transcription of this page is not available.]
+<pb n="31" facs="#page-030"/>
+[A transcription of this page is not available.]
+<pb n="32" facs="#page-031"/>
+[A transcription of this page is not available.]
+<pb n="33" facs="#page-032"/>
+[A transcription of this page is not available.]
+<pb n="34" facs="#page-033"/>
+[A transcription of this page is not available.]
+<pb n="35" facs="#page-034"/>
+[A transcription of this page is not available.]
+<pb n="36" facs="#page-035"/>
+[A transcription of this page is not available.]
+<pb n="37" facs="#page-036"/>
+[A transcription of this page is not available.]
+<pb n="38" facs="#page-037"/>
+[A transcription of this page is not available.]
+<pb n="39" facs="#page-038"/>
+[A transcription of this page is not available.]
+<pb n="40" facs="#page-039"/>
+[A transcription of this page is not available.]
+<pb n="41" facs="#page-040"/>
+[A transcription of this page is not available.]
+<pb n="42" facs="#page-041"/>
+[A transcription of this page is not available.]
+<pb n="43" facs="#page-042"/>
+[A transcription of this page is not available.]
+<pb n="44" facs="#page-043"/>
+[A transcription of this page is not available.]
+<pb n="45" facs="#page-044"/>
+[A transcription of this page is not available.]
+<pb n="46" facs="#page-045"/>
+[A transcription of this page is not available.]
+<pb n="47" facs="#page-046"/>
+[A transcription of this page is not available.]
+<pb n="48" facs="#page-047"/>
+[A transcription of this page is not available.]
+<pb n="49" facs="#page-048"/>
+[A transcription of this page is not available.]
+<pb n="50" facs="#page-049"/>
+[A transcription of this page is not available.]
+<pb n="51" facs="#page-050"/>
+[A transcription of this page is not available.]
+<pb n="52" facs="#page-051"/>
+[A transcription of this page is not available.]
+<pb n="53" facs="#page-052"/>
+[A transcription of this page is not available.]
+<pb n="54" facs="#page-053"/>
+[A transcription of this page is not available.]
+<pb n="55" facs="#page-054"/>
+[A transcription of this page is not available.]
+<pb n="56" facs="#page-055"/>
+[A transcription of this page is not available.]
+<pb n="57" facs="#page-056"/>
+[A transcription of this page is not available.]
+<pb n="58" facs="#page-057"/>
+[A transcription of this page is not available.]
+<pb n="59" facs="#page-058"/>
+[A transcription of this page is not available.]
+<pb n="60" facs="#page-059"/>
+[A transcription of this page is not available.]
+<pb n="61" facs="#page-060"/>
+[A transcription of this page is not available.]
+<pb n="62" facs="#page-061"/>
+[A transcription of this page is not available.]
+<pb n="63" facs="#page-062"/>
+[A transcription of this page is not available.]
+<pb n="64" facs="#page-063"/>
+[A transcription of this page is not available.]
+<pb n="65" facs="#page-064"/>
+[A transcription of this page is not available.]
+<pb n="66" facs="#page-065"/>
+[A transcription of this page is not available.]
+<pb n="67" facs="#page-066"/>
+[A transcription of this page is not available.]
+<pb n="68" facs="#page-067"/>
+[A transcription of this page is not available.]
+<pb n="69" facs="#page-068"/>
+[A transcription of this page is not available.]
+<pb n="70" facs="#page-069"/>
+[A transcription of this page is not available.]
+<pb n="71" facs="#page-070"/>
+[A transcription of this page is not available.]
+<pb n="72" facs="#page-071"/>
+[A transcription of this page is not available.]
+<pb n="73" facs="#page-072"/>
+[A transcription of this page is not available.]
+<pb n="74" facs="#page-073"/>
+[A transcription of this page is not available.]
+<pb n="75" facs="#page-074"/>
+[A transcription of this page is not available.]
+<pb n="76" facs="#page-075"/>
+[A transcription of this page is not available.]
+<pb n="77" facs="#page-076"/>
+[A transcription of this page is not available.]
+<pb n="78" facs="#page-077"/>
+[A transcription of this page is not available.]
+<pb n="79" facs="#page-078"/>
+[A transcription of this page is not available.]
+<pb n="80" facs="#page-079"/>
+[A transcription of this page is not available.]
+<pb n="81" facs="#page-080"/>
+[A transcription of this page is not available.]
+<pb n="82" facs="#page-081"/>
+[A transcription of this page is not available.]
+<pb n="83" facs="#page-082"/>
+[A transcription of this page is not available.]
+<pb n="84" facs="#page-083"/>
+[A transcription of this page is not available.]
+<pb n="85" facs="#page-084"/>
+[A transcription of this page is not available.]
+<pb n="86" facs="#page-085"/>
+[A transcription of this page is not available.]
+<pb n="87" facs="#page-086"/>
+[A transcription of this page is not available.]
+<pb n="88" facs="#page-087"/>
+[A transcription of this page is not available.]
+<pb n="89" facs="#page-088"/>
+[A transcription of this page is not available.]
+<pb n="90" facs="#page-089"/>
+[A transcription of this page is not available.]
+<pb n="91" facs="#page-090"/>
+[A transcription of this page is not available.]
+<pb n="92" facs="#page-091"/>
+[A transcription of this page is not available.]
+<pb n="93" facs="#page-092"/>
+[A transcription of this page is not available.]
+<pb n="94" facs="#page-093"/>
+[A transcription of this page is not available.]
+<pb n="95" facs="#page-094"/>
+[A transcription of this page is not available.]
+<pb n="96" facs="#page-095"/>
+[A transcription of this page is not available.]
+<pb n="97" facs="#page-096"/>
+[A transcription of this page is not available.]
+<pb n="98" facs="#page-097"/>
+[A transcription of this page is not available.]
+<pb n="99" facs="#page-098"/>
+[A transcription of this page is not available.]
+<pb n="100" facs="#page-099"/>
+[A transcription of this page is not available.]
+<pb n="101" facs="#page-100"/>
+[A transcription of this page is not available.]
+<pb n="102" facs="#page-101"/>
+[A transcription of this page is not available.]
+<pb n="103" facs="#page-102"/>
+[A transcription of this page is not available.]
+<pb n="104" facs="#page-103"/>
+[A transcription of this page is not available.]
+<pb n="105" facs="#page-104"/>
+[A transcription of this page is not available.]
+<pb n="106" facs="#page-105"/>
+[A transcription of this page is not available.]
+<pb n="107" facs="#page-106"/>
+[A transcription of this page is not available.]
+<pb n="108" facs="#page-107"/>
+[A transcription of this page is not available.]
+<pb n="109" facs="#page-108"/>
+[A transcription of this page is not available.]
+<pb n="110" facs="#page-109"/>
+[A transcription of this page is not available.]
+<pb n="111" facs="#page-110"/>
+[A transcription of this page is not available.]
+<pb n="112" facs="#page-111"/>
+[A transcription of this page is not available.]
+<pb n="113" facs="#page-112"/>
+[A transcription of this page is not available.]
+<pb n="114" facs="#page-113"/>
+[A transcription of this page is not available.]
+<pb n="115" facs="#page-114"/>
+[A transcription of this page is not available.]
+<pb n="116" facs="#page-115"/>
+[A transcription of this page is not available.]
+<pb n="117" facs="#page-116"/>
+[A transcription of this page is not available.]
+<pb n="118" facs="#page-117"/>
+[A transcription of this page is not available.]
+<pb n="119" facs="#page-118"/>
+[A transcription of this page is not available.]
+<pb n="120" facs="#page-119"/>
+[A transcription of this page is not available.]
+<pb n="121" facs="#page-120"/>
+[A transcription of this page is not available.]
+<pb n="122" facs="#page-121"/>
+[A transcription of this page is not available.]
+<pb n="123" facs="#page-122"/>
+[A transcription of this page is not available.]
+<pb n="124" facs="#page-123"/>
+[A transcription of this page is not available.]
+<pb n="125" facs="#page-124"/>
+[A transcription of this page is not available.]
+<pb n="126" facs="#page-125"/>
+[A transcription of this page is not available.]
+<pb n="127" facs="#page-126"/>
+[A transcription of this page is not available.]
+<pb n="128" facs="#page-127"/>
+[A transcription of this page is not available.]
+<pb n="129" facs="#page-128"/>
+[A transcription of this page is not available.]
+<pb n="130" facs="#page-129"/>
+[A transcription of this page is not available.]
+<pb n="131" facs="#page-130"/>
+[A transcription of this page is not available.]
+<pb n="132" facs="#page-131"/>
+[A transcription of this page is not available.]
+<pb n="133" facs="#page-132"/>
+[A transcription of this page is not available.]
+<pb n="134" facs="#page-133"/>
+[A transcription of this page is not available.]
+<pb n="135" facs="#page-134"/>
+[A transcription of this page is not available.]
+<pb n="136" facs="#page-135"/>
+[A transcription of this page is not available.]
+<pb n="137" facs="#page-136"/>
+[A transcription of this page is not available.]
+<pb n="138" facs="#page-137"/>
+[A transcription of this page is not available.]
+<pb n="139" facs="#page-138"/>
+[A transcription of this page is not available.]
+<pb n="140" facs="#page-139"/>
+[A transcription of this page is not available.]
+<pb n="141" facs="#page-140"/>
+[A transcription of this page is not available.]
+<pb n="142" facs="#page-141"/>
+[A transcription of this page is not available.]
+<pb n="143" facs="#page-142"/>
+[A transcription of this page is not available.]
+<pb n="144" facs="#page-143"/>
+[A transcription of this page is not available.]
+<pb n="145" facs="#page-144"/>
+[A transcription of this page is not available.]
+<pb n="146" facs="#page-145"/>
+[A transcription of this page is not available.]
+<pb n="147" facs="#page-146"/>
+[A transcription of this page is not available.]
+<pb n="148" facs="#page-147"/>
+[A transcription of this page is not available.]
+<pb n="149" facs="#page-148"/>
+[A transcription of this page is not available.]
+<pb n="150" facs="#page-149"/>
+[A transcription of this page is not available.]
+<pb n="151" facs="#page-150"/>
+[A transcription of this page is not available.]
+<pb n="152" facs="#page-151"/>
+[A transcription of this page is not available.]
+<pb n="153" facs="#page-152"/>
+[A transcription of this page is not available.]
+<pb n="154" facs="#page-153"/>
+[A transcription of this page is not available.]
+<pb n="155" facs="#page-154"/>
+[A transcription of this page is not available.]
+<pb n="156" facs="#page-155"/>
+[A transcription of this page is not available.]
+<pb n="157" facs="#page-156"/>
+[A transcription of this page is not available.]
+<pb n="158" facs="#page-157"/>
+[A transcription of this page is not available.]
+<pb n="159" facs="#page-158"/>
+[A transcription of this page is not available.]
+<pb n="160" facs="#page-159"/>
+[A transcription of this page is not available.]
+<pb n="161" facs="#page-160"/>
+[A transcription of this page is not available.]
+<pb n="162" facs="#page-161"/>
+[A transcription of this page is not available.]
+<pb n="163" facs="#page-162"/>
+[A transcription of this page is not available.]
+<pb n="164" facs="#page-163"/>
+[A transcription of this page is not available.]
+<pb n="165" facs="#page-164"/>
+[A transcription of this page is not available.]
+<pb n="166" facs="#page-165"/>
+[A transcription of this page is not available.]
+<pb n="167" facs="#page-166"/>
+[A transcription of this page is not available.]
+<pb n="168" facs="#page-167"/>
+[A transcription of this page is not available.]
+<pb n="169" facs="#page-168"/>
+[A transcription of this page is not available.]
+<pb n="170" facs="#page-169"/>
+[A transcription of this page is not available.]
+<pb n="171" facs="#page-170"/>
+[A transcription of this page is not available.]
+<pb n="172" facs="#page-171"/>
+[A transcription of this page is not available.]
+<pb n="173" facs="#page-172"/>
+[A transcription of this page is not available.]
+<pb n="174" facs="#page-173"/>
+[A transcription of this page is not available.]
+<pb n="175" facs="#page-174"/>
+[A transcription of this page is not available.]
+<pb n="176" facs="#page-175"/>
+[A transcription of this page is not available.]
+<pb n="177" facs="#page-176"/>
+[A transcription of this page is not available.]
+<pb n="178" facs="#page-177"/>
+[A transcription of this page is not available.]
+<pb n="179" facs="#page-178"/>
+[A transcription of this page is not available.]
+<pb n="180" facs="#page-179"/>
+[A transcription of this page is not available.]
+<pb n="181" facs="#page-180"/>
+[A transcription of this page is not available.]
+<pb n="182" facs="#page-181"/>
+[A transcription of this page is not available.]
+<pb n="183" facs="#page-182"/>
+[A transcription of this page is not available.]
+<pb n="184" facs="#page-183"/>
+[A transcription of this page is not available.]
+<pb n="185" facs="#page-184"/>
+[A transcription of this page is not available.]
+<pb n="186" facs="#page-185"/>
+[A transcription of this page is not available.]
+<pb n="187" facs="#page-186"/>
+[A transcription of this page is not available.]
+<pb n="188" facs="#page-187"/>
+[A transcription of this page is not available.]
+<pb n="189" facs="#page-188"/>
+[A transcription of this page is not available.]
+<pb n="190" facs="#page-189"/>
+[A transcription of this page is not available.]
+<pb n="191" facs="#page-190"/>
+[A transcription of this page is not available.]
+<pb n="192" facs="#page-191"/>
+[A transcription of this page is not available.]
+<pb n="193" facs="#page-192"/>
+[A transcription of this page is not available.]
+<pb n="194" facs="#page-193"/>
+[A transcription of this page is not available.]
+<pb n="195" facs="#page-194"/>
+[A transcription of this page is not available.]
+<pb n="196" facs="#page-195"/>
+[A transcription of this page is not available.]
+<pb n="197" facs="#page-196"/>
+[A transcription of this page is not available.]
+<pb n="198" facs="#page-197"/>
+[A transcription of this page is not available.]
+<pb n="199" facs="#page-198"/>
+[A transcription of this page is not available.]
+<pb n="200" facs="#page-199"/>
+[A transcription of this page is not available.]
+<pb n="201" facs="#page-200"/>
+[A transcription of this page is not available.]
+<pb n="202" facs="#page-201"/>
+[A transcription of this page is not available.]
+<pb n="203" facs="#page-202"/>
+[A transcription of this page is not available.]
+<pb n="204" facs="#page-203"/>
+[A transcription of this page is not available.]
+<pb n="205" facs="#page-204"/>
+[A transcription of this page is not available.]
+<pb n="206" facs="#page-205"/>
+[A transcription of this page is not available.]
+<pb n="207" facs="#page-206"/>
+[A transcription of this page is not available.]
+<pb n="208" facs="#page-207"/>
+[A transcription of this page is not available.]
+<pb n="209" facs="#page-208"/>
+[A transcription of this page is not available.]
+<pb n="210" facs="#page-209"/>
+[A transcription of this page is not available.]
+<pb n="211" facs="#page-210"/>
+[A transcription of this page is not available.]
+<pb n="212" facs="#page-211"/>
+[A transcription of this page is not available.]
+<pb n="213" facs="#page-212"/>
+[A transcription of this page is not available.]
+<pb n="214" facs="#page-213"/>
+[A transcription of this page is not available.]
+<pb n="215" facs="#page-214"/>
+[A transcription of this page is not available.]
+<pb n="216" facs="#page-215"/>
+[A transcription of this page is not available.]
+<pb n="217" facs="#page-216"/>
+[A transcription of this page is not available.]
+<pb n="218" facs="#page-217"/>
+[A transcription of this page is not available.]
+<pb n="219" facs="#page-218"/>
+[A transcription of this page is not available.]
+<pb n="220" facs="#page-219"/>
+[A transcription of this page is not available.]
+<pb n="221" facs="#page-220"/>
+[A transcription of this page is not available.]
+<pb n="222" facs="#page-221"/>
+[A transcription of this page is not available.]
+<pb n="223" facs="#page-222"/>
+[A transcription of this page is not available.]
+<pb n="224" facs="#page-223"/>
+[A transcription of this page is not available.]
+<pb n="225" facs="#page-224"/>
+[A transcription of this page is not available.]
+<pb n="226" facs="#page-225"/>
+[A transcription of this page is not available.]
+<pb n="227" facs="#page-226"/>
+[A transcription of this page is not available.]
+<pb n="228" facs="#page-227"/>
+[A transcription of this page is not available.]
+<pb n="229" facs="#page-228"/>
+[A transcription of this page is not available.]
+<pb n="230" facs="#page-229"/>
+[A transcription of this page is not available.]
+<pb n="231" facs="#page-230"/>
+[A transcription of this page is not available.]
+<pb n="232" facs="#page-231"/>
+[A transcription of this page is not available.]
+<pb n="233" facs="#page-232"/>
+[A transcription of this page is not available.]
+<pb n="234" facs="#page-233"/>
+[A transcription of this page is not available.]
+<pb n="235" facs="#page-234"/>
+[A transcription of this page is not available.]
+<pb n="236" facs="#page-235"/>
+[A transcription of this page is not available.]
+<pb n="237" facs="#page-236"/>
+[A transcription of this page is not available.]
+<pb n="238" facs="#page-237"/>
+[A transcription of this page is not available.]
+<pb n="239" facs="#page-238"/>
+[A transcription of this page is not available.]
+<pb n="240" facs="#page-239"/>
+[A transcription of this page is not available.]
+<pb n="241" facs="#page-240"/>
+[A transcription of this page is not available.]
+<pb n="242" facs="#page-241"/>
+[A transcription of this page is not available.]
+<pb n="243" facs="#page-242"/>
+[A transcription of this page is not available.]
+<pb n="244" facs="#page-243"/>
+[A transcription of this page is not available.]
+<pb n="245" facs="#page-244"/>
+[A transcription of this page is not available.]
+<pb n="246" facs="#page-245"/>
+[A transcription of this page is not available.]
+<pb n="247" facs="#page-246"/>
+[A transcription of this page is not available.]
+<pb n="248" facs="#page-247"/>
+[A transcription of this page is not available.]
+<pb n="249" facs="#page-248"/>
+[A transcription of this page is not available.]
+<pb n="250" facs="#page-249"/>
+[A transcription of this page is not available.]
+<pb n="251" facs="#page-250"/>
+[A transcription of this page is not available.]
+<pb n="252" facs="#page-251"/>
+[A transcription of this page is not available.]
+<pb n="253" facs="#page-252"/>
+[A transcription of this page is not available.]
+<pb n="254" facs="#page-253"/>
+[A transcription of this page is not available.]
+<pb n="255" facs="#page-254"/>
+[A transcription of this page is not available.]
+<pb n="256" facs="#page-255"/>
+[A transcription of this page is not available.]
+<pb n="257" facs="#page-256"/>
+[A transcription of this page is not available.]
+<pb n="258" facs="#page-257"/>
+[A transcription of this page is not available.]
+<pb n="259" facs="#page-258"/>
+[A transcription of this page is not available.]
+<pb n="260" facs="#page-259"/>
+[A transcription of this page is not available.]
+<pb n="261" facs="#page-260"/>
+[A transcription of this page is not available.]
+<pb n="262" facs="#page-261"/>
+[A transcription of this page is not available.]
+<pb n="263" facs="#page-262"/>
+[A transcription of this page is not available.]
+<pb n="264" facs="#page-263"/>
+[A transcription of this page is not available.]
+<pb n="265" facs="#page-264"/>
+[A transcription of this page is not available.]
+<pb n="266" facs="#page-265"/>
+[A transcription of this page is not available.]
+<pb n="267" facs="#page-266"/>
+[A transcription of this page is not available.]
+<pb n="268" facs="#page-267"/>
+[A transcription of this page is not available.]
+<pb n="269" facs="#page-268"/>
+[A transcription of this page is not available.]
+<pb n="270" facs="#page-269"/>
+[A transcription of this page is not available.]
+<pb n="271" facs="#page-270"/>
+[A transcription of this page is not available.]
+<pb n="272" facs="#page-271"/>
+[A transcription of this page is not available.]
+<pb n="273" facs="#page-272"/>
+[A transcription of this page is not available.]
+<pb n="274" facs="#page-273"/>
+[A transcription of this page is not available.]
+<pb n="275" facs="#page-274"/>
+[A transcription of this page is not available.]
+<pb n="276" facs="#page-275"/>
+[A transcription of this page is not available.]
+<pb n="277" facs="#page-276"/>
+[A transcription of this page is not available.]
+<pb n="278" facs="#page-277"/>
+[A transcription of this page is not available.]
+<pb n="279" facs="#page-278"/>
+[A transcription of this page is not available.]
+<pb n="280" facs="#page-279"/>
+[A transcription of this page is not available.]
+<pb n="281" facs="#page-280"/>
+[A transcription of this page is not available.]
+<pb n="282" facs="#page-281"/>
+[A transcription of this page is not available.]
+<pb n="283" facs="#page-282"/>
+[A transcription of this page is not available.]
+<pb n="284" facs="#page-283"/>
+[A transcription of this page is not available.]
+<pb n="285" facs="#page-284"/>
+[A transcription of this page is not available.]
+<pb n="286" facs="#page-285"/>
+[A transcription of this page is not available.]
+<pb n="287" facs="#page-286"/>
+[A transcription of this page is not available.]
+<pb n="288" facs="#page-287"/>
+[A transcription of this page is not available.]
+<pb n="289" facs="#page-288"/>
+[A transcription of this page is not available.]
+<pb n="290" facs="#page-289"/>
+[A transcription of this page is not available.]
+<pb n="291" facs="#page-290"/>
+[A transcription of this page is not available.]
+<pb n="292" facs="#page-291"/>
+[A transcription of this page is not available.]
+<pb n="293" facs="#page-292"/>
+[A transcription of this page is not available.]
+<pb n="294" facs="#page-293"/>
+[A transcription of this page is not available.]
+<pb n="295" facs="#page-294"/>
+[A transcription of this page is not available.]
+<pb n="296" facs="#page-295"/>
+[A transcription of this page is not available.]
+<pb n="297" facs="#page-296"/>
+[A transcription of this page is not available.]
+<pb n="298" facs="#page-297"/>
+[A transcription of this page is not available.]
+<pb n="299" facs="#page-298"/>
+[A transcription of this page is not available.]
+<pb n="300" facs="#page-299"/>
+[A transcription of this page is not available.]
+<pb n="301" facs="#page-300"/>
+[A transcription of this page is not available.]
+<pb n="302" facs="#page-301"/>
+[A transcription of this page is not available.]
+<pb n="303" facs="#page-302"/>
+[A transcription of this page is not available.]
+<pb n="304" facs="#page-303"/>
+[A transcription of this page is not available.]
+<pb n="305" facs="#page-304"/>
+[A transcription of this page is not available.]
+<pb n="306" facs="#page-305"/>
+[A transcription of this page is not available.]
+<pb n="307" facs="#page-306"/>
+[A transcription of this page is not available.]
+<pb n="308" facs="#page-307"/>
+[A transcription of this page is not available.]
+<pb n="309" facs="#page-308"/>
+[A transcription of this page is not available.]
+<pb n="310" facs="#page-309"/>
+[A transcription of this page is not available.]
+<pb n="311" facs="#page-310"/>
+[A transcription of this page is not available.]
+<pb n="312" facs="#page-311"/>
+[A transcription of this page is not available.]
+<pb n="313" facs="#page-312"/>
+[A transcription of this page is not available.]
+<pb n="314" facs="#page-313"/>
+[A transcription of this page is not available.]
+<pb n="315" facs="#page-314"/>
+[A transcription of this page is not available.]
+<pb n="316" facs="#page-315"/>
+[A transcription of this page is not available.]
+<pb n="317" facs="#page-316"/>
+[A transcription of this page is not available.]
+<pb n="318" facs="#page-317"/>
+[A transcription of this page is not available.]
+<pb n="319" facs="#page-318"/>
+[A transcription of this page is not available.]
+<pb n="320" facs="#page-319"/>
+[A transcription of this page is not available.]
+<pb n="321" facs="#page-320"/>
+[A transcription of this page is not available.]
+<pb n="322" facs="#page-321"/>
+[A transcription of this page is not available.]
+<pb n="323" facs="#page-322"/>
+[A transcription of this page is not available.]
+<pb n="324" facs="#page-323"/>
+[A transcription of this page is not available.]
+<pb n="325" facs="#page-324"/>
+[A transcription of this page is not available.]
+<pb n="326" facs="#page-325"/>
+[A transcription of this page is not available.]
+<pb n="327" facs="#page-326"/>
+[A transcription of this page is not available.]
+<pb n="328" facs="#page-327"/>
+[A transcription of this page is not available.]
+<pb n="329" facs="#page-328"/>
+[A transcription of this page is not available.]
+<pb n="330" facs="#page-329"/>
+[A transcription of this page is not available.]
+<pb n="331" facs="#page-330"/>
+[A transcription of this page is not available.]
+<pb n="332" facs="#page-331"/>
+[A transcription of this page is not available.]
+<pb n="333" facs="#page-332"/>
+[A transcription of this page is not available.]
+<pb n="334" facs="#page-333"/>
+[A transcription of this page is not available.]
+<pb n="335" facs="#page-334"/>
+[A transcription of this page is not available.]
+<pb n="336" facs="#page-335"/>
+[A transcription of this page is not available.]
+<pb n="337" facs="#page-336"/>
+[A transcription of this page is not available.]
+<pb n="338" facs="#page-337"/>
+[A transcription of this page is not available.]
+<pb n="339" facs="#page-338"/>
+[A transcription of this page is not available.]
+<pb n="340" facs="#page-339"/>
+[A transcription of this page is not available.]
+<pb n="341" facs="#page-340"/>
+[A transcription of this page is not available.]
+<pb n="342" facs="#page-341"/>
+[A transcription of this page is not available.]
+<pb n="343" facs="#page-342"/>
+[A transcription of this page is not available.]
+<pb n="344" facs="#page-343"/>
+[A transcription of this page is not available.]
+<pb n="345" facs="#page-344"/>
+[A transcription of this page is not available.]
+<pb n="346" facs="#page-345"/>
+[A transcription of this page is not available.]
+<pb n="347" facs="#page-346"/>
+[A transcription of this page is not available.]
+<pb n="348" facs="#page-347"/>
+[A transcription of this page is not available.]
+<pb n="349" facs="#page-348"/>
+[A transcription of this page is not available.]
+<pb n="350" facs="#page-349"/>
+[A transcription of this page is not available.]
+<pb n="351" facs="#page-350"/>
+[A transcription of this page is not available.]
+<pb n="352" facs="#page-351"/>
+[A transcription of this page is not available.]
+<pb n="353" facs="#page-352"/>
+[A transcription of this page is not available.]
+<pb n="354" facs="#page-353"/>
+[A transcription of this page is not available.]
+<pb n="355" facs="#page-354"/>
+[A transcription of this page is not available.]
+<pb n="356" facs="#page-355"/>
+[A transcription of this page is not available.]
+<pb n="357" facs="#page-356"/>
+[A transcription of this page is not available.]
+<pb n="358" facs="#page-357"/>
+[A transcription of this page is not available.]
+<pb n="359" facs="#page-358"/>
+[A transcription of this page is not available.]
+<pb n="360" facs="#page-359"/>
+[A transcription of this page is not available.]
+<pb n="361" facs="#page-360"/>
+[A transcription of this page is not available.]
+<pb n="362" facs="#page-361"/>
+[A transcription of this page is not available.]
+<pb n="363" facs="#page-362"/>
+[A transcription of this page is not available.]
+<pb n="364" facs="#page-363"/>
+[A transcription of this page is not available.]
+<pb n="365" facs="#page-364"/>
+[A transcription of this page is not available.]
+<pb n="366" facs="#page-365"/>
+[A transcription of this page is not available.]
+<pb n="367" facs="#page-366"/>
+[A transcription of this page is not available.]
+<pb n="368" facs="#page-367"/>
+[A transcription of this page is not available.]
+<pb n="369" facs="#page-368"/>
+[A transcription of this page is not available.]
+<pb n="370" facs="#page-369"/>
+[A transcription of this page is not available.]
+<pb n="371" facs="#page-370"/>
+[A transcription of this page is not available.]
+<pb n="372" facs="#page-371"/>
+[A transcription of this page is not available.]
+<pb n="373" facs="#page-372"/>
+[A transcription of this page is not available.]
+<pb n="374" facs="#page-373"/>
+[A transcription of this page is not available.]
+<pb n="375" facs="#page-374"/>
+[A transcription of this page is not available.]
+<pb n="376" facs="#page-375"/>
+[A transcription of this page is not available.]
+<pb n="377" facs="#page-376"/>
+[A transcription of this page is not available.]
+<pb n="378" facs="#page-377"/>
+[A transcription of this page is not available.]
+<pb n="379" facs="#page-378"/>
+[A transcription of this page is not available.]
+<pb n="380" facs="#page-379"/>
+[A transcription of this page is not available.]
+<pb n="381" facs="#page-380"/>
+[A transcription of this page is not available.]
+<pb n="382" facs="#page-381"/>
+[A transcription of this page is not available.]
+<pb n="383" facs="#page-382"/>
+[A transcription of this page is not available.]
+<pb n="384" facs="#page-383"/>
+[A transcription of this page is not available.]
+<pb n="385" facs="#page-384"/>
+[A transcription of this page is not available.]
+<pb n="386" facs="#page-385"/>
+[A transcription of this page is not available.]
+<pb n="387" facs="#page-386"/>
+[A transcription of this page is not available.]
+<pb n="388" facs="#page-387"/>
+[A transcription of this page is not available.]
+<pb n="389" facs="#page-388"/>
+[A transcription of this page is not available.]
+<pb n="390" facs="#page-389"/>
+[A transcription of this page is not available.]
+<pb n="391" facs="#page-390"/>
+[A transcription of this page is not available.]
+<pb n="392" facs="#page-391"/>
+[A transcription of this page is not available.]
+<pb n="393" facs="#page-392"/>
+[A transcription of this page is not available.]
+<pb n="394" facs="#page-393"/>
+[A transcription of this page is not available.]
+<pb n="395" facs="#page-394"/>
+[A transcription of this page is not available.]
+<pb n="396" facs="#page-395"/>
+[A transcription of this page is not available.]
+<pb n="397" facs="#page-396"/>
+[A transcription of this page is not available.]
+<pb n="398" facs="#page-397"/>
+[A transcription of this page is not available.]
+<pb n="399" facs="#page-398"/>
+[A transcription of this page is not available.]
+<pb n="400" facs="#page-399"/>
+[A transcription of this page is not available.]
+<pb n="401" facs="#page-400"/>
+[A transcription of this page is not available.]
+<pb n="402" facs="#page-401"/>
+[A transcription of this page is not available.]
+<pb n="403" facs="#page-402"/>
+[A transcription of this page is not available.]
+<pb n="404" facs="#page-403"/>
+[A transcription of this page is not available.]
+<pb n="405" facs="#page-404"/>
+[A transcription of this page is not available.]
+<pb n="406" facs="#page-405"/>
+[A transcription of this page is not available.]
+<pb n="407" facs="#page-406"/>
+[A transcription of this page is not available.]
+<pb n="408" facs="#page-407"/>
+[A transcription of this page is not available.]
+<pb n="409" facs="#page-408"/>
+[A transcription of this page is not available.]
+<pb n="410" facs="#page-409"/>
+[A transcription of this page is not available.]
+<pb n="411" facs="#page-410"/>
+[A transcription of this page is not available.]
+<pb n="412" facs="#page-411"/>
+[A transcription of this page is not available.]
+<pb n="413" facs="#page-412"/>
+[A transcription of this page is not available.]
+<pb n="414" facs="#page-413"/>
+[A transcription of this page is not available.]
+<pb n="415" facs="#page-414"/>
+[A transcription of this page is not available.]
+<pb n="416" facs="#page-415"/>
+[A transcription of this page is not available.]
+<pb n="417" facs="#page-416"/>
+[A transcription of this page is not available.]
+<pb n="418" facs="#page-417"/>
+[A transcription of this page is not available.]
+<pb n="419" facs="#page-418"/>
+[A transcription of this page is not available.]
+<pb n="420" facs="#page-419"/>
+[A transcription of this page is not available.]
+<pb n="421" facs="#page-420"/>
+[A transcription of this page is not available.]
+<pb n="422" facs="#page-421"/>
+[A transcription of this page is not available.]
+<pb n="423" facs="#page-422"/>
+[A transcription of this page is not available.]
+<pb n="424" facs="#page-423"/>
+[A transcription of this page is not available.]
+<pb n="425" facs="#page-424"/>
+[A transcription of this page is not available.]
+<pb n="426" facs="#page-425"/>
+[A transcription of this page is not available.]
+<pb n="427" facs="#page-426"/>
+[A transcription of this page is not available.]
+<pb n="428" facs="#page-427"/>
+[A transcription of this page is not available.]
+<pb n="429" facs="#page-428"/>
+[A transcription of this page is not available.]
+<pb n="430" facs="#page-429"/>
+[A transcription of this page is not available.]
+<pb n="431" facs="#page-430"/>
+[A transcription of this page is not available.]
+<pb n="432" facs="#page-431"/>
+[A transcription of this page is not available.]
+<pb n="433" facs="#page-432"/>
+[A transcription of this page is not available.]
+<pb n="434" facs="#page-433"/>
+[A transcription of this page is not available.]
+<pb n="435" facs="#page-434"/>
+[A transcription of this page is not available.]
+<pb n="436" facs="#page-435"/>
+[A transcription of this page is not available.]
+<pb n="437" facs="#page-436"/>
+[A transcription of this page is not available.]
+<pb n="438" facs="#page-437"/>
+[A transcription of this page is not available.]
+<pb n="439" facs="#page-438"/>
+[A transcription of this page is not available.]
+<pb n="440" facs="#page-439"/>
+[A transcription of this page is not available.]
+<pb n="441" facs="#page-440"/>
+[A transcription of this page is not available.]
+<pb n="442" facs="#page-441"/>
+[A transcription of this page is not available.]
+<pb n="443" facs="#page-442"/>
+[A transcription of this page is not available.]
+<pb n="444" facs="#page-443"/>
+[A transcription of this page is not available.]
+<pb n="445" facs="#page-444"/>
+[A transcription of this page is not available.]
+<pb n="446" facs="#page-445"/>
+[A transcription of this page is not available.]
+<pb n="447" facs="#page-446"/>
+[A transcription of this page is not available.]
+<pb n="448" facs="#page-447"/>
+[A transcription of this page is not available.]
+<pb n="449" facs="#page-448"/>
+[A transcription of this page is not available.]
+<pb n="450" facs="#page-449"/>
+[A transcription of this page is not available.]
+<pb n="451" facs="#page-450"/>
+[A transcription of this page is not available.]
+<pb n="452" facs="#page-451"/>
+[A transcription of this page is not available.]
+<pb n="453" facs="#page-452"/>
+[A transcription of this page is not available.]
+<pb n="454" facs="#page-453"/>
+[A transcription of this page is not available.]
+<pb n="455" facs="#page-454"/>
+[A transcription of this page is not available.]
+<pb n="456" facs="#page-455"/>
+[A transcription of this page is not available.]
+<pb n="457" facs="#page-456"/>
+[A transcription of this page is not available.]
+<pb n="458" facs="#page-457"/>
+[A transcription of this page is not available.]
+<pb n="459" facs="#page-458"/>
+[A transcription of this page is not available.]
+<pb n="460" facs="#page-459"/>
+[A transcription of this page is not available.]
+<pb n="461" facs="#page-460"/>
+[A transcription of this page is not available.]
+<pb n="462" facs="#page-461"/>
+[A transcription of this page is not available.]
+<pb n="463" facs="#page-462"/>
+[A transcription of this page is not available.]
+<pb n="464" facs="#page-463"/>
+[A transcription of this page is not available.]
+<pb n="465" facs="#page-464"/>
+[A transcription of this page is not available.]
+<pb n="466" facs="#page-465"/>
+[A transcription of this page is not available.]
+<pb n="467" facs="#page-466"/>
+[A transcription of this page is not available.]
+<pb n="468" facs="#page-467"/>
+[A transcription of this page is not available.]
+<pb n="469" facs="#page-468"/>
+[A transcription of this page is not available.]
+<pb n="470" facs="#page-469"/>
+[A transcription of this page is not available.]
+<pb n="471" facs="#page-470"/>
+[A transcription of this page is not available.]
+<pb n="472" facs="#page-471"/>
+[A transcription of this page is not available.]
+<pb n="473" facs="#page-472"/>
+[A transcription of this page is not available.]
+<pb n="474" facs="#page-473"/>
+[A transcription of this page is not available.]
+<pb n="475" facs="#page-474"/>
+[A transcription of this page is not available.]
+<pb n="476" facs="#page-475"/>
+[A transcription of this page is not available.]
+<pb n="477" facs="#page-476"/>
+[A transcription of this page is not available.]
+<pb n="478" facs="#page-477"/>
+[A transcription of this page is not available.]
+<pb n="479" facs="#page-478"/>
+[A transcription of this page is not available.]
+<pb n="480" facs="#page-479"/>
+[A transcription of this page is not available.]
+<pb n="481" facs="#page-480"/>
+[A transcription of this page is not available.]
+<pb n="482" facs="#page-481"/>
+[A transcription of this page is not available.]
+<pb n="483" facs="#page-482"/>
+[A transcription of this page is not available.]
+<pb n="484" facs="#page-483"/>
+[A transcription of this page is not available.]
+<pb n="485" facs="#page-484"/>
+[A transcription of this page is not available.]
+<pb n="486" facs="#page-485"/>
+[A transcription of this page is not available.]
+<pb n="487" facs="#page-486"/>
+[A transcription of this page is not available.]
+<pb n="488" facs="#page-487"/>
+[A transcription of this page is not available.]
+<pb n="489" facs="#page-488"/>
+[A transcription of this page is not available.]
+<pb n="490" facs="#page-489"/>
+[A transcription of this page is not available.]
+<pb n="491" facs="#page-490"/>
+[A transcription of this page is not available.]
+<pb n="492" facs="#page-491"/>
+[A transcription of this page is not available.]
+<pb n="493" facs="#page-492"/>
+[A transcription of this page is not available.]
+<pb n="494" facs="#page-493"/>
+[A transcription of this page is not available.]
+<pb n="495" facs="#page-494"/>
+[A transcription of this page is not available.]
+<pb n="496" facs="#page-495"/>
+[A transcription of this page is not available.]
+<pb n="497" facs="#page-496"/>
+[A transcription of this page is not available.]
+<pb n="498" facs="#page-497"/>
+[A transcription of this page is not available.]
+<pb n="499" facs="#page-498"/>
+[A transcription of this page is not available.]
+<pb n="500" facs="#page-499"/>
+[A transcription of this page is not available.]
+<pb n="501" facs="#page-500"/>
+[A transcription of this page is not available.]
+<pb n="502" facs="#page-501"/>
+[A transcription of this page is not available.]
+<pb n="503" facs="#page-502"/>
+[A transcription of this page is not available.]
+<pb n="504" facs="#page-503"/>
+[A transcription of this page is not available.]
+<pb n="505" facs="#page-504"/>
+[A transcription of this page is not available.]
+<pb n="506" facs="#page-505"/>
+[A transcription of this page is not available.]
+<pb n="507" facs="#page-506"/>
+[A transcription of this page is not available.]
+<pb n="508" facs="#page-507"/>
+[A transcription of this page is not available.]
+</ab>
+    </body>
+  </text>
+</TEI>

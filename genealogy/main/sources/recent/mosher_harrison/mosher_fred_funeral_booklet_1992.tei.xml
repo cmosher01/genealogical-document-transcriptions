@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher fred funeral booklet 1992</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_booklet_1992/p-008.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>ur aim fjas! beEtt to bo all
+<lb/>in our potoer to ligbten
+<lb/>tbe burben tobicb bas been pours anb
+<lb/>toe sincerelp bope toe b^be accomplisbeb
+<lb/>our besire.
+<lb/>M is our toisb in presenting tbtS
+<lb/>boob of memories to cause cberisbeb
+<lb/>thoughts to linger through the pears.
+<lb/>PAUL FUNERAL HOME
+<lb/>Jeffrey T. Paul, Director
+<lb/>3592 South Street
+<lb/>Madison, New York 13402
+<pb n="2" facs="#page-001"/><lb/>I
+<lb/>&gt;
+<lb/>ri
+<lb/>ti iHcmorp
+<lb/>FREDERICK C. MOSHER
+<lb/>Place of Blrth-
+<lb/>Lebanon, New York
+<lb/>Dote of Birth.
+<lb/>May 28, 1911
+<lb/>Cntereb into i^esit
+<lb/>Dafe.
+<lb/>July 4, 1992
+<lb/>Place.
+<lb/>Age-
+<lb/>Hamilton, New York
+<lb/>81
+<pb n="3" facs="#page-002"/>
+<lb/>crbices
+<lb/>Place.
+<lb/>Paul Funeral Home-Madison, N.Y.
+<lb/>Date -
+<lb/>July 7, 1992
+<lb/>Clergp (I^fficiatins
+<lb/>Rev. Robert Knapp
+<pb n="4" facs="#page-003"/>
+<lb/>amilp Eetorb
+<lb/>Father
+<lb/>Lewis Mosher
+<lb/>Mother.
+<lb/>Pearl Colvin
+<lb/>Father's Father.
+<lb/>Father's Mother _
+<lb/>Mother's Father _
+<lb/>Mother's Mother.
+<lb/>(0tjier jHemtjersi of tfte jFamilp
+<lb/>A son, Barry
+<lb/>A sisiter, Alta Benedict
+<lb/>Two grandchildren, one great-crrandchild
+<lb/>A brother-in-law, Jeril
+<lb/>A special friend, Barbra Mulch
+<lb/>A special friend, Ned Flemming
+<lb/>Several Nieces and Nephews
+<pb n="5" facs="#page-004"/>
+<lb/>tnal l^es^tins $lace
+<lb/>f
+<lb/>Place of Interment.
+<lb/>Ecjgewood Memorial Park
+<lb/>Grove. Lot. Block.
+<lb/>Section.
+<lb/>City. Glen Mills County.
+<lb/>State.
+<lb/>Pennsylvania
+<lb/>ilatb to
+<lb/>Date. . Time _
+<pb n="6" facs="#page-005"/>
+<lb/>I
+<lb/>) emortalsi
+<lb/>American Heart Association
+<pb n="7" facs="#page-006"/>
+<lb/>,1
+<lb/>i
+<lb/>elatibcs anb Jfrienbsi
+<lb/>f
+<lb/>f
+<lb/>[Jp Ze&lt;y /2l
+<lb/>(M.
+<pb n="8" facs="#page-007"/>
+<lb/>ehisipaper iSottccsi
+<lb/>Frederick C. Mosher
+<lb/>HAMILTON — Frederick C. Mosher, 81, of 9 Eaton Street, died Satur
+<lb/>day, July 4, 1992, at his home.
+<lb/>He was bom on May 28, 1911, in Lebanon, the son of Lewis and Pearl
+<lb/>Colvin Mosher.
+<lb/>He was a graduate of Hamilton High School and attended Colgate Uni
+<lb/>versity. ^
+<lb/>On July 3,193/ in Hamilton, Mr. Mosher married Alice Harrison. She
+<lb/>died in 1971. ^
+<lb/>During World War 11 Mr. Mosher worked as a civilian construction con
+<lb/>tractor, building soldier's housing in Alaska.
+<lb/>Mr. Mosher was also one of the contractors involved in the construction
+<lb/>of the present Oneida High School.
+<lb/>He had an avid interest in antiques and at one time was an active dealer
+<lb/>in the state.
+<lb/>Mr. Mosher was a life long resident of the Hamilton-Earlville area.
+<lb/>Surviving are one son, Barry Mosher, of Wilmington, Dela.; one sister,
+<lb/>Mrs. E. Jeril (Alta) Benedict of Hamilton; two grandchildren; one great
+<lb/>grandchild and several nieces and nephews. (See Death Notice.)
+<lb/>Mosher
+<lb/>■  tei
+<lb/>Funeral services for Frederick C.,
+<lb/>Mosher, will be Tuesday, July 7, at'
+<lb/>2 p.m. from the Paul Funeral Home^
+<lb/>3592 South St., Madison, with the'
+<lb/>Rev. David Hess, pastor of the First
+<lb/>Baptist Church, Hamilton, officiat-'
+<lb/>ing. Interment will be in Edgewood,
+<lb/>Memorial Park, Glen Mills, Pat"
+<lb/>There will be no calling hours. Con
+<lb/>tributions may be made in the_
+<lb/>memory of Mr. Mosher to the Amer-_;
+<lb/>ican Heart Association.
+<pb n="9" facs="#page-008"/>
+<lb/>Frederick C. Mosher
+<lb/>HAMILTON — Frederick C.
+<lb/>Mosher, 81, of 9 Eaton St., died
+<lb/>Saturday at his home.
+<lb/>He was born in Lebanon and
+<lb/>was a life resident of the Hamil-
+<lb/>ton-Earlville area.
+<lb/>Surviving are a son, Barry of
+<lb/>Wilmington, Del.; a sister, Alta
+<lb/>Benedict of Hamilton; two grand
+<lb/>children; one great-grandchild;
+<lb/>and several nieces and nephews.
+<lb/>Services will be 2 p.m. Tuesday
+<lb/>at the Paul Funeral Home, 3592
+<lb/>South St., Madison. Burial will be
+<lb/>in Glen Mills, Pa.
+<lb/>Contributions may be made to
+<lb/>American Heart Association.
+</ab>
+    </body>
+  </text>
+</TEI>

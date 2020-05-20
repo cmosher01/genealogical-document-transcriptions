@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher douglass genealogy bible fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-010.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-011.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-012.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-019.ptif/full/full/!270/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_douglass_genealogy_bible_fixed/p-020.ptif/full/full/!270/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+<pb n="1" facs="#page-000"/>
+<lb/>July 11, 2002
+<lb/>1404 Apache St
+<lb/>Arlington, TX 76012-4302
+<lb/>Hi Chris, Missy and Holley,
+<lb/>Enclosed are the pages from the DOUGLASS/MOSHER Bible. Have fun!!
+<lb/>Following is Deo and Dorothy's address. If you want, I can get the
+<lb/>address for Harriet, the cousin who has the Bible.
+<lb/>Mr. and Mrs. Deo A. Padgett
+<lb/>17456 Plaza Otonal
+<lb/>Rancho Bernardo, OA 92128
+<lb/>1-858-676-1100
+<lb/>Take care.
+<lb/>Ruth <supplied>Coker</supplied>
+<pb n="2" facs="#page-001"/>
+<lb/>CASSELL'S
+<lb/>ILLUSTRATED BIBLE:
+<lb/>CONTAINING
+<lb/>The Old and New Testaments,
+<lb/>WITH
+<lb/>REFERENCES,
+<lb/>NUMEROUS
+<lb/>CRITICAL AND EXPLANATORY NOTES,
+<lb/>AND A
+<lb/>CONDENSED CONCORDANCE.
+<lb/>ILLUSTRATED WITH
+<lb/>More than Nine Hundred Highly Finished Engravings.
+<lb/>W. J. HOLLAND &amp; CO.,
+<lb/>SPRINGFIELD, MASS., AND CHICAGO, ILL.
+<pb n="3" facs="#page-002"/>
+[A transcription of this page is not available.]
+<pb n="4" facs="#page-003"/>
+<lb/>SUFFER LITTLE CHILDREN TO COME UNTO ME
+<lb/>BIRTHS
+<lb/>Elijah Douglass, <date when="1835-05-14">May 14, 1835.</date>
+<lb/>Julia A. Douglass, <date when="1845-07-14">July 14, 1845</date>
+<lb/><hi rend="underline">children</hi>
+<lb/>Arthur E. Douglass, <date when="1866-12-14">Dec. 30, 1866.</date>
+<lb/>Charles La Mott Douglass, <date when="1869-09-08">Sept., 8, 1869.</date>
+<lb/>Julia Ellen Douglass, <date when="1871-02-04">Feb. 4, 1871.</date>
+<lb/>Addie La Dell Douglass, <date when="1874-07-11">July 11, 1874.</date>
+<lb/>Alice M. Douglass, <date when="1874-07-11">July 11, 1874.</date>
+<lb/>Walter Roland Douglass, <date when="1877-01-18">Jan. 18, 1877.</date>
+<lb/>James Garfield Douglass, <date when="1881-07-31">July 31, 1881.</date>
+<lb/>John William Douglass, <date when="1886-03-26">March 26, 1886.</date>
+<lb/>BLESSED IS THE MAN THAT HATH HIS QUIVER FULL OF THEM
+<lb/>VAN DARGENT
+<pb n="5" facs="#page-004"/>
+<lb/>A VIRTUOUS WOMAN GROWN OF JEWELS TO HER HUSBAND
+<lb/>MARRIAGES
+<lb/>Elijah Douglass &amp; Julia A. Mosher,
+<lb/><date when="1864-09-13">Sept. 13, 1864</date>.
+<lb/>children
+<lb/>Arthur E. Douglass to Addie Young ?
+<lb/>Alice Mabel Douglass to Rev Myron E. Bailey June 25,
+<lb/>in South Hamilton NY by Rev A. E. Douglass of Pleasantville
+<lb/>N.J.
+<lb/>James Garfield Douglass to Polly ?
+<lb/>John William Douglass to Bessie Eliza Burhyte <add>on</add> <date when="1913-07-26">July 26, 1913</date>
+<lb/>in Berkeley California (Born <date when="1892-08-11">Aug 11, 1892</date>)
+<lb/>WHOSO FINDETH A WIFE FINDETH A GOOD THING AND OBTAINETH FAVOUR OF THE LORD
+<lb/>VAN DARGENT
+<pb n="6" facs="#page-005"/>
+<lb/>DEATHS
+<lb/>Julia Ellen Douglass, <date when="1871-04-15">Apr. 15, 1871</date>.
+<lb/>Addie Ladell Douglass, <date when="1876-09-15">Sept. 15, 1876</date>.
+<lb/>Walter Roland Douglass, <date when="1878-01-15">Jan. 15, 1878</date>.
+<lb/>Julia A. Douglass, <date when="1913-09-15">Sept. 15, 1913</date>.
+<lb/>Elijah Douglass, <date when="1927-05-03">May 3, 1927</date>
+<lb/>Alice Mabel Bailey <date when="1949-10-24">Oct 24 1949</date>
+<lb/>Charles L. Douglass <date when="1950-04-03">April 3, 1950</date>
+<lb/>John W<hi rend="underline">m</hi> Douglass <date when="1953-01-29">Jan 29, 1953</date>
+<lb/>Bessie Eliza Burhyte Douglass <date when="1967-04-14">April 14, 1967</date>
+<lb/>I AM THE RESURRECTION AND THE LIFE.
+<pb n="7" facs="#page-006"/>
+<lb/>Family Record.
+<cb n="1"/>
+<lb/>BIRTHS.
+<lb/>David Mosher
+<lb/><date when="1781-07-24">July 24th 1781</date>
+<lb/>Betsy Mosher
+<lb/><date when="1786-04-06">April 6th 1786</date>
+<lb/>Sally Mosher
+<lb/><date when="1803-07-12">Tuesday July 12th 1803</date>
+<lb/>Polly Mosher
+<lb/><date when="1805-07-14">Saterday July 14th 1805</date>
+<lb/>William G Mosher
+<lb/><date when="1807-04-15">Wednesday April 1<subst><del>6</del><add type="overwrite">5</add></subst>th 1807</date>
+<lb/>David J. Mosher
+<lb/><date when="1809-04-07">Friday April 7th 1809</date>
+<lb/>Senaca Mosher
+<lb/><date when="1811-04-01">Monday April 1st 1811</date>
+<lb/>Caroline Mosher
+<lb/><date when="1815-04-29">Saterday April 29th 1815</date>
+<lb/>Ransaler S Mosher
+<lb/><date when="1817-01-25">Saterday January 25th 1817</date>
+<lb/>Juleann Mosher
+<lb/><date when="1819-08-26">Thursday August 26th 1819</date>
+<lb/>Harriet Mosher
+<lb/><date when="1822-02-10">Sunday Feb<hi rend="sup">y</hi> 10th 1822</date>
+<cb n="2"/>
+<lb/>BIRTHS.
+<lb/>Harvey A. Mosher
+<lb/><date when="1828-09-26">Friday Sept<hi rend="sup underline">r</hi> 26th 1828</date>
+<lb/>Sary the 2<hi rend="sup underline">d</hi> Wife of
+<lb/>David Mosher <date when="1789-04-28">Ap<hi rend="sup underline">l</hi> 28th 1789</date>
+<lb/>Mary the wife
+<lb/>of William G. Mosher
+<lb/><date when="1821-08-11">Monday August 11<hi rend="sup">th</hi> 1821</date>
+<lb/>William G. Moshers Children
+<lb/>David G. Mosher
+<lb/><date when="1841-10-04">Monday Oct<hi rend="sup underline">r</hi> 4th 1841</date>
+<lb/>Eliza Jane Mosher
+<lb/><date when="1843-04-06">Thursday Ap<hi rend="sup underline">l</hi> 6th 1843</date>
+<lb/>Juli Ann Mosher
+<lb/><date when="1845-07-14">Monday July 14th 1845</date>
+<lb/>Sarah Mosher
+<lb/><date when="1849-06-10">Saterday June 10th 1849</date>
+<lb/>Oliver L. Mosher
+<lb/><date when="1851-08-17">Saterday August 17<hi rend="sup">th</hi> 1851</date>
+<lb/>William D Mosher
+<lb/><date when="1854-02-02">Thursday the 2nd Day of
+<lb/>February 1854</date>
+<pb n="8" facs="#page-007"/>
+<lb/>Family Record.
+<lb/>BIRTHS.
+<lb/>Ransaler Mosher
+<lb/>Wife &amp; Children
+<lb/>Martha Mosher
+<lb/>Monday Augs<hi rend="sup underline">t</hi> 11th 1821
+<lb/>Martha E. Mosher
+<lb/>Sept<hi rend="sup underline">r</hi> 24th 1842
+<lb/>Mary A Mosher
+<lb/>Feb<hi rend="sup">y</hi> 6th 1845
+<lb/>William J. Mosher
+<lb/>Oct<hi rend="sup underline">r</hi> 22<hi rend="sup underline">nd</hi> 1846
+<lb/>Harvey A. Mosher
+<lb/>March 29<hi rend="sup">th</hi> 1849
+<lb/>BIRTHS.
+<lb/>Harret Adlade Nichols
+<lb/>August 21<hi rend="sup">st</hi> 1841
+<pb n="9" facs="#page-008"/>
+<lb/>Family Record.
+<lb/>MARRIAGES.
+<lb/>David Moher to Betsy Lee
+<lb/>Feb<hi rend="sup underline">y</hi> 11th 1802
+<lb/>Polley the Daughter of
+<lb/>David &amp; Betsy Mosher
+<lb/>to Israel Riddell
+<lb/>January 5th 1834
+<lb/>David Mosher 2<hi rend="sup underline">nd</hi> Marrage
+<lb/>to Sarah Luther June
+<lb/>the 2<hi rend="sup underline">nd</hi> 1838
+<lb/>Caroline Mosher to
+<lb/>Oliver Camp Thursday
+<lb/>January 30th 1840
+<lb/>Ransaler Mosher
+<lb/>to Martha Luther
+<lb/>Tuesday Feb<hi rend="sup underline">y</hi> 18th 1840
+<lb/>Julean Mosher to
+<lb/>Nathan Nichols
+<lb/>Tuesday Feb<hi rend="sup underline">y</hi> 18th 1840
+<lb/>William G. Mosher to
+<lb/>Mary Luther Thursday
+<lb/>December 31<hi rend="sup underline">st</hi> 1840
+<lb/>Harret Mosher to
+<lb/>Hiream Welch
+<lb/>Dec<hi rend="sup underline">r</hi>.. 22<hi rend="sup underline">nd</hi> 1842
+<lb/>MARRIAGES.
+<pb n="10" facs="#page-009"/>
+<lb/>Family Record
+<lb/>DEATHS.
+<lb/>Seneca Mosher
+<lb/>April 3<hi rend="sup">d</hi> 1814
+<lb/>Sally Mosher
+<lb/>Monday March 26th 1832
+<lb/>Harvey A Mosher
+<lb/>August 15th 1833
+<lb/>Betsey the wife of
+<lb/>David Mosher April
+<lb/>the 25th 1837
+<lb/>Eliza Luther
+<lb/>Monday April the 27th 1840
+<lb/>Aged 15 years 2 months
+<lb/>and 16 Days
+<lb/>Born Feb<hi rend="sup underline">y</hi> 11th 1825
+<lb/>Julean the Wife of
+<lb/>Nathan Nichols
+<lb/>Teusday the 3<hi rend="sup">d</hi> Day of June 1845
+<lb/>Mary the Wife of
+<lb/>William G. Mosher
+<lb/>friday the 3<hi rend="sup">d</hi> Day of Feb<hi rend="sup underline">y</hi> 1854
+<lb/>Gideon G. Luther
+<lb/>October 28 1857
+<lb/>DEATHS.
+<lb/>Oliver L Mosher
+<lb/>Saterday Apr<hi rend="sup underline">l</hi>. 17th 1852
+<lb/>William G. Mosher (born 1807)
+<lb/>May 1899
+<lb/>David G. Mosher (born 1841)
+<lb/>1908
+<lb/>Julia Ann Douglass (Mosher)
+<lb/>(born 1845) Sept 15, 1913
+<pb n="11" facs="#page-010"/>
+<pb n="12" facs="#page-011"/>
+<pb n="13" facs="#page-012"/>
+<pb n="14" facs="#page-013"/>
+<pb n="15" facs="#page-014"/>
+<pb n="16" facs="#page-015"/>
+<lb/>MOSHER, DAVID. Died Feb. 27, 1862 aged 81. Buried at
+<lb/>Hamilton Center.
+<lb/>MOSHER, WILLIAM G. Born 1807-died 1901. Buried at
+<lb/>Hamilton Center.
+<lb/><fw type="pageNum" place="bottom" rend="center">172</fw>
+<lb/>Tuttle “Pioneer Settlers of Madison Co.”
+<pb n="17" facs="#page-016"/>
+<lb/>MOSHER WM. G. 1807-1901 Hamilton Center
+<lb/>“Early Burials of Madison Co. NY Cemeteries” Bracy 1979
+<pb n="18" facs="#page-017"/>
+<lb/>HAMILTON
+<lb/>1-21
+<lb/>MOSHER
+<lb/>ORLANDO 26 husband
+<lb/>JULIA 25 wife
+<lb/>“Madison Co. Census of 1855”
+<lb/>L-M
+<lb/>1875 -
+<lb/>“Deaths &amp; Marriages” Bracy 1980
+<pb n="19" facs="#page-018"/>
+<lb/>MOSHER
+<lb/>AMOS 25 Husband
+<lb/>SARAH 26 Wife
+<lb/>MOSHER
+<lb/>MALINDA 52 Mother
+<lb/>“Madison Co. Census of 1855” L-M
+<lb/>“Deaths &amp; Marriages” Bracy 1980
+<pb n="20" facs="#page-019"/>
+<lb/>DOUGLASS
+<lb/>JULIA
+<lb/>(MOSHER)
+<lb/>b. 1845
+<lb/>d. 1913
+<lb/>ELIJAH b. 1835
+<lb/>d. 1927
+<lb/>Julia (Mosher Douglass
+<lb/>Elijah Douglass
+<pb n="21" facs="#page-020"/>
+<lb/>ELIJAH DOUGLASS &amp; FAMILY
+<lb/>b. 1835
+<lb/>d. 1927
+<lb/>Poolville
+<lb/>New York left to right back row
+Addie Young Douglass,
+Rev Arthur E Douglass,
+Rev Myron and Alice (Douglass) Bailey
+<lb/>left to right front row
+<lb/>John Wm Douglass,
+James Garfield Douglass,
+Julia (Moshier) Douglass,
+Eligah Douglass,
+Charles Lamont Douglass
+</ab>
+    </body>
+  </text>
+</TEI>

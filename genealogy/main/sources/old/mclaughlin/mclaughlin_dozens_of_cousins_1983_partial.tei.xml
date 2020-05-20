@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin dozens of cousins 1983 partial</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_1983_partial/p-013.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>CHARLES
+<lb/>Married Edith Nixon (l86l-1925). Children:
+<lb/>William (1891-1979) Pearl (1892- )
+<lb/>Lee (1901-1921) Margaret (l89l:-l89'+) Stanley (1906-1908)-
+<lb/>William married Gertrude Master (189I- ) in 1915. Children:
+<lb/>Lois (1927- ) Lucille (l93l^- ) Patricia (1935- )
+<lb/>William Jr. (1936= )
+<lb/>Lois married Ralph W. Borden in I9U6. Children:
+<lb/>Ralph Eugene (1950- )
+<lb/>REmarried Alexander Connor (1919-I970) in 1956. Children;
+<lb/>Margaret Inez (1957- ) Gertrude (1958- , )
+<lb/>William Harvey (196O- )
+<lb/>Ralph E. Bor4«n married Kim Okai in 1971. Children:
+<lb/>Suzanne (1972-1972) Tina Maria (1973- )
+<lb/>William Daniel (1972- )
+<lb/>William married Julie DeSylva in I983.
+<lb/>Lucille married LLoyd Rowe in 1957. Children:
+<lb/>Catherine Ann (1959- ) Richard Lloyd (196I-
+<lb/>Elizaheth Mary (1963- ) Steven William (196U-
+<lb/>Patricia married John Rose in I966. Children:
+<lb/>Edvard James (1967- ) Olin James (1968-
+<lb/>Lois Marie (1971- ) Carol (197^- )
+<lb/>William Jr. married Ann Rotsell in 1965. Children: y
+<lb/>Adopted David Andrew (1966- ) Mary Elizabeth (1967-
+<lb/>Daniel Francis (1968- )
+<pb n="2" facs="#page-001"/>
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLATJGHI,IN
+<lb/>James l. and Antoinette ward Mclaughlin
+<lb/>CLEON married Margaret Mann. One son, Robert--no record.
+<lb/>Remarried Isabella ?. Two children: James and Jane. No record.
+<lb/>EARL married Margaret Clancy. Two adopted children. No record.
+<lb/>Remarried, Violet Losey. No children.
+<lb/>WILLIAM And MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>WILLIAM P.
+<lb/>Married Bridget Ryan (1874-1922). Children:
+<lb/>I  Margaret(1901- ) Frances(1902-1902) John(1903-1963)
+<lb/>i  Florence(l906-1977) Elsie(l908- ) Holland(l9ll-1944)
+<lb/>JO|W married Luella Heller in 1939. No children.
+<lb/>HOLLAND married Ruth Pecor. No children.
+<lb/>ELSIE married Clair McCarty (1897 1981). No children.
+<lb/>FLORENCE married Allen Frost (1915-
+<lb/>Anita(1938- Janet(1943-
+<lb/>) in 1937. Children:
+<lb/>) Jean(1945 ;
+<lb/>ANITA FROST married John B. Mayes Jr. (1938 ) in 1960. Children:
+<lb/>Kelly Jo(l961- ) Kathryn(1966 " )
+<lb/>JANET FROST married Dennis Dadson in 1966. Children:
+<lb/>Timothy Andrew(1970- )
+<lb/>JEAN FROST married James Edw. Horigan in 1971.
+<lb/>Ann Elizabeth(1977- ) James(1979- ) John David(1982-
+<pb n="3" facs="#page-002"/>
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>WILLIAM P. AND BRIDGET RYAN MCLAUGHLIN
+<lb/>MARGARET MCLAUGHLIN married Samuel J. Frost (1901-1951) in 1923.
+<lb/>Children: Shirley (1923- ) Raymond (1926- )
+<lb/>Helen (1927- ) Ann (1936- ) Kay (1942-1957)
+<lb/>SHIRLEY FROST married James H. Regan (1922- ' ) in 1964.
+<lb/>ANN FROST married Ivan Gambrel in 1968.
+<lb/>HELEN FROST married George Button (1924-1983) in 1947. Children:
+<lb/>David (1948- ) Steven (1949- )
+<lb/>JoAnn (1950- ) Twins Jean and Julie (1954-1954)
+<lb/>DAVID BUTTON married Victoria Gonzales in 1969. Children:
+<lb/>Johnnie (1971- ) Aaron (1973-
+<lb/>Julia (1981- )
+<lb/>)  Eric (1980-
+<lb/>STEVEN BUTTON married Nancy Fisher in 1969. No children.
+<lb/>Remarried Deborah Speiss in 1977.
+<lb/>JOANN BUTTON married David Tuma in 1966. Children:
+<lb/>RAYMOND FROST married Phyllis Hilton (1925- ) in 1947.Children:
+<lb/>Jack (1949- ) Rae (1950- ) Terry (1951- )
+<lb/>Peggy (1953- ) Michael (1954- ) Lorraine (1955-
+<lb/>S. Patrick (1957- ) Mark (1959- ) Richard (1961-
+<lb/>Mary Jane (1962- )
+<lb/>JACK FROST married Rosalind Burns (1950- ) in 1969. Children:
+<lb/>Kathryn (1981- )
+<lb/>RAE FROST married John R. Read (1950- ) in 1972. Children:
+<lb/>Megan (1982- )
+<lb/>TERRY FROST married Edward Abadia in 1974. Children:
+<lb/>Vanessa (1977- )
+<lb/>PEGGY FROST married Dennis Halley in 1975.
+<lb/>MICHAEL FROST married Debra Stanford (1956- ) in 1975.Children:
+<lb/>Alan (1975- )  Amber (1977- )  Donna (1980- )
+<lb/>PATRICK FROST married Marilyn Cervoni in 1978.
+<lb/>MARY JANE FROST married Patrick Kelly in 1982.
+<pb n="4" facs="#page-003"/>
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>GEORGE
+<lb/>Married Julia Shea (1858-1939). Children:
+<lb/>Leo(1898-1899) Adopted Joseph (1906- )
+<lb/>JOSEPH ihdrried Margaret Doyle in 1934. Children:
+<lb/>Kitty (1936- ) Erancis(l934-drowned 1942)
+<lb/>Carol Ann (1941- ) Marian (1943- )
+<lb/>KITTY married James Murphy in 1958. Children:
+<lb/>Michael Jude (1959- ) Thomas (1963- )
+<lb/>Colleen (1966- )
+<lb/>CAROL ANN married Anthony Dziezgowski in 1963, Children:
+<lb/>Joseph (1964- )
+<lb/>MARIAN married David Kratz in 1968.
+<lb/>David (1971- ) Brian (1973- )
+<pb n="5" facs="#page-004"/>
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>DANIEL
+<lb/>Married Catherine Hendrick (i8T5-1969).in 1899- Children:
+<lb/>Edna (l899- ) Arthur (1901-1975) Maynard (1902-1968)
+<lb/>Thomas (I90I+- ) Evelyn (1909-1966) Dorothy (1912- )
+<lb/>Paul(1918- )
+<lb/>Edna married Chauncey Bulkley (I898- ) in 1919. Children;
+<lb/>John (I92lt- ) Eileen (1925-1926) Mary (1927- )
+<lb/>Rita (1933- ) Carol Evelyn (1936-1936)
+<lb/>John married Rose Mahlum in 19^'+j Children:
+<lb/>Jennie Lee (19^+5- 1, Daniel John Jr. (19^6- )
+<lb/>Richard (1951- ) Brian (1953- )
+<lb/>Eileen (1955- ) Gerald (1957- )
+<lb/>Susan Rose (1958- ) Christine Ann (1959- )
+<lb/>Juliet DAwn (196I- ) Colleen (196I1- )
+<lb/>Jennie Lee married Robert Guthrie. Children:
+<lb/>Katrina (1968- ) Cheryl Lynn (1972-
+<lb/>Greg (1976- ) Robert (1970- ■ )
+<lb/>Valorie (1966- )
+<lb/>Daniel married Kathy Cox in I967. Children:
+<lb/>Teri Sue (1969- ) Trica Ann (1972- )
+<lb/>Todd ( 1977- )
+<lb/>Richard married Diane Morgan in 1971. Children;
+<lb/>Anthony Richard (1973- )
+<lb/>Remarried Carol Swan in 1978.
+<lb/>Eileen married Terry 0'Brian in 197^+. Children;
+<lb/>Terry (1976- )
+<lb/>Susan married Kevin Rook . Children;
+<lb/>Amanda (I98O- ) Kevin Joseph (1982- )
+<pb n="6" facs="#page-005"/>
+<lb/>WILLIAM AND MARCrARET DAUGHERTY MCLAUGHLIN
+<lb/>DANIEL AND CATHERINE HENDRICK MCLAUGHLIN^
+<lb/>EDNA MCLAUGHLIN BULKI.EY
+<lb/>Mary married Raymond Keefer (1918- ) in 19h6. Children:
+<lb/>Patrick (19I+6- ) Joan (19^7- )
+<lb/>%
+<lb/>Joan married Gilbert Gushing in 1968. Children:
+<lb/>Michael Patrick (1969- ) Monica Rae (l9T3- )
+<lb/>Rita married Alfred McRae (1928- ) in 1953. Children:
+<lb/>Mary Kay (195^- ) Ann Elizabeth (1956-1978)
+<lb/>Elizabeth Jane (1958- ) Patrica Ann (196O- )
+<lb/>Maureen (196I- ) Michael E. (1966
+<lb/>Kathryn Bernadette (1971- )
+<lb/>Mary Kay married John Brennan in 1976. Children:
+<lb/>Michael (1978- ) Daniel Patrick (1983- )
+<lb/>Ann married Michael Murphy (1955- 1978) in 1976.
+<lb/>Ann and Mike were killed in an airplane crash.
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>DANIEL AND CATHERINE HENDRICK MCLAUGHLIN
+<lb/>ARTHUR
+<lb/>Married Margaret Smith in 1931. Children:
+<lb/>Edward (1932- ) Donald (1933- ) Joyce (193^- )
+<lb/>Bernard (1936- ) Jean (19^0- )
+<lb/>Remarried Marian Dailey in 1968.
+<lb/>Edward married Janice McConnell in I96I. Children:
+<lb/>Terry Michael (1952- ) Jean Marie (195^- )
+<lb/>Barbara Rae (1957- ) Richard Edward (196O- )
+<lb/>Ddhald married Carolyn Lowery in 1951. Children:
+<lb/>Maureen (1953- ) Michael DAniel (1955- 1959)
+<lb/>Remarried May Wilson in I96O. Children:
+<lb/>Karen Elaine (1963- ) Donna Mae ( I966- )
+<pb n="7" facs="#page-006"/>
+<lb/>Bernard married Patricia Collins in 1957. Children:
+<lb/>Deborah Ann (1958- ) Colleen Ann (1959- )
+<lb/>Kathleen Ann (196I- ) Bernard J. (1963- )
+<lb/>Thomas (I966- )
+<lb/>Joyce married Robert Anderson in
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>DANIEL AND CATHERINE HEIIDRICK MCLAUGHLIN
+<lb/>DOROTHY
+<lb/>Married Michael Kane (19II- ) in 19^7. CHildren:
+<lb/>Patricia Ann (19^+8- )
+<lb/>Patricia married Steven Kessler in 1972, Children:
+<lb/>Dennis (1978- ) Sabrina (198I- )
+<pb n="8" facs="#page-007"/>
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>DANIEL AND CATHERINE HENDRICK MCLAUGHLIN
+<lb/>Married Kathryn Schvir (1918-
+<lb/>Evelyn (191+5- )
+<lb/>Bernadette (19I+6- )
+<lb/>Michael (191+7- )
+<lb/>Ruth (19I+8- )
+<lb/>John (19I+9- )
+<lb/>)  in I9I+I+. Children:
+<lb/>Mary Kathryn (1951-
+<lb/>Jane (1952- ' )
+<lb/>THomas (1953- )
+<lb/>Carol (195I+- )
+<lb/>Veronica (1958- )
+<lb/>EVELYN married James Landolf in I966. Children:
+<lb/>Catherine Jane (1967-
+<lb/>Thomas Patrick (1970-
+<lb/>Sharon (1972- )
+<lb/>Michael James (1968-
+<lb/>John Paul (19YI-
+<lb/>Mark (198I- )
+<lb/>Bernadette married Guy Hill in 19^9• Children:
+<lb/>Paul Ivan (1971- ) Robert (1972- ) David (l97l+-
+<lb/>Sarah (1975- ) William (1977- ) Patrick (1979- )
+<lb/>Ann Elizabeth (1982- )
+<lb/>John married Sue Bauer in 1971. Children:
+<lb/>Timothy John (1972- ) Chad (1973-
+<lb/>Twins Jennifer and VJilliam (1976- )
+<lb/>Remarried Barbara Green in I98O.
+<lb/>Ruth married Anthony Lynch in 1971. Children:
+<lb/>Sean (1972- ) Mary Kate (1973- )
+<lb/>Michael (198I- )
+<lb/>Mary married John Aranda in 1971. Children;
+<lb/>Colleen (1972- ) Tina (l97'+- )
+<lb/>Michele (1976- ) Molly (1978- )
+<lb/>Thomas married Rose Ann Barry in 1973. Children;
+<lb/>Raymond Thomas (197^+- ) Nathan (1975- )
+<lb/>Anna Katherine (1976- ) Holland (1977- )
+<lb/>Mathew (1978- ) Luke (198O ) Adam (I98I-
+<lb/>Jared (1982- )
+<pb n="9" facs="#page-008"/>
+<lb/>Carol married Daniel Divens in 197^. Children:
+<lb/>Joseph (1975- ) Daniel (1976- )
+<lb/>Jane married John Morovich in 197^. Children:
+<lb/>John Paul (1976- ) Methev (1978- )
+<lb/>Mark (19BI- )
+<lb/>Michael married Nancy Baker in 1977. Children:
+<lb/>Julie (1977- ) Jason (1979- )
+<lb/>Kenneth Arthur (198O- )
+<lb/>Veronica married Michael Martin in 1978,
+<pb n="10" facs="#page-009"/>
+<lb/>WILLL'\M AND ^^ARGARET DAUGHERTY MCLAUGHLIN
+<lb/>DANIEL AND CATHERINE HENDRICK MCLAUGHLIN
+<lb/>THOMAS
+<lb/>Married Anna Hogue (1906- ) in 1935.Children:
+<lb/>Kay (1940- )
+<lb/>KAY married Gerald Sullivan in 1960. Children:
+<lb/>Mary Eliz. (1966- ) Kathleen Ann (1969- )
+<lb/>Thomas Patrick (1968- )
+<lb/>EVELYN
+<lb/>Married Raymond Carey (1901- ) in 1931. Children:
+<lb/>Catherine (1933-* ) Sharon (1943- )
+<lb/>KATHERINE CAREY married Charles Kohler in 1960. Children:
+<lb/>Maria Ann (1961- ) Jon (1964- )
+<lb/>Gretchen (1966- )
+<lb/>(4) SHARON CAREY married Thomas Ward in 1962. Children:
+<lb/>Thomas Raymond (1963- ) Brian (1965- )
+<lb/>James (1969- )
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>FRANK
+<lb/>Married Mary Fern (1871-1944). Children: )
+<lb/>Dudley (1908- ) Mary (1909-1983)
+<lb/>Helen (1912-1971)
+<lb/>MARY married Glen Flasphaler (1907-1969) in 1945. No children,
+<lb/>HELEN married Carl Terry (1907-1974) in 1941. No children.
+<lb/>DUDLEY married Bridget Galvin (1907- ) in 1936. Children:
+<lb/>Maureen (1938- )
+<lb/>MAUREEN married Harvey Miller in 1960. Children:
+<lb/>Harvey Francis (1961- ) Ann Marie (1965- )
+<pb n="11" facs="#page-010"/>
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>Married Elmer Harrison (1873-1943). Children:
+<lb/>Walter (1900-1903) John (1901- )
+<lb/>Alice (1905-1971) Leo (1907- ) Gerald (1908-1977)
+<lb/>LEO HARRISON married Madeline Lowery(1909- ) in 1939. No children
+<lb/>JOHN HARRISON married Dorothy Van Nortwick (1903- ) in 1926. Children:
+<lb/>Miriam (1933- ) Sally (1936- )
+<lb/>SALLY MRRISON married Robert J. Brown in 1958. Children:
+<lb/>• I
+<lb/>Douglas H. (1959- ) Gary M. (1961- )
+<lb/>Julie (1962- )
+<lb/>DOUGLAS BROWN tnaricied Sharon Ashley in 1979
+<lb/>Robert (1979- )
+<lb/>MIRIAM HARRISON married Richard Jung in 1967. Children:
+<lb/>Timothy Lee (1968- ) Jonathan ( ) «
+<lb/>ALICE HARRISON married Fred Mosher in 1934. Children:
+<lb/>Barry (1937- )
+<lb/>Barry MOSHER married Linda Disosway. Children:
+<lb/>Christopher (
+<lb/>Remarried Debbie Smith
+<lb/>) Nancy (
+<lb/>GERALD HARRISON raarri^Thelma Green Tl91I-1959^ in 1930. CHildren:
+<lb/>Gale (1935- )
+<lb/>GALE HARRISON married Mary Sypian in 1956. Children:
+<lb/>Gerald Michael (1957- ) Christine Ann (1959- )
+<lb/>CHRISTINE HARRISON married
+<lb/>WILLIAM AND MARGARET MCLAUGHLIN
+<lb/>KATHRYN
+<lb/>tried Arthur Hendrick (1868-1937). Children:
+<lb/>Lawrence (1903-1904) Donald (1905- 1978) Basil(1911-1967)
+<lb/>• 4
+<lb/>WNALD HENDRICK married Ruth Russell. Children:
+<lb/>~Dorothy(1927- 1 ) Pbyllis(l928- ) Paul(1930- )
+<pb n="12" facs="#page-011"/>
+<lb/>WILLIAM AND MARGARET DAUGHERTY MCLAUGHLIN
+<lb/>KATHRYN MCLAUGHLIN HENDRICK
+<lb/>DONALD
+<lb/>Remarried Marian Lahr. No children.
+<lb/>(t|) DOROTHY HENDRICK married Arthur Devenpcrt (192U- )in 19146. Chidren:
+<lb/>Arthur Jr. (19I46- ) Craig (1950= ) Pamela(l958- )
+<lb/>(5) Craig Devenprot married Sharill Putman in 19T1. Children:
+<lb/>Kimherly Trista (l9Tl+ ) Amy Beth (19T6- ) Rebecca Louise(l979-
+<lb/>(li) PHYLLIS HENDRICK marrie John Cleesattel in 19^6. Children:
+<lb/>Kathy Ann (I9I49- ) John (1951- )
+<lb/>(5) Kathy Ann Cleesattel married Richard Parks, Children:
+<lb/>Kari Ann (1969- ) William (l9T2- )
+<lb/>Remarried David Tucker in 1973.
+<lb/>(5) John Cleesattel married Deborah Forster in 1976. Children:
+<lb/>Linda (1982- )
+<lb/>(1+) PAUL HENDRICK married Dorothy Santheson in 1950. Children:
+<lb/>Peter Michael (195,3- ) Mark Stephen (1955-
+<lb/>Mark married Susan in 19 . Children: boy
+<lb/>/t-\ Peter married Elaine in 1982.
+<lb/>KATHRYN MCLAUGHLIN HENDRICK
+<lb/>BASIL
+<lb/>Married Isabelle Pecor. Children:
+<lb/>(1+) William (1937- ) James (1938-1956) Karen (19^42-
+<lb/>REmarried Ruth McAnders. No children.
+<lb/>(I4) WILLIAM HENDRICK married Maneen Dwyer In I96O. Children:
+<lb/>(5) Lorie Ann (196I- ) Linda( )
+<lb/>James
+<lb/>Remarried
+<lb/>Brian(
+<lb/>(I4) KAREN HENDRICK married Fred Soich in I968. Children:
+<lb/>(5) Frederick Edward (1969= )
+<pb n="13" facs="#page-012"/>
+<lb/>HONORAH MCLAUGHLIN AND DANIEL MCCARTY
+<lb/>CHARLES D.
+<lb/>Married Stella Shea (1870-1959). Children:
+<lb/>Margaret(1900- ) Isabelle(1902-1953)
+<lb/>E3telle(1906- ) Justin(190S-1975)
+<lb/>MARGARET MCCARTY married Arthur Doran(1894-1977) in 1939. No children.
+<lb/>ISABELLE MCCARTY married John Amey(l900-1954). No children.
+<lb/>ESTELLE MCCARTY married Wilson Heald(1905- ). Adopted: Andrea
+<lb/>JUSTIN MCCARTY married Marian Reardon(1905- ).in 1955. No children.
+<lb/>HONORAH MCLAUGHLIN AND DMIEL MCCARTY
+<lb/>JAMES
+<lb/>Married Elizabeth Hendrick(1863-1923). Children:
+<lb/>Katherine(1888-1958) Ethel(1900- ) Clair(1897-198l)
+<lb/>CLAIR MCCARTY married Elsie McLaughlin in 1930. No children.
+<lb/>KATHERINE MCCARTY married Earle Keenan in 1921. Children:
+<lb/>Florence(1924-1931) Marianne(l926-1968) Marleigh(1929- )
+<lb/>MARIANNE KEENAN married Thomas O'Leary in 1948v Children:
+<lb/>KEVIN O'LEARY married Betsy Stergion in 1973. Children:
+<lb/>Megan(1978- ) Colin(1980- )
+<lb/>SHAWN O'LEARY married Shelly
+<lb/>Keenan( )
+<lb/>in 1972. Children:
+<lb/>MARLEIGH KEENAN married John McGannon in 1949. Children:
+<lb/>Sherrylee(l951- ) Stephen(l953- ) Charle8(1955-
+<lb/>Mary Lou(19S6- ) James Thoraas(1960- )
+<lb/>STEPHEN McGANNON married
+<lb/>Shamus( )  Seth(
+<lb/>CHARLES McGANNON married
+<lb/>Jordan( )  Colin(
+<lb/>MARY LOU McGANNON married
+<pb n="14" facs="#page-013"/>
+<lb/>IH. ;
+<lb/>HONOARH MCLAUGHLIN AND DANIEL MCCARTY
+<lb/>JAMES AND ELIZABETH HENDRICK MCCARTY
+<lb/>ETHEL MCCARTY married George Keenan)1893- ) in 1921. Children:
+<lb/>Elizabeth Jean(1923- ) Irene(1927- )
+<lb/>Jame8(1933- ) Thomas(l936-1953) George Jr.(1944-1944)
+<lb/>ELIZABETH JEAN KEENAN married Dr. John Ward(1923- ) in 1946. Children:
+<lb/>Nancy(1948- ) Michael(l949- ) Kathy(1953-1953)
+<lb/>Margaret Ann(1950- ) Daniel(1955- )
+<lb/>NANCY WARD married Mike Schiovone in 1969. Children:
+<lb/>Kri8tina(1972- )
+<lb/>MICHAEL WARD married Francine Ribley in 1972. .
+<lb/>Chelsia(1976- ) Donald Keenan(1979- )
+<lb/>Jonathan(1980- )
+<lb/>MARGARET WARD married William Fary in 1973.
+<lb/>Kimmery Lee(1980- )
+<lb/>IRENE KEENAN married Jack Daulton(1928- ) in 1950. Children:
+<lb/>Chri8topher(1951- ) Timothy(1953- ) David(1954- )
+<lb/>Debra Jeanne(1956- ) Jill(1958-1967) Peter Keenan(1959-
+<lb/>CHRISTOPHER DAULTON married Elizabeth Snyder in 1973.
+<lb/>DAVID DAULTON married Jane Orcutt in 1980.
+<lb/>Adopted Michael(1981- ) Brian(1981- )
+<lb/>William(l982- )
+<lb/>JAMES KEENAN married Mary Lynne Eagan in 1958. Children:
+<lb/>Roger(1959- ) Richard Edw.(1960- ) Cary(l962- )
+<lb/>James Michael(1966-1966)
+<lb/>HONORAH MCLAUGHLIN MCCARTY AND JOSEPH BRYAN
+<lb/>Mj\RY BRYAN
+<lb/>Married Will Hoyt(1870-1955). Children:
+<lb/>CharleaC1891-1949) Nellie(1894-1983)
+<lb/>CHARLES HOYT married Frances Tobey. Son: Harrison.
+<lb/>remarried Lillian Barber. Children:
+<lb/>John Pauline Norma
+<lb/>HARRISON HOYT married Marjorie . Children:
+<lb/>yrc^i- yyf- l^yryf*
+</ab>
+    </body>
+  </text>
+</TEI>

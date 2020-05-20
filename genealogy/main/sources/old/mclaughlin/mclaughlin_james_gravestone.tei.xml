@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>McLaughlin Marker, St. Mary’s Cemetery, South Corning, New York</title>
+                <author/>
+                <principal>Christopher Alan Mosher</principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Christopher Alan Mosher</authority>
+                <pubPlace>Shelton, CT, USA</pubPlace>
+                <date>2018</date>
+                <availability status="restricted">
+                    <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>St. Mary’s Cemetery (South Corning, New York, USA)</author>,
+                    <citedRange>McLaughlin (James, Hannah, Charles, Wm., Margaret) marker</citedRange>; personally read c. 1990,
+                    location of marker in cemetery from entrance, take first right, road curves left and merges,
+                    gravestone is at that intersection on the left, it is an obelisk with a cross on top,
+                    marker appears to have been created long after many of the actual deaths, and contains errors.
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction status="medium">
+                    <p>Rough transcription in person, later verified and corrected from photograph.</p>
+                </correction>
+                <normalization method="markup">
+                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                </normalization>
+                <punctuation marks="all" placement="internal">
+                    <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+                    <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+                </punctuation>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+                </quotation>
+                <hyphenation eol="all">
+                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                </hyphenation>
+                <interpretation>
+                    <p>Dates, places, and names may be marked up, where useful.</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date/>
+                <rs type="place"/>
+            </creation>
+            <langUsage>
+                <language ident="en-US">English (USA)</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="en">
+        <body>
+            <hi rend="center">
+
+                <div type="face" n="1">
+                    <pb n="1" type="face"/>
+                    <lb/>JAMES M<hi rend="sup sc">c</hi>LAUGHLIN
+                    <lb/><hi rend="sc">died</hi>
+                    <lb/><hi rend="sc">Nov.</hi> 15, 1858.
+                    <lb/><hi rend="sc">aged 58 y’rs.</hi>
+                    <lb/>HANNAH <hi rend="sc">His wife</hi>
+                    <lb/><hi rend="sc">Died Nov.</hi> 20, 1861
+                    <lb/><hi rend="sc">aged 56 y’rs.</hi>
+                    <lb/>CHARLES <hi rend="sc">Their son</hi>
+                    <lb/><hi rend="sc">co. <choice><sic>e</sic><corr>a</corr></choice> 89 n. y. v.</hi>
+                    <lb/><hi rend="sc">Died July</hi> 4 1864
+                    <lb/><hi rend="sc">Aged 26 yrs</hi>
+                </div>
+
+                <div type="face" n="1">
+                    <pb n="2" type="face"/>
+                    <lb/>HANNAH
+                    <lb/><hi rend="sc">dau. of</hi>
+                    <lb/><hi rend="sc">Wm.</hi> &amp; MARGARET
+                    <lb/>M<hi rend="sc">c</hi>LAUGHLIN
+                    <lb/><hi rend="sc">died</hi>
+                    <lb/><hi rend="sc">Jan.</hi> 2, 1886.
+                    <lb/><hi rend="sc">aged</hi>
+                    <lb/>13 <hi rend="sc">Yrs.</hi> 10 <hi rend="sc">Mos.</hi>
+                    <lb/>&amp; 27 <hi rend="sc">Days.</hi>
+                </div>
+
+                <div type="face" n="1">
+                    <pb n="3" type="face"/>
+                    <lb/><hi rend="sc">Wm.</hi> M<hi rend="sc">c</hi>LAUGHLIN
+                    <lb/><hi rend="sc">born in county of</hi>
+                    <lb/><hi rend="sc">Donegal, Ireland</hi>
+                    <lb/><hi rend="sc">May</hi> 1, 1825.
+                    <lb/><hi rend="sc">died</hi>
+                    <lb/><hi rend="sc">Feb.</hi> 21, 1902
+                    <lb/><pc>—</pc>
+                    <lb/>MARGARET,
+                    <lb/><hi rend="sc">his wife</hi>
+                    <lb/><hi rend="sc">born in county of</hi>
+                    <lb/><hi rend="sc">Donegal, Ireland</hi>
+                    <lb/><hi rend="sc">June</hi> 1, 1835.
+                    <lb/><hi rend="sc">died</hi>
+                    <lb/><hi rend="sc">Sep.</hi> 24, 1904.
+                    <trailer>
+                        <lb/>M<hi rend="sc">c</hi>LAUGHLIN
+                    </trailer>
+                </div>
+            </hi>
+        </body>
+    </text>
+</TEI>

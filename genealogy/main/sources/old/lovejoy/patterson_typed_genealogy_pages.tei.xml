@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Genealogy of John Pattison, of Morrisville, New York, USA</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018–2020, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          Unknown author, possibly <author>Eleanor Taylor</author> daughter of Alice Morehouse,
+          <title>[Genealogy of John Pattison]</title>, circa 1980; supplied by Frederick Mosher, Hamilton, New York.
+          Three typewritten pages of various information about the Pattison (Patterson) family of Morrisville,
+          New York; some notations added in pen; other notations made by Christopher Mosher, not transcribed here.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="high">
+          <p>Thoroughly checked</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date>circa 1980</date>
+        <rs type="place">probably in the vicinity of Hamilton, New York</rs>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+      <handNotes>
+        <handNote xml:id="#TS">typed using manual typewriter</handNote>
+        <handNote xml:id="#MS">hand written in blue ink</handNote>
+      </handNotes>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lovejoy/patterson_typed_genealogy_pages/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lovejoy/patterson_typed_genealogy_pages/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lovejoy/patterson_typed_genealogy_pages/p-002.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid" hand="#TS">
+
+
+
+
+
+<pb n="1" facs="#page-000"/>
+<lb/>John <choice><orig>Pattison</orig><reg>Patterson</reg></choice> married Olive Green
+<lb/>Son of John Pattison
+
+<lb/><table>
+<row><cell>Born</cell><cell/><cell>Born</cell><cell>1809</cell></row>
+<row><cell>Died</cell><cell/><cell>Died</cell><cell>June 28, 1879</cell></row>
+</table>
+
+<lb/><table>
+<head>Their Children:</head>
+<row><cell/><cell>Born</cell><cell>Died</cell><cell>Married</cell></row>
+<row><cell>Sarah <seg hand="#MS">Jane</seg></cell><cell>1827</cell><cell>1902</cell><cell>Algene Lovejoy</cell></row>
+<row><cell>Julia <seg hand="#MS">Ann</seg></cell><cell/><cell/><cell>George Stanton</cell></row>
+<row><cell>Janet <seg hand="#MS">(Annjenette?)</seg></cell><cell/><cell/><cell>James Stanton</cell></row>
+<row><cell>Mary Melissa</cell><cell/><cell/><cell>Frank Duffy</cell></row>
+<row><cell>Elizabeth <seg hand="#MS">Syphie</seg></cell><cell/><cell/><cell>Lawerence Duningan</cell></row>
+<row><cell>Olive</cell><cell/><cell/><cell/></row>
+<row><cell>Olive <seg hand="#MS">Maria</seg></cell><cell>Jan. 15,1842</cell><cell>Oct.9,1906</cell><cell>Henry Slocum</cell></row>
+<row><cell>Harriet Eliza</cell><cell>March 27,1844</cell><cell>June 27, 1912</cell><cell>Alva Morehouse</cell></row>
+<row><cell>Alice <seg hand="#MS">Amelia</seg></cell><cell/><cell/><cell>George Morgan</cell></row>
+<row><cell>Ella Virginia</cell><cell>1852</cell><cell>Jan.29,1889</cell><cell/></row>
+<row><cell>Adelaide <seg hand="#MS">Adelle</seg></cell><cell/><cell/><cell>John Van Evera</cell></row>
+</table>
+
+<head><lb/>Burried in Morrisville <choice><orig>Cemetary</orig><reg>Cemetery</reg></choice>:</head>
+
+<lb/>Olive Pattison, whose second husband was Peleg Slocum
+
+<lb/><table>
+<row><cell>Olive M. Pattison</cell><cell>and</cell><cell>Henry S,Slocum</cell></row>
+<row><cell>B. Jan.15,1842</cell><cell></cell><cell><choice><orig>D</orig><reg>B</reg></choice>. Nov.24,1842</cell></row>
+<row><cell>D. Oct. 9,1906</cell><cell></cell><cell>D. Sept.3, 1891</cell></row>
+</table>
+
+<lb/><table>
+<row><cell>Frank B.Slocum</cell></row>
+<row><cell>B. Oct.6,1860</cell></row>
+<row><cell>D. July 4, 186?</cell></row>
+</table>
+
+<lb/><table>
+<row><cell>Cora L.Slocum</cell></row>
+<row><cell>B. Oct 2, 1863</cell></row>
+<row><cell>D. March 8,1889</cell></row>
+</table>
+
+<lb/><table>
+<row><cell>Ella V. Pattison</cell></row>
+<row><cell>B. 1852</cell></row>
+<row><cell>D. Jan.29, 1889</cell></row>
+</table>
+
+
+
+
+
+<pb n="2" facs="#page-001"/>
+
+<p>
+<lb/>John Pattison lived in Morrisville at one time.
+<lb/>Olive Pattison Slocum lived in Morrisville.
+<lb/>Henry Slocum was furniture dealer and undertaker in Morrisville,no children, moved to
+<lb/>Kansas, took to <choice><orig>Kansassdandelion</orig><reg>Kansas dandelion</reg></choice> seeds.
+</p>
+
+<p>
+<lb/>Sarah Jane and Algene Lovejoy burried in Cole Hill <choice><orig>Cemetary</orig><reg>Cemetery</reg></choice>.
+<lb/>Alta Lovejoy Mosher and William Mosher in Cole Hill <choice><orig>Cemetary</orig><reg>Cemetery</reg></choice>.
+</p>
+
+
+<list>
+<lb/><head>Alice Morehouse Taylor's cousins:</head>
+<lb/><item>Jessie Lovejoy Ross</item>
+<lb/><item>Addie Lovejoy Head</item>
+<lb/><item>Alta Lovejoy Mosher</item>
+<lb/><item>Celia Stanton Egbert (Skaneateles)</item>
+<lb/><item>Elta Stanton Totman (Ormond)</item>
+<lb/><item>James Stanton (Ormond, Fla.)</item>
+<lb/><item>Carrie Duffy (Oneida )</item>
+<lb/><item>Hattie Duffy Vanoorhees (Rochester)</item>
+<lb/><item>Oliva Dunnigan Harvey (Eaton)</item>
+<lb/><item>Elizabeth Dunnigan</item>
+<lb/><item>Gertrude Morgan Way (Eaton)</item>
+<lb/><item>George Morgan (DeRuyter)</item>
+<lb/><item>Edna Van Evera Nolan (Knoxboro)</item>
+</list>
+
+<lb/>Mrs. Lyman Ross worte me this: Fred Ross was Lyman Ross' father, Jessie Lovejoy, his mother.
+<lb/>There are two <subst><del>P</del><add type="overwrite">O</add></subst>lives in the Pattison family, the first died when she was three years old.
+<lb/>Olive Green Pattison was 75 yrs. old when she died of apoplexy.
+<lb/>Sarah Jane Pattison Lovejoy was born in Pompey, N.Y. She was about 70 years old when she
+<lb/>died of pneumonia.
+<p>
+<lb/>The house that Sarah Jane and her husband <seg>l<seg rend="overwrite">i</seg></seg>ved in,on Cole Hill ,was still standing the last
+<lb/>time the <subst><del>r</del><add type="overwrite">R</add></subst>osses were there.
+One time it was a beautiful home and a regular showplace, but it
+<lb/>has had several owners and has not been taken care of. Jessie Lovejoy was married from that
+<lb/>home.. Mrs. Ross also wrote she had talked with Gladys Head Elliot, who lives on a farm just
+<lb/>outside of Oriskany Falls, who knows some of the family facts.She told her that Julia Ann
+<lb/>Stanton died in Oriskany Falls in either 1912 or 1918.
+</p>
+
+
+
+
+<pb n="3" facs="#page-002"/>
+<lb/>Sarah Jane married Algene Lovejoy (Algenus?)
+<table>
+<head>Their Children:</head>
+<row><cell>Adalaide</cell><cell>married DeWitt Head</cell></row>
+<row><cell>Alta</cell><cell>&quot; William George Mosher</cell></row>
+<row><cell>Jessie</cell><cell>&quot; Fred Monroe Ross</cell></row>
+</table>
+
+<table>
+<row><cell>Harriet Eliza</cell><cell>married</cell><cell>Alva Morehouse</cell></row>
+<row><cell>B. march 27,1844</cell><cell/><cell>B.Oct.27, 1843</cell></row>
+<row><cell>D. June 27, 1912</cell><cell/><cell>D. Sept. 27, 1924</cell></row>
+</table>
+
+<list>
+<lb/><head>Their Children:</head>
+<lb/><item>Minnie Ella</item>
+<lb/><item>Henry Daniel</item>
+<lb/><item>Zoe Virginia</item>
+<lb/><item>Alice Gertrude B.Dec. 18, 1874 D. Jan. 22,1971 married Clarence E. Taylor</item>
+</list>
+
+
+
+
+      </ab>
+    </body>
+  </text>
+</TEI>

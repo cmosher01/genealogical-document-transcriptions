@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher angelina probate 1870</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/mosher_angelina_probate_1870/p-009.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>n. »
+<lb/>* 7?*
+<lb/>M
+<lb/>riVsJ?
+<lb/>a.-
+<lb/>?lf
+<lb/>ellna UoaMv
+<lb/>September 19, 1870
+<lb/>. ,A
+<lb/>y^f
+<lb/>V
+<lb/>V  I '
+<pb n="2" facs="#page-001"/>
+<lb/>^ -t J 4^ 7 
+<lb/>l'--
+<lb/> 
+<lb/>' 
+<lb/>Sli 
+<lb/> 'i- %!1A * ' i v~- HI S 1.,V ' 4. i.. V
+<pb n="3" facs="#page-002"/>
+<lb/>v-r [i' 54 . / X ' '"4 » i ' 3 'h^'wfcfii--a-w ■* «3 H''*"' f r-iSt *S fikr ^*jai» ^mm-^, Jwrn• - 4' vd. 3i,K -ir... 4. .4=3^ .i * -«7u:! A- ^w 4^,f '■"T" 1~"' 3^ ' V -i!f 4 \ -r L'^4 
+<lb/>i.'-
+<lb/>~t. 25t*d h. 'MM^ Z i X V .; ff. V 4" "Jl ,'-. ^.3. 1iiiiS9^IM'X- &gt;r' . X'^^ri •■mMmm^sm5'5' ^
+<pb n="4" facs="#page-003"/>
+<lb/>/ ' p "
+<lb/>- V
+<lb/>do aoltHntiljr nirMr tbot 1 «hU fiihtttuU^ tod
+<lb/>boDMttjr perform the dutiM of..
+<lb/>' WcortllDg to low, to tho bent of my koowlodgo on4 obitlly
+<lb/>Rnbooribed ond oworo, W^M mo. t■thto..^.^...d.yof»&lt;f1^fft»..l87/ I
+<lb/>i
+<lb/>I \
+<lb/>sHR
+<lb/>'  'i
+<lb/>n
+<lb/>jK?.v
+<lb/>A
+<lb/>iiil
+<lb/>if 5n . 'i ' K
+<lb/>53'5S;S
+<lb/>•, -H p^s
+<lb/>asaass
+<pb n="5" facs="#page-004"/>
+<lb/>1. t
+<lb/>Kisgiia
+<lb/>y .V iyy.
+<lb/>fj«miwtf ^ AiL&gt;s. IMnirrv. (&gt;iH ii!«. X. V.
+<lb/>(jif Jfoplf of flif |ifcitf of |jeiL' |orIi—(Eo
+<lb/>He^»^d next of Kin of &lt;:&lt;:^
+<lb/>In tlic Coiintv of Madison, and Stall- of Now York, di-i-i-asi'd.
+<lb/>6»fting;
+<lb/>Yol', undi'ach of you, mi- In-ri'liyclti'd and rfquin-d piTsonally to ho and nitjs'ar l«'fon»
+<lb/>our County JudKi' and Surrojrato of our County of Madi^in, at Ids ofnooj^forrisvllli', in
+<lb/>said County, nt) tin- ^ ^^ day
+<lb/>1S7/. . at o'cltM'k In tin* noon of ili.il day.io/^. , ai o niM'R ill iiii- ^5-'- — noon of lli.il day. ,
+<lb/>to attond to tin- Pivihiifo of tin- last Will and Tostann-nl of
+<lb/>Kstali- of tin- said
+<lb/>n- PiYihjifo
+<lb/>Kstali- of tin- said
+<lb/>dt-c«&lt;a8od, wlilch will tjn-n and tln-n- Is- ollm-d for dial piimosi-, on
+<lb/>tlip application of ^—
+<lb/>Kstali- of till- said
+<lb/>Given und^'r tlio hand and wal &lt;if oflin* of imrCdunly^^lgi' and
+<lb/>Surmir^**, at NforrinvilK , in sjiid Coiintv, on tin* cfy^ dav
+<lb/>1, hji
+<lb/>'A
+<lb/>W
+<lb/>^'1*
+<pb n="6" facs="#page-005"/>
+<lb/>'jT
+<lb/>/2irC^|he pfoplf of Ihc |hlr of |ciu lorh-fCo Jf/yi2.rO •■5 .' ' -
+<lb/>'  'I
+<lb/>?iS^HSfSSilii®ss
+<lb/>T  ̂
+<lb/>Intf ofH^nd m.xt
+<lb/>/' \/ C^€^ tC^.C-^^-My j|, ti„, Countv of Miidison. and Slatt* of Xi'-.v Yorkt  , in tno County of Miidison. and Slati- of Xi'-.v York. d&lt;fca!ssi.
+<lb/>firrrting:
+<lb/>You, and enuh of yon, nro In-ndiy citwl and nsininsi pcrsonnlly to bonnd apis-ar N-fori'
+<lb/>our Ooniil; indKound Surrognto of our County of Mai^ui, at liis ofliw hj Morrisvill^ in
+<lb/>said Countj^in till- day of
+<lb/>1S7/ , at -Vv ' ̂  o'clock in the noon of tli.it day.
+<lb/>to attend to the Pndmte of the last Will and Testament .
+<lb/>di-ceaseil. wliicli will thi^and then- he olfercil for t^l itnr]M^se. on
+<lb/>the aoolicatlon of .tile application of /, r .
+<lb/>Gives under tlie liand and seal of ofllce of our County dn^e and
+<lb/>SurroMte. at Morrisville. in sai&lt;l County, on the day
+<pb n="7" facs="#page-006"/>
+<lb/>botng finit duly sworn in oi»i&gt; Court, upon ihcir Kueral .orpo ^
+<lb/>, subscribing witncwtothe btc of ibc
+<lb/>T^cnt ,,,a &lt;,„u,
+<lb/>.... one tbouMud eight hundred ami Tliat the mid deecaaei
+<lb/>d;d::;ih:tin.:;«n«^---'^
+<lb/>IttiiiWni and Toalamont, and thc«&gt; deponents i J" j,ceaml, and in ^ prcK-nec, and
+<lb/>instrun.. -it, at aUetting wiUieatct to the execution j'''" ' ,„l»cribing^•- name to said inttrumcnt »• aforctald,
+<lb/>,„theprc«n.eeofe.ehoth... that.„dpub,Uhingtaidinatromenta..ror^id.w.tupwanU.^^^^^^^^
+<lb/>appeared to be, and deiionenta lichee cih«wa«,o to , .p j, of ,|,e«j deponenU mw the other tign
+<lb/>aadeponenuverilybelieve, in all n^pects competent to devmc re^datc. »
+<lb/>name to taid instrument, in the presence of raid deeca-ed. ^
+<lb/>'i1dV
+<pb n="8" facs="#page-007"/>
+<lb/>Ooimsirr oF BfCi^L OiiaBPIA)!.] [RopabUcau OfUec, IXamiltoD, K. T.
+<lb/>tlw J^ttWf0jate of ̂afliis!0« ̂ cuntg:
+<lb/>of tho of.,,.. in sftitl County, hereby consent to
+<lb/>be npi&gt;ointed and net as tho S|)ecml Gunrtlian of.
+<lb/>Mitior heir and next of kin of. . .
+<lb/>Into of of.,..r^^^
+<lb/>County, deceased, for the sole purpose of np|x!aring for and taking eare of tho interesU of said Ml-
+<lb/>nor in tho matter of -
+<lb/>of said deceased. .
+<lb/>^ &gt;Dated, the . day
+<lb/>r
+<lb/>r
+<lb/>11'
+<pb n="9" facs="#page-008"/>
+<lb/>ftate o{ |tw f o»t,
+<lb/>Citff and Coun'i/ of Albany,
+<lb/>MATTHEW BRAY, of tho city of Albany, boliiK duly
+<lb/>hworn, wiyii tbat lie in a Foreman In the ollice of Tiik
+<lb/>Aitor", Stale Fa]&gt;Cfr, ]inbli*lie&lt;l in flie (Miy of Albany,
+<lb/>anil Ibat the Xotiec, of wbicb a i&gt;rintc&lt;l cojiy ia an
+<lb/>nexed, low l«'en rej;nbirly intblidiifl in ^it^KOUn,
+<lb/>oneo in each week for ^ Y- \- ■ —
+<lb/>snectvsiveW^ei^umcncinj? on llio
+<lb/>I -.. . e ^ ̂
+<lb/>Sxcom before me,, this
+<lb/>Commimtioner tyf Deed*,
+<lb/>A  ef^el
+<lb/>Fkk«, ijt
+<lb/>I
+<lb/>^vvf ?A*y i&gt; -jntr tMf
+<lb/>FDULo»'i''i- P^t-F SWjwHi.
+<lb/>fijpcwt-K vMP" THFV yAoF
+<lb/>Ti^'G eAtcpi'OfCU ,
+<lb/>"  r,
+<pb n="10" facs="#page-009"/>
+<lb/>\  c//
+<lb/>- y^ .
+<lb/>SIfl;
+<lb/>Ft .
+<lb/>:iil
+<lb/>ij^.'1^t(:■s
+<lb/>'M ^
+<lb/>|r
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison alice death 1971</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/harrison_alice_death_1971/p-021.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>A TRIBUTE
+<lb/>published In the pages of
+<lb/>THE CORNING LEADER
+<lb/>CORNING, N. Y.
+<lb/>APR 1 0 1971
+<lb/>m
+<lb/>^nLtn^d ̂ nta fR-c^
+<lb/>MRS. FRED MOSHER
+<lb/>^ Mrs. Alice H. Mosher, 65, of
+<lb/>2303 Inglewood Drive, Wil
+<lb/>mington, Dela., a former
+<lb/>Hornby teacher, died Thursday
+<lb/>at her home, following an ex
+<lb/>tended iDness.
+<lb/>Born in Hornby Sept. 3, 1905,
+<lb/>she was the daughter of Elmer
+<lb/>and Anne McLaughlin Harrison.
+<lb/>She married Fred C. Mosher
+<lb/>July 3, 1933 in the Grace Epis
+<lb/>copal Church rectory in Earls-
+<lb/>viUe'.
+<lb/>Mrs. Mosher was raised in
+<lb/>Hornby and attended local
+<lb/>schools. She was a graduate of
+<lb/>Geneseo Normal School. She
+<lb/>taught for several years in
+<lb/>Hornby.
+<lb/>After leaving here, she moved
+<lb/>to Hamilton and later to Earls-
+<lb/>ville where she taught for 30
+<lb/>years.
+<lb/>She and her husband moved to
+<lb/>Wilmington, Dela., in February
+<lb/>to be near their son, Barry.
+<lb/>Mrs. Mosher was a member
+<lb/>of the Daughters of the Amer-
+<lb/>lican Revolution Chapter at
+<lb/>E^rlsville and Grace Episcopal
+<lb/>[church in Earlsville.
+<lb/>Surviving are her husband,
+<lb/>Fred; a son, Barry Mosher, cjf
+<lb/>Wilmington and two grand
+<lb/>children.
+<lb/>Funeral services were held
+<lb/>this morning at the Chandler
+<lb/>Funeral Hmme, in Wilmington,
+<lb/>Dela. Interment will be in
+<lb/>Elwood Memorial Park in Olins
+<lb/>Mills, Pa.
+<lb/>i
+<lb/>ii
+<lb/>r
+<pb n="2" facs="#page-001"/>
+<lb/>®l)cp are not lost tnljo finb
+<lb/>tfje liaijt of sun anb stars anb (©ob.
+<lb/>'im
+<lb/>tatt
+<lb/>c&gt;^;yoC u/i -rru/ .&lt;^}veph.enj£ \
+<lb/>y jihcLuThjot zoa/^ .^e Tn/z/iet^
+<lb/>TTXA Jicy ̂  ci/yuzrv Jyiy ̂ ^teerv ./za&gt;6-
+<lb/>ta/ie6. he {eadeZA^ Tne
+<lb/>/stil£ xoo2js^.3&gt;/e Aed^SneC/L' rru^
+<lb/>zu&gt;tc6\?ie -^ecLc^et/vTTie'urv
+<lb/>A^ AZeoccayiea/i j^yv
+<lb/>ruzmeh &gt;6alAa .̂' ecv,iAociffh'
+<lb/>-uaz/A JtA/ioti^A^ JAc' x^CL££e^z3^
+<lb/>XAb zsTtacCoto A^ecLth',-^tuCdi
+<lb/>jfect/v ruy etA^: tAoco ciaA&gt;
+<lb/>n/iZA 77ie-,jA^ az&gt;&lt;A Majc6 AAm
+<lb/>.AAjxff AAe^ /:zyrrijf(rtA Tne-.^Aoa
+<lb/>^A^£i/ve&lt;T:t
+<lb/>-^&gt;2/ JtAe ..fxneAe/tce' zy^ -r?tute&gt;'
+<lb/>enjezru^ •. ■C/Ao&lt;z^ .zzAjAyite&gt;&lt;U: 7n^
+<lb/>TiecuA TM^th/ jocA; 77y/ cu/o yuuinatk
+<lb/>Oi/t/v. cCu/t^^ j^zyocineAA jzavcA
+<lb/>Tne^tcz^ ^AaA.6 i^O'dAyto- ttib jzAA
+<lb/>tAe. dcLi^ jy^ 772^ \zirLc/'&gt;A
+<lb/>L
+<lb/>Twenty-Third Psaim
+<lb/>/]■ A
+<lb/>A Permanent Record ot the
+<lb/>Obituary and Funeral Details
+<pb n="3" facs="#page-002"/>
+<lb/>MRS. FRED C. MOSHER
+<lb/>WILMINGTON, DEL. —
+<lb/>Mrs. Alice IJ. Mosher, 65,
+<lb/>wife of Frederick C. Mosher,
+<lb/>died Thursday, April 8, in
+<lb/>Wilmington.
+<lb/>She was bom in Hornby,
+<lb/>the daughter of Elmer and
+<lb/>Anne (McLaughlin) Har
+<lb/>rison. She was a resident of
+<lb/>and taught school in Hornby,
+<lb/>moving to the Mid-York area
+<lb/>in 1935.
+<lb/>For 30 years she lived be
+<lb/>tween Hamilton and Earl-
+<lb/>ville and taught in the Eiarl-
+<lb/>ville Central School for 20
+<lb/>years. She was a member of
+<lb/>the DAR and Grace Episcopal
+<lb/>Church, Earlville.
+<lb/>The Moshers moved to
+<lb/>Wilmington in February of
+<lb/>this year.
+<lb/>Besides her husband, she is
+<lb/>survived by a son, Barry R.
+<lb/>Mosher, Wilmington and two
+<lb/>grandchildren.
+<lb/>Funeral services were held
+<lb/>on April 10 in the Chandler
+<lb/>Funeral Home, Wilmington,
+<lb/>with interment in Edgewood
+<lb/>Memorial Park, Glen Mills,
+<lb/>Pa.
+<pb n="4" facs="#page-003"/>
+<lb/>rtainsiora, neaim uiiicer lor
+<lb/>the Town of Madison, will
+<lb/>hold his monthly immuniza
+<lb/>tion clinic on April 21.
+<lb/>Monthly clinics are held the
+<lb/>third Wednesday of each
+<lb/>month through June in the
+<lb/>American Legion Hall on
+<lb/>Lake Moraine Road in Mad
+<lb/>ison at 9 a. m.
+<lb/>Dr. Rainsford brings to
+<lb/>the parents attention that the
+<lb/>present New York State law
+<lb/>requires all children to have
+<lb/>completed adequate doses of
+<lb/>a (p IP r ̂  V e d immuliization
+<lb/>agents for smallpox, measles,
+<lb/>rubella and polio before
+<lb/>school attendance (nursery
+<lb/>Engaged
+<lb/>I I
+<lb/>Ai
+<pb n="5" facs="#page-004"/>
+<lb/>.T
+<lb/>BUREAU OF
+<lb/>VITAL STATISTICS
+<lb/>LOCAL REG. NO.
+<lb/>CERTIFICATE OF DEATH
+<lb/>^tatp 0f ©rlauiare
+<lb/>BOARD OF HEALTH
+<lb/>STATE FILE NO.
+<lb/>1. PLACE OP DEATH
+<lb/>A. COUNTY«. v-vui-ti I
+<lb/>New Castle DELAWARE
+<lb/>C. CITY OR TOWN (l» OUTSIOl coiroiate limits, w»iti rural and give niahest town)
+<lb/>WlImington—Fairfax
+<lb/>D. NAME OF HOSPITAIO. INSTITUTION
+<lb/>2303 Inglewood Drive apt.C yesq noQ
+<lb/>E. IS PLACE WITHIN C'TY LIMITS?
+<lb/>2 USUAL RESIDENCE (wMfti oiceasio lived, ir institution. MSiDENCt WROif adaiissiOn) „ —
+<lb/>Delaware jn»u«
+<lb/>A. STATE »■
+<lb/>C CITY OR TOWN (if outside coirorate limits, wiite rural and give nearest town)
+<lb/>Wilmington—Fairfax
+<lb/>D. STREET ADDRESS - -
+<lb/>2303 Inglewood Drive Apt
+<lb/>E, IS RESIDENCE WITHIN CITY LIMITS?
+<lb/>3. NAME
+<lb/>OF
+<lb/>DECEASED
+<lb/>(TYRE OR RUNT)
+<lb/>FIRST
+<lb/>ALICE
+<lb/>MIDDLE
+<lb/>H. MOSHER
+<lb/>I, DATE
+<lb/>OF
+<lb/>DEATH 4/ 8/ 71
+<lb/>5. SEX
+<lb/>Feiuale
+<lb/>6. RACE
+<lb/>^ite
+<lb/>7- NEVER
+<lb/>MARITAL MARR.ED
+<lb/>STATUS
+<lb/>n. DATE OF BIRTH
+<lb/>September 3,1905
+<lb/>12. ACE (last ilRTMOAY)
+<lb/>65
+<lb/>WIDOWED
+<lb/>DIVORCED
+<lb/>8. SOCIAL SECURITY NUMBER
+<lb/>108-32-4321
+<lb/>9, USUAL OCCUPATION rind or woir. ietihd, etc.
+<lb/>Retired Teacher
+<lb/>If UNDER \ YEAR IF UNDER 24 HOURS
+<lb/>15. FATHER'S NAME
+<lb/>Elmer Harrison
+<lb/>17. NAME OF SPOUSE ^ _ n ^ ̂
+<lb/>Fred C. Mosher
+<lb/>13. PLACE OF BIRTH (state or roriicn country)
+<lb/>New York
+<lb/>10. CiTiaN Of wnat countrt
+<lb/>U.SoA.
+<lb/>WAS DECEASED __
+<lb/>EVER IN U.S. NO
+<lb/>ARMED FORCES?
+<lb/>IF YES. GIVE WAR
+<lb/>16. MOTHER S NAME
+<lb/>Anne McLaughlin
+<lb/>18. INFORMANT
+<lb/>Barry R. Mosher—Windsor Hills
+<lb/>19. CAUSE OF DEATH -ENTER ONLY ONE CAUSE PER LINE FOR (A). (B). AND (C) - T-i«r-v
+<lb/>PART 1 - DEATH WAS CAUSED BY CARCINOMA OF BLADDERIMMEDIATE CAUSE ,A, j^XTEN SI^m~METASTASIS TO ^
+<lb/>wh'iot^cSwe' VISCERA AND CENTRAL NERVOUS SYSTEM
+<lb/>IMMEDIATE CAUSE (A) &gt; v O. *
+<lb/>STATING THE UNDER- i
+<lb/>LYING CAUSE LAST. I
+<lb/>DUE TO (B)_
+<lb/>INTERVAL BETWEEN ONSET
+<lb/>AND DEATH
+<lb/>2k vrs
+<lb/>DUE TO (C)
+<lb/>PART 2 - OTHER SIGNIFICANT CONDITIONS CONTRIBUTING TO DEATH. BUT NOT RELATED TO THE TERMINAL DISEASE CONDITION GIVEN IN PART 1 (A)
+<lb/>EXTENSIVE URINARY TRACT BLEEDING
+<lb/>20. WM AUTOnt Pt*RO*MtD?
+<lb/>X
+<lb/>YES I NO
+<lb/>21 ACClDfNT WAS
+<lb/>UNDERLYING
+<lb/>0» CONTRIBUTING
+<lb/>CAUSi or DEATH
+<lb/>F tlTHt* NOTirr MED, El.
+<lb/>23. TIME OF INJURY
+<lb/>HOUR
+<lb/>22. DESCRIBE HOW INJURY OCCURRED.
+<lb/>MONTH DAY YEAR
+<lb/>24. INJURY OCCURRED
+<lb/>WHILE AT WORK
+<lb/>not WHILE AT WORK
+<lb/>25.
+<lb/>PLACE
+<lb/>OF
+<lb/>INJURY
+<lb/>HOME, FACTORY. STREET. ETC
+<lb/>Feb 24 71
+<lb/>t CERTIF'i^HAT^^TTEgDED THE DE^^ASED FROM
+<lb/>TO. _19_
+<lb/>19 ^tS4&lt;rtAN'S NAA\E (PfPE OR PRINT)
+<lb/>THAT I LAST SAW THE DECEASED ALIVE ON SCOtt W»—Ankeny ,—N .D »'  PHYSICIAN S ADDRESSPHYSICIAN S ADDRESS
+<lb/>CITf^R TOWN STATE
+<lb/>PHYSICHn S ACTUAL
+<lb/>April 7 „ 71 and death occurred AT-
+<lb/>FROM THE CAUSE AND ON THE DATE STATED ABOVE.
+<lb/>27. BURIAL CREMATION. OTHER (srecify)
+<lb/>Burial
+<lb/>28. DATE THEREOF
+<lb/>lliOOP. 1805 FoTilk Road
+<lb/>XpTil 12, 1971
+<lb/>^'1 t
+<lb/>April 10,1971
+<lb/>-9. NAME OF CEMETERY OR CREMATORY - -
+<lb/>Edgewood Memorial Park
+<lb/>^ayAvyiiN/i^K
+<lb/>CTi^dler Funeral HoTr.es
+<lb/>i. FUNERAL DIRECTOR S ADDRESS —
+<lb/>2506 Concord Pike, Wilmo,Del«
+<lb/>0- LOCATION (CITY, TOWN. o« county) STATE
+<lb/>Glen Mills , Penna.
+<lb/>33. DATE RECEIVED BY REGISTRAR jH...41«ISTRAR:S-SIGNAtURE ^ ^ ^
+<lb/>I CERTIFY THAT THIS IS A TRUE COPY OF A DEATH RECORDED AND FILED WITH
+<lb/>THE BUREAU OF VITAL STATISTICS, WILMINGTON, DELAWARE
+<lb/>APR 13 1971 7^-
+<lb/>DATE ISSUED REGISTRAR FOR WILMINGTON AREA VITAL
+<lb/>STATISTICS
+<pb n="6" facs="#page-005"/>
+<lb/>W 26441'
+<lb/> C. 
+<lb/>j / , vn
+<lb/> .1 
+<lb/>( jIV 1V ', I-ISV
+<pb n="7" facs="#page-006"/>
+<lb/>PURCHASE AGREEMENT
+<lb/>EDGEWOOD MEMORIAL PARK COMPANY
+<lb/>EDGEWOOD MEMORIAL PARK COMPANY, a corporation. Seller, agrees to sell to
+<lb/>for
+<lb/>Purchaser(s), the rights of sepulture
+<lb/> 2" _ graves, and to issue a deedor burial in Lot No. ^ C Unit ^ Section
+<lb/>therefor, when the conditions of this Agreement have been fulfilled.
+<lb/>Purchaser(s) agree to pay ^ ^
+<lb/>Dollars therefor, payable as follows: $ —~ herewith; $ ̂ l/S'o^ ,-+9^ ~
+<lb/>and the balance in monthly installments of $ — , due and payable on the " day of each month
+<lb/>thereafter until all said payments are made in full, with interest at the rate of 6% per annum on the unpaid balance, be
+<lb/>ginning twelve months after date hereof. Installment payments may be made in advance.
+<lb/>Purchaser(s) agree that 15% of the full purchase price shall be deposited in the Perpetual Care Trust Fund, to
+<lb/>be held in trust in perpetuity, together with other funds likewise deposited, the net income therefrom, to be used for the
+<lb/>general care and maintenance of the above described lot and/or of Edgewood Memorial Park as a whole, the lots, roadways,
+<lb/>walks, pavements, drainage and water systems, buildings, etc.
+<lb/>This Agreement and the Deed to be given hereafter are made subject to all Rules and Regulations and By-laws of
+<lb/>Edgewood Memorial Park Company and/or of the Perpetual Care Trust Fund, now in force or which hereafter may be
+<lb/>adopted and such Rules and Regulations and By-laws are incorporated and made part of this Agreement, as if herein set
+<lb/>forth.
+<lb/>Purchaser(s) shall, by this Agreement or by the Deed, acquire only the rights of sepulture or burial of the re
+<lb/>mains of human persons. No Deed shall be executed and delivered to Purchaser(s) unless and until the purchase price
+<lb/>has been paid in full and no interment shall be permitted in the said lot until payment of an amount sufficient to cover
+<lb/>the portion of the lot to be used, as determined by Seller. T||iilot may be exchanged, at the option of Purchaser(s) pro
+<lb/>vided no interment has been made therein, for similar space of same value.
+<lb/>This Agreement shall not be recorded in any public office and may not be assigned by Purchaser(s) without the
+<lb/>written consent of Seller.
+<lb/>Time is of the essence of this agreement. In the event of default in making said payments, which default shall
+<lb/>occur when the equivalent of at least two monthly payments are due and owing, ̂ ller shall have the right, in addition
+<lb/>to all other remedies and rights given it by law, to declare this Agreement forfeited and all payments made hereunder may
+<lb/>be retained by it as liquidated damages and it may dispose of the said lot or any unused portion thereof as though this
+<lb/>Agreement had never been entered into.
+<lb/>The entire agreement between the parties is set forth herein and no collateral or oral agreements or understandings
+<lb/>shall be binding on Seller unless reduced to writing signed by an officer of Seller and attached to this agreement.
+<lb/>This agreement shall inure to the benefit of and be binding upon the successors and assigns of Seller, and the
+<lb/>heirs, executors and administrators of Purchaser(s).
+<lb/>Dated this day ofday of A.D. 19 7 /
+<lb/>EDGEWOOD MEMORIAL PARK COMPANY
+<lb/>By
+<lb/>CUix^ •
+<lb/>Purchaser(s)
+<lb/>^  A,
+<lb/>Address
+<lb/>7,}
+<pb n="8" facs="#page-007"/>
+[A transcription of this page is not available.]
+<pb n="9" facs="#page-008"/>
+<lb/>LAW OFFICES
+<lb/>1 102 WEST STREET
+<lb/>WILMINGTON, DELAWARE 19801
+<lb/>(302) 655.742!
+<lb/>March 25, 1971
+<lb/>Mr. and Mrs. Frederick C. Mosher
+<lb/>2303 Inglewood Drive
+<lb/>Wilmington, Delaware 19803
+<lb/>JOHN MERWIN BADER
+<lb/>BADER. DORSEY &amp; KRESHTOOL
+<lb/>FOR PROFESSIONAL. SERVICES RENDERED
+<lb/>Preparing two Wills and Power of Attorney $35.00
+<pb n="10" facs="#page-009"/>
+<lb/>.( I
+<pb n="11" facs="#page-010"/>
+<lb/>Sales Office: Globe 9'3454 Business Office: Globe 9^2500
+<lb/>EDGEWOOD MEMORIAL PARK
+<lb/>GLEN MILLS, PA. 19342
+<lb/>April 9, 1971
+<lb/>Mr, Frederick ̂ osher
+<lb/>2303 Inglewood Drive
+<lb/>Wilmington, Delaware I9803
+<lb/>Dear Mr, Mosiier:
+<lb/>On behalf of the Board of Directors of the Edgewood
+<lb/>Memorial Park Company, permit me to extend our sympathy with you
+<lb/>in your bereavement. We want you to know that we feel you have
+<lb/>entrusted to us a sacred duty which we regard a continuing obliga
+<lb/>tion to be fulfilled throughout the years to come.
+<lb/>During the growing season, there are a number of cutting
+<lb/>beds of hardy flowers which are available for placing on graves at
+<lb/>no cost whatever to lotowners and their friends. If you wish to gather
+<lb/>some at any time, cutting shears may be had on request at the office.
+<lb/>Sincerely yours,
+<lb/>EDG-EliTOOD IiiEMOEIAL PARK COMPANY
+<lb/>'M
+<lb/>(Mrs, W, 0, Staton)
+<lb/>jfs
+<lb/>P,S, A family "Historical Record" form is kept on file at the
+<lb/>office and within a few days, a representative will call upon you
+<lb/>in order to complete this information.
+<pb n="12" facs="#page-011"/>
+<lb/>ov -
+<pb n="13" facs="#page-012"/>
+<lb/>CERTIFICATION AND ASSIGNMENT
+<lb/>I, Frederick C» Mosher, of 2303 Inglewood Drive, Fairfax
+<lb/>V/ilmington, Delaware, do hereby certify that I am the person
+<lb/>who purchased two graves in Section I, Lot 66, Unit A-3-4, in
+<lb/>Edgewooa Memorial Park on March 20, 1971, covered by Edgewood
+<lb/>Memorial Park Contract E-409, a deed for this lot has not as
+<lb/>yet been issued, and that no one but myself has any right, title
+<lb/>or interest in these two graves#
+<lb/>It is my desire that the two graves in the above mentioned
+<lb/>Lot No# 66, Unit A-3-4, uection I be exchanged for Lot No# 66,
+<lb/>Unit A, Graves #5 and 6 in Section I, and that the deed be issued,
+<lb/>for these two graves.
+<lb/>IN V/ITNESS WHEREOF I have this
+<lb/>1971 oat my hand and seal.
+<lb/>day of
+<lb/>Note: The above confirms telephone conversation
+<lb/>Friday, April 9, 1971«
+<lb/>rtii
+<pb n="14" facs="#page-013"/>
+<lb/>ae j:.;. . xol j.cxld .0^ x;oajj ii Xi^xipaisW
+<lb/>^baaoxoiX3iX eyods- urij iiOVXii.^ ow-j ©du . atxaox v . ^ ■"-
+<lb/>,ci(^ ,c.&gt;.i uoX xox Jjp^iijafiaxa iXi f. i:oxjop.t d.dia ,o3 ,o^ boJ
+<lb/>■VitiO a Dsxfj 'if Xiiilu ,1 uX d axx axVAJ.iX , k JXidl
+<lb/>.pw.l
+<lb/>lo v;isX
+<lb/>.Xi-
+<lb/>•  jaa LVQl
+<lb/>00 tuioilqblea x/nxXXxiQo -a-zocV enX : eo-oki
+<lb/>.XV^X t? Ixxq.A ^\£iOS.'x''L
+<pb n="15" facs="#page-014"/>
+<lb/>MORTICIANS SINCE 1692
+<lb/>JAMES T. CHANDLER &amp; SON, INC.
+<lb/>2506 CONCORD PIKE. WILMINGTON. DELAWARE 19803
+<lb/>lOIl JEFFERSON STREET
+<lb/>302-6S4-3I41
+<lb/>May 10, ]971
+<lb/>Mr, Barry R. Mosher
+<lb/>1303 Foulk Road
+<lb/>Windsor Hills
+<lb/>Wilmington,Delaware 19803
+<lb/>Dear Mr, Moshers
+<lb/>Our statement is enclosed. We realize that it has been
+<lb/>discussed with you previously, however if there is any
+<lb/>thing that is not clear, please give us a call so that
+<lb/>we may clarify the matter for you.
+<lb/>Above all, we wish to thank you for your confidence in
+<lb/>our firm. We all sincerely hope that everything was as
+<lb/>you desired for our intentions always are to serve you
+<lb/>and your family to the best of our abilities.
+<lb/>Thank you again 1
+<lb/>Sincerely,
+<lb/>J. T. Chandler,III
+<lb/>Secretary and Treasurer
+<lb/>enc.
+<pb n="16" facs="#page-015"/>
+[A transcription of this page is not available.]
+<pb n="17" facs="#page-016"/>
+<lb/>MORTICIANS SINCE 1882
+<lb/>JAMES T. CHANDLER &amp; SON, INC.
+<lb/>2506 CONCORD PIKE. WILMINGTON, DELAWARE 19603
+<lb/>ton JEFFERSON STREET
+<lb/>30Z-6S4-3MI
+<lb/>May 10, 1971
+<lb/>Mr. Barry R. Mosher
+<lb/>1303 Foulk Road
+<lb/>Windsor Hills
+<lb/>Wilmington, Delaware 19803
+<lb/>4/8/71 Ret Alice H. Mosher
+<lb/>Funeral Expensesi
+<lb/>Our Charges 1
+<lb/>Removal, Preservation, Limousine, Casket Coach,
+<lb/>Bearers, Use of Funeral Home, Staff and Personal
+<lb/>Supervision, etc.
+<lb/>Casket
+<lb/>Kover Waterproof Vault
+<lb/>$295.00
+<lb/>494.00
+<lb/>175.00
+<lb/>$964.00
+<lb/>Cash Advancest
+<lb/>Opening Grave
+<lb/>Clergy
+<lb/>Casket Spray
+<lb/>6 c.c./death certificates
+<lb/>Telephones Calls
+<lb/>$135.00
+<lb/>25,00
+<lb/>25.00
+<lb/>15.00
+<lb/>3.91 $203.91
+<lb/>$1,167.91
+<pb n="18" facs="#page-017"/>
+[A transcription of this page is not available.]
+<pb n="19" facs="#page-018"/>
+<lb/>garden is a lovesome tilingsNay^ do I need an intimate sign.E.ven tho I Ise not prince or lTis true tfiat Ood walks in mine.1 956 JAS. H. MATTHEWS ft CO.LITHO IN U.S.A.
+<pb n="20" facs="#page-019"/>
+<lb/>it known to all tkat in remembrance of
+<lb/>a Pronze A/|cmorial fias been installed in
+<lb/>sowing as an everlasting tribute to commemorate
+<lb/>an eartbly mission tbat began
+<lb/>and was completed
+<lb/>A/\emorial installecl: 
+<lb/>d) /^
+<lb/>Space:
+<pb n="21" facs="#page-020"/>
+<lb/>STATE OF NEW YORK,
+<lb/>Madison County Surrogate's Office
+<lb/>SS.
+<lb/>I, FREDERIC N. RANN, Clerk of the Surrogate's Court of said County
+<lb/>Do Hereby Certify, That on the S.t.b. day of in the year
+<lb/>one thousand nine hundred SSyenty-On Letters of Administration with the
+<lb/>WiU annexed of the estate of
+<lb/>late of the ...Yi.lX.QS6.... of E.^.r.l.Yi.l.le .... in said county, deceased, were duly
+<lb/>granted and issued by the Surrogate's Court of said County of Madison, to
+<lb/>and that the same are still valid, imrevoked and in full force.
+<lb/>In Testimony Whereof, I have hereunto set my hemd and affixed the seal of the
+<lb/>Surrogate's Court of said County, at the VUlage of Wamps^Ue, this day
+<lb/>of July A. D., 19.....7.1 /.k A
+<lb/>Clerk of the Surrogate's Court.
+<pb n="22" facs="#page-021"/>
+<lb/>/
+<lb/>-r
+</ab>
+    </body>
+  </text>
+</TEI>

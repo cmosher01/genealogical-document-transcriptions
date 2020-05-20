@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin immigration donegal</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_immigration_donegal/p-011.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>DonemlS^
+<lb/>UAncestry
+<lb/>Sinsearacht DhOn na nGail
+<lb/>VAT Reg No: IE8214012S
+<lb/>Our Ref: CAM/3 574/smcc
+<lb/>3 October 2001
+<lb/>Mr Christopher A Mosher
+<lb/>41 Brook Pine Drive
+<lb/>Shelton
+<lb/>CT 06484-5912
+<lb/>USA
+<lb/>Dear Christopher
+<lb/>The initial assessment has now been carried out on your behalf and a preliminary report
+<lb/>of our findings is enclosed for your consideration.
+<lb/>I wish to apologise for the delay, which was caused by an increase in the number of
+<lb/>enquiries to our centre.
+<lb/>You will note from the preliminary report that for the most part the parish and civil
+<lb/>registers do not date back to the relevant period. This may be due to the conditions,
+<lb/>which prevailed in Ireland in the late 18"* and early 19^ centuries. The absence of
+<lb/>records is common, particularly in the case of members of the Catholic Church.
+<lb/>You will note that our researcher conducted extensive searches of the sources available
+<lb/>at this centre and we have uncovered records, which may be of relevance. In the
+<lb/>absence of parish records it is difficult to positively identify them as relevant to your
+<lb/>ancestors. I regret that no conclusive information has emerged from our searches.
+<lb/>Should you have any further queries or seek clarification on any matter, please do not
+<lb/>hesitate to contact me.
+<lb/>Kind regards.
+<lb/>Yours sincerely
+<lb/>Susan McCaffrey
+<lb/>Donegal Ancestry Centre
+<lb/>The Quay
+<lb/>Ramelton
+<lb/>Co. Donegal Ireland
+<lb/>Tel:+ 00 353 (0) 74 - 51266
+<lb/>Fax:+ 00 353 (0) 74 - 51702 E.Mail: donances@indigo.ie
+<pb n="2" facs="#page-001"/><lb/>Donegal Ancestry
+<lb/>PRELIMINARY REPORT
+<lb/>Name: William McLaughlin
+<lb/>Date of Birth: Possibly L'May 1821 or 1825
+<lb/>Place of Birth: Unknown, County Donegal
+<lb/>Denomination: Probably Catholic
+<lb/>We have now completed our initial assessment regarding the feasibility of carrying out
+<lb/>research on your family ancestors and the following is a list of the sources consulted.
+<lb/>Surname Variants:
+<lb/>The surname McLaughlin is a variant of the standard surname MacLoughlin. Other
+<lb/>variations include MacLaughlin, McLaughlan, McLoughlan and McLoughlin. The
+<lb/>surname Dougherty is a variant of the standard surname Doherty. Other variations
+<lb/>include Docherty, Dogherty and O'Doherty. All variations of the surnames have been
+<lb/>taken into consideration during this search. Until the start of the twentieth century, for
+<lb/>the vast majority of families in Ireland, the question of the precise spelling of their
+<lb/>surnames was completely irrelevant. Local accents, translation and anglicisation of
+<lb/>Irish names, illiteracy, poverty and lack of standard spelling all combined to produce an
+<lb/>enormous range of variations on what are basically the same surnames. Names
+<lb/>changed from generation to generation, in the same generation and even in the records
+<lb/>of the same individual.
+<lb/>Householders Index:
+<lb/>We commenced our investigation by consulting the Householders Index to establish
+<lb/>the number and location of McLaughlin properties in County Donegal
+<lb/>This index was compiled from Griffith's Primary Valuation (1857-1858) and the Tithe
+<lb/>Applotment Books (1824-1838).
+<lb/>McLaughlin and Doherty are two of the most commonly used surnames in County
+<lb/>Donegal and this is reflected in the fact that according to this index there were there
+<lb/>were eight hundred and twenty-eight McLaughlin and one thousand seven hundred and
+<lb/>seventy-five Doherty properties listed through out Donegal The distribution of these
+<lb/>properties by barony is as follows:
+<lb/>McLaughlin Inishowen East [484], Inishowen West [104], Boylagh [4],
+<lb/>Raphoe North [51], Raphoe South [49], Banagh [34],
+<lb/>Tirhugh [19] and Kilmacrenan [83].
+<lb/>Family Research /CAM/6
+<pb n="3" facs="#page-002"/><lb/>Donegal Ancestry
+<lb/>Doherty/Dougherty Inishowen East [828], Inishowen West [18],
+<lb/>Boylagh [56], Raphoe North [97], Raphoe South
+<lb/>[120], Banagh [90], Tirhugh [344] and
+<lb/>Kilmacrenan [222],
+<lb/>An attached explanatory sheet describes the administrative divisions used in Ireland.
+<lb/>These include baronies, civil parishes and townlands.
+<lb/>Griffith's Primary Valuation:
+<lb/>Arranged by groups of parishes in Poor Law Unions. This source gives the names of
+<lb/>owners and occupiers of both buildings and land from which the above index was
+<lb/>compiled.
+<lb/>It is possible that William McLaughlin's father James was the owner or occupier of
+<lb/>land at the time of this survey. We continued by conducting a search of this source
+<lb/>and located eighty-two entries for properties held in the name of James McLaughlin in
+<lb/>various locations throughout the county. It is not possible to connect any of these
+<lb/>records to your ancestors.
+<lb/>Tithe Applotment Books:
+<lb/>The Composition Act of 1823 specified that tithes due to the Established Church, the
+<lb/>Church of Ireland, which had hitherto been payable in kind, should now be paid in
+<lb/>money. As a result, it was necessary to carry out a valuation of the entire country,
+<lb/>civil parish by civil parish, to determine how much would be payable by each
+<lb/>landowner. This was done over the ensuing fifteen years, up to the abolition of tithes
+<lb/>in 1838. We hold a copy of these books for County Donegal on microfilm.
+<lb/>A further search of this source is not recommended as it will not be possible to be sure
+<lb/>of the relevance of anv records uncovered.
+<lb/>Passenger Lists:
+<lb/>We have available a list of passengers sailing from Londonderry to the US/Canada on
+<lb/>the J. &amp; J. Cooke Line and the McCorkell Line from 1847 to 1871. We also hold a list
+<lb/>of passengers sailing from Ireland and Liverpool between 1803 and 1855.
+<lb/>A search of this source uncovered nineteen records in the name of William McLaughlin
+<lb/>from Donegal who emigrated between 1849 and 1860. In the absence of more
+<lb/>information regarding the place of origin of William it is not possible to be sure of the
+<lb/>relevance of any of these records.
+<lb/>Family Research /CAM/6
+<pb n="4" facs="#page-003"/>
+<lb/>Donegal Ancestry
+<lb/>Church Records;
+<lb/>Before state registration of births, marriages and deaths in 1864, virtually the only
+<lb/>direct sources of family information are local parish registers. In general, Church of
+<lb/>Ireland parish registers pre-date Presbyterian and Roman Catholic records. For the
+<lb/>most part, how far back a family can be traced depends on the dates of the surviving
+<lb/>parish registers for the area.
+<lb/>While most Roman Catholic registers start in the latter half of the nineteenth century,
+<lb/>some registers in the more prosperous areas have survived from much earlier, but a
+<lb/>large number of these were destroyed in the PubUc Records Office fire of 1922.
+<lb/>Enclosed is a list of church registers for County Donegal together with a list of those
+<lb/>currently available at this centre. You will note that for the most part the Catholic
+<lb/>Church registers commence in the mid 1800's and so are too late to contain reference
+<lb/>to the birth/baptism of William McLaughlin or his siblings and the marriage of his
+<lb/>parents.
+<lb/>As the Established Church, the Church of Ireland, claimed the right to administer
+<lb/>baptism, marriages and burial ceremonies and in the eighteenth and early nineteenth
+<lb/>centuries especially, due to prevailing laws, the records of births, marriages and deaths
+<lb/>of other denominations are often found in the registers of the Church of Ireland
+<lb/>A full search of all records currently available on our database failed to locate any
+<lb/>reference to William McLaughlin, his siblings or his parents.
+<lb/>Gravestone Inscriptions:
+<lb/>We hold a number of gravestone inscriptions from various graveyards around the
+<lb/>County. A search of this uncovered several McLaughlin entries however it is not
+<lb/>possible to be sure of the relevance of any of these records.
+<lb/>Civil Records:
+<lb/>State registration of all births, marriages and deaths began in Ireland in 1864; non-
+<lb/>Roman Catholic marriages are registered from 1845.
+<lb/>County Donegal is divided into 52 civil parishes and by nine Poor Law Unions, namely
+<lb/>Ballyshannon, Donegal, Glenties, Stranorlar, Dunfanaghy, Letterkenny, IVfilford, Deny
+<lb/>and Inishowen. Each of these Unions is further divided into Dispensary Districts.
+<lb/>There are forty registration districts in the county.
+<lb/>It is possible that the parents of William McLaughlin died after 1864 but again without
+<lb/>knowing where in Donegal your ancestor resided it is not possible to carry out a search
+<lb/>of the civil death registers.
+<lb/>Family Research /CAM/6
+<pb n="5" facs="#page-004"/>
+<lb/>Donegal Ancestry
+<lb/>Census Records:
+<lb/>The earliest surviving Census return for County Donegal is the 1901 Census. This lists
+<lb/>all those present in the household on the night of the Census (31st March 1901), their
+<lb/>relationship to the householder, religion, occupation, age and other details.
+<lb/>The 1911 Census is now available on microfilm.
+<lb/>In the absence of more information regarding the place of origin of
+<lb/>William McLaughlin it would not be possible to make any connection between your
+<lb/>ancestor and the numerous McLaughlin families in these sources.
+<lb/>Family Research /CAM/6
+<pb n="6" facs="#page-005"/>
+<lb/>wen
+<lb/>puioe
+<lb/>oriL
+<lb/>irony Dounaurics
+<lb/>0  km 10
+<lb/>1. Aghariunshin
+<lb/>2. All Saints
+<lb/>3. Aiighnish
+<lb/>4. Durt
+<lb/>5. Clonca
+<lb/>6. Clondahorky
+<lb/>7. Ciondavaddog
+<lb/>8. Clonleigh
+<lb/>9. Clontnany
+<lb/>10. Convoy
+<lb/>1 1. Conwal
+<lb/>12. Culdaff
+<lb/>13. Descrlegney
+<lb/>14. Donagh
+<lb/>15. Donaghmorc
+<lb/>IC. Donegal
+<lb/>17. Druinhomc
+<lb/>18. Fahan Lower
+<lb/>19. Fahan Upper
+<lb/>20. Gartan
+<lb/>21. Glencolumbkille
+<lb/>22. Inch
+<lb/>23. Inishkecl
+<lb/>24. Inishmacsaint
+<lb/>25. Inver
+<lb/>26. Kilbarron
+<lb/>27. Kilcar
+<lb/>28. Kiliaglitee
+<lb/>29. Killca
+<lb/>30. Killybegs Lower
+<lb/>31. Kiilybcgs Upper
+<lb/>32. Kiilygar\'an
+<lb/>33. Kiilyniard
+<lb/>34. Kilnjacreiian
+<lb/>35. Kilteevoge
+<lb/>36 Leek
+<lb/>37. Leltcnnacaward
+<lb/>38. Mevagli
+<lb/>39. Mintiaglis or
+<lb/>Barr of Inch
+<lb/>40. Moville Lower
+<lb/>41. Moville Upper
+<lb/>42. Muff
+<lb/>43. Raphoe
+<lb/>44. Raymoghy
+<lb/>45. Rayiminterdoney
+<lb/>46. Slranorlar
+<lb/>47. Taughboyne
+<lb/>48. Tcinplccani
+<lb/>49. Templccrofie
+<lb/>50. Tullaghobeglcy
+<lb/>5 1. Tuliyfeni
+<lb/>52, Umev
+<lb/>Baronies and Civil parishes of Donegal.
+<pb n="7" facs="#page-006"/>
+<lb/>Administrative Divisions
+<lb/>Civil parish
+<lb/>This is the most widely used land division. The civil parish, in use since the I?"'
+<lb/>centur}', was based on monastic and church settlements and used extensively in
+<lb/>surveys. This division generally coincides with the Church of Ireland parishes. There
+<lb/>are fifty-two civil parishes in County Donegal. (See attached Map).
+<lb/>Records compiled by civil parish include: Hearth Money Rolls, 19''' century Census
+<lb/>Records, Tithe Books, Griffith's Valuation.
+<lb/>Bni'onv
+<lb/>Civil parishes are collected together to form baronies. This term originated in Celtic
+<lb/>Ireland from the tribal land divisions of the tiiatha. This is now an obsolete division,
+<lb/>but in the 19''' century it wms widely used. There are eight baronies in Donegal -
+<lb/>Inishowen East and West, Kilmacrennan, Boylagh, Banagh, Tirhugh and Raphoe
+<lb/>North and South. Records organised by barony include the 17''' centuiy surveys, early
+<lb/>19''' century Tithe Books and mid 19'" century Griftlth's Valuation.
+<lb/>Records organised by barony include: 17'" century sur\-eys, 19"' centuiy Tithe Books,
+<lb/>Griffith's Valuation.
+<lb/>Poor Law Union
+<lb/>Under the Poor Relief Act, 1838, Ireland was divided into districts or Unions in \vhich
+<lb/>the local rateable inhabitants were to be financially responsible for the care of all
+<lb/>paupers in their areas. By 1850, 163 workhouses were built throughout the country.
+<lb/>7'hese workhouses were usually situated in a large market town and served
+<lb/>surrounding parishes and townlands, in many cases they ignored existing boundaries
+<lb/>of parishes and counties. Land divisions within Poor Law Unions were divided into
+<lb/>Dispensary Districts in which a dispensary and a doctor was located. After civil
+<lb/>registration began in 1864 these Dispensary Districts also became Registrars Districts.
+<lb/>The Registrar was responsible for collecting all the registrations of births, marriages
+<lb/>and deaths within each District.
+<lb/>Records organised by Poor Law Union include: Indexes to civil births, marriages and
+<lb/>deaths, GiilTitli's Valuation,
+<lb/>Town land
+<lb/>The townland is the smallest and most ancient administrative division of land. It
+<lb/>usually referred to a landmark strongly associated with a locality, ie, a mountain, a
+<lb/>bog, a village, a church or a fort. It is usually what most researchers try to identify
+<lb/>when carrying out genealogical research. Townlands are grouped together to form
+<lb/>civil parishes. The number of townlands within a parish may differ greatly from one
+<lb/>parish to another.
+<pb n="8" facs="#page-007"/>
+<lb/>Roman Cstholic Parishes - Bioce^e of Raphoe
+<lb/>Parish Church Area Birth iVIarriags Death
+<lb/>Ccawail &amp; Leek V i Lectrkenny 1  lS53-o2&lt;5:135S-SI :  1357-63 :
+<lb/>Ail SaiEo Sc. JchiTSton lSd3-Sl 1343-70
+<lb/>Ne'Ata vr-c cimning-han *1357 -
+<lb/>Ajinasjv Arucacrv .  ...R1SS5 _ *1395
+<lb/>Ardara Ardara i  1363-80 1367-75 .
+<lb/>Xiiciccney i  1344-31 1344-30 i
+<lb/>Achrush &amp; A ̂haninshin Rasaeltca ■ i  1373-81 i  . 1373-31 i
+<lb/>CciU Chartha (Kilcar) Ciil ChaTiha (Kilcar) ■  1343-31 - .
+<lb/>Clondahcrkey Ducfanagay/ 1377-81 1377-82 '
+<lb/>Creeslough *1331 *1332 -
+<lb/>Clondavaddog MassiCGiial 1347-71 - -
+<lb/>Faaavcity
+<lb/>Drumholm Ballintra 136GS1 IS6&lt;&gt;81 -
+<lb/>Falcarrash Falcairagh *1839 ..*1337 .. .. -
+<lb/>Ghoath Dobhair (Gweedore) Doiri-Beaga (Deny beg) 1863-71 &amp;IS73-S1 :
+<lb/>;
+<lb/>—• Cnoc Fola (Knoddbla)
+<lb/>- i  -
+<lb/>Gartan &amp; Tenaoa Tenr.oa *1332 *1330.
+<lb/>Churchill *1333 -
+<lb/>Gleacokncille Canid&lt; *1330 *1331
+<lb/>Gieann Cholradlle *1379 *1835
+<lb/>Glenswilly Glenswilly 1S74-81 1377-31
+<lb/>Ghort A' ChoL'ce (Gortahork) Gort A' Choiice (Gortahork) 1349-61 &amp;1S71-S0 1361-30 1S49-69
+<lb/>Oilcan Thorai (Tory Island) *1897 -
+<lb/>Iniakeel Edcdinfagh 1366-31 1866-31
+<lb/>Glences - -
+<lb/>Baile Na r irne (Iniskeei) 1366-31. *1390 1366-31. *1394 j
+<lb/>Inver Frosses IS61-S1 1361-67 &amp; IS75-S! i
+<lb/>Ardaghcy -  . -
+<lb/>Mountcharies -
+<lb/>' Dnmarone
+<lb/>- -
+<lb/>Kiibarron Ballyshannon 1354-31 1353-31
+<lb/>KiUashtee Bruckiess 134547, 1350-53, 1357-81 1357-31
+<lb/>Kiliybeas Killyt-egs 1850-31 ■  -
+<lb/>Killygarvan &amp; TuUyfeni Rathmullen 1363-80 1373-79
+<lb/>Ntilford *1374 *1835
+<lb/>fCerrykeel (see Milford) - -
+<lb/>Glenvar/Gughterl in • *1838 *1343
+<lb/>Killyinard fGllmard 1374-81 -
+<lb/>KiLriacrcanaa KilmacrerLDan 1362-30 *1363
+<lb/>GolaryCoole *1397 -
+<lb/>KiUesvosus Cloghan / An Clcchan 1855-62 &amp; 1370-30 j
+<lb/>Kincasilash Bunonpcn *1399 *1393
+<lb/>Kincasslaah *1377 *1373 •
+<lb/>Ananmorc Island - -
+<lb/>Ms'.-aaii Carrigart/Do'ATiirigs !.?Jj.:.l?'l373 . ■ i _*J.s.I?. _
+<lb/>Raahoe Raphcc 1376-81 *1376
+<lb/>Convoy *1376 1363-1940
+<lb/>Brumkesn *1393 *1393
+<lb/>P^rTP.ochey j Drumoahill 1343-31 i 1843-70 1
+<lb/>Sc-ar.oriar BaUybcfey / Scranorlar *1377 *1877 L. •
+<lb/>Tawnav#illy Donegal Town 1872-31 1873-32, *1332 j
+<lb/>Oar - i. -
+<lb/>Templecrons &amp; Lstterneacaward Diinzic-e 1876-81 *1377
+<lb/>Letterir.aca'rrard.'Doccha.'y 1376-31 *1836 *1337
+<lb/>* Held in Iccal custody
+<lb/>QDonegaC J^ncesiry, 0C£9/iezting 9-fotLse, &lt;Bccfs^Lamj (Ramafton, Co. &lt;DcmgciR IraCcncL CzQ 074-51266
+<pb n="9" facs="#page-008"/>
+<lb/>vnipiiierised Church Registers available at Donesal Ancestry
+<lb/>ROMAN CATHOLIC BIRTHS MARIHAGES BURIALS
+<lb/>Commencement Dates
+<lb/>Aughnish 1873 1873
+<lb/>Cloghan 1854 1855 -
+<lb/>Daimoghill 1856 1856 -
+<lb/>Dunfanaghy 1877 1877 -
+<lb/>Inver 1861 1861 -
+<lb/>Kilmacrenan 1862 1863 -
+<lb/>Letterkenny 1853 1853 -
+<lb/>Raphoe 1870 1876 -
+<lb/>Rathmullan 1859 -
+<lb/>St. Johnston 1843 - -
+<lb/>Stranorlar 1877 1877 -
+<lb/>Tamney 1846 1847 -
+<lb/>Termon 1858 1880 -
+<lb/>Donegal Ancestry, Family History Research Centre, Ramelton, Co. Donegal. Tel: (074) 51266, e-mail: donances@indigo.ie
+<pb n="10" facs="#page-009"/>
+<lb/>Computerised Church of Ireland Parish Registers
+<lb/>Parish Church Baptisms Marriages L):L(ga))si;;;:;:r Burials Gai)s
+<lb/>All Saints All Saints 1877-1899 1845-1899 1820-1899
+<lb/>Burt Burt 1829-1899 1829-1899 1829-1899
+<lb/>Clondaliorky Clondaliorky East 1870-1899 1845-1899 1884-1899
+<lb/>Dunhmaghy 1869-1899 - 1873-1899
+<lb/>Clondavaddog Clondavaddog 1794-1899 1794-1899 1794-1899
+<lb/>Clonlcigh Clonleigh 1868-1899 1845-1899 1855-1899
+<lb/>Convoy Convoy 1871-1899 1844-1899 1881-1899
+<lb/>Desertegny Desertegny 1878-1899 1848-1899 1879-1899
+<lb/>Donaghmore Donaglunore 1818-1899 1819-1824
+<lb/>1829-1884
+<lb/>1896-1899
+<lb/>1825-1899 1718-1764
+<lb/>1764-1783
+<lb/>1825-1899
+<lb/>Monellan 1872-1899 1874-1899 1885-1899
+<lb/>Donegal Donegal 1808-1899 1812-1899 1812-1899
+<lb/>Dnnnliome Dmmliome 1719-1899 1691-1899 1696-1899
+<lb/>Laghcy 1877-1899 1847-1899 1877-1899
+<lb/>Rossnovvlagh 1879-1899 1845-1899 -
+<lb/>Dunlewy - 1853-1899 -
+<lb/>Falian Lower Fahmi Lower 1817-1899 1816-1899 1822-1899
+<lb/>Falian Upper Fahan Upper 1762-1899 1824-1835 1814-1899 1814-1817 1832-1899
+<lb/>Glenalla 1871-1899 1871-1899 -
+<lb/>Glcncolumcillc Glencolumcille 1827-1899 1845-1899 1827-1899
+<lb/>Inch Inch 1868-1899 1846-1899 1868-1899
+<lb/>Imiiskeel Inniskcel 1826-1899 1827-1899 1699-1818 1826-1899
+<lb/>Ardara (part) 1829-1899 1829-1899 1830-1899
+<lb/>Glcnties 1898-1899 1856-1899 1898-1899
+<lb/>Inver Inver 1805-1899 1805-1899 1818-1899
+<lb/>Mountcharles 1877-1899 1861-1899 -
+<lb/>Kilcar Kilcar 1819-1899 1819-1899 1818-1899
+<lb/>Killaghtee Killaghtee 1868-1899 1857-1899 1874-1899
+<lb/>Killea Killea 1877-1899 1845-1899 1880-1899
+<lb/>Killybcgs Killybegs 1809-1899 1810-1899 1820-1899
+<lb/>Ardara (pm1) 1829-1899 1829-1899 1830-1899
+<lb/>Killygaivan Killygarvan 1706-1899 1799-1881 1707-1899 1706-1899
+<lb/>Killymard Killvmard 182''-1899 1845-1899 1819-1899
+<lb/>Lough Eske 1876-1899 - -
+<lb/>Kilmacreiman Kilmacreiman 1818-1899 1833-1869 1818-1899 1818-1899
+<lb/>Lettermacaward Lettermacaward 1889-1899 1846-1899 1890-1899
+<lb/>Mevagh Mevagh 1876-1899 1846-1899 1877-1899
+<lb/>Milibrd 1879-1899 1860-1899 -
+<lb/>Raphoe Raphoe C1 1771-1899 1783-1808 1771-1899 1771-1899
+<lb/>Raymunterdoney Raymunterdoney 1878-1899 1845-1899 1880-1899
+<lb/>Taughboyne Taughboyne 1820-1899 1820-1899 1820-1899
+<lb/>Templecrone Templecrone 1878-1899 1849-1899 1851-1899
+<lb/>Tullaghobcgley Tullaghobegley 1848-1899 1845-1899 1850-1899
+<lb/>Tullyauglmish Tullyaughnish 1798-1899 1820-1823 1788-1899 1798-1899
+<lb/>Donegal Ancestry, Family History Research Centre, Ramelton, County Donegal. Tel: (074) 51266, e-mail: donances@indigo.ie
+<pb n="11" facs="#page-010"/>
+<lb/>6Q3Hd7"0000
+<lb/>ORDER AND BILLING
+<lb/>FOR COPIES OF
+<lb/>PASSENGER ARRIVAL
+<lb/>RECORDS
+<lb/>IPlease follow Instructions bolow.
+<lb/>Submit a separate set of; order (ormsrdoK'^acb .passenger arrival.
+<lb/>Do not remove any of tti^bhwYs of this 3-part set. You will be
+<lb/>billed $3.00 for each list reproduped, Do not;mall,payment witti
+<lb/>your order. This form willii)&amp; retufiifed to you and serves as your
+<lb/>bill when we fill your order. '■ li c HC£
+<lb/>Date received
+<lb/>Mail the complete W
+<lb/>set of this order to " Passenger Arrival Records (NNCC), Washington, DC 20408
+<lb/>IDENTIFICATION OF ENTRY
+<lb/>DATE OF ARRIVAL
+<lb/>ci yea IS 4 6
+<lb/>NAME OF IMMIGRANT
+<lb/>OR NAMES OF MEMBERS OF IMMIGRANT FAMILY AGE SEX
+<lb/>PORT OF ENTRY
+<lb/>A/i2 vv7 Vz7 V- k 4-5
+<lb/>WHERE NATURALIZED (if known) d
+<lb/>U/ 1 M f a m M ^ L a u k 1 f h M
+<lb/>SHIP NAME (or carrier line}
+<lb/>PASSENGER'S COUNTRY OF ORIGIN
+<lb/>X  1 3. to
+<lb/>NOTE
+<lb/>The National Archives has customs passenger lists dating back to 1820 with a few as early as 1787, Lists prior to 1820 that are not at
+<lb/>the National Archives may be on file at the port of entry or the State archives In the State where the port is located. The Morton Allan
+<lb/>Directory of European Passenger Steamship Arrivals may be useful in determining the name and arrival date of ships arriving at New
+<lb/>York, 1890—1930, and Philadelphia, Baltimore, and Boston, 1904—1926.
+<lb/>Please fill In as much of the information called for above as possible. We will advise you if the information is inadequate to enable us to
+<lb/>locate the entry you are seeking.
+<lb/>We do not maintain a list of persons who do research for a fee; however, many researchers advertise their services in genealogical
+<lb/>periodicals, usually available in libraries.
+<lb/>YOUR NAME &amp; ADDRESS
+<lb/>wo e»z
+<lb/>I® ai
+<lb/>- a23(DH10Qy•oIaO00CAJTQOTTrt&gt;OT-TLA0LaQ1Z
+<lb/>THIS IS
+<lb/>I  I YOUR
+<lb/>BILL
+<lb/>ARR VAL DATE
+<lb/>MICROFILM PUBLICATIONRECORD
+<lb/>ENCLOSED
+<lb/>NUMBER OF BLANK OFtOER
+<lb/>FORMS YOU WOULD W r
+<lb/>LIKE SENT TO YOU f 3
+<lb/>DO NOT WRITE BELOW - SPACE IS FOR REPLY TO YOU
+<lb/>SHIP
+<lb/>WERE
+<lb/>^UNABLE TO
+<lb/>COMPLETE
+<lb/>YOUR ORDER
+<lb/>I  I SEE REVERSE
+<lb/>make check or money order
+<lb/>payable to NATF (NNCC) /
+<lb/>AMOUNT
+<lb/>DUE ►
+<lb/>RECORD
+<lb/>SEARCHED
+<lb/>FORj BUT
+<lb/>NOT FOUND
+<lb/>MICROriLM PUBLICATION
+<lb/>DATE SEARCHEDROLL
+<lb/>□ A SEARCH WAS NOT MADE FOR THE REASON INDICATED:
+<lb/>1. Our index to New York passenger arrivals covers the periods 1820 — 1846 and 1897 —
+<lb/>1943. We regret that we cannot undertake a page-by-page search of the lists for the
+<lb/>period between 1847 — 1896, inclusive.
+<lb/>2. Masters of vessels departing from U.S. ports were not required to list the names of
+<lb/>passengers. Therefore, we would not have a list for the passenger you have cited.
+<lb/>3. Our holdings of passenger lists do not include any for Pacific coast ports. The San
+<lb/>Francisco passenger lists were destroyed by fires in 1851 and 1940. (Consult the two
+<lb/>works by Louis J. Pasmussen, San Francisco Ship Passenger Lists, 4 vols., 1965; and
+<lb/>Railway Passenger Lists of Overland Trains to San Francisco and the West, 1 vol., 1966.)
+<lb/>4. Overland arrivals into the U.S. from Canada and Mexico are notdocumented in passenger
+<lb/>list records.
+<lb/>5. Justice Department restrictions prohibit us from making searches in Immigration and
+<lb/>Naturalization records less than 50 years old. We suggest that you direct an inquiry to:
+<lb/>District Director, Immigration and Naturalization Service, New York, NY 10007.
+<lb/>NATIONAL ARCHIVES TRUST FUND BOARD NATF FORM 40 (12-79)
+<pb n="12" facs="#page-011"/>
+<lb/>j  tec'rei !« -sH
+<lb/>y .iA:}! '•
+<lb/>PASSENGER LISTS IN THE NATIONAL ARCHIVES
+<lb/>1. We found several entries for persons of the same name arriving at the same port during the same period. Additional . '
+<lb/>information, such as age, occupation„etc., will help in resolving this problem.
+<lb/>:.w;
+<lb/>2. We found the requested information on the passenger index, but we regret that the corresponding passenger list
+<lb/>is missing. A copy of the index card is enclosed. , i
+<lb/>3. We are unable to locate the passenger list for the ship listed and have found no entry on the passenger index for the
+<lb/>requested party at that port. hJ-
+<lb/>□
+<lb/>n
+<lb/>4. We examined the passenger list for the requested-shipand were unable to find an entry Tor the-requested passenger,—
+<lb/>5. The register of ship arrivals did not show any entry for the ship named. ' • -
+<lb/>6. Our only passenger lists for the cited port do not cover the date that you have requested, and we were unable to
+<lb/>find an entry on the index to the l ists we have. £-4 ^
+<lb/>7. You may find some help in the book Irish and Scotch-Irish Ancestral Research by Margaret Dickson Falley (1962).
+<lb/>It is a guide to genealogical records and repositories in Ireland and is normally available in larger libraries.
+<lb/>8. Passports are issued to persons leaving the U.S., not arriving but early arrivals are frequently documented in passen
+<lb/>ger lists, which are described in the enclosed leaflet.
+<lb/>9. The National Archives has abstracts of Naturalization proceedings for the New England States (1787 — 1906) and
+<lb/>the District of Columbia (1802 — 1926). For information about citizenship granted elsewhere before September
+<lb/>27, 1906, send inquiries to the clerk of the Federal, State, or other court that issued the naturalization certificate.
+<lb/>The Immigration and Natural ization Service, Washington, DC 20536, can furnish information on natural izations
+<lb/>that occurred after September 26, 1906.
+<lb/>10. It should be noted that the passenger l ists in our custody do not represent a complete collection. Some passenger
+<lb/>lists of the 19th century were either lost or destroyed by dampness, fire, and other causes before records of this
+<lb/>type were deposited in the National Archives.
+<lb/>t2i rz;
+<lb/>■- O vferru-o 3o-
+<lb/>! f —:
+<lb/>1 -  !
+<lb/>&gt;:
+<lb/>1
+<lb/>1  -
+<lb/>ay W  -
+<lb/>a
+<lb/>□
+<lb/>T
+</ab>
+    </body>
+  </text>
+</TEI>

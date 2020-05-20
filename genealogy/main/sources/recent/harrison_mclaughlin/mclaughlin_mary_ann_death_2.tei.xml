@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin mary ann death 2</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>Transcription verified.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death_2/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death_2/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/harrison_mclaughlin/mclaughlin_mary_ann_death_2/p-003.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+<pb n="3" facs="#page-000"/>
+<lb/><bibl>
+<title level="u">Mrs. Anna Harrison</title>,
+obituary,
+<title level="j">Corning (New York, USA) Evening Leader</title>,
+<citedRange>4 May 1953, p. 3, col. 2</citedRange>.
+</bibl>
+<head>Obituary</head>
+<head><lb/>Mrs. Anna Harrison</head>
+<p>
+<lb/>Mrs. Anna Harrison, 82, for<pc>‐</pc>
+<lb break="no"/>merly of Hornby, died Saturday
+<lb/>evening at the home of a son, John
+<lb/>Harrison, at Hamilton.
+</p>
+<p>
+<lb/>She was born at Hornby, July
+<lb/>23, 1870, the daughter of William
+<lb/>and Marguerite Dougherty Mc<pc>‐</pc>
+<lb break="no"/>Laughlin. At St. Mary’s rectory in
+<lb/>Corning, she was married to El<pc>‐</pc>
+<lb break="no"/>mer Harrison. The couple had re<pc>‐</pc>
+<lb break="no"/>sided for many years in Hornby un<pc>‐</pc>
+<lb break="no"/>til the time of Mr. Harrison’s death
+<lb/>10 years ago. At that time Mrs.
+<lb/>Harrison went to Hamilton to make
+<lb/>her home with her son John.
+</p>
+<p>
+<lb/>While at Hornby she was a
+<lb/>member of St. Vincent de Paul’s
+<lb/>Church, Corning, and the Hornby
+<lb/>Grange. In Hamilton she became
+<lb/>a communicant of St. Mary’s
+<lb/>Church.
+</p>
+<p>
+<lb/>She is survived by two other
+<lb/>sons: Leo of Painted Post and
+<lb/>Gerald of Rochester; a daughter,
+<lb/>Mrs. Fred Mosher of Earlville; a
+<lb/>sister, Mrs. Kathryn Hendricks of
+<lb/>Hornby; grandchildren: Gale Har<pc>‐</pc>
+<lb break="no"/>rison of Rochester, Barry Mosher
+<lb/>of Earlville, Miriam and Sally Har<pc>‐</pc>
+<lb break="no"/>rison both of Hamilton; several
+<lb/>nieces and nephews.
+</p>
+<p>
+<lb/>Friends are invited to call at
+<lb/>the A. W. Beilby and Son Funeral
+<lb/>Home this evening from 7 to 9
+<lb/>and Tuesday from 1 to 5 and 7
+<lb/>to 9 o’clock. The funeral will be
+<lb/>Wednesday morning with an 8:30
+<lb/>prayer from the funeral home fol<pc>‐</pc>
+<lb break="no"/>lowed at 9 o’clock by services in
+<lb/>St. Vincent de Paul’s Church. Bur<pc>‐</pc>
+<lb break="no"/>ial will be in Hornby.
+</p>
+<pb n="6" facs="#page-002"/>
+<lb/><bibl>
+<title level="u">Mrs. Anna Harrison</title>,
+obituary,
+<title level="j">Corning (New York, USA) Evening Leader</title>,
+<citedRange>5 May 1953, p. 6, col. 5</citedRange>.
+</bibl>
+<head>Obituary</head>
+<head><lb/>Mrs. Anna Harrison</head>
+<p>
+<lb/>Mrs. Anna Harrison, 82, for<pc>‐</pc>
+<lb break="no"/>merly of Hornby, died Saturday
+<lb/>evening at the home of a son, John
+<lb/>Harrison, at Hamilton.
+</p>
+<p>
+<lb/>She was born at Hornby, July
+<lb/>23, 1870, the daughter of William
+<lb/>and Marguerite Dougherty Mc<pc>‐</pc>
+<lb break="no"/>Laughlin. At St. Mary’s rectory in
+<lb/>Corning, she was married to El<pc>‐</pc>
+<lb break="no"/>mer Harrison. The couple had re<pc>‐</pc>
+<lb break="no"/>sided for many years in Hornby un<pc>‐</pc>
+<lb break="no"/>til the time of Mr. Harrison’s death
+<lb/>10 years ago. At that time Mrs.
+<lb/>Harrison went to Hamilton to make
+<lb/>her home with her son John.
+</p>
+<p>
+<lb/>While at Hornby she was a
+<lb/>member of St. Vincent de Paul’s
+<lb/>Church, Corning, and the Hornby
+<lb/>Grange. In Hamilton she became
+<lb/>a communicant of St. Mary’s
+<lb/>Church.
+</p>
+<p>
+<lb/>She is survived by two other
+<lb/>sons: Leo of Painted Post and
+<lb/>Gerald of Rochester; a daughter,
+<lb/>Mrs. Fred Mosher of Earlville; a
+<lb/>sister, Mrs. Kathryn Hendricks of
+<lb/>Hornby; grandchildren: Gale Har<pc>‐</pc>
+<lb break="no"/>rison of Rochester, Barry Mosher
+<lb/>of Earlville, Miriam and Sally Har<pc>‐</pc>
+<lb break="no"/>rison both of Hamilton; several
+<lb/>nieces and nephews.
+</p>
+<p>
+<lb/>Friends are invited to call at
+<lb/>the A. W. Beilby and Son Funeral
+<lb/>Home this evening from 7 to 9
+<lb/>o’clock. The funeral will be
+<lb/>Wednesday morning with an 8:30
+<lb/>prayer from the funeral home fol<pc>‐</pc>
+<lb break="no"/>lowed at 9 o’clock by services in
+<lb/>St. Vincent de Paul’s Church. Bur<pc>‐</pc>
+<lb break="no"/>ial will be in Hornby.
+</p>
+<pb n="2" facs="#page-001"/>
+<lb/><bibl>
+<title level="u">Mrs. Anna Harrison</title>,
+funeral notice,
+<title level="j">Corning (New York, USA) Evening Leader</title>,
+<citedRange>6 May 1953, p. 2, col. 6</citedRange>.
+</bibl>
+<head><lb/>Funeral</head>
+<head><lb/>Mrs. Anna Harrison</head>
+<p>
+<lb/>The funeral of Mrs. Anna Har<pc>‐</pc>
+<lb break="no"/>rison, formerly of Hornby, was
+<lb/>held this morning at 8:30 in the
+<lb/>A. W. Beilby and Son Funeral
+<lb/>Home and at 9 o’clock in St.
+<lb/>Vincent de Paul’s Church. The
+<lb/>Rev. Daniel Hogan, assistant pas<pc>‐</pc>
+<lb break="no"/>tor, said the Mass. In charge at
+<lb/>the grave was the Rev. Joseph
+<lb/>Guilfoil, pastor.
+</p>
+<p>
+<lb/>Bearers were Joseph, Dudley,
+<lb/>John, Arthur, and William Mc<pc>‐</pc>
+<lb break="no"/>Laughlin and Basil Hendricks, all
+<lb/>nephews.
+</p>
+<pb n="6" facs="#page-003"/>
+<lb/><bibl>
+<title level="u">Mrs. Anna Harrison</title>,
+funeral notice,
+<title level="j">Corning (New York, USA) Evening Leader</title>,
+<citedRange>7 May 1953, p. 6, col. 3</citedRange>.
+</bibl>
+<head><lb/>Funeral</head>
+<head><lb/>Mrs. Anna Harrison</head>
+<p>
+<lb/>The funeral of Mrs. Anna Har<pc>‐</pc>
+<lb break="no"/>rison, formerly of Hornby, was
+<lb/>held Wednesday morning at 8:30
+<lb/>in the A. W. Beilby and Son Funer<pc>‐</pc>
+<lb break="no"/>al Home and at 9 o’clock in St.
+<lb/>Vincent de Paul’s Church. The
+<lb/>Rev. Daniel Hogan, assistant pas<pc>‐</pc>
+<lb break="no"/>tor, said the Mass. In charge at
+<lb/>the grave was the Rev. Joseph
+<lb/>Guilfoil, pastor.
+</p>
+<p>
+<lb/>Bearers were Joseph, Dudley,
+<lb/>John, Arthur, and William Mc<pc>‐</pc>
+<lb break="no"/>Laughlin and Basil Hendricks, all
+<lb/>nephews.
+</p>
+      </ab>
+    </body>
+  </text>
+</TEI>

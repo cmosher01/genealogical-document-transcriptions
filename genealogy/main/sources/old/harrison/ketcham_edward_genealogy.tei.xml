@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ketcham edward genealogy</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/ketcham_edward_genealogy/p-013.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Edward Ketcham http://fp-www.wwnet.net/"jketcham/edward.htm
+<lb/>Edward Ketcham
+<lb/>Revised: Wednesday, June 16, 1999.
+<lb/>Synopsis of Edward Ketcham's Life
+<lb/>Edward Ketcham the Progenitor of Ail Ketchams? (Herein also of Henry KetchamJ
+<lb/>Bibiioaraphv and Further Reading
+<lb/>Endnotes
+<lb/>Wanted!
+<lb/>Synopsis of Edward Ketcham's Life
+<lb/>The following is a brief synopsis of what is known about Edward Ketcham (b. 1590s, England,
+<lb/>d. 8 June 1655, Stratford, Conn.), the probable progenitor of all Ketchams in America.
+<lb/>Edward Ketcham in England | Immigration to America | Homestead
+<lb/>Moves I Will I Children | Ancestry | Progenitor of All Ketchams?
+<lb/>I Bibliography I Endnotes I Wanted! I Genealogy Report lEight Generations")
+<lb/>Back to Tod j Home
+<lb/>Edward Ketcham in England.
+<lb/>Edward Ketcham is first found in Cambridge, England from 1619 to 1628, where his marriage
+<lb/>to Mary Hall on 22 Aug 1619 is recorded in the records of the Church of Saint Andrew the
+<lb/>Great, as well as the birth of his children Mary (bapt. 7 May 1620), John (bapt. 8 Sep 1622),
+<lb/>Hester (bapt. 10 Apr 1626), and Ann (bapt. 19 Oct 1628). No other records of Edward or other
+<lb/>Ketchams are found in Cambridge.
+<lb/>Back to Tod | Home
+<lb/>Immigration to America.
+<lb/>Edward Ketcham is next found in Ipswich in the Massachusetts Bay Colony in 1635. He may
+<lb/>have arrived in 1630 on the Winthrop fleet or in 1633 on the Ipswich. By 1637 Edward was
+<lb/>reportedly on the Board of Freemen, the town council of Ipswich.
+<lb/>Back to Tod | Home
+<lb/>Edward Ketcham's homestead in Ipswich.
+<lb/>Ginger Stork reports that an early deed shows that Samuel Boreman purchased property from
+<lb/>Edward Ketcham in 1640, and that Boreman sold to Francis Jordan.! jf go^ Edward Ketcham's
+<lb/>home in Ipswich is no longer standing.^ Jordan's lot is located on the corner of East Street and
+<lb/>07/16/1999 3:18 PM
+<pb n="2" facs="#page-001"/><lb/>Edward Ketcham http://fp-www.wwnet.net/"'jketcham/edward.htm
+<lb/>Brook Street.3 The house currently standing on the lot, however, is much later than the I640s.^
+<lb/>Back to Tod I Home
+<lb/>His moves.
+<lb/>Sometime after January 1640 Edward moved from Ipswich to Hashamommock, later Southold,
+<lb/>Long Island, where in 1651 the first record of him is found. Sometime later Edward moved to
+<lb/>Stratford, Connecticut.
+<lb/>Back to Tod | Home
+<lb/>Edward Ketcham's will.
+<lb/>Edward's will was made 8 June 1655 at Stratford, Fairfield Co., Connecticut. While damaged in
+<lb/>places and missing sections which apparently contained the names of some of his children, it
+<lb/>does list the following children: John, Mary, Hannah (an alternate spelling of "Anna"), and
+<lb/>Hester. These four children are the same as those of the Edward Ketcham of Cambridge,
+<lb/>England. Edward's estate was valued at 90 pounds, 11 shillings, 6 pence.
+<lb/>Back to Top | Home
+<lb/>His children.
+<lb/>James E. Morton, who wrote a genealogy column for the Boston Transcript under the penname
+<lb/>Amiko, noted that there are almost as many versions of the family of Edward Ketcham as
+<lb/>writers on the subject.^ Edward's four children whose baptismal records have been found in
+<lb/>Cambridge, England (Mary, John, Hester, and Ann/Hannah) are certain. All four children
+<lb/>were most likely with Edward's first wife, Mary Hall. The evidence indicates that Edward
+<lb/>married a Sarah Salman of Southold, Long Island. The differences arise over as many as five
+<lb/>purported children, Edward, Samuel, Sarah, Rebecca, and Joseph. Interestingly, Edward's will,
+<lb/>deteriorated with significant lacunae, contains only the names Mary, John, Hester, and
+<lb/>Ann/Hannah. The names of the other children, most Ketcham genealogists assume, were to be
+<lb/>found in the lacunae. The writers do not address the probability that Edward's will
+<lb/>deteriorated in such a way that only the names of the children that are known from other
+<lb/>sources remained. At this point, I believe Herbert Eurman Seversmith is correct that Edward
+<lb/>had no sons Edward or Samuel.^ The events attributed to Edward's purported sons Edward
+<lb/>and Samuel are better attributed to Edward's grandsons of the same names, sones of Edward's
+<lb/>son John. Thus, Edward's children were, at most:
+<lb/>Mary (b. 1620)
+<lb/>John (b. 1622)
+<lb/>Hester (b. 1626)
+<lb/>Ann (Hannah) (b. 1628)
+<lb/>Sarah (b. abt. 1639)
+<lb/>Rebecca (b. c. 1645)
+<lb/>Joseph (b. 1650)
+<lb/>A preliminary genealogical report of eight generations of Edward Ketcham's descendants, not
+<lb/>yet reflecting this conclusion, is available.
+<lb/>Back to Tod I Home
+<lb/>07/16/1999 3:18 PM
+<pb n="3" facs="#page-002"/><lb/>Edward Ketcham http://fp-www.wwnet.net/'^jketcham/edward.htm
+<lb/>Edward Ketcham's ancestry.
+<lb/>Edward Ketcham's ancestry has not been established. Among the possibilities, two of the more
+<lb/>likely are reported in Ginger Stork's The Known Descendants of Edward
+<lb/>Ketcham/Catchum/Cetcham - Puritan (Davison, MI: O.K. Stork, 1995), v.
+<lb/>(1) James Chetham of Cromsall, County Lancashire, England. The
+<lb/>Visitation ofSujfolke (England), by William Hervey, contains the pedigree of a
+<lb/>James Chetham (the spelling "Cheetham/Chetham" was used for Edward in
+<lb/>Cambridge in the 1620s). In 1635 James Chetham, then about 69 years old,
+<lb/>recalled his personal pedigree. His children: Edward, George, Henrie, Edmund,
+<lb/>James, Humfrey, Edmund, Jane, and Isabell. Significantly, a Henry Ketcham
+<lb/>appears in Ipswich in 1635, in addition to Edward (see below).
+<lb/>(2) Sir Robert Kytchen, Mayor of Bristol. An unsigned manuscipt reportedly
+<lb/>located in the New York City Library states: "Edward Ketcham was the son or
+<lb/>grandson of Sir Robert, Alderman of Bristol, England who died 19 June 1594", and,
+<lb/>a few pages later, "Edward son of Abel and grandson of Sir Robert, Mayor of
+<lb/>Bristol. In the days of Sir Robert and his father the name was given as Kytchen."
+<lb/>The Gloucester Archaeology Society has stated that the name "Ketcham" was given
+<lb/>in later periods as "Kitchin" or "Kytchin." Richard Kitchin and son Robert were
+<lb/>residents of Temple, Bristol County, England, in 1585, and Robert's effigy lies in St
+<lb/>Stephen Church in Temple.
+<lb/>Obviously, James Chetham's children fit with the "mysterious" Henry Ketcham found in
+<lb/>Ipswich. Without any further information, the unsigned manuscript in the New York City
+<lb/>Library appears much less probable. That it was even included as a possibility is a result of the
+<lb/>tendency to claim noble or royal background, if only a city mayor here. As Seversmith wryly
+<lb/>noted regarding the purported ancestor "Sir Rowland Ketcham, Knight of Wales," Auf Caesar,
+<lb/>autnihill.
+<lb/>In sum, Edward Ketcham's ancestry remains unproven, but further work should be done in
+<lb/>investigating James Chetham of Cromsall, County Lancashire, England.
+<lb/>Back to Tod | Home
+<lb/>Edward Ketcham: The Progenitor of all Ketchams? (Herein also
+<lb/>of Henry Ketcham.)
+<lb/>It is probable that Edward Ketcham is the progenitor of all Ketchams in America. While likely,
+<lb/>it is only probable because two caveats have been noted: the mysterious Henry Ketcham and
+<lb/>the "Scottish Ketchams."
+<lb/>A Henry Ketcham is found in Ipswich, Massachusetts, in 1638. (Savage 1990. vol. 3, p. 14.)
+<lb/>According to the published genealogies, we know nothing further of Henry Ketcham or his
+<lb/>descendants (are there any out there?). While the presence of Henry Ketcham is troubling for a
+<lb/>definitive answer to the question, Henry Ketcham is almost certainly related to Edward
+<lb/>Ketcham. If Henry is not Edward's son, they are likely brothers (it is highly unlikely that two
+<lb/>unrelated Ketchams would be found in Ipswich together in 1635). If that is the case, the
+<lb/>progenitor of all Ketchams (assuming Henry's descendants are in fact among us), is Edward's
+<lb/>07/16/1999 3:18 PM
+<pb n="4" facs="#page-003"/><lb/>Edward Ketcham http://fp-www.wwnet.net/"'jketcham/edward.htm
+<lb/>and Henry's father ~ an as yet unnamed "Ketcham" who is the progenitor of us all!
+<lb/>Some of the Ketcham genealogies also allege the existence of Scottish "Ketchams," a Scottish
+<lb/>clan whose name (in Gaelic) is spelled differently than "Ketcham" but which sounds similar.
+<lb/>None of the books give any further information, or the source of this story.
+<lb/>Without further evidence that Henry Ketcham left descendants and is not Edward's son, we
+<lb/>may conclude that Edward Ketcham is in fact the father of us all. If not Edward, the progenitor
+<lb/>of all Ketchams is Edward's father. We are all related!
+<lb/>Back to Tod | Home
+<lb/>Bibliography and further reading.
+<lb/>The single best (and only?) published work on Edward Ketcham, other than those in the family
+<lb/>genealogies, is John Insley Coddington's "Edward Ketcham of Cambridge, Co. Cambridge, and
+<lb/>Elsewhere in England, Later of Ipswich, Mass., Southold, L.I., and Stratford, Conn.," The
+<lb/>American Genealogist 30, no. 1 (January 1954), 2-6. Of the family genealogies, the most
+<lb/>complete is Ginger (Ketchum) Stork's The Known Descendants of Edward
+<lb/>Ketcham/Catchum/Cetcham - Puritan (Davison, Mich.: C. K. Stork, 1995). Similar material
+<lb/>can be found in the earlier Ketcham Kables.
+<lb/>Edward Ketcham is mentioned in James Savage's^ Genealogical Dictionary of The First
+<lb/>Settlers of New England (Baltimore: Genealogical Publishing Co., 1965-1990).
+<lb/>In June 1637, 56 men of Ipswich signed a petition requesting that the younger John Winthrop
+<lb/>be allowed to remain in Ipswich instead of being sent to govern Castle Island in Boston harbor.
+<lb/>Edward Ketcham signed the petition (spelling his name as "Katcham"). A photograph of the
+<lb/>petition and Edward Ketcham's signature may be found in Thomas F. Waters, Ipswich in the
+<lb/>Massachusetts Bay Colony (Ipswich, Mass.: Ipswich Historical Society, 1901). Edward's
+<lb/>signature is on the second page of the petition (be prepared to hunt!).
+<lb/>The primary source for the Massachusetts Bay Colony, John Winthrop's journal, has recently
+<lb/>been reprinted in an excellent edition by Richard S. Dunn and Laetitia Yeandle, The Journal of
+<lb/>John Winthrop, 1630-1649 (Cambridge, Mass.: Harvard University Press, 1996), an
+<lb/>unabridged, old-spelling edition. An abridged, modern-spelling edition in paperback
+<lb/>containing 40% of the text of the unabridged edition is also available: Richard S. Dunn and
+<lb/>Laetitia Yeandle, The Journal ofJohn Winthrop, 1630-1649, abr. ed. (Cambridge, Mass.:
+<lb/>Harvard University Press, 1996).
+<lb/>Edward Ketcham was a Puritan. Among the many excellent resources available on the Puritans,
+<lb/>one work will put you in touch with how Edward Ketcham lived, David Hackett Fischer's
+<lb/>Albion's Seed: Four British Folkways in America (New York: Oxford Univ. Press, 1989), pp.
+<lb/>13-205. Superb history! An excellent web-site on a well-known group of Puritans, the
+<lb/>Pilgrims: Mavflower Web Pages.
+<lb/>For a fascinating history of the ships on which Edward may have travelled, the Winthrop fleet,
+<lb/>see Charles Edward Banks, The Winthrop Fleet of1630, An Account of the Vessels, the Voyage,
+<lb/>the Passengers and their English Homes from the Original Authorities (Boston: The Riverside
+<lb/>Press, 1930).
+<lb/>For an example of a 17th century Ipswich colonial architecture, visit the Ipswich Historical
+<lb/>Society's page on the John Whipple House.
+<lb/>07/16/1999 3:18 PM
+<pb n="5" facs="#page-004"/><lb/>Edward Ketcham http://fp-www.wwnet.net/'jketcham/edward.htm
+<lb/>Back to Top | Home
+<lb/>Endnotes
+<lb/>1 Stork, Known Descendants, p. viii (citing a "Massachusetts Colonial Record").
+<lb/>2 Contrary to the impression given in Ginger (Ketchum) Stork, The Known Descendants of
+<lb/>Edward Ketcham/Catchum/Cetcham - Puritan), p. viii, and reported elsewhere. In addition,
+<lb/>according to Waters the town-whipper was Jeffry Snelling, a subsequent owner, not Jordan as
+<lb/>reported by Stork. Thomas Franklin Waters, Ipswich in the Massachusetts Bay Colony, vol. 1
+<lb/>(Ipswich, Mass.: Ipswich Historical Society, 1905), p. 395.
+<lb/>3 Thomas Franklin Waters, Ipswich in the Massachusetts Bay Colony, vol. 1 (Ipswich, Mass.:
+<lb/>Ipswich Historical Society, 1905), p. 395.
+<lb/>^ Ibid. Waters states that the house standing on the lot in 1905 must have been built after 1708.
+<lb/>In addition, Steve Ketcham of Marlboro, Massachusetts, visited Ipswich in the fall of 1997 and
+<lb/>confirmed that the house is much later than the 1630s.
+<lb/>^Boston Transcript, November 16,1940 (Note 3136, Part. 5).
+<lb/>s Herbert Furman Seversmith, Colonial Families of Long Island, New York and Connecticut,
+<lb/>Being the Ancestry &amp; Kindred of Herbert Furtman Seversmith (N.p.: Washington, 1953), p.
+<lb/>1,716.
+<lb/>Back to Top I Home
+<lb/>Wanted!
+<lb/>You can help us locate the "primary" sources, or the closest secondary sources on Edward
+<lb/>Ketcham. For example, a copy of the transcription of Edward Ketcham's will in Winifred
+<lb/>Lovering Holman, Ancestry of Colonel John Harrington, Stevens and his wife Frances Helen
+<lb/>Miller (1949), p. 511, or Donald Lines Jacobus, History and Genealogy of the Families of Old
+<lb/>Fairfield, Connecticut, vol. 1 (1930), p. 359.
+<lb/>We need proper bibliographic citations to the following:
+<lb/>William Hervey, The Visitation of Sujfolke containing the pedigree of James Chetham
+<lb/>Schoefield, Ancient jRecords of the Town of Ipswich (1899).
+<lb/>Does anyone know the location of the notes compiled by John Inslev Coddington in researching
+<lb/>"Edward Ketcham of Cambridge. Co. Cambridge, and Elsewhere in England. Later of Ipswich.
+<lb/>Mass.. Southold. L.L. and Stratford. Conn."?
+<lb/>We now have proper citations to the following:
+<lb/>Thanks to Steve Ketcham, Massachusetts, for:
+<lb/>Jacobus, Donald Lines. Families of Old Fairfield, vol. 1. New Haven, Conn.: The Turtle,
+<lb/>Morehouse &amp; Taylor Company, 1930-[31?], p. 359 [reprinted Baltimore: The Genealogical
+<lb/>Publishing Co., 1976].
+<lb/>Waters, Thomas Franklin. Ipswich in the Massachusetts Bay Colony, 2 vols. Ipswich,
+<lb/>Mass.: The Ipswich Historical Society, 1905-17.
+<lb/>07/16/1999 3:18 PM
+<pb n="6" facs="#page-005"/>
+<lb/>Edward Ketcham http://fp-www.wwnet.net/"'jketcham/edward.htm
+<lb/>Pope, Charles Henry. The Pioneers ofMassachusetts: A Descriptive List, Drawn from
+<lb/>Records of the Colonies, Towns and Churches, and Other Contemporaneous Documents.
+<lb/>Baltimore: Genealogical Publishing Co., 1965 [1900].
+<lb/>Thanks to Ron Mahurin, Terre Haute, Indiana, for:
+<lb/>Phillimore, W. P. W., and Young, Evelyn. Cambridgeshire Parish Registers: Marriages,
+<lb/>vol. 5. London: Phillimore &amp; Co., Ltd., 1912, p. 6.
+<lb/>Back to Top I Home
+<lb/>lE-mail the webmaster:John M. Ketcham rimketcham@earthlink.net)
+<lb/>Copyright ® 1999 John Marshall Ketcham. All rights reserved.
+<lb/>Revised: June 16, 1999.
+<lb/>07/16/1999 3:18 PM
+<pb n="7" facs="#page-006"/>
+<lb/>Genealogy Report - Ketcham Genealogy Website http://fp-www.wwnet.net/'jketcham/edwar001.htm
+<lb/>Genealogy Report - Ketcham Genealogy Website
+<lb/>Index I Contents I Resources I Home
+<lb/>Descendants of Edward Ketcham
+<lb/>Generation One
+<lb/>1. Edward^ Ketcham; reportedly born at County Kent, England;! married Mary Hall 22 Aug 1619 at Church of St
+<lb/>Andrew the Great, Cambridge, England;!'! married Sarah Salmon at Southold, Suffolk Co, New York;! died before 9
+<lb/>Jun 1655 at Stratford, (Fairfield Co), Colony of Connecticut (Connecticut);!died 19 Jun 1655 at Stratford, (Fairfield Co),
+<lb/>Colony of Connecticut (Connecticut).!
+<lb/>There is an unsubstantiated story that he resided before 1619 at Ipswich, County Suffolk, England.! He resided between
+<lb/>1619 and 1628 at Cambridge, England.? Edward Ketcham has not been found on any ship's manifest, and the date of his
+<lb/>arrival is variously reported. He immigrated in 1629 to Massachusetts Bay Colony (Massachusetts); on the ship
+<lb/>"Hopewell."! He immigrated on 3 Jul 1630 to Massachusetts Bay Colony (Massachusetts); on board the ship
+<lb/>"Hopewell."!!'!! He immigrated in 1631/32 to Massachusetts Bay Colony; on ship "Lyon."!!-He immigrated in 1635 to
+<lb/>Massachusetts Bay Colony; on board ship "Nector," Captain William Moore.!! He resided between 1635 and 1640 at
+<lb/>Ipswich, Massachusetts Bay Colony (Massachusetts). He was according to some, present when a group from Antiqua,
+<lb/>West Indies, made an agreement to establish a settlement on Hashamomuck Neck on the eastern tip of Long Island in the
+<lb/>south hold of the New Haven Colony (now Southold, Suffolk Co, New York) in 1636 at Long Island, New York.lLHe
+<lb/>took the oath to become a Freeman on 9 Mar 1636/37 at Ipswich, Massachusetts Bay Colony (Massachusetts). The Oath
+<lb/>of a Freemen agreed upon att the Cenall Court, May 14th, 1634. "I, A B, etc., being by Cods pvidence an inhabitant &amp;
+<lb/>ffreeman within the jurisdiccon of this comon weale, doe ffreely acknowledge my selfe to be subiect to the goument
+<lb/>thereof, &amp; therefore doe here sweare by the greate and dreadfull name of the euer lyveing Cod that I wilbe true &amp; faithful
+<lb/>to the same, &amp; will accordinly yeild assitance &amp; support therevnto, with my pson &amp; estate, as in equitie I am bound, &amp;
+<lb/>will also truely indeav*" to mayntaine &amp; preserue all the liberties &amp; previlidges thereof, submitting my selfe to the
+<lb/>wholesom lawes made &amp; established by the same ; and further, that I will not plott or practise any euill against it, nor
+<lb/>consent to any that shall soe doe, but will tymely discouer &amp; reveale the same to lawfull aucthority nowe here established
+<lb/>for the speedy preventing thereof. Moreouer, I doe solemnly bind my selfe in the sight of Cod, that when I shalbe called
+<lb/>to giue my voyce touching any such matter of this state, wherein ffreemen are to deale, I will giue my vote &amp; suffrage as I
+<lb/>shall in my owne conscience iudge best to conduce &amp; tend to the publique weale of the body, without respect of psons or
+<lb/>fav'' of any man. Soe helpe me Cod in the Lord Jesus Christ."!!'!! He and 56 other men of Ipswich signed a remonstrance
+<lb/>against the departure of John Winthrop Jr on 21 Jun 1637 from Ipswich, Massachusetts Bay Colony (Massachusetts).!!He
+<lb/>was shown as a landowner and cattleowner on 20 Dec 1638 at Ipswich, Massachusetts Bay Colony (Massachusetts).!?'!!
+<lb/>He was shown as a cattle owner on 30 Jun 1639 at Ipswich, Massachusetts Bay Colony (Massachusetts). He was listed as
+<lb/>cattle owner on 13 Jan 1640 at Ipswich, Massachusetts Bay Colony (Massachusetts) .?!'?!■'?! He was a witness when John
+<lb/>Woolridge and Hester Ketcham were "Hester Ketcham is freed from her service wth her m"", John Woolrige, &amp; the said
+<lb/>m'" enjoyned to give ' Ketcham 20sh® charges, &amp; the said m"", John Woolrige, is bound to his good behavio'", &amp; enjoyned
+<lb/>to appear at the Court the 7^^ m next, &amp; to put in sufficient caution for the good behavio*^ 8c appearance./" on 3 Mar
+<lb/>1639/40 at Boston, Massachusetts Bay Colony.?!'?! He resided before 1650 at Hashamomuck Neck, the southold
+<lb/>(Southold), (Suffolk Co), New Haven Colony (New York), when he was listed as land owner.?!He left a will on 9 Jun
+<lb/>1655 at Stratford, (Fairfield Co), Colony of Connecticut (Connecticut); inventory taken, amounted to 90/11/6.?!
+<lb/>Children of Edward^ Ketcham and Mary Hall were as follows:
+<lb/>• 2 i. Mary^ Ketcham; baptized 7 May 1620 at Church of St. Andrew the Great, Cambridge, England.?!'??'?!
+<lb/>• + 3 ii. John Ketcham, christened 8 Sep 1622 at St. Andrews Church, Cambridge, England; married Susan Payne;
+<lb/>married Bethiah Richardson.
+<lb/>• 4 iii. Hester Ketcham; baptized 10 Apr 1626 at Holy Trinity Church, Cambridge, England.!!'!!'!?
+<lb/>He was present on 3 Mar 1639/40 at Boston, Massachusetts Bay Colony, for the hearing when his daughter Hester
+<lb/>was freed from service to John Woolrige. "Hester Ketcham is freed from her service wth her m'', John Woolrige,
+<lb/>&amp; the said m"" enjoyned to give " Ketcham 20sh® charges, 8c the said m"", John Woolrige, is bound to his good
+<lb/>behavioL &amp; enjoyned to appear at the Court the 7^^ m next, 8c to put in sufficient caution for the good behavio""
+<lb/>8c appearance./."!!'!! She was living in 1655.!!
+<lb/>• 5 iv. Hannah Ketcham; baptized 19 Oct 1628 at St. Michael's Church, Cambridge, England.!!'!!'!?
+<lb/>She also went by the name of Ann.
+<lb/>Children of Edward^ Ketcham and Sarah Salmon were as follows:
+<lb/>07/16/1999 3:19 PM
+<pb n="8" facs="#page-007"/>
+<lb/>Genealogy Report - Ketcham Genealogy Website http://fp-www.wwnet.net/~jketcham/edwar001.htm
+<lb/>-I- 6 i. Sarah- Ketcham, born between 1640 and 1650 at Huntington, Suffolk Go, New York; married Joseph
+<lb/>Whitman.
+<lb/>+ 7 ii. Rebecca Ketcham, born circa 1647 at Norwalk, Connecticut; married Thomas Taylor.
+<lb/>+ 8 ill. Joseph Ketcham, born circa 1650 at Southold, Suffolk Co, New York; married Mercy Lindall; married
+<lb/>Sarah Jagger.
+<lb/>Return to Table of Contents
+<lb/>Top I Index | Contents | Resources! Home
+<lb/>•ZETjIbI
+<lb/>~ lE-mall ttie webmaster: John M. Ketcham (jmketcham@earthlink.net)
+<lb/>Copyriglit ® 1999 John Marshall Ketcham. All rights reserved.
+<lb/>Created with The Master Genealogist for Windows on 02 Jun 1999 at 10:14:22.
+<lb/>07/16/1999 3:19 PM
+<pb n="9" facs="#page-008"/>
+<lb/>Genealogy Report - Ketcham Genealogy Website http://fp-www.wwnet.net/"jketcham/edwarOOl.htm
+<lb/>Genealogy Report - Ketcham Genealogy Website
+<lb/>Index I Contents i Resources I Home
+<lb/>Generation Two
+<lb/>3. John^ Ketcham (358) (Edward-^); christened 8 Sep 1622 at St. Andrews Church, Cambridge, England;I2'10&gt;ll married
+<lb/>Susan Payne (499), daughter of William Payne (1309), circa 1646; he and Bethiah Richardson (359) obtained a marriage
+<lb/>license 26 Feb 1676/77 at New York;12'I2 married Bethiah Richardson (359), daughter of John Richardson (1310) and
+<lb/>Martha Mead (1311), 14 Mar 1676/77 at West Farms, Westchester Co, New York;if'15'f6 died 17 May 1696 at Newtown,
+<lb/>Queens Co, New York, at age 73;I7 died 1697 at Newtown, (Queens Co), New York;f^'f2died 7 May 1697 at Newtown,
+<lb/>(Queens Co), New York, at age 74;5° died before 17 May 1697;51 On 17 May 1697 John Ketcham (358)'s will was
+<lb/>probated; letters of administration granted to John's widow, Bethiah.52&gt;53
+<lb/>He immigrated to Ipswich, Massachusetts Bay Colony, England.5iHe was "made free at the 2d Session of Salem CoR, the
+<lb/>28: 12 m, 42" on 28 Feb 1642/43 at Salem, Massachusetts Bay Colony (Massachusetts).51 He resided where he purchased
+<lb/>several utensils from from auction sale of the estate of Michael Carthrick for 17s in 1646 at Ipswich, Massachusetts Bay
+<lb/>Colony (Massachusetts) He resided possesses land adjoining on the west a grant to William Payne in 1647 at Ipswich,
+<lb/>Massachusetts Bay Colony (Massachusetts).51 He resided subscribes to Major Denison's Compensation in 1648 at Ipswich,
+<lb/>Massachusetts Bay Colony (Massachusetts).52 He was representative from Ipswich to the Massachusetts Bay General
+<lb/>Court in 1648 at Boston, Massachusetts Bay Colony (Massachusetts).5° He immigrated before Jun 1653 to Hashamomack,
+<lb/>Southold, Suffolk Co, New York.UHe resided purchased house and land for 20 pounds from Steven Coodyear of New
+<lb/>Haven on 4 Jun 1653 at Hashamomuck, New York.liHe was appraiser of the estate of William Salmon (along with
+<lb/>William Wells and Barnabus Wines Sr.) in 1657.M He immigrated before 1659 to Setauket (Brookhaven), Suffolk Co,
+<lb/>New York.li He immigrated before 1 Dec 1659 to Setauket (Brookhaven), Suffolk Co, New York.55. He was at town
+<lb/>meeting a "home lot" was made over to John "Chachum" on 1 Dec 1659 at Setauket (Brookhaven), Suffolk Co, New
+<lb/>York.M He was granted 6 acre lot in the "Old Field" and a 4 acre lot in Setauket in 1661 at Setauket (Brookhaven),
+<lb/>Suffolk Co, New York.52 He was constable in 1661 at Setauket (Brookhaven), Suffolk Co, New York.^iHe was "Action
+<lb/>between William Alburtis pltf and John Citcham defendant. Defendant swears that 'hee to the best of his Memmory he
+<lb/>never Cave John alburtis order to winter two swine that was Thomas Martens'" on 31 Jul 1663.52 He and Susan Payne
+<lb/>(499) were sold place to Thomas Moore, Sr on 29 Sep 1666 at Southold, New York.^He immigrated in 1668 to
+<lb/>Newtown, (Queens Co), New York.^l'ZiHe was elected as Constable in Apr 1669 at Newtown, (Queens Co), New
+<lb/>York.75 He immigrated on 23 Sep 1669 to Newtown, (Queens Co), New York.IiHe was served as Overseer with Robert
+<lb/>Field between Apr 1672 and Aug 1673 at Newtown, (Queens Co), New York.^He witnessed England and Holland
+<lb/>declare war in 1673.25 He witnessed Dutch capture New York on 30 Jul 1673 at New York, New York.YHe was along
+<lb/>with John Burroughes, as representatives of the town of Newtown, presented themselves in the fort at New York to "the
+<lb/>lords, conmmanders, and the noble military council" bearing the Engish colors and a constable's staff in token of the
+<lb/>town's submission to the Dutch States General, and petitioned for the uninterrupted enjoyment of their privileges; they
+<lb/>were told that the would be allowed the same immunities as subjects of the Dutch nation, and were directed to notify the
+<lb/>town of "Middleburg" to nominate six persons, from whom the court would select three for magistrates, and also to
+<lb/>appoint two deputies to unite with others of "Rustdorp, Heemstede, Vlissingen, and Oyster Bay," to present three
+<lb/>nominess fro the office of scout (or sheriff), and three for secretary, which latter officers were to have authority over
+<lb/>these five named towns to be united in one jurisdiction on 22 Aug 1673 at New York, New York.22 He was selected by
+<lb/>inhabitants as one of six persons (along with Cershom Moore, Richard Betts, jonathan Hazard, Ralph Hunt, and John
+<lb/>Burroughes) from whom the Dutch court would select three as magistrates; the court selected Betts, Hazard, and Hunt,
+<lb/>who were sworn into office 6 Sep 1673 on 24 Aug 1673 at Newtown, (Queens Co), New York.22He was served as
+<lb/>Overseer with Robert Field between Nov 1674 and 1675 at Newtown, (Queens Co), New York.5° He was elected as
+<lb/>town clerk in 1675 at Newtown, (Queens Co), New York.5lHe witnessed the death of Susan Payne (499) before 1676 at
+<lb/>Newtown, Queens Co, New York.?/ He was Thomas Stevenson v. John Ketcham, action to recover damages to
+<lb/>Stevenson's horse between 5 Jun 1677 and 6 Jun 1677.?/
+<lb/>Children of John^ Ketcham (358) and Susan Payne (499) were as follows:
+<lb/>• + 9 i. Samuel^ Ketcham (505), born circa 1646 at Ipswich, Massachusetts Bay Colony (Massachusetts); married
+<lb/>Mary (-.'-) (549)1
+<lb/>• + 10 ii. Hester Ketcham (504), born circa 1648; married John Wicks (1314).
+<lb/>• + 11 iii. Edward Ketcham (507), married Else (-?-) (5003); born 1651/52; married Mercy Harcourt (526).
+<lb/>• + 12 iv. John Ketcham (503), married Mary (-?-) (1324); born 1651 at Ipswich, Massachusetts Bay Colony
+<lb/>(Massachusetts); married Elizabeth Weeks (509).
+<lb/>• + 13 V. Phillip Ketcham (506), married Martha Betts (1313); born circa 1656 at Southold, New York; married
+<lb/>Charity Smith (4763).
+<lb/>07/16/1999 3:19 PM
+<pb n="10" facs="#page-009"/>
+<lb/>Genealogy Report - Ketcham Genealogy Website http://fp-www.wwnet.net/"'jketcham/edwar002.htm
+<lb/>Ghildren of John^ Ketcham (358) and Bethiah Richardson (359) were as follows:
+<lb/>• 14 1. Bethiah-^ Ketcham (510); born between 1680 and 1689;M married Joshiah Reader (1322) 20 Jun 1710 at First
+<lb/>Presbyterian Ghurch, Newtown, Suffolk Go, New York;?i'^ married George Reynolds (1323) 1717 at Newtown,
+<lb/>New York.^
+<lb/>• 15 ii. Nathaniel Ketcham (508); born between 1680 and 1689;^ born circa 1681;i2 died Apr 1732 at West Farms,
+<lb/>Westchester Co, New York.2°
+<lb/>He was letters of administration of Nathaniel's estate were granted to his brother Joseph on 25 Apr 1732 at West
+<lb/>Farms, Westchester Co, New York.21
+<lb/>• + 16 iii. Theophilus Ketcham (511), born 1683; married Elizabeth Reeder (964).
+<lb/>• + 17 iv. Joseph Ketcham (356), born circa 1685 at Newtown, Suffolk Go, New York; married Martha Phillips
+<lb/>(357).
+<lb/>• 18 V. Jane Ketcham (3022); married David Rogers (3023), son of Johnathan Rogers (3024) and Rebecca (-?-) (3025),
+<lb/>20 Oct 1710 at First Presbyterian Ghurch, Newtown, Suffolk Co, New York.?2.&gt;?I
+<lb/>• + 19 vi. Susanna Ketcham (3026), married Thomas Brush (3027).
+<lb/>6. Sarah^ Ketcham (4342) (Edw^d^); born between 1640 and 1650 at Huntington, Suffolk Co, New York;?i'?i married
+<lb/>Joseph Whitman (4341), son of Zachariah Whitman (4416) and Sarah Biscce (4417), circa 1660 at Huntington, Suffolk
+<lb/>Co, New York.2^'22
+<lb/>Ghildren of Sarah^ Ketcham (4342) and Joseph Whitman (4341) were as follows:
+<lb/>• 20 i. Joan-^ Whitman (886).
+<lb/>• 21 ii. Mary Whitman (4343); born at Huntington, Suffolk Co, New York.?i
+<lb/>• 22 iii. Joseph Whitman (4345); married Hannah (-?-) (4502);?2born circa 1668 at Huntington, Suffolk Go, New
+<lb/>York.M
+<lb/>• 23 iv. Hannah Whitman (4344).
+<lb/>• + 24 V. Sarah Whitman (4346), born circa 1670; married John Skidmore (880).
+<lb/>• + 25 vi. John Whitman (4347), married Anna (-?-) (4473); born circa 1671 at Huntington, Suffolk Go, New
+<lb/>York.
+<lb/>• 26 vii. Nathaniel Whitman (4348); born circa 1676 at Huntington, Suffolk Go, New York; died circa
+<lb/>1713 103.104
+<lb/>• + 27 viii. Zebulon Whitman (4308), married Sybel Lewis (4309); born circa 1678 at Huntington, Suffolk Co, New
+<lb/>York; married Sybel Lewis (4309).
+<lb/>• 28 ix. Samuel Whitman (4349); died 1721.12i
+<lb/>7. Rebecca^ Ketcham (502) (Edward^); born circa 1647 at Norwalk, Gonnecticut;12i married Thomas Taylor (1496) 14
+<lb/>Feb 1677.107.108
+<lb/>Ghildren of Rebecca^ Ketcham (502) and Thomas Taylor (1496) were as follows:
+<lb/>. 29 i. Thomas-' Taylor (4772); born 26 Nov 1668;i02died 1758.11°
+<lb/>• 30 ii. Deborah Taylor (4773); born Jun 1670;lll-married Daniel Betts (4774) Dec 1692 at Norwalk, Gonnecticut;112.
+<lb/>died 1751.112
+<lb/>• 31 iii. Joseph Taylor (4775); married Sarah (-?-) (4776);lliborn Dec 1673;li2.died 1762.11k
+<lb/>• 32 iv. John Taylor (4777); married (-?-) Marvin (4778);117born Dec 1673;125 died 1742.112
+<lb/>• 33 V. Captain Daniel Taylor (4779); married Rachel Starr (4781);i22 married Elizabeth Boughton (4782), daughter
+<lb/>of Captain Samuel Boughton (4783);121 married Elizabeth Benedict (4780);12i born 1676;122 died 1770.121
+<lb/>• 34 vi. Timothy Taylor (4784); married Mary Davis (4785);12i born 1678;i21 died 1734.122
+<lb/>• 35 vii. Nathan Taylor (4786); married Hannah Benedict (4787);12iborn 1682;122died 1782.12°
+<lb/>07/16/1999 3:19 PM
+<pb n="11" facs="#page-010"/>
+<lb/>Genealogy Report - Ketcham Genealogy Website http:/ /fp-www.wwnet.net/"jketcham/edwar002.htm
+<lb/>• 36 viii. Theophilus Taylor (4788); married Sarah Gregory (4790);12i married (-?-) Bushnell (4789);122 born 1687;12I
+<lb/>died \777M
+<lb/>• 37 ix. Rebecca Taylor (4791); married Daniel Benedict (4792).121
+<lb/>• 38 X. Eunice Taylor (4793); married Lt. Benjamin Starr (4794).IM
+<lb/>8. Joseph^ Ketcham (942) (Edward-^); born circa 1650 at Southold, Suffolk Go, New York;12Z.. 121 born 1652;122 born 1654
+<lb/>at Southold, Suffolk Co, New York; married Mercy Lindall (943), daughter of Deacon Henry Lindall (1497) and
+<lb/>Rosamund (--?-) (4795), 13 Apr 1679 at Norwalk, Fairfield Go, Connecticut;112&gt;M3,i44 1730 at Norwalk, Fairfield
+<lb/>Co, Connecticut;142&gt;116,i47 jjggl 7 1730 at Norwalk, Fairfield Co, Connecticut;!!! married Sarah Jagger (1498),
+<lb/>daughter of John Jagger (4796) and Hannah Cross (4797), before 4 May 1730;!!! On 3 Jul 1730 Joseph Ketcham (942)'s
+<lb/>will was probated; sons Nathaniel and Joseph were executors.!22'!2!
+<lb/>He left a will on 4 May 1730.122
+<lb/>Children of Joseph^ Ketcham (942) and Mercy Lindall (943) were as follows:
+<lb/>• + 39 i. Nathaniel^ Ketcham (944), born 23 Jan 1679/80 at Norwalk, Fairfield Co, Connecticut; married Sarah
+<lb/>• 40 ii. Sarah Ketcham (1529); born 19 Feb 1681/82 at Norwalk, Fairfield Co, Connecticut;!22.'!51.i55 (iigd before
+<lb/>1730.156
+<lb/>• + 41 ill. Hannah Ketcham (1530), born 9 May 1683; married Daniel Olmstead (1531).
+<lb/>• + 42 iv. Elizabeth Ketcham (1532), born 1685; married Thomas Gregory (1533); married Moses Fountain (1534).
+<lb/>• + 43 V. Joseph Ketcham (945), born 1686; married Elizabeth Raymond (946).
+<lb/>• + 44 vi. John Ketcham (1535), married Ann Bishop (3136); born 1689.
+<lb/>• + 45 vii. Samuel Ketcham (1536), married Sarah Hurlbutt (3139); born 1694.
+<lb/>• 46 viii. Deborah Ketcham (1537); married Samuel Clugston (1538), son of Michael Clugston (4819) and Mary
+<lb/>Wakeman (4820);!5Z.!58 died 1751.!52
+<lb/>There were no children of Joseph^ Ketcham (942) and Sarah Jagger (1498).
+<lb/>Return to Table of Contents
+<lb/>Tod I Index | Contents | Resources | Home
+<lb/>E-mail the webmasterlJohn M. Ketcham fimketchamigiearthlink.net')
+<lb/>Copyright ® 1999 John Marshall Ketcham. All rights reserved.
+<lb/>Created with The Master Genealogist for Windows on 05 Jun 1999 at 05:25:32.
+<lb/>07/16/1999 3:19 PM
+<pb n="12" facs="#page-011"/>
+<lb/>12. Johns Ketcham (503) (John2, Edwardl); married Mary (—?—) (1324),-232 born 1648;233 born between 1650
+<lb/>and 1659;234 born 1651 at Ipswich, Massachusetts Bay
+<lb/>Colony (Massachusetts);235, 236
+<lb/>born 1653/54 at Southold, Suffolk Co, New York;237 married Elizabeth Weeks (509), daughter of Thomas Week
+<lb/>s  (1606), circa 1673;238 married Elizabeth Weeks (509),
+<lb/>daughter of Thomas
+<lb/>Weeks (1606), circa 1688 at Huntington, Suffolk Co, New York;239 died circa 1716.240
+<lb/>He was named with others as grantees under Nicoll's Patent, Huntington on 30 Nov 1666 at Southold, Suffol
+<lb/>k Co, New York.241 He witnessed the death of John
+<lb/>Ketcham (512) in 1674/75. He
+<lb/>was purchased land from Content Titus on 1 Dec 1675 at Huntington, Suffolk Co, New York.242 He was electe
+<lb/>d overseer for the ensuing year on 2 Apr 1683 at
+<lb/>Huntington, Suffolk Co, New
+<lb/>York.243 He witnessed the death of Mary (— ?—) (1324) between 1686 and 1689.244 He and Phillip Ketcham (
+<lb/>506) were Phillip purchased land from his brother John
+<lb/>on 27 Feb 1694/95 at
+<lb/>Newtown, New York.245
+<lb/>There were no children of John3 Ketcham (503) and Mary (— ?--) (1324).
+<lb/>Children of John3 Ketcham (503) and Elizabeth Weeks (509) were as follows:
+<lb/>63 i. John4 Ketcham (512); died; died young;246 born 29 Sep 1674;247,248 died 1674/75.
+<lb/>+ 64 ii. Thomas Ketcham (513), born 13 May 1676 at Huntington, Suffolk Co, New York; married Rebec
+<lb/>ca Sherman (521).
+<lb/>65 iii. Elizabeth Ketcham (514); born 14 Apr 1678 at Huntington, Suffolk Co, New York;249,250 died
+<lb/>before 22 Apr 1693.251
+<lb/>66 iv. Phillip Ketcham (515); born 8 May 1680 at Huntington, Suffolk Co, New York;252,253 died 168
+<lb/>0/81; died before 7 Mar 1691.254
+<lb/>67 V. David Ketcham (1041); born 27 Mar 1683 at Huntington, Suffolk Co, New York;255,256 died befo
+<lb/>re 19 Mar 1695.257
+<lb/>68 vi. Mary Ketcham (517); born 12 Oct 1686 at Huntington, Suffolk Co, New York.258,259
+<lb/>+ 69 vii. John Ketcham (518), born 2 Feb 1689 at Huntington, Suffolk Co, New York; married Mariam
+<lb/>(— ? —) (522); married Hannah Bishop (523).
+<lb/>+ 70 viii. Phillip Ketcham (519), born 7 Mar 1691 at Huntington, Suffolk Co, New York; married Pho
+<lb/>ebe Smith (524); married Elisabeth Platt Williams (525).
+<lb/>71 ix. Elizabeth Ketcham (520); married James Kelsey (1042), son of Stephen Kelsey (1043) and Hann
+<lb/>ah Ingersoll (1044);260,261 born 22 Apr 1693 at
+<lb/>Huntington, Suffolk Co, New York;262
+<lb/>died between 23 Aug 1761 and 28 Sep 1761 at age 68.
+<lb/>She left a will on 23 Aug 1761.263 She left a will on 28 Sep 1761; proved.264
+<lb/>+ 72 X. David Ketcham (516), born 19 Aug 1695 at Huntington, Suffolk Co, New York; married Jane (-
+<lb/>-? —) (578) .
+<lb/>69. John4 Ketcham (518) (John3, John2, Edwardl); born 2 Feb 1689 at Huntington, Suffolk Co, New York;497,
+<lb/>498 born 6 Feb 1689;499 married Mariam (—?—) (522)
+<lb/>before Feb 1725/26; John
+<lb/>Ketcham was admitted as a member of the First Church at Huntington, N.Y., on 15 Feb 1725/26. A Miriam Ket
+<lb/>Cham admitted the same day is believed to be his first
+<lb/>wife;500 married Hannah
+<lb/>Bishop (523) 11 Jun 1728 at Stamford, Fairfield Co, Connecticut;501,502,503 died after 4 Apr 1740.504
+<lb/>He and Mariam (—?—) (522) were admitted as members of the First Church at Huntington, N.Y., on 15 Feb 1
+<lb/>725/26 (Miriam Ketcham admitted the same day is believed
+<lb/>to be his first wife) on
+<lb/>15 Feb 1725/26 at First church, Huntington, Suffolk Co, New York.505 He witnessed the death of Mariam (—
+<lb/>?—) (522) before 11 Jun 1728.506
+<lb/>Children of John4 Ketcham (518) and Mariam (—?—) (522) were as follows:
+<pb n="13" facs="#page-012"/>
+<lb/>+ 183 i. Johns Ketcham (1045), born 24 Feb 1716 at Huntington, Suffolk Co, New York; married Sarah
+<lb/>Matthias (1046).
+<lb/>184 ii. Elizabeth Ketcham (3043); born 1 Feb 1718 at Huntington, Suffolk Co, New York;507,508 marr
+<lb/>led Jonas Wood (3906), son of Jeremiah Wood (3907), 1
+<lb/>Jun 1739 at First Church,
+<lb/>Huntington, Suffolk Co, New York.509,510
+<lb/>185 iii. Mary Ketcham (1047); born 16 Nov 1720 at Huntington, Suffolk Co, New York;511,512,513 mar
+<lb/>ried Thomas Duncan (3056) 17 Dec 1737 at New York;
+<lb/>Marriage between a Mary
+<lb/>Ketcham and Thomas Duncan. Attributed to this Mary based solely upon date;514 died 28 Feb 1800 at
+<lb/>age 79.515
+<lb/>+ 186 iv. Timothy Ketcham (1048), born 10 Jan 1722 at Huntington, Suffolk Co, New York; married (-
+<lb/>-?—) (— ? —) (1049); married Zerviah Brotherton (1050).
+<lb/>187 V. Jonas Ketcham (1051); born circa 1725;516 died 4 Apr 1725 at Huntington, Suffolk Co, New Yo
+<lb/>rk.517
+<lb/>Children of John4 Ketcham (518) and Hannah Bishop (523) all born at Stamford, Fairfield Co, Connecticut,
+<lb/>were as follows:
+<lb/>188 i. Hannah5 Ketcham (1052); born 21 Apr 1729 at Huntington, Suffolk Co, New York;518,519,520,52
+<lb/>1 born 21 Apr 1729.522
+<lb/>189 ii. Sarah Ketcham (1053); born 6 Jun 1730 at Huntington, Suffolk Co, New York;523,524,525 born
+<lb/>6 Jun 1730.526
+<lb/>190 iii. Joseph Ketcham (1054); died at Hanover, Grafton Co, New Hampshire;527 born 23 Jul 1731 at
+<lb/>Huntington, Suffolk Co, New York;528,529 born 29 Jul
+<lb/>1731.530,531,532
+<lb/>191 iv. Jonas Ketcham (1055); born 19 Oct 1732 at Huntington, Suffolk Co, New York;533,534,535 bor
+<lb/>n 19 Oct 1732;536 died 28 Jan 1805 at Hanover, Grafton
+<lb/>Co, New Hampshire, at age
+<lb/>72.537
+<lb/>He was also known as Isaac.538
+<lb/>192 V. Zophar Ketcham (1056); married Mary Bishop (1057);539 born 14 Jun 1734;540,541,542,543 born
+<lb/>19 Oct 1734 at Huntington, Suffolk Co, New York;544,545
+<lb/>died before 1816 at Hanover,
+<lb/>Grafton Co, New Hampshire.546
+<lb/>He resided at Crum Pond, Hanover, Grafton Co, New Hampshire.547
+<lb/>+ 193 vi. Martha Ketcham (1058), born 14 Jun 1734.
+<lb/>194 vii. Rebecca Ketcham (1059); born 6 Apr 1737 at Huntington, Suffolk Co, New York;548,549,550,5
+<lb/>51 born 6 Apr 1737;552 married John Buffet (3057) 18 Jun
+<lb/>1770 at New York; Marriage
+<lb/>between a Rebeccah Ketcham and John Buffet; attributed to this Rebeccah based solely upon date.553
+<lb/>195 viii. Ruth Ketcham (1060); born 4 Apr 1740 at Huntington, Suffolk Co, New York;554,555,556,557
+<lb/>born 4 Apr 1740;558 married Hezekiah Davenport (1061) 7
+<lb/>Dec 1763.559
+<lb/>193. Martha5 Ketcham (1058) (John4, John3, John2, Edwardl); born 14 Jun 1734 at Stamford, Fairfield Co, C
+<lb/>onnecticut;1208,1209 born 14 Jun 1734 at Huntington,
+<lb/>Suffolk Co, New York;1210,1211,1212
+<lb/>born 19 Oct 1734 at Huntington, Suffolk Co, New York;1213 married Othniel Sands (4764) at Peekskill, New
+<lb/>York;1214,1215 died Apr 1814 at age 79.1216
+<lb/>She was also known as Ketchum.
+<lb/>Children of Martha5 Ketcham (1058) and Othniel Sands (4764) were as follows:
+<pb n="14" facs="#page-013"/>
+<lb/>414 i. John6 Sands (4765); born 25 Oct 1761;1217 died 1846.1218
+<lb/>415 ii. Ruth Sands (4766); born 29 Apr 1763.1219
+<lb/>416 ill. Samuel Sands (4767); born 16 Apr 1766;1220 died 10 Nov 1840 at age 74.1221
+<lb/>417 iv. Jesse Sands (4768); born 7 Jun 1768;1222 died 30 Nov 1842 at age 74.1223
+<lb/>418 V. Martha Sands (4769); born 6 Jul 1771.1224
+<lb/>419 vi. Nathaniel Sands (4770); born 30 Aug 1773;1225 died 21 Aug 1777 at age 3.1225
+</ab>
+    </body>
+  </text>
+</TEI>

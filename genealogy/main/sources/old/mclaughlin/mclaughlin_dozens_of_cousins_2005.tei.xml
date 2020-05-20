@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mclaughlin dozens of cousins 2005</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-032.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-033" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-033.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-034" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-034.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-035" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-035.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-036" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-036.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-037" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-037.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-038" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-038.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-039" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-039.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-040" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-040.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-041" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-041.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-042" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-042.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-043" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_dozens_of_cousins_2005/p-043.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>Dozens of
+<lb/>Cousins
+<lb/>Printed 2005
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+<lb/>Forward
+<lb/>The following was taken from a prior version of Dozens of Cousins written by Shirley
+<lb/>Frost Regan in September, 1974.
+<lb/>"How many times have you heard: "I know we're cousins, but how come?" Well, back in
+<lb/>1957 I wondered the same thing, so I started investigating the family history. Several years
+<lb/>before, Florence McLaughlin Frost had compiled the information but there was only one copy,
+<lb/>and some historian along the way had misplaced it. I started with three of our ancestors on
+<lb/>Page 1 who were most helpful: Kathryn McLaughlin Hendrick, Catherine Hendrick
+<lb/>McLaughlin and Charles Touhey. From them I received the basic outline. The rest was
+<lb/>obtained from many living McLaughlin's — and dates on tombstones!
+<lb/>I set up three duplicate notebooks, arranged so that pages can be inserted for many
+<lb/>generations to come. Then, we decided to have a printer make up a booklet. This was
+<lb/>distributed in 1958. Since then, many moons and one disastrous flood have come and gone.
+<lb/>So have most of the booklets! Since there was a great deal of data to be added, it was
+<lb/>suggested that a new history be written. Now, after two years of procrastination on my
+<lb/>part—and several years of inflation on the part of the economy— a less expensive revision is
+<lb/>herein presented. These are Xerox copies and will be easy to duplicate at any time.
+<lb/>That's the story, but, as usual, I'd like to add a few personal comments. First of all, the
+<lb/>research was rewarding. I now knew from what branch of the family tree I had fallen. And I
+<lb/>also knew how come the Touhey's, Keenan's et al, were my cousins.
+<lb/>Secondly, it brings back a smile from my memory bank. I was being "courted" by James
+<lb/>H. Regan at the time and I'm sure he felt that poking around cemeteries — looking for my
+<lb/>ancestors— was an exciting Saturday afternoon date!
+<lb/>Above all, though, I wish that this younger generation— and those to come— had been as
+<lb/>fortunate as I was in knowing almost all the people in this booklet. The names and dates are
+<lb/>here, but the warmth of their personalities cannot be put on paper. The McLaughlin's were
+<lb/>industrious, witty, honest, wonderful descendants of Irish immigrants of the 19* century. They
+<lb/>were — and are — an important part of our American heritage. I'm proud to be one of 'em!"
+<lb/>Shirley Frost Regan
+<lb/>Fast forward to 2005 and you now have a computer generated booklet created from a
+<lb/>program that Shirley would have loved. John Morovich was instrumental in getting the
+<lb/>information into the Family Tree Maker format back in 1997, and it has been my job to up
+<lb/>date, print and distribute the end result. I, too, can attribute procrastination as the reason it has
+<lb/>taken so long. So glad it runs in the family!!
+<lb/>Thank you to everyone who has taken the time to contribute their time, knowledge, and
+<lb/>family information. If I named everyone instrumental in getting this project done I'd probably
+<lb/>forget someone and then be in big trouble.
+<lb/>If you have additions, corrections or deletions that need to be made, you can drop me a
+<lb/>note via e-mail at www.CarollOl 1 l@.iuno.com.
+<pb n="4" facs="#page-003"/>
+[A transcription of this page is not available.]
+<pb n="5" facs="#page-004"/>
+<lb/>Descendants of James McLaughlin
+<lb/>Generation No. 1
+<lb/>1. James' McLaughlin was bom 1800 in Ireland, and died 1857 in Homby, N.Y.. He married Hannah
+<lb/>Gilbert McLaughlin 1823, daughter of Eli Gilbert and Susanna Gale. She was bom 1805 in Ireland, and died
+<lb/>November 20, 1861 in Homby, N.Y..
+<lb/>Children of James McLaughlin and Hannah McLaughlin are:
+<lb/>2  i. Elizabeth^ McLaughlin, born 1827; died October 25, 1907. She married Thomas Butler
+<lb/>July 28, 1861 in St. Mary's Church, Coming, NY; bom 1820; died March 23, 1887.
+<lb/>+  3 ii. William McLaughlin, born May 1, 1825; died Febraary 21, 1902.
+<lb/>+  4 ill. Honorah McLaughlin, bom 1826; died 1909.
+<lb/>+  5 iv. James McLaughlin, born November 1, 1826; died July 20, 1911.
+<lb/>+  6 V. Mary McLaughlin, bom 1827; died 1902.
+<lb/>+  7 vi. Ellen McLaughlin, bom 1835; died 1908.
+<lb/>8  vii. Charles McLaughlin, bom 1838; died 1864.
+<lb/>+  9 viii. Ann McLaughlin, bom 1844; died 1914.
+<lb/>Generation No. 2
+<lb/>3. William^ McLaughlin (James') was bora May 1, 1825, and died Febmary 21, 1902. He married
+<lb/>Margaret Dougherty June 1, 1861 in Watkins Glen, NY. She was born June 16, 1835, and died September 2,
+<lb/>1904 in Hamilton, NY.
+<lb/>Children of William McLaughlin and Margaret Dougherty are:
+<lb/>+  10 i. Charles'McLaughlin, bom 1861; died 1925.
+<lb/>+  11 ii. James L. McLaughlin, bom 1862; died 1944.
+<lb/>+  12 iii. George E. McLaughlin, bom 1864; died 1939.
+<lb/>+  13 iv. William P. McLaughlin, born 1866; died 1935.
+<lb/>+  14 V. Daniel McLaughlin, bom 1867; died 1940.
+<lb/>15 vi. Thomas McLaughlin, born 1869; died 1910.
+<lb/>+  16 vii. Mary Ann McLaughlin, born 1870; died 1953 in Homby, N.Y..
+<lb/>17 viii. Hannah McLaughlin, bom 1872; died 1886.
+<lb/>+  18 ix. Frank McLaughlin, born 1873; died 1950.
+<lb/>+  19 X. Kathryn McLaughlin, born August 10, 1876; died March 1971 in Wellsville,N.Y..
+<lb/>4. Honorah^ McLaughlin (James') was born 1826, and died 1909. She married (1) Daniel McCarty August
+<lb/>2, 1858 in Watkins Glen, NY. She married (2) Joseph Bryan 1863. He was bom 1830, and died 1918.
+<lb/>Children of Honorah McLaughlin and Daniel McCarty are:
+<lb/>+  20 i. Charles D.' McCarty, bom 1858; died 1939.
+<lb/>+  21 ii. James McCarty, born 1860; died 1942.
+<lb/>Children of Honorah McLaughlin and Joseph Bryan are:
+<lb/>+  22 i. Mary' Bryan, bom 1864; died 1933.
+<lb/>+  23 ii. Catherine Bryan, bom 1866.
+<lb/>+  24 iii. Nell Bryan, born 1868; died 1947.
+<lb/>25 iv. Will Bryan, born 1870; died 1952.
+<lb/>5. James^ McLaughlin (James') was born November 1, 1826, and died July 20, 1911. He married Rebecca
+<lb/>Lord December 13, 1857. She was bom 1828, and died 1905.
+<pb n="6" facs="#page-005"/>
+<lb/>Children of James McLaughlin and Rebecca Lord are:
+<lb/>+ 26 i. Mary' McLaughlin, born ABT 1859.
+<lb/>+ 27 ii. Wiliam "Wild Bill" McLaughlin, bom 1861; died 1932.
+<lb/>+ 28 iii. James "Big Jim" McLaughlin, bom 1862; died 1940 in Homby, N.Y..
+<lb/>+ 29 iv. Margaret McLaughlin, bom 1862.
+<lb/>30 V. Charles McLaughlin, born 1867; died 1868.
+<lb/>+ 31 vi. Elizabeth "Lizzie" McLaughlin, born 1869; died 1935 in Hornby, N.Y,
+<lb/>32 vii. Christina McLaughlin, born 1871; died 1871.
+<lb/>6. Mary^ McLaughlin (James') was born 1827, and died 1902. She married (1) Charles McGinley in
+<lb/>Ireland. She married (2) Patrick Harvey October 30, 1864 in Watkins Glen, NY.
+<lb/>Child of Mary McLaughlin and Charles McGinley is:
+<lb/>+  33 i. Hannah' McGinley.
+<lb/>Child of Mary McLaughlin and Patrick Harvey is:
+<lb/>34 i. James'Harvey, bom December 17, 1866.
+<lb/>7. Ellen^ McLaughlin (James') was born 1835, and died 1908. She married (1) William Van Nortwick. He
+<lb/>was bom 1834. She married (2) Patrick Touhey February 1 1, 1858 in Watkins Glen, NY. He was bom 1817, and
+<lb/>died 1902.
+<lb/>Child of Ellen McLaughlin and William Van Nortwick is:
+<lb/>+  35 i. William'Van Nortwick, bom March 18, 1857; died 1934.
+<lb/>Children of Ellen McLaughlin and Patrick Touhey are:
+<lb/>+  36 i. Honorah'Touhey, born 1860; died 1889.
+<lb/>37 ii. Charles Touhey, born 1861; died 1861.
+<lb/>38 iii. John M. Touhey, born 1863; died 1883.
+<lb/>+  39 iv. James P. Touhey,MD, born 1865; died 1930.
+<lb/>+  40 V. Charles Touhey, born 1873.
+<lb/>+  41 vi. Edward Touhey, born 1875; died 1951.
+<lb/>9. Ann^ McLaughlin (James') was born 1844, and died 1914. She married Charles O'Nei! 1861 in Watkins
+<lb/>Glen, NY. He was born 1825, and died 1907.
+<lb/>Children of Ann McLaughlin and Charles O'Neil are:
+<lb/>42 i. Charles' O'Neil.
+<lb/>+  43 ii. Ella O'Neil.
+<lb/>44 iii. James O'Neil, born 1866; died 1950.
+<lb/>45 iv. Lillie O'Neil.
+<lb/>Generation No. 3
+<lb/>10. Charles' McLaughlin (William', James') was born 1861, and died 1925. He married Edith Nixon. She
+<lb/>was bom 1861, and died 1925.
+<lb/>Children of Charles McLaughlin and Edith Nixon are:
+<lb/>+  46
+<lb/>+  47
+<lb/>William" McLaughlin, born May 11, 1891; died July 1979.
+<lb/>Pearl McLaughlin, born 1892.
+<lb/>Margaret McLaughlin, bom 1894; died 1894.
+<lb/>Lee McLaughlin, born 1901; died 1921.
+<lb/>Stanley McLaughlin, born 1906; died 1908.
+<pb n="7" facs="#page-006"/>
+<lb/>11. James L.^ McLaughlin (William^, James') was bom 1862, and died 1944. He married Mary Antoinetta
+<lb/>Ward April 13, 1899 in Corning , New York. She was born 1873, and died 1938.
+<lb/>Children of James McLaughlin and Mary Ward are:
+<lb/>+  51 i. Kenneth" McLaughlin, bora 1900; died 1969.
+<lb/>+  52 ii. Cleon McLaughlin, bora 1902.
+<lb/>+  53 iii. Earl McLaughlin, bora 1904; died 1965.
+<lb/>54 iv. George McLaughlin, born 1909.
+<lb/>55 V. Thelma McLaughlin, born 1910; died 1956. She married Robert Hackett.
+<lb/>12. George E." McLaughlin (William^ James') was bora 1864, and died 1939. He married Julia A. Shea
+<lb/>November 25, 1896 in Coming , New York, daughter of Patrick Shea and Margarette Hehir. She was born 1858,
+<lb/>and died 1939.
+<lb/>Children of George McLaughlin and Julia Shea are:
+<lb/>56 i. Leo" McLaughlin, born 1898; died 1899.
+<lb/>+  57 ii. Joseph G. McLaughlin, born 1906; Adopted child.
+<lb/>13. William P.^ McLaughlin (William^ James') was born 1866, and died 1935. He married Bridget Ryan
+<lb/>February 21, 1900 in Corning , New York. She was bora 1874, and died 1922.
+<lb/>Children of William McLaughlin and Bridget Ryan are:
+<lb/>+  58 i. Margaret" McLaughlin, born March 30, 1901; died June 23, 1991.
+<lb/>59 ii. Frances McLaughlin, born 1902; died 1902.
+<lb/>60 iii. John McLaughlin, bora 1903; died 1963. He married Luella Heller 1939.
+<lb/>+  61 iv. Florence McLaughlin, born July 23, 1906; died December 1977 in Painted Post, New York.
+<lb/>62 V. Helen Elsie McLaughlin, born 1908. She married Clair E. McCarty June 23, 1930 in Hornby
+<lb/>N.Y.; born July 22, 1897; died June 1981.
+<lb/>63 vi. Holland McLaughlin, born 1911; died 1944. He married Ruth Pecor.
+<lb/>14. DanieP McLaughlin (William', James') was bora 1867, and died 1940. He married Catherine
+<lb/>Hendrieks January 13, 1899 in Corning , New York, daughter of Albert Hendricks and Laura Sands. She was
+<lb/>bora 1875, and died 1969 in Hornby N.Y..
+<lb/>Children of Daniel McLaughlin and Catherine Hendricks are:
+<lb/>+  64
+<lb/>+  65
+<lb/>+  66
+<lb/>+  67
+<lb/>+  68
+<lb/>+  69
+<lb/>+  70
+<lb/>i. Edna Martha" McLaughlin, born October 14, 1899 in Hornby, N.Y.; died September 30, 1986
+<lb/>in Coming , New York.
+<lb/>ii. Arthur McLaughlin, born January 4, 1901 in Hornby, NY.; died June 11, 1975 in Liverpool,
+<lb/>NY
+<lb/>iii. F Maynard McLaughlin, born December 11, 1902 in Hornby, N.Y.; died February 1968 in
+<lb/>Corning, New York.
+<lb/>iv. Thomas Hendrick McLaughlin, born February 8, 1904 in Hornby, N.Y.; died October 1988 in
+<lb/>Corning, New York.
+<lb/>V. Evelyn McLaughlin, born 1909 in Hornby, N.Y.; died 1962 in Corning, N.Y..
+<lb/>vi. Katherine Dorothy McLaughlin, born May 23, 1912.
+<lb/>vii. Paul Leroy McLaughlin, bora October 16, 1918 in Hornby, NY; died October 19, 2000 in
+<lb/>Corning, NY.
+<lb/>16. Mary Ann^ McLaughlin (William^, James') was born 1870, and died 1953 in Hornby, N.Y.. She
+<lb/>married Elmer Harrison November 24, 1897 in Corning , New York, son of Henry Harrison and Harma
+<lb/>Talyorson. He was bora 1873, and died 1943 in Hornby, N.Y..
+<lb/>Children of Mary McLaughlin and Elmer Harrison are:
+<lb/>71 i. Walter" Harrison, born 1900; died 1903.
+<lb/>+  72 ii. John Harrison, born 1901; died 1995.
+<pb n="8" facs="#page-007"/>
+<lb/>iii. Alice Harrison, born 1905; died 1971.
+<lb/>iv. James Leo Harrison, born 1907; died 1996. He married Madeline Lowery July 1, 1939.
+<lb/>V. Gerald Harrison, born August 11, 1908; died October 1977.
+<lb/>18. Frank^ McLaughlin (William^ James') was born 1873, and died 1950. He married Mary Fern April 17,
+<lb/>1907 in Coming , New York, daughter of Thomas Fern and Bridget Hart. She was born 1871, and died 1944.
+<lb/>Children of Frank McLaughlin and Mary Fern are:
+<lb/>+  76 i. Dudley''McLaughlin, born 1908; died July 1984.
+<lb/>77 11. Mary McLaughlin, born July 7, 1909; died September 1984 in Dundee, N.Y.. She married
+<lb/>Glen Flasphaler 1945; born 1907; died 1969.
+<lb/>78 iii. Helen McLaughlin, born 1912; died 1971. She married Carl Terry 1941; born 1907;
+<lb/>died July 11, 1974.
+<lb/>19. Kathryn^ McLaughlin (William', James') was born August 10, 1876, and died March 1971 in
+<lb/>Wellsville,N.Y.. She married Arthur B. Hendricks February 1, 1899 in Coming , New York, son of Albert
+<lb/>Hendricks and Laura Sands. He was born 1868, and died 1937.
+<lb/>Children of Kathryn McLaughlin and Arthur Hendricks are:
+<lb/>79 i. Lawrence" Hendricks, born 1903; died 1904.
+<lb/>+  80 ii. Donald Hendricks, born 1905; died 1976.
+<lb/>+  81 iii. Basil Hendricks, born 1911; died 1967.
+<lb/>20. Charles D.' McCarty (Honorah^ McLaughlin, James') was bom 1858, and died 1939. He married Stella
+<lb/>Shea. She was born 1870, and died 1959.
+<lb/>Children of Charles McCarty and Stella Shea are:
+<lb/>82 i. Margaret" McCarty, born 1900. She married Arthur Doran 1939; born 1894.
+<lb/>83 ii. Isabelle McCarty, born 1902; died 1953. She married John Amey; born 1900; died 1954.
+<lb/>84 iii. Justin McCarty, born 1905; died July 1975. He married Marian Reardon 1955; bom 1905.
+<lb/>+  85 iv. Estelle McCarty, born 1906.
+<lb/>21. James^ McCarty (Honorah^ McLaughlin, James') was bom 1860, and died 1942. He married Elizabeth
+<lb/>Hendriek. She was bora 1863, and died 1923.
+<lb/>Children of James McCarty and Elizabeth Hendriek are:
+<lb/>+  86 i. Katherine" McCarty, born 1888; died 1958.
+<lb/>+  87 ii. Ethel McCarty, born 1900.
+<lb/>88 iii. Clair E. McCarty, born July 22, 1897; died June 1981. He married Helen Elsie McLaughlin
+<lb/>June 23, 1930 in Hornby, N.Y.; born 1908.
+<lb/>22. Mary^ Bryan (Honorah" McLaughlin, James') was born 1864, and died 1933. She married Will Hoyt.
+<lb/>He was born 1870, and died 1955.
+<lb/>Children of Mary Bryan and Will Hoyt are:
+<lb/>+  89 1. Charles" Hoyt, born 1891; died 1949.
+<lb/>+  90 ii. Nellie Hoyt, bom 1894.
+<lb/>23. Catherine^ Bryan (Honorah^ McLaughlin, James') was bom 1866. She married Robert Burt Sproule,
+<lb/>son of Andrew Sproule and Deborah Baker. He was born 1866.
+<lb/>Children of Catherine Bryan and Robert Sproule are:
+<lb/>91 1. Harold" Sproule, died in Died in military service World War 1..
+<pb n="9" facs="#page-008"/>
+<lb/>92 ii. Joseph Sproule, bom 1896. He married (1) Rebecca Driscoll June 1, 1920; born 1893; died
+<lb/>1967. He married (2) Rebecca Driscoll June 1, 1920 in Steuben Co., New York; bom 1893.
+<lb/>24. NelP Bryan (Honorah" McLaughlin, James') was bom 1868, and died 1947. She married (1) Peter
+<lb/>Melville. She married (2) John Hetherington. He was born 1870, and died 1958.
+<lb/>Child of Nell Bryan and Peter Melville is:
+<lb/>+  93 i. Charles" Melville, born 1897.
+<lb/>26. Mary^ McLaughlin (James", James') was bom ABT 1859. She married Patrick Driscoll.
+<lb/>Children of Mary McLaughlin and Patrick Driscoll are:
+<lb/>+  94 i. Mary" Driscoll, born 1879.
+<lb/>95 ii. Margaret Driscoll, bom 1880. She married Louis Dixon October 24, 1923 in Steuben Co.,
+<lb/>New York; born 1872.
+<lb/>96 ill. Catherine Elizabeth Driscoll, bom 1885. She married Jules Heydorf; bom 1884.
+<lb/>97 iv. Rebecca Driscoll, born 1893. She married Joseph Sproule June 1, 1920 in Steuben Co., New
+<lb/>York; bom 1896.
+<lb/>27. Wiliam "Wild Bill'"' McLaughlin (James^, James') was bom 1861, and died 1932. He married
+<lb/>Winifred Hammond January 4, 1901 in Coming , New York, daughter of William Hammond and Bina Baker.
+<lb/>She was born 1882.
+<lb/>Children of Wiliam McLaughlin and Winifred Hammond are:
+<lb/>98 i. Rebecca" McLaughlin, bom 1901. She married Elmer Bleu.
+<lb/>+  99 ii. Walter McLaughlin, born March 31, 1903; died January 1971 in Waterloo, N.Y..
+<lb/>100 ill. Carrie McLaughlin, born 1906. She married John Woodward 1931; bom 1893.
+<lb/>101 iv. Eleanor McLaughlin, born 1909. She married Kenneth Ballard 1929; born 1907.
+<lb/>+  102 V. Patrick McLaughlin, born May 24, 1911; died August 25, 1996 in Ovid, N.Y..
+<lb/>+  103 vi. Raymond McLaughlin, born November 21, 1916; died April 1978 in Interlaken, N.Y..
+<lb/>28. James "Big Jim McLaughlin (James^, James') was born 1862, and died 1940 in Homby, N.Y.. He
+<lb/>married Margaret Lord. She was born 1878, and died 1944.
+<lb/>Children of James McLaughlin and Margaret Lord are;
+<lb/>104 i. Emma" McLaughlin, born 1903.
+<lb/>105 ii. Anna McLaughlin, born 1905; died 1956.
+<lb/>29. Margaret' McLaughlin (James^, James') was born 1862. She married Arthur Vargeson November 21,
+<lb/>1906 in Corning , New York. He was born 1884.
+<lb/>Child of Margaret McLaughlin and Arthur Vargeson is:
+<lb/>106 i. Charles" Vargeson, Adopted child.
+<lb/>31. Elizabeth "Lizzie"' McLaughlin (James^, James') was bom 1869, and died 1935 in Homby, N.Y.. She
+<lb/>married Parley Humphrey September 3, 1891 in Hornby, N.Y., son of James Humprey and Ann Homes. He was
+<lb/>born 1851, and died 1918 in Hornby, N.Y..
+<lb/>Children of Elizabeth McLaughlin and Parley Humphrey are:
+<lb/>107 i. Mary" Humphrey, born 1893. She married (1) ? Voorhees. She married (2) Sheldon Asay
+<lb/>May 15, 1915 in Hornby, N.Y.; bom 1893.
+<lb/>108 ii. William Humphrey, born 1896. He married Hazel Brown.
+<pb n="10" facs="#page-009"/>
+<lb/>33. Hannah^ McGinley (Mary^ McLaughlin, James') She married E. Ellis.
+<lb/>Children of Hannah McGinley and E. Ellis are:
+<lb/>109 i. Mary K" Ellis, born 1886; died 1888.
+<lb/>+  110 ii. Ella Ellis.
+<lb/>35. William^ Van Nortwick (Ellen^ McLaughlin, James') was born March 18, 1857, and died 1934. He
+<lb/>married Katherine Batty.
+<lb/>Children of William Van Nortwick and Katherine Batty are:
+<lb/>111 i. Helen" Van Nortwick, born 1887; died 1983.
+<lb/>+  112 ii. William Van Nortwick, born 1889; died 1963.
+<lb/>36. Honorah^ Touhey (Ellen^ McLaughlin, James') was bom 1860, and died 1889. She married Ely
+<lb/>Rosekrans.
+<lb/>Child of Honorah Touhey and Ely Rosekrans is:
+<lb/>+  113 i. Ella" Rosekrans.
+<lb/>39. James P.^ Touhey,MD (Ellen^ McLaughlin, James') was bom 1865, and died 1930. He married Grace
+<lb/>Miller.
+<lb/>Children of James Touhey and Grace Miller are:
+<lb/>+  114 i. Harry" Touhey.
+<lb/>115 ii. Clair Touhey. He married Helen Donahue; born 1930.
+<lb/>40. Charles'Touhey (Ellen^ McLaughlin, James') was born 1873. He married Winifred Huetter. She was
+<lb/>born 1889, and died 1941.
+<lb/>Children of Charles Touhey and Winifred Huetter are:
+<lb/>+  116 i. Alice" Touhey, bom 1915.
+<lb/>+  117 ii. Frank Touhey, bom 1921.
+<lb/>+  118 ill. Carl Touhey.
+<lb/>41. Edward' Touhey (Ellen' McLaughlin, James') was bom 1875, and died 1951. He married (1) Veronica
+<lb/>Presky 1914. She was bom 1891, and died 1920. He married (2) Mary Toole 1927. She was born 1891, and
+<lb/>died 1946.
+<lb/>Child of Edward Touhey and Veronica Presley is:
+<lb/>119 i. Eileen" Touhey, bom 1916. She married Gilford Bishop 1942; bom 1915.
+<lb/>Children of Edward Touhey and Mary Toole are:
+<lb/>+  120 i. Edward" Touhey, born 1928; died 1989.
+<lb/>121 ii. Thomas Touhey, born 1929; died 1981. He married Joan Londigan 1954; bora 1930.
+<lb/>122 ill. Mary Elizabeth Touhey, born 1930.
+<lb/>+  123 iv. William Touhey, born 1932; died 2001.
+<lb/>124 V. Bemard Touhey, bom 1933.
+<lb/>43. Ella' O'Neil (Ann' McLaughlin, James') She married Charles Miller.
+<lb/>Children of Ella O'Neil and Charles Miller are:
+<lb/>125 i. ?" Miller.
+<lb/>126 ii. ?? Miller.
+<pb n="11" facs="#page-010"/>
+<lb/>Generation No. 4
+<lb/>46. William'' McLaughlin (Charles^ William^, James') was bom May 11, 1891, and died July 1979. He
+<lb/>married Gertrude Masters December 24, 1915 in Hornby, N.Y.. She was bom 1891.
+<lb/>Children of William McLaughlin and Gertrude Masters are:
+<lb/>+  127 i. Lois^ McLaughlin, born 1927.
+<lb/>+  128 ii. Lucille McLaughlin, born 1934.
+<lb/>+  129 ill. Patricia McLaughlin, bom 1935; died 1985.
+<lb/>+  130 iv. William Jr. McLaughlin, bom 1936.
+<lb/>47. Pearl' McLaughlin (Charles^ William^, James') was bom 1892. She married Lee Scudder March 31,
+<lb/>1914 in Hornby, N.Y.. He was bom 1893, and died 1970.
+<lb/>Children of Pearl McLaughlin and Lee Scudder are:
+<lb/>131 i. Charles^ Scudder, born 1916. He married Agnes White 1949.
+<lb/>+  132 ii. Ivan Scudder, born 1919.
+<lb/>133 iii. George Scudder, born 1921.
+<lb/>134 iv. Howard Scudder, born 1927.
+<lb/>135 V. Earl Scudder, bom 1928. He married Helen Mahoney 1957.
+<lb/>136 vi. Lynn Scudder, born 1930.
+<lb/>51. Kenneth' McLaughlin (James L.^, William^, James') was born 1900, and died 1969. He married (1)
+<lb/>Elizabeth French August 24, 1922 in Corning , New York. She was born 1904. He married (2) Ellen Kitter
+<lb/>May 31, 1930 in Tuscarora, Steuben Co., N.Y.. She was bom 1912.
+<lb/>Child of Kenneth McLaughlin and Elizabeth French is:
+<lb/>137 i. Harold" McLaughlin.
+<lb/>Children of Kermeth McLaughlin and Ellen Kitter are:
+<lb/>+  138 i. Douglas" McLaughlin, born 1932.
+<lb/>+  139 ii. Patrick McLaughlin, born 1935.
+<lb/>+  140 iii. Kay Frances McLaughlin, born 1937,
+<lb/>141 iv. Kenneth Jr. McLaughlin, born 1943.
+<lb/>142 V. Barbara McLaughlin, born 1945.
+<lb/>143 vi. Ellen McLaughlin, born 1947.
+<lb/>52. Cleon' McLaughlin (James L.", William^, James') was bom 1902. He married (1) Margaret Mann.
+<lb/>He married (2) Isabelle McLaughlin.
+<lb/>Child of Cleon McLaughlin and Margaret Mann is:
+<lb/>144 i. Robert" McLaughlin.
+<lb/>Children of Cleon McLaughlin and Isabelle McLaughlin are:
+<lb/>145 i. James" McLaughlin.
+<lb/>146 ii. Jane McLaughlin.
+<lb/>53. Earl' McLaughlin (James L.", William^ James') was bom 1904, and died 1965. He married Margaret
+<lb/>Clancy November 19, 1928 in Steuben Co. , New York. She was born 1904.
+<lb/>Children of Earl McLaughlin and Margaret Clancy are:
+<lb/>147 i. ?????" McLaughlin, Adopted child.
+<lb/>148 ii. ??? McLaughlin, Adopted child.
+<pb n="12" facs="#page-011"/>
+<lb/>57. Joseph G.'' McLaughlin (George E.^ William^, James') was born 1906. He married Margaret Doyle
+<lb/>January 27, 1934 in Steuben Co., New York, daughter of Mark Doyle and Mary Hyslip. She was born 1918.
+<lb/>Children of Joseph McLaughlin and Margaret Doyle are;
+<lb/>149 i. Francis^ McLaughlin, born 1934; died 1942.
+<lb/>+  150 ii. Kitty McLaughlin, born 1936.
+<lb/>151 iii. Carol Ann McLaughlin, born 1941. She married Anthony Dziezgowski 1963.
+<lb/>152 iv. Marian McLaughlin, bom 1943. She married David Kratz 1968.
+<lb/>58. Margaret" McLaughlin (William P.", William^, James') was born March 30, 1901, and died June 23,
+<lb/>1991. She married Samuel J. Frost January 30, 1923 in Hornby, N.Y.. He was bom 1902, and died 1951.
+<lb/>Children of Margaret McLaughlin and Samuel Frost are:
+<lb/>153
+<lb/>+  154
+<lb/>+  155
+<lb/>Shirley' Frost, born 1923. She married James H. Regan 1964; born 1922.
+<lb/>Raymond Frost, born 1926.
+<lb/>Helen Frost, bom 1927.
+<lb/>Arm Frost, bom 1936. She married Ivan Cambrel 1968.
+<lb/>Kay Frost, born 1942; died 1957.
+<lb/>61. Florence" McLaughlin (William P.', William^, James') was born July 23, 1906, and died December 1977
+<lb/>in Painted Post, New York. She married Allen Frost June 28, 1937 in Hornby, N.Y., son of Thomas Frost and
+<lb/>Martha Beckwith. He was bom 1915.
+<lb/>Children of Florence McLaughlin and Allen Frost are:
+<lb/>+  158 i. Anita'Frost, bom June 23, 1938.
+<lb/>+  159 ii. Janet Frost, bom 1943.
+<lb/>+  160 iii. Jean Frost, bom October 3, 1945.
+<lb/>64. Edna Martha" McLaughlin (Daniel', William', James') was born October 14, 1899 in Hornby, N.Y.,
+<lb/>and died September 30, 1986 in Coming , New York. She married Chauncey Bulkley April 22, 1919 in Hornby,
+<lb/>N.Y.. He was born June 9, 1898, and died March 1987.
+<lb/>Children of Edna McLaughlin and Chauncey Bulkley are:
+<lb/>+  161 i. John'Bulkley, born 1924.
+<lb/>162 ii. Eileen Bulkley, born 1925; died 1926.
+<lb/>+  163 iii. Mary Bulkley, born 1927; died May 30, 1994.
+<lb/>+  164 iv. Rita Bulkley, born March 7, 1933.
+<lb/>165 V. Carol Evelyn Bulkley, bom 1936; died 1936.
+<lb/>65. Arthur" McLaughlin (Daniel', William', James') was born January 4, 1901 in Homby, N.Y., and died
+<lb/>June 11, 1975 in Liverpool, N.Y.. He married (1) Margaret Smith 1931. He married (2) Marian Dailey 1968.
+<lb/>Children of Arthur McLaughlin and Margaret Smith are:
+<lb/>+  166 i. Edward A'McLaughlin, born 1932.
+<lb/>+  167 ii. Donald P McLaughlin, bom 1933; died July 2, 2001.
+<lb/>+  168 iii. Joyce M McLaughlin, born October 23, 1934.
+<lb/>+  169 iv. Bernard Thomas McLaughlin, bora September 12, 1936.
+<lb/>170 V. Jean M McLaughlin, born 1940; died 1940.
+<lb/>66. F. Maynard" McLaughlin (Daniel', William', James') was bom December 11, 1902 in Homby, N.Y.,
+<lb/>and died February 1968 in Corning, New York. He married Alice Hogue 1931. She was born 1905, and died May
+<lb/>21, 1993.
+<lb/>Children of F Maynard McLaughlin and Alice Hogue are:
+<lb/>+  171 i. Anna Cecelia'McLaughlin, born August 28, 1932.
+<lb/>+  172 ii. Daniel John McLaughlin, born October 29, 1933.
+<pb n="13" facs="#page-012"/>
+<lb/>+ 173 iii. Maynard Francis McLaughlin, bom December 25, 1934,
+<lb/>+ 174 iv. Sheila Mary McLaughlin, bom May 19, 1936.
+<lb/>+ 175 V. Catherine Dwan McLaughlin, bom April 2, 1939.
+<lb/>+ 176 vi. Alice Evelyn McLaughlin, born July 26, 1940.
+<lb/>+ 177 vii. Elizabeth Jean McLaughlin, born April 16, 1942.
+<lb/>67. Thomas Hendrick'' McLaughlin (DanieP, William^, James') was born February 8, 1904 in Hornby,
+<lb/>N.Y., and died October 1988 in Corning, New York. He married Anna Hogue 1935. She was bom March 19,
+<lb/>1906, and died December 1985 in Corning , New York.
+<lb/>Child of Thomas McLaughlin and Anna Hogue is:
+<lb/>+  178 i. Kathleen Marie^ McLaughlin, bom 1940 in Corning , New York.
+<lb/>68. Evelyn'' McLaughlin (DanieF, William^ James') was born 1909 in Homby, N.Y., and died 1962 in
+<lb/>Corning, N.Y.. She married Raymond Carey November 9, 1931 in Hornby, N.Y.. He was bom 1901.
+<lb/>Children of Evelyn McLaughlin and Raymond Carey are:
+<lb/>+  179 i. Catherine^ Carey, born January 3, 1933; died September 3, 2003.
+<lb/>+  180 ii. Sharon Carey, born July 11, 1941.
+<lb/>69. Katherine Dorothy" McLaughlin (DanieF, William^ James') was bom May 23, 1912. She married
+<lb/>Michael Kane 1947. He was born July 8, 1911, and died November 12, 1993 in Addison, N.Y..
+<lb/>Child of Katherine McLaughlin and Michael Kane is:
+<lb/>+  181 i. Patricia AnnMCane, born August 17, 1948.
+<lb/>70. Paul Leroy" McLaughlin (DanieF, William^ James') was bom October 16, 1918 in Homby Steuben
+<lb/>Co.N.Y., and died October 19, 2000 in Corning, NY. He married Katherine Schur McLaughlin April 15, 1944,
+<lb/>daughter of August Schur and Alice Schur. She was born August 21, 1917 in Churchville, N.Y. and died March
+<lb/>29, 1985 Rochester N.Y..
+<lb/>Children of Paul McLaughlin and Katherine McLaughlin are:
+<lb/>+  182 i. Evelyn Augusta McLaughlin^ Landolf, born May 28, 1945 in Coming, NY.
+<lb/>+  183 ii. Bernadette McLaughlin Hill, bom August 27, 1946; died June 14, 1997 in Elmira, N.Y..
+<lb/>+  184 iii. Michael McLaughlin, bom September 4, 1947.
+<lb/>+  185 iv. Ruth McLaughlin Lynch, bom September 17, 1948 in Corning, N.Y..
+<lb/>+  186 v. John McLaughlin, bom November 4, 1949.
+<lb/>+  187 vi. Mary Kathidne McLaughlin Aranda, born January 25, 1951 in Coming, New York.
+<lb/>+  188 vii. Jane Marie Mclaughlin Morovich, born April 7, 1952 in Corning, New York.
+<lb/>+  189 viii. Thomas McLaughlin, bom May 10, 1953.
+<lb/>+  190 ix. Carol McLaughlin Divens, born October 1, 1954 in Coming, NY.
+<lb/>+  191 X. Veronica Mae McLaughlin Martin, born May 16, 1958 in Corning, New York.
+<lb/>72. John" Harrison (Mary Ann^ McLaughlin, William^ James') was born 1901, and died 1995. He married
+<lb/>Dorothy Van Nortwick June 4, 1926. She was bom 1903.
+<lb/>Children of John Harrison and Dorothy Van Nortwick are:
+<lb/>+  192 i. Miriam'Harrison, bom 1933.
+<lb/>+  193 ii. Sally Harrison, born 1936.
+<lb/>73. Alice" Harrison (Mary Ann' McLaughlin, William', James') was bom 1905, and died 1971. She married
+<lb/>Fred Mosher July 3, 1934 in Hornby, N.Y.. He was bom 1911, and died 1992.
+<lb/>Child of Alice Harrison and Fred Mosher is:
+<lb/>+  194 i. Barry Rexford'Mosher, bom 1937.
+<pb n="14" facs="#page-013"/>
+<lb/>75. Gerald'' Harrison (Mary Ann^ McLaughlin, William^, James') was bom August II, 1908, and died
+<lb/>October 1977. He married Thelma Green 1930. She was bom 1911, and died 1959.
+<lb/>Child of Gerald Harrison and Thelma Green is:
+<lb/>+  195 i. Gale'Harrison, born 1935.
+<lb/>76. Dudley" McLaughlin (Frank', William', James') was born 1908, and died July 1984. He married
+<lb/>Bridget Galvin 1936. She was born January 29, 1907, and died November 1984 in Coming , New York.
+<lb/>Child of Dudley McLaughlin and Bridget Galvin is:
+<lb/>+  196 i. Maureen'McLaughlin, born August 17, 1938.
+<lb/>80. Donald" Hendricks (Kathryn' McLaughlin, William', James') was bom 1905, and died 1976. He
+<lb/>married (1) Ruth Russell. He married (2) Marian Lahr.
+<lb/>Children of Donald Hendricks and Ruth Russell are:
+<lb/>+  197 i. Dorothy'Hendrick, born 1927.
+<lb/>+  198 ii. Phyllis Hendrick, bom 1928.
+<lb/>+  199 ill. Paul D. Hendrick, born 1930.
+<lb/>81. Basil" Hendricks (Kathryn' McLaughlin, William', James') was born 1911, and died 1967. He married
+<lb/>(1) Isabelle Pecor. He married (2) Ruth McAnders.
+<lb/>Children of Basil Hendricks and Isabelle Pecor are:
+<lb/>+  200 i. William'Hendrick, born 1937.
+<lb/>201 ii. James Hendrick, bom 1938; died 1956.
+<lb/>+  202 hi. Karen Hendrick, born 1942.
+<lb/>85. Estelle" MeCarty (Charles D.', Honorah' McLaughlin, James') was born 1906. She married Wilson
+<lb/>Heald. He was born 1905.
+<lb/>Child of Estelle McCarty and Wilson Heald is:
+<lb/>203 i. Andrea' Heald, Adopted child.
+<lb/>86. Katherine" MeCarty (James', Honorah' McLaughlin, James') was born 1888, and died 1958. She
+<lb/>married Earle Keenan 1921.
+<lb/>Children of Katherine McCarty and Earle Keenan are:
+<lb/>204 i. Florence' Keenan, born 1924; died 1931.
+<lb/>+  205 ii. Marianne Keenan, born 1926; died 1968.
+<lb/>+  206 hi. Marleigh Keenan, born October 26, 1927.
+<lb/>87. Ethel" McCarty (James', Honorah' McLaughlin, James') was bora 1900. She married George Keenan
+<lb/>1921. He was bom August 26, 1893 in Cuba , N.Y., and died June 1985 in Corning , New York.
+<lb/>Children of Ethel McCarty and George Keenan are:
+<lb/>+ 207 i. Elizabeth Jean' Keenan, bom July 13, 1923 in Coming , New York.
+<lb/>+ 208 ii. Irene Keenan, born 1927.
+<lb/>+ 209 iii. James Keenan, born 1933.
+<lb/>210 iv. Thomas Keenan, bom 1936; died 1953.
+<lb/>211 V. George Keenan,Jr., bom 1944; died 1944.
+<lb/>89. Charles" Hoyt (Mary' Bryan, Honorah' McLaughlin, James') was bom 1891, and died 1949. He married
+<pb n="15" facs="#page-014"/>
+<lb/>(1) Frances Tobey. He married (2) Lillian Barber.
+<lb/>Child of Charles Hoyt and Frances Tobey is:
+<lb/>+  212 i. Harrison^ Hoyt.
+<lb/>Children of Charles Hoyt and Lillian Barber are:
+<lb/>213 i. John' Hoyt.
+<lb/>214 ii. Pauline Hoyt.
+<lb/>215 hi. NormaHoyt.
+<lb/>90. Nellie" Hoyt (Mary' Bryan, Honorah' McLaughlin, James') was bom 1894. She married Will Bixby
+<lb/>1913. He was born 1884, and died 1958.
+<lb/>Children of Nellie Hoyt and Will Bixby are:
+<lb/>+  216 i. Clair'Bixby, born 1914.
+<lb/>+  217 ii. Helen Bixby, born 1916.
+<lb/>+  218 hi. Carl Bixby, born 1922.
+<lb/>+  219 iv. Madeline Bixby, born 1929; died 1954.
+<lb/>93. Charles" Melville (Nell' Bryan, Honorah' McLaughlin, James') was born 1897. He married Ellen
+<lb/>Maher. She was born 1897.
+<lb/>Children of Charles Melville and Ellen Maher are:
+<lb/>220 i. John' Melville, bom 1924. He married Ruth Licese 1948; bom 1927.
+<lb/>+  221 ii. Charles Melville, born 1926.
+<lb/>+  222 hi. Roger Melville, born 1930.
+<lb/>94. Mary" Driscoll (Mary' McLaughlin, James', James') was born 1879. She married Earl Stephens.
+<lb/>Children of Mary Driscoll and Earl Stephens are:
+<lb/>223 i. Helen'Stephens, born 1910. She married Raymond Heydorf.
+<lb/>+  224 ii. Lawrence Stephens, born 1912.
+<lb/>+  225 hi. Esther Stephens, bom 1919.
+<lb/>99. Walter" McLaughlin (Wiliam "Wild Bill"', James', James') was bom March 31, 1903, and died January
+<lb/>1971 in Waterloo, N.Y.. He married Clara Murphy 1926.
+<lb/>Children of Walter McLaughlin and Clara Murphy are:
+<lb/>226 i. John' McLaughlin.
+<lb/>227 ii. Jean McLaughlin.
+<lb/>228 iii. Robert McLaughlin.
+<lb/>229 iv. Patrick McLaughlin.
+<lb/>230 v. Elsie McLaughlin.
+<lb/>231 vi. James McLaughlin.
+<lb/>232 vii. Daniel McLaughlin.
+<lb/>233 viii. Leon McLaughlin.
+<lb/>102. Patrick" McLaughlin (Wiliam "Wild Bill"', James', James') was born May 24, 1911, and died August
+<lb/>25, 1996 in Ovid, N.Y.. He married Dolly Hamilton 1942.
+<lb/>Children of Patrick McLaughlin and Dolly Hamilton are:
+<lb/>234 i. Patricia' McLaughlin.
+<lb/>235 ii. William McLaughlin.
+<pb n="16" facs="#page-015"/>
+<lb/>103. Raymond" McLaughlin (Wiliam "Wild BiH"^ James^, James') was bom November 21, 1916, and died
+<lb/>April 1978 in Interlaken, N.Y.. He married Cora Kidd 1938.
+<lb/>Child of Raymond McLaughlin and Cora Kidd is;
+<lb/>236 i. Howard' McLaughlin.
+<lb/>lie. Ella" Ellis (Harmah' McGinley, Mary^ McLaughlin, James') She married ? Donnels.
+<lb/>Child of Ella Ellis and ? Dormels is:
+<lb/>237 i. Mildred' Donnels.
+<lb/>112. William" Van Nortwick (William', Ellen' McLaughlin, James') was bom 1889, and died 1963. He
+<lb/>married Mary Kinney. She died 1982.
+<lb/>Children of William Van Nortwick and Mary Kinney are:
+<lb/>+  238 i. Mary Helen'Van Nortwick, born 1921; died February 22, 2001.
+<lb/>+  239 ii. Francis Van Nortwick, born 1922.
+<lb/>+  240 iii. Jean Van Nortwick, born 1925.
+<lb/>+  241 iv. James Van Nortwick, born 1929.
+<lb/>113. Ella" Rosekrans (Honorah' Touhey, Ellen' McLaughlin, James') She married Roy Schiver.
+<lb/>Child of Ella Rosekrans and Roy Schiver is:
+<lb/>242 i. Arthur' Schiver, Adopted child. He married Mary Sullivan.
+<lb/>114. Harry" Touhey (James P.', Ellen' McLaughlin, James') He married Margaret Toole.
+<lb/>Children of Harry Touhey and Margaret Toole are:
+<lb/>243 i. Harry'Touhey, born 1934.
+<lb/>244 ii. Margaret Florence Touhey, born 1940.
+<lb/>116. Alice" Touhey (Charles', Ellen' McLaughlin, James') was born 1915. She married Richard Walsh.
+<lb/>Children of Alice Touhey and Richard Walsh are:
+<lb/>245 i. Larry' Walsh.
+<lb/>246 ii. Eleanor Walsh.
+<lb/>247 iii. Natalie Walsh.
+<lb/>248 iv. Carl Walsh.
+<lb/>249 V. Nicholas Walsh.
+<lb/>117. Frank" Touhey (Charles', Ellen' McLaughlin, James') was born 1921. He married Carla Gaton.
+<lb/>Children of Frank Touhey and Carla Gaton are:
+<lb/>250 i. Theresa' Touhey.
+<lb/>251 ii. Claudia Touhey.
+<lb/>252 iii. Frank Touhey.
+<lb/>253 iv. Anthony Touhey.
+<lb/>254 V. Eileen Touhey.
+<lb/>255 vi. James Patrick Touhey.
+<lb/>118. Carl" Touhey (Charles', Ellen' McLaughlin, James') He married Lila Whitney.
+<pb n="17" facs="#page-016"/>
+<lb/>Children of Carl Touhey and Lila Whitney are;
+<lb/>256 i. Charles' Touhey.
+<lb/>257 ii. John Touhey.
+<lb/>258 ill. Virginia Touhey.
+<lb/>259 iv. Marie Touhey.
+<lb/>120. Edward'' Touhey (Edward', Ellen^ McLaughlin, James') was bom 1928, and died 1989. He married
+<lb/>Regina Tobin 1954. She was born 1928.
+<lb/>Children of Edward Touhey and Regina Tobin are:
+<lb/>260 i. Edward G.'Touhey, bom 1951; died 1951.
+<lb/>261 ii. Stephen Touhey, bom 1955.
+<lb/>262 hi. Edward Touhey, bom 1953; died 1953.
+<lb/>263 iv. Bryon Touhey, bom 1956.
+<lb/>264 V. Regina Touhey, bom 1957.
+<lb/>265 vi. Karen Touhey, born 1958.
+<lb/>123. William" Touhey (Edward', Ellen' McLaughlin, James') was bom 1932, and died 2001. He married
+<lb/>Barbara Lake 1954. She was bom 1933.
+<lb/>Children of William Touhey and Barbara Lake are:
+<lb/>266 i. Peter'Touhey, bom 1955.
+<lb/>267 ii. Mary Touhey, bom 1956; died 1956.
+<lb/>268 hi. Timothy Touhey, born 1957.
+<lb/>269 iv. Mary Touhey, born 1959.
+<lb/>Generation No. 5
+<lb/>127. Lois' McLaughlin (William", Charles', William', James') was born 1927. She married (1) Ralph W.
+<lb/>Borden October 19, 1946 in Hornby, N.Y.. She married (2) Alexander Connor 1956. He was born 1919, and
+<lb/>died 1970.
+<lb/>Child of Lois McLaughlin and Ralph Borden is:
+<lb/>+  270 i. Ralph Eugene'Borden, born 1950.
+<lb/>Children of Lois McLaughlin and Alexander Connor are:
+<lb/>271 i. Margaret'Connor, born 1957.
+<lb/>272 ii. Gertrude Connor, bom 1958.
+<lb/>273 hi. William Harvey Connor, bom 1960.
+<lb/>128. Lucille' McLaughlin (William", Charles', William', James') was born 1934. She married Lloyd Rowe
+<lb/>1957.
+<lb/>Children of Lucille McLaughlin and Lloyd Rowe are:
+<lb/>+  274 i. Catherine Ann'Rowe, born 1959.
+<lb/>+  275 ii. Richard Lloyd Rowe, born 1961.
+<lb/>+  276 hi. Elizabeth Mary Rowe, born 1963.
+<lb/>+  277 iv. Steven William Rowe, bom 1964.
+<lb/>129. Patricia' McLaughlin (William", Charles', William', James') was born 1935, and died 1985. She
+<lb/>married John Rose 1966.
+<pb n="18" facs="#page-017"/>
+<lb/>Children of Patricia McLaughlin and John Rose are;
+<lb/>278 i. Edward James'" Rose, born 1967.
+<lb/>279 ii. Olin James Rose, born 1968.
+<lb/>280 ill. Lois Marie Rose, born 1971.
+<lb/>281 iv. Carol Rose, born 1974.
+<lb/>130. William Jr.^ McLaughlin (William", Charles\ William^, James') was bom 1936. He married Ann
+<lb/>Rotsell 1965.
+<lb/>Children of William McLaughlin and Ann Rotsell are;
+<lb/>282 i. David Andrew" McLaughlin, born 1966; Adopted child.
+<lb/>283 11. Mary Elizabeth McLaughlin, born 1967.
+<lb/>284 iii. Daniel Francis McLaughlin, born 1968.
+<lb/>132. Ivan" Scudder (Pearl" McLaughlin, Charles", William", James') was born 1919. He married Evelyn
+<lb/>Long 1948. \
+<lb/>Children of Ivan Scudder and Evelyn Long are;
+<lb/>285 i. Barbara Arm" Scudder, born 1952.
+<lb/>286 ii. Wayne Scudder, born 1957.
+<lb/>138. Douglas" McLaughlin (Kenneth", James L.", William", James') was born 1932. He married Jean
+<lb/>Potter 1953.
+<lb/>Children of Douglas McLaughlin and Jean Potter are;
+<lb/>287 i. Michael" McLaughlin, bom 1952.
+<lb/>288 ii. Mark McLaughlin, born 1956; died May 1, 2004.
+<lb/>289 iii. JoAn Dawn McLaughlin, born 1958.
+<lb/>290 iv. Rickanne Lee McLaughlin, born 1961.
+<lb/>139. Patrick" McLaughlin (Kenneth", James L.", William", James') was born 1935. He married Shirley
+<lb/>Potter 1954.
+<lb/>Children of Patrick McLaughlin and Shirley Potter are;
+<lb/>291 i. Patrick Jr." McLaughlin, bom 1956.
+<lb/>292 ii. Robert McLaughlin, born 1955.
+<lb/>293 iii. Lee Vincent McLaughlin, born 1957.
+<lb/>140. Kav Frances" McLaughlin (Kenneth", James L.", William", James') was born 1937. She married Jesse
+<lb/>Shaw 1955.
+<lb/>Children of Kay McLaughlin and Jesse Shaw are;
+<lb/>294 i. Keith" Shaw, bom 1956.
+<lb/>295 ii. Brian Kelly Shaw, bom 1957.
+<lb/>296 iii. Karry Lynn Shaw, bom 1961.
+<lb/>150. Kitty" McLaughlin (Joseph G.", George E.", William", James') was bom 1936. She married James
+<lb/>Murphy 1958.
+<lb/>Child of Kitty McLaughlin and James Murphy is;
+<lb/>297 i. Michael Jude" Murphy, bom 1959.
+<lb/>154. Raymond" Frost (Margaret" McLaughlin, William P.", William", James') was born 1926. He married
+<lb/>Phyllis Hilton 1947. She was bom 1925.
+<pb n="19" facs="#page-018"/>
+<lb/>Children of Raymond Frost and Phyllis Hilton are:
+<lb/>Jack^ Frost, born 1949.
+<lb/>Rae Ellen Frost, born 1950. She married John R. Read 1972; bom 1950.
+<lb/>Terry Frost, bom 1951.
+<lb/>Peggy Frost, bom 1953.
+<lb/>Michael Frost, born 1954.
+<lb/>Lorraine Frost, born 1955.
+<lb/>Patrick Frost, born 1957. He married Marylin Cervoni 1978.
+<lb/>Mark Frost, bom 1959.
+<lb/>Richard Frost, born 1961.
+<lb/>Mary Jane Frost, bom 1962.
+<lb/>155. Helen^ Frost (Margaret" McLaughlin, William P.\ William^, James') was born 1927. She married
+<lb/>George Button 1947. He was born 1924.
+<lb/>Children of Helen Frost and George Button are:
+<lb/>David'' Button, bom 1948.
+<lb/>Steven Button, bom 1949. He married Nancy Fisher 1969.
+<lb/>JoAnn Button, born 1950.
+<lb/>Jean Button, bom 1954; died 1954.
+<lb/>Julie Button, bom 1954; died 1954.
+<lb/>158. Anita' Frost (Florence" McLaughlin, William P.", William^, James') was bom June 23, 1938. She
+<lb/>married John B. Mayes Jr. 1960. He was born September 17, 1938.
+<lb/>Children of Anita Frost and John Jr. are:
+<lb/>+  313 i. Kelly Jo'Mayes, born March 22, 1961.
+<lb/>+  314 ii. Kathryn Mayes, born January 28, 1966.
+<lb/>159. Janet' Frost (Florence" McLaughlin, William P.', William^, James') was bom 1943. She married
+<lb/>Dennis Dadson 1966.
+<lb/>Child of Janet Frost and Dennis Dadson is:
+<lb/>315 i. Timothy Andrew'Dadson, bom 1970.
+<lb/>160. Jean' Frost (Florence" McLaughlin, William P.', William^, James') was bom October 3, 1945. She
+<lb/>married James Edward Horigan 1971. He was born February 24, 1943.
+<lb/>Children of Jean Frost and James Horigan are:
+<lb/>316 i. Ann Elizabeth' Horigan, born March 9, 1977.
+<lb/>317 ii. James Patrick Horigan, born April 25, 1979.
+<lb/>318 iii. John David Horigan, born February 21, 1982.
+<lb/>161. John' Bulkley (Edna Martha" McLaughlin, Daniel', William', James') was born 1924 and died 1991.
+<lb/>He married Rose Mahlum 1944.
+<lb/>Children of John Bulkley and Rose Mahlum are:
+<lb/>+ 319 i. Jennie Lee' Bulkley, born 1945.
+<lb/>+ 320 ii. Daniel John Bulkley, born 1946.
+<lb/>+ 321 iii. Richard Bulkley, born 1951.
+<lb/>322 iv. Brian Bulkley, born 1953.
+<lb/>+ 323 V. Eileen Bulkley, bom 1955.
+<lb/>324 vi. Gerald Bulkley, born 1957.
+<lb/>+ 325 vii. Susan Rose Bulkley, bom 1958.
+<pb n="20" facs="#page-019"/>
+<lb/>viii. Christine Bulkley, bom 1959.
+<lb/>ix. Juliet Dawn Bulkley, born 1961.
+<lb/>X. Colleen Bulkley, born 1964.
+<lb/>163. Mary® Bulkley (Edna Martha" McLaughlin, DanieF, William^, James') was bom 1927, and died May
+<lb/>30, 1994. She married Donald Keefer 1946. He was bom 1918.
+<lb/>Children of Mary Bulkley and Donald Keefer are:
+<lb/>329 i. Patrick® Keefer, born August 18, 1946. He married Linda Kuntz; born July 18, 1948.
+<lb/>+  330 ii. Joan Marie Keefer, born November 28, 1947.
+<lb/>164. Rita® Bulkley (Edna Martha" McLaughlin, DanieF, William^, James') was born March 7, 1933. She
+<lb/>married Alfred E. McRae 1953. He was bom November 5, 1928.
+<lb/>Children of Rita Bulkley and Alfred McRae are:
+<lb/>+  331 i. Mary Kay® McRae, born September 13, 1954.
+<lb/>332 ii. Ann Elizabeth McRae, born April 24, 1956; died October 1, 1978 in Hyland, IL - small plane
+<lb/>crash. She married Michael Murphy September 1976; bom June 9, 1955; died October 1,
+<lb/>1978 in Hyland, IL - small plane crash.
+<lb/>+ 333 iii. Elizabeth Jane McRae, born June 3, 1958.
+<lb/>+ 334 iv. Patricia Ann McRae, born January 4, 1960
+<lb/>+ 335 V. Maureen McRae, bom December 29, 1961
+<lb/>+ 336 vi. Michael E. McRae, born August 6, 1966.
+<lb/>337 vii. Kathryn McRae, bom July 20, 1971.
+<lb/>166. Edward A® McLaughlin (Arthur", DanieF, William^, James') was bom 1932; died May 26, 2005. He
+<lb/>married Janice McConnell 1961. She died March 7, 2003.
+<lb/>Children of Edward McLaughlin and Janice McConnell are:
+<lb/>+  338 i. Terry Michael'McLaughlin, bom October 12, 1952.
+<lb/>+  339 ii. Jean Marie McLaughlin, born November 29, 1954.
+<lb/>340 iii. Barbara Rae McLaughlin, born May 18, 1957. She married (1) Tim Jennings May 23, 1975.
+<lb/>She married (2) Timothy M Wolosen September 9, 1995.
+<lb/>+  341 iv. Richard Edward McLaughlin, born November 30, 1960.
+<lb/>+  342 V. Michael Lester McLaughlin, born May 14, 1967.
+<lb/>167. Donald P® McLaughlin (Arthur", DanieF, William", James') was bom 1933, and died July 2, 2001. He
+<lb/>married (1) Carolyn Lowery 1951. He mamied (2) Mabel Wilson 1960.
+<lb/>Children of Donald McLaughlin and Carolyn Lowery are:
+<lb/>343 i. Maureen® McLaughlin, born 1953.
+<lb/>344 ii. Michael McLaughlin, bom 1955; died 1959.
+<lb/>Children of Donald McLaughlin and Mabel Wilson are:
+<lb/>+ . 345 i. Karen Elaine'McLaughlin, born 1963.
+<lb/>346 ii. Donna Mae McLaughlin, born 1966. She married Tim Schwender 1990.
+<lb/>168. Joyce M® McLaughlin (Arthur", DanieF, William^, James') was bom October 23, 1934. She married
+<lb/>Robert E. Anderson October 19, 1967. He was born April 22, 1930.
+<lb/>Child of Joyce McLaughlin and Robert Anderson is:
+<lb/>347 i. Mark E.® Anderson, born May 7, 1969.
+<pb n="21" facs="#page-020"/>
+<lb/>169. Bernard Thomas^ McLaughlin (Arthur'', DanieP, William", James') was born September 12, 1936. He
+<lb/>married Patricia Louise Collins June 15, 1957. She was born October 22, 1936.
+<lb/>Children of Bernard McLaughlin and Patricia Collins are:
+<lb/>+ 348 i. Deborah Ann" McLaughlin, born March 23, 1958.
+<lb/>+ 349 ii. Colleen Marie McLaughlin, born October 10, 1959.
+<lb/>+ 350 iii. Kathleen Ann McLaughlin, bom May 9, 1961.
+<lb/>+ 351 iv. Bernard Thomas McLaughlin 11, bom August 5, 1962.
+<lb/>+ 352 V. Patrick Michael McLaughlin, born December 15, 1965
+<lb/>+ 353 vi. Bernadette Marie McLaughlin, born August 19, 1969.
+<lb/>171. Anna Cecelia^ McLaughlin (F Maynard", DanieF, William^, James') was born August 28, 1932. She
+<lb/>married Matthias F. Fennell August 18, 1956. He was bom May 11, 1928.
+<lb/>Children of Anna McLaughlin and Matthias Fennell are:
+<lb/>+  354 i. Ann Elizabeth" Fennell, bom October 25, 1957.
+<lb/>+  355 11. Mary Katherine Fennell, bom May 29, 1959.
+<lb/>356 ill. Matthias F. Fennell,Jr., bom October 10, 1960.
+<lb/>+  357 iv. Julia Maureen Fennell, bom October 13, 1961.
+<lb/>+  358 V. Sheila Mary Fennell, bom November 2, 1962.
+<lb/>H- 359 vi. Timothy S. Fennell, bom November 16, 1963.
+<lb/>+  360 vii. Kathleen Mary Fennell, bom October 30, 1964.
+<lb/>+  361 viii. Terrence Patrick Fennell, born December 26, 1967.
+<lb/>+  362 ix. Ellen Mary Fennell, bom December 17, 1968.
+<lb/>+  363 X. Alice Marilyn Fennell, bom Febraary 10, 1970.
+<lb/>172. Daniel John" McLaughlin (F Maynard", DanieP, William^, James') was bom October 29, 1933. He
+<lb/>married Catherine Richard September 28, 1957. She was born July 15, 1936.
+<lb/>Children of Daniel McLaughlin and Catherine Richard are:
+<lb/>364 i. Daniel Joseph" McLaughlin, born May 10, 1961. He married Alison Kerr November 5, 1994;
+<lb/>born January 20, 1970.
+<lb/>+  365 ii. Michelle Ann McLaughlin, born December 7, 1963.
+<lb/>366 iii. Doreen Marie McLaughlin, born May 11, 1970. She married David P. Johnson June 14,
+<lb/>1997.
+<lb/>173. Maynard Francis" McLaughlin (F Maynard", DanieP, William^, James') was born December 25, 1934.
+<lb/>He married Marilyn Dandrea July 4, 1961. She was born June 25, 1937.
+<lb/>Children of Maynard McLaughlin and Marilyn Dandrea are:
+<lb/>+  367 i. Lisa Joan" McLaughlin, bom May 3, 1962.
+<lb/>+  368 ii. Mary Cecelia McLaughlin, bom June 28, 1963.
+<lb/>+  369 iii. Sheila Catherine McLaughlin, bom November 11, 1964.
+<lb/>370 iv. Marlene McLaughlin, bom August 15, 1966. She married Geoffrey Simons June 12, 2004.
+<lb/>-I- 371 v. Frank Gerard McLaughlin, born October 1, 1968.
+<lb/>372 vi. Michael Gerard McLaughlin, bom June 25, 1971. He married Amy Reichard September 15,
+<lb/>2001.
+<lb/>373 vii. Heidi Jude McLaughlin, bom June 15, 1976. She married Peter Mello August 14, 2004.
+<lb/>174. Sheila Mary" McLaughlin (F Maynard", Daniel", William", James') was born May 19, 1936. She
+<lb/>married Richard Reeder February 23, 1963 in St Vincent de Paul Church, Coming, NY. He was bom 1934.
+<lb/>Children of Sheila McLaughlin and Richard Reeder are:
+<lb/>+  374 i. William John" Reeder, bom June 17, 1964.
+<lb/>+  375 ii. Thomas Attaway Reeder, born July 26, 1965.
+<pb n="22" facs="#page-021"/>
+<lb/>+  376 iii. Mary Reagan Reeder, bora August 24, 1968.
+<lb/>+  377 iv. Elizabeth Lusk Reeder, bora November 15, 1971. ^
+<lb/>175. Catherine Dwan^ McLaughlin (F Maynard", DanieF, William^ James') was bora April 2, 1939. She
+<lb/>married Richard Bassney 1962.
+<lb/>Children of Catherine McLaughlin and Richard Bassney are:
+<lb/>+  378 i. Patrick J." Bassney, born August 29, 1962.
+<lb/>+  379 ii. Arm M. Bassney, bora September 1, 1963.
+<lb/>380 iii. Peter James Bassney, born September 7, 1964.
+<lb/>+  381 iv. Richard Bassney, Jr., born November 23, 1965.
+<lb/>176. Alice Evelyn McLaughlin (F Maynard", DanieF, William^ James') was bora July 26, 1940. Entered
+<lb/>the Sisters of St. Joseph, Rochester, New York, 1958. Left the convent in 1983.
+<lb/>177. Elizabeth Jean' McLaughlin (F Maynard", DanieF, William^, James') was born April 16, 1942. She
+<lb/>married James Dolan April 16, 1966. He was born May 30, 1942.
+<lb/>Children of Elizabeth McLaughlin and James Dolan are:
+<lb/>382 i. Maureen Jean' Dolan, born March 12, 1967 in Sayre, PA.
+<lb/>383 ii. Kathleen Arm Dolan, born February 28, 1969. She married Ian Clare May 19, 2001.
+<lb/>+  384 iii. Carolyn Janet Dolan, born March 31, 1970.
+<lb/>178. Kathleen Marie' McLaughlin (Thomas Hendrick", DanieF, William^, James') was born 1940 in
+<lb/>Corning , New York. She married Gerald Sullivan 1960.
+<lb/>Children of Kathleen McLaughlin and Gerald Sullivan are:
+<lb/>+  385 i. Mary Elizabeth'Sullivan, born November 8, 1966.
+<lb/>+  386 ii. Thomas Patrick Sullivan, born May 3, 1968.
+<lb/>+  387 iii. Kathleen Ann Sullivan, bora August 19, 1969.
+<lb/>179. Catherine' Carey (Evelyn" McLaughlin, DanieF, William^ James') was bora January 3, 1933, and died
+<lb/>September 3, 2003. She married Charles Kehler April 23, 1960. He was bora March 9, 1926, and died February
+<lb/>13,2005.
+<lb/>Children of Catherine Carey and Charles Kehler are:
+<lb/>+  388
+<lb/>389
+<lb/>Maria Ann' Kehler, born November 4, 1961.
+<lb/>Jon Kehler, born December 30, 1964.
+<lb/>+  390 iii. Gretchen Kehler, born May 25, 1966.
+<lb/>180. Sharon' Carey (Evelyn" McLaughlin, DanieF, William^ James') was bora July 11, 1941. She married
+<lb/>Thomas Ward 1962. He was bora March 24, 1941.
+<lb/>Children of Sharon Carey and Thomas Ward are:
+<lb/>+  391 i. Thomas Raymond'Ward, born August 3, 1963.
+<lb/>+  392 ii. Brian Ward, born June 19, 1965.
+<lb/>393 iii. James Ward, bora November 11, 1969.
+<lb/>181. Patricia Ann' Kane (Katherine Dorothy" McLaughlin, DanieF, William", James') was born August 17,
+<lb/>1948. She married Steven Kessler 1972.
+<lb/>Children of Patricia Kane and Steven Kessler are:
+<lb/>394 i. Dennis'Kessler, born 1978.
+<lb/>395 ii. Sabrena Kessler, born 1981.
+<pb n="23" facs="#page-022"/>
+<lb/>182. Evelyn Augusta McLaughlin' Landolf (Paul Leroy" McLaughlin, Daniel', William', James') was bom
+<lb/>May 28, 1945 in Corning, NY. She married James Landolf August 20, 1966 in St. Vincents R.C., Corning N.Y..
+<lb/>He was born April 28, 1944.
+<lb/>Children of Evelyn Landolf and James Landolf are:
+<lb/>+ 396 i. Kathrine' Landolf, bora May 9, 1967 in Elmira, NY.
+<lb/>397 ii. Michael James Landolf, born October 2, 1968 in Elmira, NY.
+<lb/>+ 398 iii. Thomas Patrick Landolf, born January 16, 1970 in Elmira, NY.
+<lb/>+ 399 iv. John Landolf, bora April 6, 1971 in Elmira, NY.
+<lb/>+ 400 V. Sharon Landolf, born June 7, 1972 in Elmira, NY.
+<lb/>+ 401 vi. Mark Landolf, born January 22, 1977 in Elmira, NY.
+<lb/>183. Bernadette McLaughlin' Hill (Paul Leroy'' McLaughlin, Daniel', William', James') was bora August
+<lb/>27, 1946, and died June 14, 1997 in Arnot-Ogden Hospital Elmira, N.Y.. She married Guy Hill April 4, 1970 in
+<lb/>St. Vincents R.C., Corning, New York. He was born October 21, 1947 in Lindley, New York.
+<lb/>Children of Bernadette Hill and Guy Hill are:
+<lb/>+  402
+<lb/>+  403
+<lb/>Paul Ivan Hill, bora January 30, 1971 in Elmira, New York.
+<lb/>Robert Hill, bora June 16, 1972 in Elmira, NY.
+<lb/>David Hill, born February 15, 1974 in Elmira, NY. He married Ellen Tilley October 5, 2002
+<lb/>in Lake Norman, NC.
+<lb/>Sarah Jane Hill, born October 31, 1975 in Elmira, New York. She married Brian Cornish
+<lb/>August 18, 2001 in Addison, NY.
+<lb/>William Hill, born November 13, 1977 in Elmira, New York.
+<lb/>Patrick Hill, bora November 15, 1979 in Elmira, New York.
+<lb/>Anne Hill, bora July 3, 1982 in Elmira, New York.
+<lb/>Thomas David Hill, born February 13, 1987 in Elmira, New York.
+<lb/>184. Michael' McLaughlin (Paul Leroy"*, Daniel', William', James') was born September 4, 1947. He
+<lb/>married Nancy Goodrich McLaughlin March 12, 1977. She was bora February 24, 1949.
+<lb/>Children of Michael McLaughlin and Nancy McLaughlin are:
+<lb/>410 i. Julie^ McLaughlin, born November 18, 1977.
+<lb/>411 ii. Jason Michael McLaughlin, born January 13, 1979.
+<lb/>412 iii. Kenneth McLaughlin, born December 15, 1980.
+<lb/>413 iv. Maggie McLaughlin, bora December 12, 1984.
+<lb/>185. Ruth McLaughlin' Lynch (Paul Leroy" McLaughlin, Daniel', William', James') was bora September
+<lb/>17, 1948 in Coming, N.Y.. She married Anthony Lynch April 24, 1971 in St. Vincents R.C., Corning N.Y.. He
+<lb/>was bora January 17, 1945 in Dublin, Ireland.
+<lb/>Children of Ruth Lynch and Anthony Lynch are:
+<lb/>+  414 i. Sean Paul'Lynch, born March 6, 1972 in Rockaway, New York.
+<lb/>+  415 ii. Mary Kate Lynch, born May 10, 1973.
+<lb/>416 iii. Michael James Lynch, bora March 3, 1981.
+<lb/>186. John'McLaughlin (Paul Leroy", Daniel', William', James') was born November 4, 1949. He married
+<lb/>(1) Susan Bauer December 4, 1971 in Hammondsport, N. Y.. She was born August 8, 1951. He married (2)
+<lb/>Barbara Gerow May 2, 1980. She was bora January 24, 1952.
+<lb/>Children of John McLaughlin and Susan Bauer are:
+<lb/>+  417 i. Timothy John'McLaughlin, bora May 6, 1972.
+<lb/>418 ii. Chad Edward McLaughlin, bora July 31, 1973. He married Kathi Adams October 13, 2001.
+<lb/>+  419 iii. William McLaughlin, bora September 21, 1976.
+<lb/>420 iv. Jennifer McLaughlin, bora September 21, 1976.
+<pb n="24" facs="#page-023"/>
+<lb/>Children of Jolin McLaughlin and Barbara Gerow are:
+<lb/>421 i. Kerry^ McLaughlin, bom December 17, 1980.
+<lb/>422 ii. Erin Marie McLaughlin, bom September 5, 1984.
+<lb/>187. Mary Kathrine McLaughlin^ Aranda (Paul Leroy" McLaughlin, DanieP, William^, James') was born
+<lb/>January 25, 1951 in Corning, New York. She married John Charles Aranda October 30, 1971 in St. Vincents de
+<lb/>Paul R.C., Coming,N.Y.. He was bom July 2, 1952 in Coming, New York.
+<lb/>Children of Mary Aranda and John Aranda are:
+<lb/>423 i. Colleen Marie' Aranda, born July 25, 1972.
+<lb/>+  424 ii. Christine Marie Aranda, born August 19, 1974 in Coming , New York.
+<lb/>425 iii. Michele Kathleen Aranda, bom July 21, 1976.
+<lb/>426 iv. Molly Sue Aranda, bom February 2, 1978.
+<lb/>188. Jane Marie Mclaughlin' Morovich (Paul Leroy" McLaughlin, DanieP, William^, James') was born
+<lb/>April 7, 1952 in Corning, New York. She married John August Morovich November 16, 1974 in St. Vincent's
+<lb/>Chuch, Coming, New York, son of John Morovich and Anna Dolan. He was born May 4, 1951 in St. Joseph's
+<lb/>Hospital, Far Rockaway, New York.
+<lb/>Children of Jane Morovich and John Morovich are:
+<lb/>427 i. John Paul' Morovich, born June 23, 1976 in Good Samartian Hospital, Suffern, NY
+<lb/>428 ii. Matthew Brendan Morovich, born September 18, 1978 in Goshen,NY
+<lb/>429 iii. Mark August Morovich, born February 4, 1981 in Aurora, Colorado Aurora Community
+<lb/>Hospital.
+<lb/>430 iv. Mary Elizabeth Morovich, born October 6, 1983 in Mercy Hosp. Rockville Center N.Y..
+<lb/>431 V. Anthony Thomas Morovich, born November 2, 1988 in Mercy Hosp. Rockville Center, NY
+<lb/>432 vi. Joseph Alexander Morovich, born July 22, 1992 in Mercy Hospital, Rockville Center, NY
+<lb/>189. Thomas' McLaughlin (Paul Leroy", Daniel', William', James') was born May 10, 1953. He married
+<lb/>Roscann Barry. She was born November 4, 1952.
+<lb/>Children of Thomas McLaughlin and Roseann Barry are:
+<lb/>+  433 i. Raymond'McLaughlin, born February 5, 1974.
+<lb/>+  434 ii. Nathan McLaughlin, bom Februai7 26, 1975.
+<lb/>435 iii. Anna Katherine McLaughlin, born February 25, 1976.
+<lb/>+  436 iv. Holland McLaughlin, born June 24, 1977 in Elmira, New York.
+<lb/>437 V. Matthew McLaughlin, born July 30, 1978.
+<lb/>438 vi. Luke McLaughlin, born January 4, 1980.
+<lb/>439 vii. Adam McLaughlin, born May 3, 1981.
+<lb/>440 viii. Jared McLaughlin, born March 24, 1982; died May 20, 2004 in Coming, NY.
+<lb/>441 ix. Paul McLaughlin, bom September 3, 1983.
+<lb/>442 X. Theresa McLaughlin, bom August 30, 1984.
+<lb/>190. Carol McLaughlin' Divens (Paul Leroy" McLaughlin, Daniel', William', James') was bora October 1,
+<lb/>1954 in Coming, NY. She married Daniel Divens July 13, 1974 in St. Vincent de Paul, Coming, N.Y.. He was
+<lb/>born May 18, 1955 in Corning, NY.
+<lb/>Children of Carol Divens and Daniel Divens are:
+<lb/>+  443 i. Joseph'Divens, born April 10, 1975 in Elmira, NY.
+<lb/>+  444 ii. Daniel Divens, bom October 27, 1976 in Elmira, NY.
+<lb/>191. Veronica Mae McLaughlin' Martin (Paul Leroy" McLaughlin, Daniel', William', James') was born
+<lb/>May 16, 1958 in Corning, New York. She married Michael James Martin August 26, 1978 in St. Vincents R.C.,
+<lb/>Corning N.Y.. He was born May 1, 1957 in Youngtown, ohio.
+<pb n="25" facs="#page-024"/>
+<lb/>Children of Veronica Martin and Michael Martin are:
+<lb/>445 i. Elizabeth Ann^ Martin, bom June 9, 1983.
+<lb/>446 ii. Stephanie Ann Martin, born September 4, 1983.
+<lb/>447 ill. Kevin James Martin, born November 19, 1984.
+<lb/>192. Miriam^ Harrison (John", Mary Ann^ McLaughlin, William^, James') was born 1933. She married
+<lb/>Richard Jung 1967.
+<lb/>Child of Miriam Harrison and Richard Jung is:
+<lb/>448 i. Timothy Lee'Jung, born 1968.
+<lb/>193. Sally' Harrison (John", Mary Ann" McLaughlin, William", James') was bom 1936. She married Robert
+<lb/>J. Brown 1958.
+<lb/>Children of Sally Harrison and Robert Brown are:
+<lb/>449 i. Douglas H.'Brown, born 1959.
+<lb/>450 ii. Gary Brown, born 1961.
+<lb/>451 iii. Julie Brown, bom 1963.
+<lb/>194. Barry Rexford' Mosher (Alice" Harrison, Mary Ann" McLaughlin, William", James') was born 1937.
+<lb/>He married Linda Disosway 1959.
+<lb/>Children of Barry Mosher and Linda Disosway are:
+<lb/>+  452 i. Christopher Alan'Mosher, bom 1966.
+<lb/>+  453 ii. Nancy Lynn Mosher, bom 1968.
+<lb/>195. Gale' Harrison (Gerald", Mary Ann' McLaughlin, William", James') was born 1935. He married Mary
+<lb/>Jane Sypian 1956.
+<lb/>Children of Gale Harrison and Mary Sypian are:
+<lb/>454 i. Gerald Michael' Harrison, born 1957; died 1991 in Rochester, NY.
+<lb/>+  455 ii. Christine Ann Harrison, bom 1959.
+<lb/>196. Maureen' McLaughlin (Dudley", Frank", William", James') was born August 17, 1938. She mamied
+<lb/>Harvey E. Miller July 16, 1960. He was born November 13, 1936.
+<lb/>Children of Maureen McLaughlin and Harvey Miller are:
+<lb/>+  456 i. Harvey Francis'Miller, born April 21, 1961.
+<lb/>+  457 ii. Ann Marie Miller, bom January 28, 1965.
+<lb/>197. Dorothy' Hendrick (Donald" Hendricks, Kathryn" McLaughlin, William", James') was bom 1927. She
+<lb/>married Arthur Devenport 1946. He was bom 1924.
+<lb/>Children of Dorothy Hendrick and Arthur Devenport are:
+<lb/>+  458 i. Arthur'Devenport,Jr., born 1946.
+<lb/>+  459 ii. Craig Devenport, bom 1950.
+<lb/>460 iii. Pamela Devenport, born 1958. She married Christopher Pegis August 2, 1986.
+<lb/>198. Phyllis' Hendrick (Donald" Hendricks, Kathryn" McLaughlin, William", James') was born 1928. She
+<lb/>married John Cleesattel 1946.
+<lb/>Children of Phyllis Hendrick and John Cleesattel are:
+<pb n="26" facs="#page-025"/>
+<lb/>+  461
+<lb/>462
+<lb/>i. Kathy Ann^ Cleesattel, bora 1949.
+<lb/>ii. John Cleesattel, bora 1951. He married Harriet Cleesattel.
+<lb/>199. Paul D.® Hendrick (DonaW Hendricks, Kathryn' McLaughlin, William^, James') was bora 1930. He
+<lb/>married Dorothy Santheson 1951.
+<lb/>Children of Paul Hendrick and Dorothy Santheson are:
+<lb/>+  463 i. Peter MichaeP Hendrick, bora August 1, 1953.
+<lb/>+  464 ii. Mark Hendrick, born April 26, 1955.
+<lb/>200. William' Hendrick (Basil" Hendricks, Kathryn' McLaughlin, William^, James') was bora 1937. He
+<lb/>married (1) Anne Searls. He married (2) Maneen Dwyer 1960.
+<lb/>Children of William Hendrick and Maneen Dwyer are:
+<lb/>465 i. Lorie Aim'Hendrick, bora 1961.
+<lb/>466 ii. Linda Hendrick.
+<lb/>467 iii. James Hendrick.
+<lb/>468 iv. Brian Hendrick.
+<lb/>202. Karen' Hendrick (Basil" Hendricks, Kathryn' McLaughlin, William^, James') was born 1942. She
+<lb/>married Fred Soich 1968.
+<lb/>Child of Karen Hendrick and Fred Soich is:
+<lb/>469 i. Frederick Edward' Soich, born 1969.
+<lb/>205. Marianne' Keenan (Katherine" McCarty, James', Honorah' McLaughlin, James') was bom 1926, and
+<lb/>died 1968. She married Thomas O'Leary 1948.
+<lb/>Children of Marianne Keenan and Thomas O'Leary are:
+<lb/>470 i. Kevin'O'Leary, born 1949. He married Betsy Stergion 1973.
+<lb/>471 ii. Shawn O'Leary, born 1951. He married Shelly O'Leary 1972.
+<lb/>472 iii. Timothy O'Leary, bora 1953.
+<lb/>473 iv. Julie O'Leary, bora 1955.
+<lb/>474 V. Patrick O'Leary, bora 1957.
+<lb/>206. Marleigh' Keenan (Katherine" McCarty, James', Honorah^ McLaughlin, James') was bora October 26,
+<lb/>1927. She married John McGannon 1949. He was bora July 3, 1925.
+<lb/>Children of Marleigh Keenan and John McGannon are:
+<lb/>475 i. Sherrylee'McGannon, bora September 27, 1951. She married Dr. Barry Cohen 1990.
+<lb/>476 ii. Stephen McGannon, bora June 28, 1953. He married Diana Allen 1976.
+<lb/>477 iii. Charles McGannon, born 1955. He married ? McCarty 1978.
+<lb/>478 iv. Mary Lou McGannon, bora March 18, 1956.
+<lb/>479 V. James Thomas McGannon, born March 8, 1960. He married Gayle Castilou 1990.
+<lb/>207. Elizabeth Jean' Keenan (Ethel" McCarty, James', Honorah' McLaughlin, James') was born July 13,
+<lb/>1923 in Corning , New York. She married Dr. John Ward May 4, 1946. He was born December 21, 1923 in
+<lb/>Willows, Ca..
+<lb/>Children of Elizabeth Keenan and Dr. Ward are:
+<lb/>+  480 i. Nancy'Ward, bora 1948.
+<lb/>+  481 ii. Michael Ward, born 1949.
+<lb/>482 iii. Margaret Ann Ward, born 1950. She married William Fary 1973.
+<pb n="27" facs="#page-026"/>
+<lb/>483 iv. Kathy Ward, born 1953; died 1953.
+<lb/>484 V. Daniel Ward, born 1955.
+<lb/>208. Irene® Keenan (Ethel" McCarty, James®, Honorah® McLaughlin, James') was born 1927. She married
+<lb/>JaekDaulton 1950. He was bom 1928.
+<lb/>Children of Irene Keenan and Jack Daulton are:
+<lb/>485 i. Christopher® Daulton, bom 1951. He married Elizabeth Snyder 1973.
+<lb/>486 ii. Timothy Daulton, born 1953.
+<lb/>487 hi. David Daulton, bora 1954.
+<lb/>488 iv. Debra Jeanne Daulton, bora 1956.
+<lb/>489 V. Jill Daulton, born 1958; died 1967.
+<lb/>490 vi. Peter Keenan Daulton, born 1959.
+<lb/>209. James® Keenan (Ethel" McCarty, James®, Honorah® McLaughlin, James') was born 1933. He married
+<lb/>Mary Lynne Eagan 1958.
+<lb/>Children of James Keenan and Mary Eagan are:
+<lb/>491 i. Roger® Keenan, born 1959.
+<lb/>492 ii. Richard Edward Keenan, bom 1960.
+<lb/>493 hi. Gary Keenan, born 1962.
+<lb/>494 iv. James Michael Keenan, bom 1966; died 1966.
+<lb/>212. Harrison® Hoyt (Charles", Mary® Bryan, Honorah® McLaughlin, James') He married Majorie.
+<lb/>Child of Harrison Hoyt and Majorie is:
+<lb/>495 i. Margaret Anne® Hoyt.
+<lb/>216. Clair® Bixby (Nellie" Hoyt, Mary® Bryan, Honorah® McLaughlin, James') was bom 1914. He married
+<lb/>Helen Divens 1939. She was born 1920.
+<lb/>Children of Clair Bixby and Helen Divens are:
+<lb/>+ 496 i. Donald® Bixby, born 1940.
+<lb/>+ 497 ii. John Bixby, born 1942.
+<lb/>+ 498 iii. Mary Elizabeth Bixby, bora 1944,
+<lb/>499 iv. Irene Bixby, born 1945.
+<lb/>+ 500 V. Mable Bixby, born 1947.
+<lb/>217. Helen® Bixby (Nellie" Hoyt, Mary® Bryan, Honorah® McLaughlin, James') was born 1916. She married
+<lb/>(1) David Hill. She married (2) Burdette Brouwere 1943.
+<lb/>Child of Helen Bixby and David Hill is:
+<lb/>501 i. Elsie® Hill, born 1936.
+<lb/>Children of Helen Bixby and Burdette Brouwere are:
+<lb/>+  502 i. Richard® Brouwere, born 1946.
+<lb/>+  503 ii. Thomas Brouwere, born 1950.
+<lb/>218. Carl® Bixby (Nellie" Hoyt, Mary® Bryan, Honorah® McLaughlin, James') was born 1922. He married
+<lb/>Pauline Palmer 1947. She was born 1920, and died 1961.
+<lb/>Children of Car! Bixby and Pauline Palmer are:
+<lb/>+  504 i. James® Bixby, bora 1948.
+<pb n="28" facs="#page-027"/>
+<lb/>505 ii. Robert Bixby, born 1951. He married Phyllis Saxbury 1979.
+<lb/>506 iii. Joseph Bixby, bom 1953.
+<lb/>507 iv. David Bixby, born 1956. He married Rose Tennant 1980.
+<lb/>+  508 V. Julia Bixby, born 1961.
+<lb/>219. Madeline^ Bixby (Nellie'' Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was born 1929, and died
+<lb/>1954. She married Russell Luedeman 1950.
+<lb/>Child of Madeline Bixby and Russell Luedeman is:
+<lb/>509 i. Roger" Luedeman, born 1953.
+<lb/>221. Charles" Melville (Charles", Nell' Bryan, Honorah' McLaughlin, James') was bom 1926. He married
+<lb/>Gloria Garcia 1951. She was born 1930.
+<lb/>Children of Charles Melville and Gloria Garcia are:
+<lb/>510 i. Cheryl" Melville, born 1952.
+<lb/>511 ii. Debra Melville, born 1953.
+<lb/>512 iii. Mary Margaret Melville, born 1957.
+<lb/>513 iv. Heather Melville, born 1964.
+<lb/>222. Roger" Melville (Charles", Nell' Bryan, Honorah' McLaughlin, James') was bom 1930. He married (1)
+<lb/>Joyce McGuire 1949. He married (2) Evelyn 1951. He married (3) Lois Warren 1971.
+<lb/>Child of Roger Melville and Joyce McGuire is:
+<lb/>514 i. Roger" Melville,Jr., bom 1950. He married Kathleen Kroboth 1974.
+<lb/>Children of Roger Melville and Evelyn are:
+<lb/>515 i. Michael J." Melville, born 1952. He married Debra Warren 1974; bom 1955.
+<lb/>516 ii. Catherine C. Melville, bom 1954. She married David Holland 1974.
+<lb/>517 iii. Mark R. Melville, born 1956.
+<lb/>518 iv. Michele E. Melville, born 1958.
+<lb/>Child of Roger Melville and Lois Warren is:
+<lb/>519 i. Debbie", born 1955; Stepchild.
+<lb/>224. Lawrence" Stephens (Mary" Driscoll, Mary' McLaughlin, James', James') was bom 1912. He married
+<lb/>Margaret Yost.
+<lb/>Child of Lawrence Stephens and Margaret Yost is:
+<lb/>520 i. Margaret Ann" Stephens.
+<lb/>225. Esther" Stephens (Mary" Driscoll, Mary' McLaughlin, James', James') was bom 1919. She married
+<lb/>Dayton Brion.
+<lb/>Children of Esther Stephens and Dayton Brion are:
+<lb/>521 i. Charlotte" Brion, born 1947. She married James Dugan 1970.
+<lb/>522 ii. Karen Brion, born 1948. She married Gerald Purtell 1973.
+<lb/>523 iii. Shirley Brion, born 1949. She married Neil Waldrep 1974.
+<lb/>524 iv. Russell Brion, born 1956. He married Katherine Kozlick 1977.
+<lb/>238. Mary Helen" Van Nortwick (William", William', Ellen' McLaughlin, James') was born 1921, and died
+<lb/>February 22, 2001. She married Walter Becker 1945.
+<pb n="29" facs="#page-028"/>
+<lb/>Children of Mary Van Nortwick and Walter Becker are:
+<lb/>+  525 i. Stephen Becker, born 1946.
+<lb/>+  526 ii. Thomas J. Becker, born 1947.
+<lb/>527 ill. Mark Walter Becker, bom 1951.
+<lb/>+  528 iv. Mary Ellen Becker, bom 1956.
+<lb/>239. Francis® Van Nortwick (William", William®, Ellen® McLaughlin, James') was bom 1922. He married
+<lb/>Margaret Healey 1948.
+<lb/>Children of Francis Van Nortwick and Margaret Healey are;
+<lb/>529 i. Ellen E.® Van Nortwick, born 1949.
+<lb/>530 ii. Kathryn Van Nortwick, born 1952.
+<lb/>531 iii. Christopher Van Nortwick, born 1956. He married Roberta.
+<lb/>532 iv. Andrew Van Nortwick, born 1950. He married Vicky.
+<lb/>240. Jean® Van Nortwick (William", William®, Ellen® McLaughlin, James') was born 1925. She married
+<lb/>David Carman 1952.
+<lb/>Children of Jean Van Nortwick and David Carman are:
+<lb/>533 i. Donna Rae® Carman, born 1953.
+<lb/>534 ii. William Earl Carman, bom 1954.
+<lb/>535 iii. Paul Carman, born 1956. He married Pat.
+<lb/>+  536 iv. Mary Ellen Carman, born 1959.
+<lb/>241. James® Van Nortwick (William", William®, Ellen® McLaughlin, James') was born 1929. He married
+<lb/>Patricia Bachand 1954.
+<lb/>Children of James Van Nortwick and Patricia Bachand are:
+<lb/>537 i. Monica Ann® Van Nortwick, born 1955. She married James G Williams.
+<lb/>538 ii. Mary Grace Van Nortwick, born 1957.
+<lb/>+ 539 iii. James Van Nortwick,Jr., bom 1958.
+<lb/>+ 540 iv. Gerald Albini Van Nortwick, born 1960.
+<lb/>541 V. Patrice E Van Nortwick, born 1961.
+<lb/>+ 542 vi. Pamela Marie Van Nortwick, born 1962.
+<lb/>Generation No. 6
+<lb/>270. Ralph Eugene® Borden (Lois® McLaughlin, William", Charles®, William®, James') was bom 1950. He
+<lb/>married Kim Okai 1971.
+<lb/>Children of Ralph Borden and Kim Okai are:
+<lb/>543 i. Suzanne® Borden, born 1972; died 1972.
+<lb/>544 ii. Tina Maria Borden, born 1973.
+<lb/>545 iii. (SON) Borden, bom 1974.
+<lb/>274. Catherine Ann® Rowe (Lucille® McLaughlin, William", Charles®, William®, James') was bom 1959.
+<lb/>She married Dale Romme 1993.
+<lb/>Children of Catherine Rowe and Dale Roimne are:
+<lb/>546 i. Elizabeth Mary'Romme, born 1994.
+<lb/>547 ii. Matthew Joseph Romme, born 1997.
+<lb/>548 iii. Caroline Catherine Romme, born 1999.
+<pb n="30" facs="#page-029"/>
+<lb/>275. Richard Lloyd"" Rowe (Lucille' McLaughlin, William", Charles', William', James') was bom 1961. He
+<lb/>married Cara Moen 1990.
+<lb/>Children of Richard Rowe and Cara Moen are:
+<lb/>549 i. Daniel Richard' Rowe, born 1992.
+<lb/>550 ii. John Patrick Rowe, bom 1994.
+<lb/>551 iii. David Joseph Rowe, bom 1998.
+<lb/>276. Elizabeth Mary" Rowe (Lucille' McLaughlin, William", Charles', William', James') was born 1963.
+<lb/>She married Thomas Onak 1989.
+<lb/>Children of Elizabeth Rowe and Thomas Onak are:
+<lb/>552 i. Heather Catherine' Onak, bom 1995 in twin sister of Meghan.
+<lb/>553 ii. Meghan Elizabeth Onak, bom 1995.
+<lb/>277. Steven William'" Rowe (Lucille' McLaughlin, William", Charles', William', James') was bom 1964. He
+<lb/>married Anett Surdyk 1995.
+<lb/>Children of Steven Rowe and Anett Surdyk are:
+<lb/>554 1. Kathleen Marie'Rowe, bom 1998.
+<lb/>555 ii. Kellie Eryn Rowe, born 2000.
+<lb/>298. Jack" Frost (Raymond', Margaret" McLaughlin, William P.', William', James') was bom 1949. He
+<lb/>married Rosalind Burns 1969. She was bom 1950.
+<lb/>Children of Jack Frost and Rosalind Burns are:
+<lb/>556 i. Katie'Frost, bom 1981.
+<lb/>557 ii. Jackylin Frost.
+<lb/>300. Terry" Frost (Raymond', Margaret" McLaughlin, William P.', William', James') was born 1951. She
+<lb/>married Edward Abadia November 1974.
+<lb/>Child of Terry Frost and Edward Abadia is:
+<lb/>558 i. Vanissa'Abadia, born 1977.
+<lb/>302. Michael" Frost (Raymond', Margaret" McLaughlin, William P.', William', James') was bom 1954. He
+<lb/>married Debra Stanford June 3, 1975.
+<lb/>Children of Michael Frost and Debra Stanford are:
+<lb/>.  Alan' Frost, bom December 15, 1975; died 2003.
+<lb/>.  Amber Frost, bom 1977.
+<lb/>.  Donna Frost, bom 1980.
+<lb/>308. David" Button (Helen' Frost, Margaret" McLaughlin, William P.', William', James') was bom 1948.
+<lb/>He married Victoria Gozales 1969.
+<lb/>Children of David Button and Victoria Gozales are:
+<lb/>562 1. Johnnie'Button, born 1971.
+<lb/>563 ii. Aaron Button, born 1973.
+<lb/>310. JoAnn" Button (Helen' Frost, Margaret" McLaughlin, William P.', William', James') was bom 1950.
+<pb n="31" facs="#page-030"/>
+<lb/>She married David Tuma 1966.
+<lb/>Children of JoAnn Button and David Tuma are:
+<lb/>564 i. Michael Scott^ Tuma, born 1967.
+<lb/>565 ii. Melissa Tuma, born 1968.
+<lb/>313. Kelly Jo'' Mayes (Anita' Frost, Florence'' McLaughlin, William P.', William^ James') was born March
+<lb/>22, 1961. She married Loren Winters 1987. He was born 1957.
+<lb/>Children of Kelly Mayes and Loren Winters are:
+<lb/>566 i. John Allen' Winters, bom 1989.
+<lb/>567 ii. Joseph Jess Winters, born 1992.
+<lb/>314. Kathryn^ Mayes (Anita' Frost, Florence" McLaughlin, William P.', William', James') was born January
+<lb/>28, 1966. She married Brian Watson 1988. He was bom July 1966.
+<lb/>Children of Kathryn Mayes and Brian Watson are:
+<lb/>568 i. Braden Scott' Watson, born 1993.
+<lb/>569 ii. Adam Brian Watson, bom 1999.
+<lb/>319. Jennie Lee" Bulkley (John', Edna Martha" McLaughlin, Daniel', William', James') was born 1945. She
+<lb/>married Robert Guthrie.
+<lb/>Children of Jennie Bulkley and Robert Guthrie are:
+<lb/>570 i. Katrina'Guthrie, born 1969.
+<lb/>571 ii. Cheryl Lynn Guthrie, bom 1972.
+<lb/>320. Daniel John" Bulkley (John', Edna Martha" McLaughlin, Daniel', William', James') was bom 1946. He
+<lb/>married Kathy Cox 1967.
+<lb/>Children of Daniel Bulkley and Kathy Cox are:
+<lb/>572 i. Teri Sue'Bulkley, bom 1969.
+<lb/>573 ii. Tricia Ann Bulkley, born 1972.
+<lb/>574 iii. Todd Bulkley, born July 11, 1977.
+<lb/>321. Richard" Bulkley (John', Edna Martha" McLaughlin, Daniel', William', James') was bom 1951. He
+<lb/>married (1) Diane Morgan 1971. He married (2) Carol Swan 1978.
+<lb/>Child of Richard Bulkley and Diane Morgan is:
+<lb/>575 i. Anthony Richard'Bulkley, born 1973.
+<lb/>323. Eileen" Bulkley (John', Edna Martha" McLaughlin, Daniel', William', James') was bom 1955. She
+<lb/>married Terry O'Brian 1974.
+<lb/>Child of Eileen Bulkley and Terry O'Brian is:
+<lb/>576 i. Terry'O'Brian, bom July 15, 1976.
+<lb/>325. Susan Rose" Bulkley (John', Edna Martha" McLaughlin, Daniel', William', James') was born 1958.
+<lb/>She married Kevin Rook 1978.
+<lb/>Child of Susan Bulkley and Kevin Rook is:
+<lb/>577 i. Amanda'Rook, bom 1980.
+<pb n="32" facs="#page-031"/>
+<lb/>330. Joan Marie*^ Keefer (Mary^ Bulkley, Edna Martha'' McLaughlin, DanieL, WiIliam^ James') was bom
+<lb/>November 28, 1947. She married GilbertThomas Gushing June 15, 1968. He was born October 18, 1945.
+<lb/>Children of Joan Keefer and GilbertThomas Gushing are:
+<lb/>578 i. Michael Pat' Gushing, born November 6, 1969.
+<lb/>579 ii. Monica Rae Gushing, born March 23, 1973. She married Steven Robert Padgett March 25,
+<lb/>1995; born March 27, 1968.
+<lb/>331. Mary Kay® McRae (Rita® Bulkley, Edna Martha" McLaughlin, Daniel®, William®, James') was bom
+<lb/>September 13, 1954. She married John Brennan August 21, 1976. He was bom January 22, 1952.
+<lb/>Ghildren of Mary McRae and John Brerman are:
+<lb/>580 i. Michael'Brennan, bom April 20, 1978.
+<lb/>581 ii. Daniel Brerman, bom January 25, 1983.
+<lb/>333. Elizabeth Jane® McRae (Rita® Bulkley, Edna Martha" McLaughlin, Daniel®, William®, James') was born
+<lb/>June 3, 1958. She married Timothy Atwood June 15, 1985. He was born October 21, 1960.
+<lb/>Ghild of Elizabeth McRae and Timothy Atwood is:
+<lb/>582 i. Thomas Glark'Atwood, bom May 18, 1988.
+<lb/>334. Patricia Ann® McRae (Rita® Bulkley, Edna Martha" McLaughlin, Daniel®, William®, James') was born
+<lb/>January 4, 1960. She married Fredrick Murty October 20, 1990. He was bom September 17, 1953.
+<lb/>Ghild of Patricia McRae and Fredrick Murty is:
+<lb/>583 i. Victoria'Murty, bom November 14, 1992.
+<lb/>335. Maureen® McRae (Rita® Bulkley, Edna Martha" McLaughlin, Daniel®, William®, James') was bom
+<lb/>December 29, 1961. She married Andrew Sacks September 11, 1986. He was born July 8, 1952.
+<lb/>Ghildren of Maureen McRae and Andrew Sacks are:
+<lb/>584 i. Eric'Sacks, born November 19, 1990.
+<lb/>585 ii. Kevin Sacks, born Februaiy 1, 1993.
+<lb/>586 hi. Emily McRae Sacks, born November 26, 1997.
+<lb/>336. Michael E.® McRae (Rita® Bulkley, Edna Martha" McLaughlin, Daniel®, William®, James') was bom
+<lb/>August 6, 1966. He married Kellie Jasinski October 14, 1994. She was born June 28, 1969.
+<lb/>Ghildren of Michael McRae and Kellie Jasinski are:
+<lb/>587 i. Paige Elisabeth'McRae, bom September 19, 1995.
+<lb/>588 ii. Meridyth Erin McRae, bom July 8, 2004.
+<lb/>338. Terry Michael® McLaughlin (Edward A®, Arthur", Daniel®, William®, James') was born October 12,
+<lb/>1952. He married (1) Judy K Daly August 4, 1973. He married (2) Shelly Allen September 25, 1976. He
+<lb/>married (3) Ellen Stowell August 29, 1993.
+<lb/>Ghild of Terry McLaughlin and Shelly Allen is:
+<lb/>589 i. Mikaela'McLaughlin, born September 1, 1977.
+<lb/>339. Jean Marie® McLaughlin (Edward A®, Arthur", Daniel®, William®, James') was bom November 29,
+<lb/>1954. She married Jeff Barren March 2, 1974.
+<pb n="33" facs="#page-032"/>
+<lb/>Children of Jean McLaughlin and Jeff Barren are:
+<lb/>590 i. Christopher' Barren, born September 7, 1974; died July 15, 1975.
+<lb/>591 ii. Jason Barren, bom January 5, 1978. He married Sabrina M Treaster August 28, 1999.
+<lb/>341. Richard Edward'^ McLaughlin (Edward A', Arthur", DanieP, William', James') was born November
+<lb/>30, 1960. He married Wendy A Allyn November 24, 1979.
+<lb/>Children of Richard McLaughlin and Wendy Allyn are:
+<lb/>592 1. Jeremy'McLaughlin, born April 26, 1980.
+<lb/>593 ii. Nicole McLaughlin, born March 16, 1984.
+<lb/>342. Michael Lester" McLaughlin (Edward A", Arthur", Daniel', William', James') was bom May 14, 1967.
+<lb/>He married Gary Moylan September 13, 1997.
+<lb/>Child of Michael McLaughlin and Cary Moylan is:
+<lb/>594 i. Courtney' McLaughlin, born March 13, 1992.
+<lb/>345. Karen Elaine" McLaughlin (Donald P", Arthur", Daniel', William', James') was born 1963.
+<lb/>Child of Karen Elaine McLaughlin is:
+<lb/>595 i. Michael'McLaughlin, born 1985.
+<lb/>348. Deborah Ann" McLaughlin (Bernard Thomas', Arthur", Daniel', William', James') was born March 23,
+<lb/>1958. She married Edward Uri Shelden July 15, 1978. He was born November 6, 1957.
+<lb/>Children of Deborah McLaughlin and Edward Shelden are:
+<lb/>596 i. Amanda Renee' Shelden, born December 9, 1982.
+<lb/>597 ii. Meghan Elizabeth Shelden, bom March 25, 1985.
+<lb/>349. Colleen Marie" McLaughlin (Bernard Thomas', Arthur", Daniel', William', James') was bom October
+<lb/>10, 1959. She married Archie Leiand Haner October 29, 1977. He was born 1958.
+<lb/>Children of Colleen McLaughlin and Archie Haner are:
+<lb/>598 i. Jenny'Bogaczyk, bom October 1977.
+<lb/>599 ii. Archie Leiand Haner,Jr., born January 3, 1979.
+<lb/>600 ill. Beth Arm Haner, bom September 29, 1981.
+<lb/>601 iv. Kayla Marie Haner, bom April 25, 1987.
+<lb/>602 V. Kyle Haner, born November 28, 1990; died 1991.
+<lb/>350. Kathleen Ann" McLaughlin (Bernard Thomas', Arthur", Daniel', William', James') was born May 9,
+<lb/>1961. She married Michael Siglin September 19, 1981. He was born November 30, 1959.
+<lb/>Children of Kathleen McLaughlin and Michael Siglin are:
+<lb/>603 i. Joshua Michael' Siglin, born October 6, 1983.
+<lb/>604 ii. Zachery Michael Siglin, born October 25, 1989.
+<lb/>605 iii. Molly Katherine McLaughlin Siglin, bom December 27, 1991.
+<lb/>351. Bernard Thomas" McLaughlin II (Bernard Thomas', Arthur", Daniel', William', James') was born
+<lb/>August 5, 1962. He married Cherilyn Lorene Allen March 3, 1983. She was bom 1961.
+<lb/>Children of Bernard McLaughlin and Cherilyn Allen are:
+<lb/>606 i. Brearma Jacquline'McLaughlin, born January 27, 1987.
+<pb n="34" facs="#page-033"/>
+<lb/>ii. Paige Lorene McLaughlin, born July 31, 1988.
+<lb/>352. Patrick MichaeP McLaughlin (Bernard Thomas', Arthur'', DanieP, William^, James') was bom
+<lb/>December 15, 1965. He married Kelly West May 12, 1990. She was bom October 25, 1965.
+<lb/>Children of Patrick McLaughlin and Kelly West are;
+<lb/>608 i. Alexis Marie^ McLaughlin, born December 31, 1990.
+<lb/>609 ii. Collin Patrick McLaughlin, born November 9, 1993.
+<lb/>353. Bernadette Marie" McLaughlin (Bernard Thomas', Arthur", Daniel', William^, James') was bom
+<lb/>August 19, 1969. She married Scott Francis Lovejoy April 7, 1990. He was born August 12, 1967.
+<lb/>Children of Bernadette McLaughlin and Scott Lovejoy are:
+<lb/>610 i. Monica Marie' Lovejoy, bom January 16, 1985.
+<lb/>611 ii. Olivia Danielle Lovejoy, born May 12, 2000.
+<lb/>354. Ann Elizabeth" Fennell (Anna Cecelia' McLaughlin, F Maynard", Daniel', William', James') was bom
+<lb/>October 25, 1957. She married William Simmons June 29, 1991.
+<lb/>Child of Ann Fennell and William Simmons is:
+<lb/>612 i. Matthias John' Simmons, born March 17, 1994.
+<lb/>355. Mary Katherine" Fennell (Anna Cecelia' McLaughlin, F Maynard", Daniel', William', James') was
+<lb/>born May 29, 1959. She married William Manchenton September 9, 1995.
+<lb/>Child of Mary Fennell and William Manchenton is:
+<lb/>613 i. Liam Matthias'Manchenton, born May 6, 1998.
+<lb/>357. Julia Maureen" Fennell (Anna Cecelia' McLaughlin, F Maynard", Daniel', William', James') was born
+<lb/>October 13, 1961. She married David Smykowski 1990.
+<lb/>Children of Julia Fennell and David Smykowski are:
+<lb/>614 i. Brian Andrew' Smykowski, born December 17, 1991.
+<lb/>615 ii. John David Smykowski, born April 4, 1995.
+<lb/>616 iii. Emma Ann Smykowski, bom May 8, 1998.
+<lb/>358. Sheila Mary" Fennell (Anna Cecelia' McLaughlin, F Maynard", Daniel', William', James') was born
+<lb/>November 2, 1962. She married Frank Castellano 1993.
+<lb/>Children of Sheila Fennell and Frank Castellano are:
+<lb/>617 i. Mary Kate'Castellano, born September 8, 1995.
+<lb/>618 ii. Phelan James Castellano, born January 20, 1997.
+<lb/>619 iii. Anthony Gerard Castellano, born June 25, 1998.
+<lb/>359. Timothy S." Fennell (Anna Cecelia' McLaughlin, F Maynard", Daniel', William', James') was bom
+<lb/>November 16, 1963. He married Alicia Pier 1985.
+<lb/>Children of Timothy Fennell and Alicia Pier are:
+<lb/>620 i. Timothy Sean' Fennell, bom September 14, 1987.
+<lb/>621 ii. Jaclyn Alysse Fennell, born October 25, 1989.
+<pb n="35" facs="#page-034"/>
+<lb/>360. Kathleen Mary' Fennell (Anna Cecelia' McLaughlin, F Maynard", DanieP, William^, James') was born
+<lb/>October 30, 1964. She married David Carlson 1989.
+<lb/>Child of Kathleen Fennell and David Carlson is;
+<lb/>622 i. Liimea Ann^ Carlson, born January 7, 1993.
+<lb/>361. Terrence Patrick' Fennell (Arma Cecelia' McLaughlin, F Maynard", DanieP, William^, James') was
+<lb/>bom December 26, 1967. He married Adriana Miranda 1993.
+<lb/>Children of Terrence Fennell and Adriana Miranda are:
+<lb/>623 i. Meagan Miranda'Fennell, born December 2, 1995.
+<lb/>624 ii. Terrance Patrick Fennell Jr, born May 30, 1997.
+<lb/>625 hi. Ryan Lambert Fennell, born May 22, 2002.
+<lb/>362. Ellen Mary' Fennell (Anna Cecelia' McLaughlin, F Maynard", DanieP, William', James') was born
+<lb/>December 17, 1968. She married Todd dn Maire 1988.
+<lb/>Children of Ellen Fennell and Todd du Maire are:
+<lb/>626 i. Karah Ann'du Maire, born February 3, 1989.
+<lb/>627 ii. Vincent Paul du Maire, born June 25, 1996.
+<lb/>363. Alice Marilyn' Fennell (Anna Cecelia' McLaughlin, F Maynard"*, DanieP, William', James') was born
+<lb/>February 10, 1970. She married Aksorn Hongthong 1998.
+<lb/>Child of Alice Fennell and Aksorn Hongthong is:
+<lb/>628 i. Ann Lusada' Hongthong, born June 6, 2002.
+<lb/>365. Michelle Ann' McLaughlin (Daniel John', F Maynard'*, DanieP, William', James') was born December
+<lb/>7, 1963. She married Richard L. Niles May 22, 1993. He was born November 9, 1962.
+<lb/>Children of Michelle McLaughlin and Richard Niles are:
+<lb/>629 i. Nathan Richard' Niles, bom December 1, 1995.
+<lb/>630 ii. Megan Elizabeth Niles, born December 2, 1999.
+<lb/>367. Lisa Joan' McLaughlin (Maynard Francis', F Maynard"*, DanieP, William', James') was born May 3,
+<lb/>1962. She married Paul G. Wyncoop July 2, 1988.
+<lb/>Children of Lisa McLaughlin and Paul Wyncoop are:
+<lb/>631 i. Blias Gerard' Wyncoop, born August 27, 1998.
+<lb/>632 ii. Xavier Jude Wyncoop, born December 11, 2001.
+<lb/>368. Mary Cecelia' McLaughlin (Maynard Francis', F Maynard'*, DanieP, William', James') was bom June
+<lb/>28, 1963. She married Christopher G. Mathon July 14, 1990.
+<lb/>Children of Mary McLaughlin and Christopher Mathon are:
+<lb/>633 i. Charles Francis'Mathon, born October 24, 1992.
+<lb/>634 ii. Patrick Brennan Mathon, born April 19, 1994.
+<lb/>635 ill. Cecelia Josephine Mathon, born April 23, 1996.
+<lb/>636 iv. Marlene Rose Mathon Mathon, born December 14, 1999.
+<lb/>369. Sheila Catherine' McLaughlin (Maynard Francis', F Maynard", DanieP, William', James') was born
+<lb/>November 11, 1964. She married Anthony Shaw March 17, 1995.
+<pb n="36" facs="#page-035"/>
+<lb/>Children of Sheila McLaughlin and Anthony Shaw are:
+<lb/>637 i. Wyatt'Shaw, bom April 14, 1992.
+<lb/>638 ii. George Maynard Shaw, bom November 4, 1997.
+<lb/>639 iii. Lillian Catherine Shaw, born Febmary 1, 2001.
+<lb/>371. Frank Gerard*" McLaughlin (Maynard Francis^ F Maynard", DanieL, William^, James') was bom
+<lb/>October 1, 1968. Fie married Julie Nasteff September 11, 1999.
+<lb/>Children of Frank McLaughlin and Julie Nasteff are:
+<lb/>640 i. Mary Jude'McLaughlin, born June 4, 2001.
+<lb/>641 ii. Thomas Paul McLaughlin, born August 7, 2003.
+<lb/>374. William John*" Reeder (Sheila Mary^ McLaughlin, F Maynard", DanieP, William^, James') was bom
+<lb/>June 17, 1964. Fie married Betsy Moran October 7, 1989. She was born June 10, 1965.
+<lb/>Children of William Reeder and Betsy Moran are:
+<lb/>642 i. Nicole' Reeder, bom September 15, 1992.
+<lb/>643 ii. William Reeder, born December 25, 1994.
+<lb/>644 iii. Daniel Reeder, born April 21, 1996.
+<lb/>375. Thomas Attaway^ Reeder (Sheila Mary^ McLaughlin, F Maynard", DanieP, William', James') was
+<lb/>born July 26, 1965. Fie married Siobhan Moran May 25, 2002. She was born April 2, 1971.
+<lb/>Child of Thomas Reeder and Siobhan Moran is:
+<lb/>645 i. Olivia Ann'Reeder, born November 1, 2003.
+<lb/>376. Mary Reagan*^ Reeder (Sheila Mary" McLaughlin, F Maynard", DanieP, William', James') was bom
+<lb/>August 24, 1968. She married Jeffrey Budd October 12, 1991. He was bom April 10, 1968.
+<lb/>Children of Mary Reeder and Jeffrey Budd are:
+<lb/>646 i. Ryan Jeffrey' Budd, born Februaiy 23, 1992.
+<lb/>647 ii. Molly Regan Budd, born September 28, 1996.
+<lb/>377. Elizabeth Lusk^ Reeder (Sheila Mary" McLaughlin, F Maynard", DanieP, William', James') was bom
+<lb/>November 15, 1971. She married Peter Strauss. He was bom September 3, 1970.
+<lb/>Child of Elizabeth Reeder and Peter Strauss is:
+<lb/>648 i. Grace Elizabeth'Strauss, bom January 1, 2003.
+<lb/>378. Patrick J.^ Bassney (Catherine Dwan" McLaughlin, F Maynard", Daniel", William', James') was bom
+<lb/>August 29, 1962. He married Nancy McLaughlin May 30, 1987.
+<lb/>Children of Patrick Bassney and Nancy McLaughlin are:
+<lb/>649 i. Kevin'Bassney, bom April 7, 1990.
+<lb/>650 ii. Sean Bassney, born November 3, 1991.
+<lb/>651 iii. Erin Bassney, bom March 17, 1993.
+<lb/>379. Ann M." Bassney (Catherine Dwan" McLaughlin, F Maynard", Daniel", William', James') was bom
+<lb/>September 1, 1963. She married Alan Bosch November 25, 1995.
+<lb/>Children of Ann Bassney and Alan Bosch are:
+<lb/>652 i. Daniel' Bosch, born October 12, 1996.
+<pb n="37" facs="#page-036"/>
+<lb/>653 ii. Matthew Bosch, born May 15, 1999.
+<lb/>381. Richard® Bassney, Jr. (Catherine Dwan' McLaughlin, F Maynard", DanieP, William^, James') was born
+<lb/>November 23, 1965. He married Katharine Strange November 17, 1990.
+<lb/>Children of Richard Bassney and Katharine Strange are:
+<lb/>654 i. Anna' Bassney, born December 27, 1992.
+<lb/>655 ii. John Bassney, born August 19, 1996.
+<lb/>656 iii. Margaret Bassney, born February 12, 2000.
+<lb/>384. Carolyn Janet® Dolan (Elizabeth Jean^ McLaughlin, F Maynard"*, DanieL, William', James') was born
+<lb/>March 31, 1970. She married Dayton Handrick IV October 19, 1996. He was born April 26, 1972.
+<lb/>Child of Carolyn Dolan and Dayton Handrick is:
+<lb/>657 i. Meridith Rose' Handrick, born February 3, 2003; died March 13, 2003.
+<lb/>385. Mary Elizabeth® Sullivan (Kathleen Marie' McLaughlin, Thomas Hendrick", Daniel", William',
+<lb/>James') was born November 8, 1966. She married John Richard Kallenborn July 28, 1990 in Corning, New
+<lb/>York.
+<lb/>Children of Mary Sullivan and John Kallenborn are:
+<lb/>658 i. Jessica Anne'Kallenborn, born July 12, 1993.
+<lb/>659 ii. Kelli Marie Kallenborn, bom June 21, 1996.
+<lb/>386. Thomas Patrick® Sullivan (Kathleen Marie' McLaughlin, Thomas Hendrick'', Daniel", William',
+<lb/>James') was born May 3, 1968. He married Debra Pianghi October 7, 1995.
+<lb/>Children of Thomas Sullivan and Debra Pianghi are:
+<lb/>660 i. Bailey Patrick' Sullivan, bom March 7, 1997.
+<lb/>661 ii. Kelsey Erin Sullivan, born July 2, 1999.
+<lb/>662 iii. Reilly Enya Sullivan, bom February 8, 2003.
+<lb/>387. Kathleen Ann® Sullivan (Kathleen Marie' McLaughlin, Thomas Hendrick", Daniel", William', James')
+<lb/>was bom August 19, 1969. She married Robert Kime April 5, 1997.
+<lb/>Children of Kathleen Sullivan and Robert Kime are:
+<lb/>663 i. Brianna Marie' Kime, born September 17, 1997.
+<lb/>664 ii. Kaitlyn Grace Kime, born June 10, 1999.
+<lb/>388. Maria Ann® Kehler (Catherine' Carey, Evelyn" McLaughlin, Daniel", William', James') was bom
+<lb/>November 4, 1961. She married John David DeLucia February 27, 1988. He was bom September 18, 1956.
+<lb/>Children of Maria Kehler and John DeLucia are:
+<lb/>665 i. Colleen Marie'DeLucia, bom July 20, 1988.
+<lb/>666 ii. Courtney Rose DeLucia, bom January 22, 1990.
+<lb/>390. Gretchen® Kehler (Catherine' Carey, Evelyn" McLaughlin, Daniel", William', James') was born May
+<lb/>25, 1966. She married Glenn Millar November 29, 1991. He was born October 16, 1949.
+<lb/>Child of Gretchen Kehler and Glenn Millar is:
+<lb/>667 i. Raymond Jon'Millar, born April 21, 1994.
+<pb n="38" facs="#page-037"/>
+<lb/>391. Thomas Raymond' Ward (Sharon' Carey, Evelyn'' McLaughlin, DanieP, William^, James') was born
+<lb/>August 3, 1963. He married Julie Werner January 17, 1987. She was born May 18, 1963.
+<lb/>Children of Thomas Ward and Julie Werner are:
+<lb/>668 i. Ann Sharline" Ward, bom July 20, 1990.
+<lb/>669 ii. Laurea Wemer Ward, born May 5, 1994.
+<lb/>392. Brian' Ward (Sharon' Carey, Evelyn'' McLaughlin, Daniel', William', James') was born June 19, 1965.
+<lb/>He married Holly Weaver June 6, 1992. She was born September 27, 1963.
+<lb/>Children of Brian Ward and Holly Weaver are:
+<lb/>670 i. Zackery BrE Ward, born March 31, 1993.
+<lb/>671 ii. Nathaniel Carey Ward, born November 28, 1994.
+<lb/>396. Kathrine' Landolf (Evelyn Augusta McLaughlin', Paul Leroy" McLaughlin, Daniel', William', James')
+<lb/>was bom May 9, 1967 in Elmira, NY. She married Michael Tong Febmary 23, 1991 in Hornby, NY.
+<lb/>Children of Kathrine Landolf and Michael Tong are:
+<lb/>672 i. Elizabeth Ann'Tong, bom November 5, 1990.
+<lb/>673 ii. Ryan James Tong, born February 11, 1992.
+<lb/>674 ill. Ashley Nicole Tong, bom September 1, 1993.
+<lb/>398. Thomas Patrick' Landolf (Evelyn Augusta McLaughlin', Paul Leroy" McLaughlin, Daniel', William',
+<lb/>James') was born Jan 16, 1970 in Elmira, NY. He married Laura Komar September 26, 1992 in Batavia, NY.
+<lb/>Children of Thomas Landolf and Laura Komar are:
+<lb/>675 i. Kaitlin Marie' Landolf, born July 31, 1993.
+<lb/>676 ii. Chelsea Noel Landolf, born December 20, 1994.
+<lb/>677 ill. Thomas James Landolf, bom June 24, 1996.
+<lb/>678 iv. Abigail Elizabeth Landolf, born July 10, 2002.
+<lb/>399. John' Landolf (Evelyn Augusta McLaughlin', Paul Leroy" McLaughlin, Daniel', William', James') was
+<lb/>bom April 6, 1971 in Elmira, NY. He married Rachelle Romance April 7, 2001 in Hornby, NY.
+<lb/>Child of John Landolf and Rachelle Romance is:
+<lb/>679 i. John Charles' Landolf, born April 29, 2002.
+<lb/>400. Sharon' Landolf (Evelyn Augusta McLaughlin', Paul Leroy" McLaughlin, Daniel', William', James')
+<lb/>was bom June 7, 1972 in Elmira, NY.
+<lb/>Child of Sharon Landolf is:
+<lb/>680 i. Trevor'Lewis Collins, born December 29, 1996.
+<lb/>401. Mark' Landolf (Evelyn Augusta McLaughlin', Paul Leroy" McLaughlin, Daniel', William', James')
+<lb/>was bom January 22, 1977 in Elmira, NY. He married Janet James May 26, 2001 in Thomaston, CT.
+<lb/>Child of Mark Landolf and Janet James is:
+<lb/>681 i. Emily Rose'Landolf, born August 8, 2003.
+<lb/>402. Paul Ivan' Hill (Bernadette McLaughlin', Paul Leroy" McLaughlin, Daniel', William', James') was born
+<lb/>January 30, 1971 in Elmira, New York. He married Melissa Anne Fee November 29, 1997 in Grace United
+<lb/>Methodist Church, Coming, N.Y., daughter of Joseph C. Fee. She was bom in Coming , New York.
+<pb n="39" facs="#page-038"/>
+<lb/>Children of Paul Hill and Melissa Fee are:
+<lb/>682 i. Nicole Carolyn' Hill, bom May 11, 1999.
+<lb/>683 ii. Lauren Barbara Hill, bom August 1, 2002.
+<lb/>403. Robert" Hill (Bernadette McLaughlin", Paul Leroy'* McLaughlin, DanieP, William^, James') was born
+<lb/>June 16, 1972 in Ehnira, NY. He married Denise Somerville February 29, 2000 in Las Vegas, Nevada.
+<lb/>Children of Robert Hill and Denise Somerville are:
+<lb/>684 i. Jennifer Bernadette' Hill, bom September 13, 2000.
+<lb/>685 ii. Sarah Ann Hill, born March 25, 2002.
+<lb/>414. Sean Paul" Lynch (Ruth McLaughlin", Paul Leroy" McLaughlin, Daniel", William", James') was bom
+<lb/>March 6, 1972 in Rockaway, New York. He married Christine Nelson August 1, 2003.
+<lb/>Child of Sean Lynch and Christine Nelson is:
+<lb/>686 i. Ryan Patrick' Lynch, bom May 12, 2005.
+<lb/>415. Mary Kate" Lynch (Ruth McLaughlin", Paul Leroy" McLaughlin, Daniel", William", James') was born
+<lb/>May 10, 1973.
+<lb/>Child of Mary Kate Lynch is:
+<lb/>687 i. Owen' Lynch, born June 15, 1999.
+<lb/>417. Timothy John" McLaughlin (John", Paul Leroy", Daniel", William", James') was bom May 6, 1972. He
+<lb/>married Suzanne DeMay May 29, 1999.
+<lb/>Child of Timothy McLaughlin and Suzanne DeMay is:
+<lb/>688 i. Avery John'McLaughlin, bom December 2, 2003.
+<lb/>419. William" McLaughlin (John", Paul Leroy", Daniel", William", James') was bom September 21, 1976.
+<lb/>He married Lorri Ratigan July 14, 2000.
+<lb/>Child of William McLaughlin and Lorri Ratigan is:
+<lb/>689 i. Shannon Rose'McLaughlin, bom March 6, 2003.
+<lb/>424. Christine Marie" Aranda (Mary Kathrine McLaughlin", Paul Leroy" McLaughlin, Daniel", William",
+<lb/>James') was born August 19, 1974 in Corning , New York. She married David Cavallaro February 1, 1997 in
+<lb/>Corning, New York.
+<lb/>Children of Christine Aranda and David Cavallaro are:
+<lb/>690 i. Marissa Lee' Cavallaro, bom February 20, 1998 in Elmira, New York.
+<lb/>691 ii. Spencer David Cavallaro, bom December 12, 1999.
+<lb/>433. Raymond" McLaughlin (Thomas", Paul Leroy", Daniel", William", James') was bom February 5, 1974.
+<lb/>He married Amy Starner May 1, 1999.
+<lb/>Child of Raymond McLaughlin and Amy is:
+<lb/>692 i. Leah Katherine' McLaughlin, bom September 29, 1999.
+<lb/>434. Nathan" McLaughlin (Thomas", Paul Leroy", Daniel", William", James') was bom February 26, 1975.
+<lb/>He married Heather Bruce June 1,2002 in Painted Post, New York. She was born June 16, 1972.
+<pb n="40" facs="#page-039"/>
+<lb/>Children of Nathan McLaughlin and Heather Bruce are:
+<lb/>693 i. Nathan James' McLaughlin, born November 13, 1998.
+<lb/>694 ii. Riley Connor McLaughlin, born May 14, 2003.
+<lb/>436. Holland'^ McLaughlin (Thomas^ Paul Leroy", Daniel', William', James') was bom June 24, 1977 in
+<lb/>Elmira, New York. He married Melanie Harnas August 31, 1996.
+<lb/>Children of Holland McLaughlin and Melanie Harnas are:
+<lb/>695 i. Ivy Marie'McLaughlin, bora January 21, 1997.
+<lb/>696 ii. Michaela Ann McLaughlin, born November 3, 1998.
+<lb/>697 iii. Lilly Katherine McLaughlin, born August 11, 2000.
+<lb/>443. Joseph' Divens (Carol McLaughlin', Paul Leroy'* McLaughlin, Daniel', William', James') was born
+<lb/>April 10, 1975 in Elmira, NY. He married April Velie April 15, 2002.
+<lb/>Child of Joseph Divens and April Velie is:
+<lb/>698 i. Alyson D.' Divens, bora February 11, 2003.
+<lb/>444. Daniel' Divens (Carol McLaughlin', Paul Leroy" McLaughlin, Daniel', William', James') was born
+<lb/>October 27, 1976 in Elmira, NY. He married Patricia McGrath.
+<lb/>Child of Daniel Divens and Patricia McGrath is:
+<lb/>699 i. Jace E'Divens, born May 18, 1998.
+<lb/>452. Christopher Alan' Mosher (Barry Rexford', Alice"* Harrison, Mary Ann' McLaughlin, William',
+<lb/>James') was born 1966. He married Michelle Richards May 2000. She was born 1969.
+<lb/>Child of Christopher Mosher and Michelle Richards is:
+<lb/>700 i. Holly Anne' Mosher, born May 2002.
+<lb/>453. Nancy Lynn' Mosher (Barry Rexford', Alice" Harrison, Mary Aim' McLaughlin, William', James') was
+<lb/>born 1968. She married Jerry Lynn Meece. He was born 1963.
+<lb/>Children of Nancy Mosher and Jerry Meece are:
+<lb/>701 i. Rebecca Ann'Meece, bora March 1991.
+<lb/>702 ii. Jerry Michael Meece, born November 1992.
+<lb/>455. Christine Ann' Harrison (Gale', Gerald", Mary Ann' McLaughlin, William', James') was born 1959.
+<lb/>She married Thomas Andreassi 1980.
+<lb/>Children of Christine Harrison and Thomas Andreassi are:
+<lb/>703 i. Anthony Thomas'Andreassi, born December 19, 1985.
+<lb/>704 ii. Nocholas Paul Andreassi, bora December 19, 1985.
+<lb/>456. Harvey Francis' Miller (Maureen' McLaughlin, Dudley", Frank', William', James') was born April 21,
+<lb/>1961. He married Gabrielle Hunter August 5, 1989. She was bora January 26, 1959.
+<lb/>Children of Harvey Miller and Gabrielle Hunter are:
+<lb/>705 i. Brittany Ann' Miller, born January 15, 1991.
+<lb/>706 ii. Nicole Maria Miller, born November 28, 1994.
+<lb/>457. Ann Marie' Miller (Maureen' McLaughlin, Dudley", Frank', William', James') was born January 28,
+<pb n="41" facs="#page-040"/>
+<lb/>1965. She married Richard Collins July 25, 1992. He was born June 27, 1966.
+<lb/>Children of Ann Miller and Richard Collins are:
+<lb/>707 i. Aidan^ Collins, bom May 14, 1996.
+<lb/>708 ii. Bridget Collins, bom June 20, 1998.
+<lb/>709 iii. Cian Collins, born April 5, 2000.
+<lb/>458. Arthur® Devenport,Jr. (Dorothy® Hendrick, Donald'' Hendricks, Kathryn® McLaughlin, William^,
+<lb/>James') was bom 1946. He married Patchara Suwansatit 1986 in Bangkok, Thailand.
+<lb/>Children of Arthur Devenport and Patchara Suwansatit are:
+<lb/>710 i. Samuel Arthur'Devenport, born 1988.
+<lb/>711 ii. Mila Dorothy Devenport, bom 1991.
+<lb/>459. Craig® Devenport (Dorothy® Hendrick, DonaW Hendricks, Kathryn® McLaughlin, William', James')
+<lb/>was bom 1950. He married (1) Sharill Putman 1971. He married (2) April Saleck July 26, 2003.
+<lb/>Children of Craig Devenport and Sharill Putman are:
+<lb/>712 i. Kimberly Trista'Devenport, born 1974.
+<lb/>713 ii. Amy Beth Devenport, born 1976. She married Keith Cavanaugh May 1998 in Wellsboro, PA.
+<lb/>714 iii. Rebecca Devenport, born 1979.
+<lb/>461. Kathy Ann® Cleesattel (Phyllis® Hendrick, Donald" Hendricks, Kathryn® McLaughlin, William', James')
+<lb/>was born 1949. She married (1) Richard Parks. She married (2) Gary Segal 2003.
+<lb/>Children of Kathy Cleesattel and Richard Parks are:
+<lb/>715 i. Keri Arm'Parks.
+<lb/>716 ii. William Parks.
+<lb/>463. Peter Michael® Hendrick (Paul D.®, Donald" Hendricks, Kathryn® McLaughlin, William', James') was
+<lb/>bom August 1, 1953. He married Elaine Lozon June 12, 1982.
+<lb/>Children of Peter Hendrick and Elaine Lozon are:
+<lb/>717 i. Lindsay M'Hendrick, born May 1, 1985.
+<lb/>718 ii. Ryan J Hendrick, born August 23, 1986.
+<lb/>719 iii. Heather A Hendrick, born April 30, 1989.
+<lb/>464. Mark® Hendrick (Paul D.®, Donald" Hendricks, Kathryn® McLaughlin, William', James') was bom
+<lb/>April 26, 1955. He married (1) Sue Irving December 4, 1976. He married (2) Belinda Bailey August 10, 1996.
+<lb/>Children of Mark Hendrick and Sue Irving are:
+<lb/>720 i. Christopher'Hendrick, bom July 1, 1980.
+<lb/>721 ii. Kimberley A Hendrick, born March 7, 1984.
+<lb/>480. Nancy® Ward (Elizabeth Jean® Keenan, Ethel" McCarty, James®, Honorah' McLaughlin, James') was
+<lb/>born 1948. She married Mike Schiovone 1969.
+<lb/>Child of Nancy Ward and Mike Schiovone is:
+<lb/>722 i. Kristina'Schiovone, born 1972.
+<lb/>481. Michael® Ward (Elizabeth Jean® Keenan, Ethel" McCarty, James®, Honorah' McLaughlin, James') was
+<lb/>bom 1949. He married Francine Ribley 1972.
+<pb n="42" facs="#page-041"/>
+<lb/>Children of Michael Ward and Francine Ribley are:
+<lb/>723 i. Chelsea'Ward, bom 1976.
+<lb/>724 ii. Donald Ward, born 1979.
+<lb/>496. Donald'^ Bixby (Clair^ Nellie" Hoyt, Mary^ Bryan, Honorah' McLaughlin, James') was born 1940. He
+<lb/>married Judy Thompson 1962.
+<lb/>Children of Donald Bixby and Judy Thompson are:
+<lb/>725 i. Donald'Bixby,Jr., bom 1963.
+<lb/>726 ii. Thomas Bixby, bom 1971.
+<lb/>497. John® Bixby (Clair®, Nellie" Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was bom 1942. He
+<lb/>married Delores Wilson 1964.
+<lb/>Children of John Bixby and Delores Wilson are:
+<lb/>727 i. Theresa'Bixby, born 1966. She married Thomas Havens.
+<lb/>728 ii. Paul Bixby, born 1967. He married Ninette Fredrickson.
+<lb/>498. Mary Elizabeth® Bixby (Clair®, Nellie" Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was born
+<lb/>1944. She married Jack Travis.
+<lb/>Child of Mary Bixby and Jack Travis is:
+<lb/>729 i. Michael'Travis, born 1970. He married Wendy Brown.
+<lb/>500. Mable® Bixby (Clair', Nellie" Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was bom 1947. She
+<lb/>married William Whitney July 26, 1968.
+<lb/>Child of Mable Bixby and William Whitney is:
+<lb/>730 i. Janet'Whitney, bom 1971.
+<lb/>502. Richard® Brouwere (Helen® Bixby, Nellie" Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was
+<lb/>bom 1946. He married Lacene Whitney 1964.
+<lb/>Children of Richard Brouwere and Lacene Whitney are:
+<lb/>731 i. Richard'Brouwere,Jr., born 1965.
+<lb/>732 ii. Michael Brouwere.
+<lb/>733 iii. Jonathan Brouwere.
+<lb/>503. Thomas® Brouwere (Helen® Bixby, Nellie" Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was
+<lb/>bom 1950. He married Mable Hopkins 1972.
+<lb/>Children of Thomas Brouwere and Mable Hopkins are:
+<lb/>734 i. Megan'Brouwere, bom 1980.
+<lb/>735 ii. Scott Brouwere.
+<lb/>504. James® Bixby (Carl®, Nellie" Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was born 1948. He
+<lb/>married Florella Haynes 1967.
+<lb/>Children of James Bixby and Florella Haynes are:
+<lb/>736 i. James Edward'Bixby, born 1971.
+<lb/>737 ii. Corey Bixby, born 1977.
+<pb n="43" facs="#page-042"/>
+<lb/>738 iii. Brett Bixby, born 1979. He married Linda Oakley.
+<lb/>508. Julia' Bixby (CarL, Nellie" Hoyt, Mary' Bryan, Honorah' McLaughlin, James') was born 1961. She
+<lb/>married Michael Dykes, Sr. 1979.
+<lb/>Child of Julia Bixby and Michael Dykes is:
+<lb/>739 i. Brandy''Dykes, bom 1979.
+<lb/>525. Stephen W.' Becker (Mary Helen' Van Nortwick, William", William', Ellen' McLaughlin, James') was
+<lb/>born 1946. He married Jamye Becker.
+<lb/>Children of Stephen Becker and Jamye Becker are:
+<lb/>740 i. Erich'Becker, born 1975.
+<lb/>741 ii. Alyson Becker, born 1977.
+<lb/>526. Thomas J." Becker (Mary Helen' Van Nortwick, William", William', Ellen' McLaughlin, James') was
+<lb/>bom 1947. He married Jayne Becker.
+<lb/>Children of Thomas Becker and Jayne Becker are:
+<lb/>742 1. Stephenie'Becker, born July 8, 1975.
+<lb/>743 ii. Gretchen Becker, born 1977.
+<lb/>528. Mary Ellen' Becker (Mary Helen' Van Nortwick, William", William', Ellen' McLaughlin, James') was
+<lb/>bom 1956. She married Donald Faulkner 1978.
+<lb/>Children of Mary Becker and Donald Faulkner are:
+<lb/>744 i. Jason' Faulkner.
+<lb/>745 ii. Sarah Leigh Faulkner.
+<lb/>536. Mary Ellen" Carman (Jean' Van Nortwick, William", William', Ellen' McLaughlin, James') was bom
+<lb/>1959. She married Jeff Fredrickson.
+<lb/>Children of Mary Carman and Jeff Fredrickson are:
+<lb/>746 i. Jeffery' Fredrickson.
+<lb/>747 ii. Maureen Fredrickson.
+<lb/>748 iii. Malin Fredrickson.
+<lb/>749 iv. Joel Fredrickson.
+<lb/>539. James" Van Nortwick,Jr. (James', William", William', Ellen' McLaughlin, James') was bom 1958. He
+<lb/>married Kim Farrer.
+<lb/>Children of James Van Nortwick and Kim Farrer are:
+<lb/>750 i. Graham'Normon, born 1990.
+<lb/>751 ii. John Tyler Normon, bom 1992.
+<lb/>752 iii. Charlotte Van Nortwick, born 1999.
+<lb/>540. Gerald Albini" Van Nortwick (James', William", William', Ellen' McLaughlin, James') was bom 1960.
+<lb/>He married Lisa Landberg.
+<lb/>Children of Gerald Van Nortwick and Lisa Landberg are:
+<lb/>753 i. Clay James'Van Nortwick, born 1995.
+<lb/>754 ii. Cole Robert Van Nortwick, born 1997.
+<pb n="44" facs="#page-043"/>
+<lb/>542. Pamela Marie"^ Van Nortwick (James', William", William', Ellen' McLaughlin, James') was bom
+<lb/>1962. She married Gary Woodward.
+<lb/>Child of Pamela Van Noitwick and Gary Woodward is:
+<lb/>755 i. Sophia' Woodward, bom 1999 in Hungary.
+</ab>
+    </body>
+  </text>
+</TEI>

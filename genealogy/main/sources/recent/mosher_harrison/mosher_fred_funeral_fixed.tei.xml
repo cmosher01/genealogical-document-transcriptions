@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher fred funeral fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-024.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-025" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-025.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-026" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-026.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-027" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-027.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-028" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-028.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-029" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-029.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-030" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-030.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-031" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-031.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-032" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_harrison/mosher_fred_funeral_fixed/p-032.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>■U, 32 y
+<lb/>fcso-
+<lb/>5 ce&lt;Ki;cL cUfX^
+<lb/>v) (biviK '9'3-7d6
+<lb/>(VVaOi ^ 5U«^ r:iAj^sOii
+<lb/>V_rv^
+<pb n="2" facs="#page-001"/>
+<lb/>cid^ V^ XAi 1^Vw^^C_ftAA^
+<lb/>^  vajc
+<pb n="3" facs="#page-002"/>
+<lb/>prvv&gt;-&gt;vx-3r
+<pb n="4" facs="#page-003"/>
+<lb/>oO^WAk.
+<lb/>oVas^
+<pb n="5" facs="#page-004"/>
+<lb/>0 700150 7
+<lb/>175S 20-8
+<lb/>0208
+<lb/>© HALLMARK CARDS, INC.
+<lb/>MADE IN U.S.A.
+<lb/>U.S. PAT. NO. 4,710,158
+<pb n="6" facs="#page-005"/>
+<lb/>rf§ 211^cTL
+<pb n="7" facs="#page-006"/>
+<lb/>FORGET ME NOT
+<lb/>+ TSTTTD +
+<lb/>AMERICAN KgS GREETINGS
+<lb/>0  18100 01279 3
+<lb/>+ 17SS SfllS-mj +
+<lb/>©AMERICAN GREETINGS CORP.
+<lb/>MADE IN U.S.A.
+<lb/>CA. CAf^ssage to Comjort jou
+<lb/>X
+<lb/>'THE ROSE
+<lb/>STILL
+<lb/>BLOOMS"
+<pb n="8" facs="#page-007"/>
+<lb/>lls.o(f
+<lb/>A rose once grew where all could see,
+<lb/>sheltered beside a garden wall.
+<lb/>And, as the days passed swiftly by,
+<lb/>it spread its branches, straight and tall.
+<lb/>One day, a beam of light shone through
+<lb/>a crevice that had opened wide—
+<lb/>The rose bent gently toward its warmth
+<lb/>then passed beyond to the other side.
+<lb/>Now, you who deeply feel its loss,
+<lb/>be comforted—the rose blooms there.
+<lb/>Its beauty even greater now,
+<lb/>nurtured by God's own loving care.
+<lb/>(Qod b[ess and keep you
+<lb/>everywhere
+<lb/>And hold you
+<lb/>in His lovinirnj care.
+<lb/>9^^
+<lb/>\  /Wo S h e T
+<lb/>i
+<pb n="9" facs="#page-008"/>
+<lb/>CARDS
+<lb/>0  18100806A7 7
+<lb/>+ 130CS SOflin +
+<lb/>©CARLTON CARDS, CLEVELAND. OH
+<lb/>MADE IN U.S.A.
+<pb n="10" facs="#page-009"/>
+<lb/>r•-0
+<pb n="11" facs="#page-010"/>
+<lb/>AN AMERICAN HEART
+<lb/>ASSCEIATION MEMORIAL
+<pb n="12" facs="#page-011"/>
+<lb/>WITH DEEPEST SYMPATHY
+<lb/>In Memory Of
+<lb/>A Contribution Has Been Received By The
+<lb/>American Heart Association
+<lb/>From
+<lb/>( wi2 )
+<lb/>With Condolences To
+<lb/>QSlte^
+<lb/>V American Heart Association
+<pb n="13" facs="#page-012"/>
+<lb/>i.9e
+<lb/>Omjvwdc
+<lb/>■
+<lb/>Ox^uf /jcrci, f (Xi^-
+<lb/>J  /lojV -fA-o-C* &amp;QU C4 A.cxJdt' tatJ&amp;L J24fuy-
+<lb/>J  (2&amp;k ile. tsf Cui^ jic&lt;.r4^&lt;Ji^
+<lb/>^l su HJUlJ te&gt; L&lt;i
+<lb/>nXfimfiyoufor calling onus.
+<lb/>Id^e zuisfi to e^ess our
+<lb/>appreciation for your confidence
+<lb/>in us, and fwpe that our
+<lb/>service has Seen satisfactory
+<lb/>and comforting to you in
+<lb/>every way.
+<lb/>a"fV ot
+<lb/>fWcxd. S O'W
+<pb n="14" facs="#page-013"/>
+<lb/>y\!V "v" 5, C /-/ct c Kyic
+<lb/>3758 Olive Avenue
+<lb/>Long Beach, Calif. 908G7
+<lb/>August 5, 1992
+<lb/>Dear Alta &amp; Jeril,
+<lb/>I am sorry that it is t^ing me this long to send you a letter. I
+<lb/>read about your brother, Fred, in the obituary section. It seems
+<lb/>that the Mid-York doesn't arrive as it should. Sometimes I don't
+<lb/>get it for two or three weeks later. At any rate, we are thinking
+<lb/>of all of you. I had forgotten that he had a son and he was a great-
+<lb/>^ther. If we had been back there, we would have attended the
+<lb/>services.
+<pb n="15" facs="#page-014"/>
+<lb/>•  - f
+<pb n="16" facs="#page-015"/>
+<lb/>No. 283
+<pb n="17" facs="#page-016"/>
+<lb/>Perhaps you sent a lovelp card,
+<lb/>Or sat quietip in a chair.
+<lb/>Perhaps pou sent a floral piece,
+<lb/>If so we saw it there.
+<lb/>Perhaps you spoke the kindest words,
+<lb/>As anp friend could say;
+<lb/>Perhaps you were not there at all.
+<lb/>Just thought of us that dap.
+<lb/>Whatever you did to console our hearts,
+<lb/>We thank you so much
+<lb/>whatever the part.
+<pb n="18" facs="#page-017"/>
+<lb/>JAwn^ t .^7}}ajuxAM^nL - SgIM. Si
+<lb/>ckaiM^ c^- 51J^
+<lb/>•■^d-lcr' XuSu^ - '^ajiuryx.
+<lb/>■UxMxj c^wh-^
+<lb/>^ /I
+<lb/>f\)
+<pb n="19" facs="#page-018"/>
+<lb/>7/7/92
+<lb/>SA.&amp;M. 0-iJ7uAJ
+<lb/>/joMJUe/n^ Qaa.
+<lb/>Ac-^ ts
+<lb/>2. ̂ OunlAj , JcTK ̂
+<pb n="20" facs="#page-019"/>
+<lb/>'^4—
+<lb/>mh w fhmp jpm ifmjf^
+<lb/>Qirmoo nok wb o) "iffivf
+<lb/>t'QO) 'mh fijnj mf y^bm/fp ym
+<lb/>mftnp V '^frj vnob wifm
+<lb/>jhom yyjf '^yi(nj mjm ym
+<lb/>ymyym ft iftmnj Tip mfm yyfrof^
+<lb/>jinn/b wo fmp Ttjy wtfrn ym
+<lb/>'hpoTii ft yyoon/ ftjy wifm
+<lb/>fmm&gt;Q jo Tmr ftyr W w£
+<pb n="21" facs="#page-020"/>
+<lb/>Ou/i fieoMi OM mxL
+<lb/>u m tkUik of
+<lb/>tke om wfw
+<lb/>fuu diffed aujcuf.
+<lb/>(^OW IfUWt ou/i
+<lb/>ckef lout
+<lb/>met HjfTifajtJuf!
+<lb/>/  ""V
+<pb n="22" facs="#page-021"/>
+[A transcription of this page is not available.]
+<pb n="23" facs="#page-022"/>
+<lb/>m
+<lb/>r^ram the
+<lb/>T~'RESURRECTION
+<lb/>If anyone
+<lb/>believes in
+<lb/>Me, even
+<lb/>though he
+<lb/>dies, he will
+<lb/>« LIVE.
+<lb/>John 11:26
+<lb/>xiem
+<pb n="24" facs="#page-023"/>
+<lb/>Frederick C. Mosher
+<lb/>July 4, 1992
+<lb/>She Lord is my shepherd; I
+<lb/>shall not want. He maketh me
+<lb/>to lie down in green pastures: tie
+<lb/>leadeth me beside the still waters.
+<lb/>He restoreth my soul: he leadeth me
+<lb/>in the paths of righteousness for His
+<lb/>name's sake. Yea, though I walk
+<lb/>through the valley of the shadow of
+<lb/>death, I will fear no evil: for thou art
+<lb/>with me. Thy rod and thy staff they
+<lb/>comfort me. Ttiou preparest a table
+<lb/>tiefore me in ttie presence of mine
+<lb/>enemies: thou anointest my head
+<lb/>with oil; my cup runneth over. Surely
+<lb/>goodness and mercy shall follow
+<lb/>me all the days of my life: and I will
+<lb/>dwell in the house of the Inrd
+<lb/>forever.
+<lb/>Paul Funeral Home
+<lb/>Madison, N.Y.
+<pb n="25" facs="#page-024"/>
+<lb/>315-893-7272
+<lb/>^Paut 'Jumxat Pi oms
+<lb/>JEFFREY T. PAUL, Director
+<lb/>PO 239-South St.
+<lb/>Madison, NY 13402
+<pb n="26" facs="#page-025"/>
+<lb/>With Deepest Sympathy
+<pb n="27" facs="#page-026"/>
+<lb/>Sender's Name:, QoA^ iSg-VULoU (L't
+<lb/>Address: ̂ t)i Eo/ 'V 7 (JJOiSlUX 'kcTxA
+<lb/>City; stnte: 7ip:
+<lb/>Reed's Florist
+<lb/>73 Lebanon Street
+<lb/>Hamilton, NY 13346
+<pb n="28" facs="#page-027"/>
+<lb/>In-Loving fflemory
+<lb/>Cund- ^dAoJ^
+<pb n="29" facs="#page-028"/>
+<lb/>ijuiA- (pllM.
+<lb/>Reed's Florist
+<lb/>38 Broad St.
+<lb/>Hamilton, NY 13346
+<pb n="30" facs="#page-029"/>
+<lb/>With SificereSyrt^pcfthy
+<lb/>FLOWERS BY FRAN
+<pb n="31" facs="#page-030"/>
+<lb/>'yt
+<lb/>i^hn _y
+<pb n="32" facs="#page-031"/>
+<lb/>your tronze memorial has heen treated with a
+<lb/>new[y=deve[oped finish. This protective application
+<lb/>will preserve its luster and heauty for many years.
+<lb/>Since any abrasive element used in cleaning it
+<lb/>will result in damage^ it is suggested that water
+<lb/>alone he used to remove surface dirt. To protect
+<lb/>against possible stain or damage to the finish of the
+<lb/>memoriah please do not place flower containers or
+<lb/>stands of any type on or near the memorial.
+<pb n="33" facs="#page-032"/>
+<lb/>MRS. FRANCES JONES
+<lb/>CHAPEL ST. 308
+<lb/>SHERBURNE, NY 13460-9753
+</ab>
+    </body>
+  </text>
+</TEI>

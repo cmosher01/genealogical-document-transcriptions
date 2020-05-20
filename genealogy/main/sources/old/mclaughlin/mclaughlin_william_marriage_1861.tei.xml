@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>McLaughlin Marriage Records, 1861</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+<bibl>
+<author>St. Mary’s of the Lake Church (Watkins Glen, New York, USA)</author>,
+<title level="u">Marriages 1849-1869</title> (manuscript copy),
+unnumbered pages, unnumbered entries in chronological order,
+<citedRange>pp. [8–9]</citedRange>;
+digital images, <title level="m">FamilySearch</title>
+(<ref target="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62"/> : 29 Sep 2018),
+FHL microfilm 1,432,401, DGS 7857668, image 194 of 1067.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mclaughlin/mclaughlin_william_marriage_1861/p-000.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="la">
+    <body>
+      <ab rend="grid">
+
+
+<pb n="9" facs="#page-000"/>
+<head><hi rend="center"><dateline>1861</dateline></hi></head>
+
+<ab>
+<head>
+<lb/>William M<hi rend="sup">c</hi>Laughlin
+<lb/>et Margaret Doherty
+<lb/><date when="1861-01-01">Januarii 1. 1861</date>.
+</head>
+<ab>
+<lb/>Omissis tribus denuntiationibus ex facultate a
+<lb/>Cancellario acce<subst><del>t</del><add type="overwrite">p</add></subst>ta Confunti in Matrimonio
+<lb/>Gulielimum filium Jacobi M<hi rend="sup">c</hi>Laughlin et Honorae
+<lb/>Doherty et Margarettam filiam G<add>e</add>orgii Doherty
+<lb/>Testos juere Joanes Brown et Elizabeth M<hi rend="sup">c</hi>Laughlin.
+<lb/><signed>J M<hi rend="sup">c</hi>Kenna.</signed>
+</ab>
+</ab>
+
+<ab>
+<head>
+<lb/>Charles ONeil
+<lb/>et Anne M<hi rend="sup">c</hi>Laughlin.
+<lb/><date when="1861-01-01">Jan. 1. 1861</date>.
+</head>
+<ab>
+<lb/>Omissis tribus denuntiationibus ex facultate
+<lb/>a Cancellario accepta Confunti in Matrimonio
+<lb/>Carolum filium Hugenis ONeil et Ellenum M<hi rend="sup">c</hi>
+<lb break="no"/>Brone et Annum filiam Jacobi M<hi rend="sup">c</hi>Laughlin
+<lb/>et Honorae Doherty. Testos juere Jacobus Caghlan
+<lb/>et Birgitta OKeefe.
+<lb/><signed>J M<hi rend="sup">c</hi>Kenna.</signed>
+</ab>
+</ab>
+
+<gap/>
+
+      </ab>
+    </body>
+  </text>
+</TEI>

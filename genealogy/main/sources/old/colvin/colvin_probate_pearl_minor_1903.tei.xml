@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>colvin probate pearl minor 1903</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/colvin/colvin_probate_pearl_minor_1903/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/colvin/colvin_probate_pearl_minor_1903/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>In the Matter of the Person and Estate
+<lb/>OF
+<lb/>lately a Minor.
+<lb/>Iknovp Ell ̂ ^De^ these presents. That
+<lb/>of the town ofh&gt;^;^1,4
+<lb/>in the County of Madison, and State offfew York, lately a Minor, and having now
+<lb/>arrived at the full age o^wenty-one years and upwards, have had a. full, fair and
+<lb/>final settlement with.^4/4ff^.^^,. .^^ late my General
+<lb/>ve examined the a,ccounts of the
+<lb/>,as such Guardian, and have Approved the sa,me; and
+<lb/>do h^ehy approve, ratify and confirm the sa.me in ail respects; that the said
+<lb/>has paid and passed over to me all money
+<lb/>Guardian; that I
+<lb/>id property which have come into his hands as such Guardiam, or with which he
+<lb/>'is legaily changeable as such Guardian, to wit: the sunn of
+<lb/>jrpvuj^y dollars and cents; a7^(i
+<lb/>yt /
+<lb/>tun /MfyA■le rece
+<lb/>AtfC
+<lb/>ipt of which by me is hereby confessed and acknowledged. And in consid-
+<lb/>eixition of the premises, I do hereby forever release and dischynge the -said
+<lb/>from all liability or responsibiity to
+<lb/>me as such Guardian, or for and on account of his said Guardianship, or any act
+<lb/>of his as such Guardian. And, I hereby wa,ive the issuing and service upon me of
+<lb/>any citation or other notice for the final Judieial Settlement of the accounts of
+<lb/>such Gua,rdia,n, and hereby persona,lly a,ppea,r in saidmatter and consent and re
+<lb/>st that a, decree ma,y be made and entered accordingly, discha,rging the said
+<lb/>a,nd, the sureties in his official bond from all
+<lb/>further liability to me.
+<lb/>qu
+<lb/>Witness my ha,nd and seal, the, day of
+<lb/>(Hen
+<lb/>'STAirErUYf^i^
+<lb/>County of i
+<lb/>On this day of , lOCff.,
+<lb/>(IJere insert name of late Ward.)
+<lb/>before me, the subscriber, personally appeared
+<lb/>to me known to be the same person described in, a,nd who executed the above in
+<lb/>strument and acknowledged the execution of the same.
+<lb/>(Justice or Notary sign.)
+<lb/>(If executed out of the County of Madison, get a County Clerk's certificate that the person who took the above
+<lb/>acknowledgment was a Justice of the Peace or Notary Public, and fully authorized by the laws of the State where the
+<lb/>acknowledgment was made, to take the same, and that the same was executed in all respects according to the laws of
+<lb/>the State where the same was acknowledged.)
+<pb n="2" facs="#page-001"/>
+<lb/>SURROGATE'S COURT.IN THE MATTER OF THE PERSON ANDESTATE
+<lb/> latel
+<lb/>lately a
+<lb/> Minor,Receipt ofAmountiA1"ftf ̂ *• I
+</ab>
+    </body>
+  </text>
+</TEI>

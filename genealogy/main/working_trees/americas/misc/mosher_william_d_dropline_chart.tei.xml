@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher william d dropline chart</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/working_trees/americas/misc/mosher_william_d_dropline_chart/p-000.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>J
+<lb/>Wi l l &amp;eor^e Ahg A'^e.ha Love joy
+<lb/>Le^!ra\,i4 Leo Alf$(iel' Lis^a ^av-sk Moikee Lewis '^llliai^
+<lb/>L ^Af a e Winter/  I=r I j V ̂C \ ir s,i^c e Seott '— Pearl Aiac C^lvlh
+<lb/>WopJ --p-
+<lb/>T
+<lb/>Seatn'te f^osLiY
+<lb/>^a^v^ -fayj Virter^ Me/ker
+<lb/>^o^Uet
+<lb/>Cirt.15 r ?
+<lb/>I
+<lb/>C kat^fcerfa/h
+<lb/>»
+<lb/>1
+<lb/>f r ick
+<lb/>t^eloires We^J ^aWojrJ Jeavi Aloj Infer
+<lb/>M ijetkw'itk Masker
+<lb/>1
+<lb/>S'tttjr't k^avaw^Je M^ask^i-^
+<lb/>o
+<lb/>1
+<lb/>Dale i/^ood
+<lb/>D a Vi a/ V/c ovj
+<lb/>5cai'rt 'Pfoo4
+<lb/>Gi.ry Tk^tija/- V^j,a4
+<lb/>Harper-
+<lb/>T
+<lb/>■JkiMnoh U. M-offki-v-
+<lb/>'st.ot''- V/alfcfv piosket-
+<lb/>Alicke//t Pi,2^^
+<lb/>FieAij/yPnai* Daufd pi^sHp
+<lb/>5^k erry ihe
+<lb/>Parr'iv, Kelly Hvrst
+<lb/>Trac) Ckiiristiwe
+<lb/>Jo L)ha9 £ lf«rtr
+<lb/>Re'-efi CAef l( ^ My Ly rr f^oi k e r
+</ab>
+    </body>
+  </text>
+</TEI>

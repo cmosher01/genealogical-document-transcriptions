@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>mosher christopher misc records</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_christopher_misc_records/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_christopher_misc_records/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_christopher_misc_records/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_christopher_misc_records/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_christopher_misc_records/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_christopher_misc_records/p-008.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid">
+<pb n="4" facs="#page-003"/>
+<lb/>MATTHEW J. McDERMOTT, JR.; M.D;.
+<lb/>708 FOULK ROAD
+<lb/>WILMINGTON, DELAWARE 19803
+<lb/>Telephone: 762-2263
+<lb/>IMMUNIZATION RECORD
+<pb n="5" facs="#page-004"/>
+<lb/>Illustration created by Jan Brett Bowler
+<lb/>CREATIVE PAPERS
+<pb n="6" facs="#page-005"/>
+[A transcription of this page is not available.]
+<pb n="7" facs="#page-006"/>
+<lb/>Christopher A. Mosher
+<lb/>12-11 Brook Drive, Wilmington, Delaware 19803
+<lb/>(302)764-0417
+<lb/>OBJECTIVE
+<lb/>COMPUTER PROGRAMMER-Develop software applications or systems.
+<lb/>EDUCATION
+<lb/>Bachelor of Science (Dec. 1987) MAJOR: Computer Science
+<lb/>Syracuse University, Syracuse, NY MINOR: Logic
+<lb/>Dean's List (5 semesters) GPA: 3.5
+<lb/>CAPABILITIES
+<lb/>Write structured programs in numerous languages:
+<lb/>Assembly (PDP, 65C02) JCL (JES 2)
+<lb/>Pascal (Standard, IBM Turbo) FORTRAN (WATFIVE)
+<lb/>BASIC (VAX, Apple) PL/1
+<lb/>LISP (VAX, UCI) Algol
+<lb/>C-(VAX) APL (array processing)
+<lb/>Work with various machines, mainframe or micro.
+<lb/>Accurately and completely document all routines.
+<lb/>Conform to company's programming and documenting style.
+<lb/>Work well with programming team.
+<lb/>Debug and test others' programs.
+<lb/>Program In variety of subject areas.
+<lb/>Quickly learn new languages, machines, operating systems.
+<lb/>ACCOMPLISHMENTS
+<lb/>Develop and test large applications on personal micro (ongoing).
+<lb/>Worked with team of four developing dating service program.
+<lb/>Wrote full-screen font editor application to interface with character generator program.
+<lb/>Wrote natural language sentence parser application.
+<lb/>Developed number-crunching program (with partner) for chemical company that reduced
+<lb/>manhours and increased accuracy.
+<lb/>Wrote programs (with partner) used by high school teachers:
+<lb/>Test grader/score analyzer
+<lb/>Teacher attendance system
+<lb/>WORK EXPERIENCE
+<lb/>9/87-12/87 Residential Security Aide Syracuse University, Syracuse, NY
+<lb/>Communicated with people regarding security
+<lb/>rules. Guarded entry to building.
+<lb/>6/87-9/87 Peripheral Operator Hercules, Inc., Wilmington, DE
+<lb/>Operated IBM 3480 tape drives. Reorganized
+<lb/>microfiche collection. Maintained tape library.
+<lb/>1/87-5/87 Residential Security Aide Syracuse University, Syracuse, NY
+<lb/>5/86-9/86 Professional Handyman Barry Mosher, Newark, DE
+<lb/>5/85-9/85 Professional Handyman Barry Mosher, Newark, DE
+<lb/>PERSONAL
+<lb/>Enjoy: computers, genealogy, guitar.
+<pb n="8" facs="#page-007"/>
+<lb/>SYRACUSE UNIVERSITY:
+<lb/>:FOUNDED A.D. 1870
+<lb/>SUOS
+<lb/>CULTORES
+<lb/>SCIENTIA
+<lb/>CORONAT
+<pb n="9" facs="#page-008"/>
+<lb/>The School of
+<lb/>Computer and information Science
+<lb/>cordially invites you to a
+<lb/>Convocation and Reception
+<lb/>in honor of
+<lb/>the Class of 1988
+<lb/>on May 14, 1988.
+<lb/>Convocation: 1:30 pm
+<lb/>John G. Alibrandi Catholic Center
+<lb/>110 Walnut Place
+<lb/>(Reception immediately following)
+<lb/>Parking Available:
+<lb/>E16 (entrance on Walnut Place)
+<lb/>C5 (entrance on University Avenue)
+<lb/>Attention Graduates: Cap and gown required to
+<lb/>participate in CIS Convocation.
+<lb/>Contact S.U. Bookstore at 423-4195.
+</ab>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>disosway flandreau vitals</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/disosway_flandreau/disosway_flandreau_vitals/p-012.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>11 Jan 84 #34
+<lb/>MUNICIPAL ARCHIVES
+<lb/>Department of Records and Information Services
+<lb/>52 Chambers Street
+<lb/>New York, N.Y. 10007
+<lb/>(212) 566-5292
+<lb/>IDILIO GRACIA PENA, Director
+<lb/>C. Mosher:
+<lb/>This is to certify that a search was made of the records
+<lb/>l isted below and that the fol lowing name was NOT FOUND.
+<lb/>NAME SEARCHED:
+<lb/>Harry Flandreau DISOSWAY
+<lb/>RECORD SEARCHED:
+<lb/>(x ) birth i
+<lb/>DEATH
+<lb/>MARRIAGE
+<lb/>1890 N.Y. county "POLICE" CENSUS
+<lb/>BOROUGH SEARCHED:
+<lb/>(  ) MANHATTAN
+<lb/>(X ) BROOKLYN
+<lb/>(  ) BRONX
+<lb/>(  ) QUEENS
+<lb/>(  ) RICHMOND (STATEN ISLAND)
+<lb/>YEAR(S) SEARCHED:
+<lb/>18 88
+<lb/>Pleaid note that the fee paid is for the search and is
+<lb/>net refundable.
+<lb/>Kenneth R. Cobb
+<lb/>Assistant Director
+<pb n="2" facs="#page-001"/>
+[A transcription of this page is not available.]
+<pb n="3" facs="#page-002"/>
+<lb/>]V9AA 42293 -1933
+<lb/>1 njLCKJfS DBATH
+<lb/>borough of
+<lb/>* / y me of faititutioii..
+<lb/>Addien of Jnetitutlon
+<lb/>2 PRINT FULL N. MAf&lt;A
+<lb/>Form 15 H 25-2609-33-K
+<lb/>STATE OF NEW YORK
+<lb/>Department of Health of The City of New York
+<lb/>BUREAU OF RECORDS
+<lb/>STANDARD CERTIFICATE OF DEATH
+<lb/>Register Ho.
+<lb/>y Jt~
+<lb/>3 SEX
+<lb/>M-5A WIFE
+<lb/>4 COLOR OR RACE
+<lb/>SIHGLR . 1 15 DATE OF DEATH r, •, /,
+<lb/>HDSBAHD }
+<lb/>6 DATE OF BIRTH ,
+<lb/>OF DECEDEHT - .Mi - ; . »
+<lb/>(M (Day)onth) (Year)
+<lb/>u)Uu8
+<lb/> OCCDPATIOH
+<lb/>,  (a) Trade, profeailon or^ 2 patticoloi kisd of work...
+<lb/>? , (b) General nature of indiutr;.
+<lb/>5 *, business or establishment in .
+<lb/>~ IS which emjdoyed (or employer,
+<lb/>K ,
+<lb/>P r 9 BIRTHPLACE" 5 (Bute or cotutry)
+<lb/>m O
+<lb/>(c) No. of yean so occnpieA.
+<lb/>u u r 9 \ How long in
+<lb/>iSS VA/ U.S. (if offor-
+<lb/>tt Id
+<lb/>zO-3qX u&lt; HisOz
+<lb/>/ 9\ How long rcd-\.B I dent to City .JT?
+<lb/>of Hew York ^
+<lb/>QHCO&lt;
+<lb/>10 WABIK OF .(f)^ ^
+<lb/>FATHER
+<lb/>OF DECBDBHT
+<lb/>HUHQ
+<lb/>11 BIRTHPLACE
+<lb/>OF FATHER
+<lb/>(State or coostry) o
+<lb/>O
+<lb/>to
+<lb/>H
+<lb/>12 MAIOEK RAMS
+<lb/>OF MOTHER (
+<lb/>OF DEG5B5RT
+<lb/>Mtc&lt;Cm
+<lb/>13 BIRTHPLACE
+<lb/>OF MOTHER
+<lb/>(State or coontry)
+<lb/>tions and
+<lb/>Usual residence.
+<lb/>IHFORMAHTlS'S^
+<lb/>lEUKMAllun reijuirea m ucauu —
+<lb/>in deaths rf non-residents and recent xesidenm.^ i
+<lb/>ice.
+<lb/>cted, if not: alocat place of death? . .Where was disease co&amp;tncted,
+<lb/>7/
+<lb/>I hereby certify that the foregoing partic
+<lb/>ulars (Nos. 1 to 15 inclusive) are correct as near
+<lb/>as the same can be ascertained, and I f urther certify
+<lb/>that deceased svasy admitted to this institution on
+<lb/>19. that I last
+<lb/>saw h..i.nta!^alive on the.—^.....day
+<lb/>19.3.^, that he died on the day of
+<lb/>-  19..i5..Y.., about ./f.Q. oi"clock
+<lb/>lUk or P. i(r, and that I am unable to state definitely
+<lb/>the cause of death; the diagnosis during h..aJ!r. v. .
+<lb/>last illness was:
+<lb/>(Secondary) ^
+<lb/>duration yrs o....nios._
+<lb/>ition? JfLrlX&gt;....f.. Slate kind.....
+<lb/>Witness myjiand this^...j^^v pf -C
+<lb/>Houscy
+<lb/>I hereby certify that I have this....~ day of
+<lb/>„19 , performed an autopsy
+<lb/>upon the body of said deceased, and that the cause of
+<lb/>h  death was as follows:
+<lb/>Signature M.D.
+<lb/>Pathologist ■...■ Hospital
+<lb/>BUIRLAlI*
+<pb n="4" facs="#page-003"/>
+<lb/>"•v., I5^'.
+<lb/>1:^ 
+<lb/>, : v!:!n. v&gt;"A^ „ ,yt. EW YORK CITY DEPARTMENT OF RECORDS AND INFORMATION SERVICESMUNICIPAL ARCfflVES31 Chambers StreetNew York, N.Y. 10007This exact copy of a._certificate should not be accepted unless the raisedseal of The Department of Records and Information Services is affixed thereon. Thereproduction or alteration of this transcript is prohibited by Section 3.21 of the New YorkCity Health Code.In issuing this copy of the record, the Department of Records and Information Servicesdoes not certify to the truth of the statements made thereon, as no inquiry to the facts hasbeen provided by law.nan G. Anderssoi iCommissioner, Depent of RecordssKenneth R. CobbDirector, Municipal Archives■ISSI:• V* 4 ..•:-i.4! ^ S'^s''•''4-j' : 4
+<pb n="5" facs="#page-004"/>
+<lb/>f\j
+<lb/>'  C.\ ' " TO PHYSICIANS
+<lb/>in apparent health, or J^en who may become aware of the death of any
+<lb/>unusual manner, it shall the du^ ot a y medical exammer, and to a police
+<lb/>such person to report such death forthwun e ̂ .u. etatmi* house in the police precinct in
+<lb/>ofScerwho shnl! forthwith notify the officer m deTth or who
+<lb/>which such person died. Any shall wilfully touch, remove or disturb the oody of
+<lb/>without written order from a medical Hothine or any artkle upon or near such
+<lb/>bSSyrstfte ̂ iUy'f by La-' 1'15, Chapter 284. Section 2. In effect
+<lb/>^^T^C^ifimtes wlU be returned for additlonal infonuation which give any of the foUowingdiseases, without expUnation, as the sole cause of death. phlebitis
+<lb/>Abortion, Hemorrhage, ' P^eS
+<lb/>g»h, ^ fasW Sep^-mla,
+<lb/>(Anron^foUh^se may be the'r^ult'of an injujy. and tb^fMed^4?^Sner. If h^is Sr'Sre'^ptom as the sole
+<lb/>causl'of d^S wflfbl Sted, unless accom^nied by a satisfactory written explaMtioiu
+<lb/>relative
+<lb/>Stationary Fireman, etc. But m many r business or industry, and therefore an
+<lb/>to know%) the kind. and a^^^^ As examples:
+<lb/>SSilTfa) W Gtocrty; (a) i^errman. (« Automobiie Factory.
+<lb/>TO UNDERTAKERS
+<lb/>1  No burial permit can be obtained without a projier certificate.
+<lb/>2. Certificates must be written throughout ̂  inaccurate, or any portion
+<lb/>o, luC Chang., tapai. lu vain.
+<lb/>^fhSirwrtify that I have been employed, without any solicitatjyn on my part or that of any
+<lb/>,3r*" ,
+<lb/>other person, as undertaker, herein by.
+<lb/>a permit for the burial or cremation of the remains of the ,
+<lb/>(Signature)..;!^^5^^^-!^^^-
+<lb/>Business Address(:^^...ri?^^^i^i«^^^^-
+<lb/>Permit Number (Undertaker's)
+<lb/>oro^l^l^^^cKdC^K
+<lb/>State License No
+<pb n="6" facs="#page-005"/>
+<lb/>1 ■^•■1" .ymU^7!ii Si: 110■P' V " vI V
+<lb/>\v y
+<lb/>NEW YORK CIIY DEPARTMENT OF RECORDS AND INFORMATION SERVICESMUNICIPAL ARCHIVES31 Chambers StreetNew York, N.Y. 10007This exact copy of a __certificate should not be accepted unless the raisedseal of The Department of Records and Information Services is affixed thereon. Thereproduction or alteration of this transcript is prohibited by Section 3.21 of the New YorkCity Health Code.In issuing this copy of the record, the Department of Records and Information Servicesdoes not certify to the truth of the statements made thereon, as no inquiry to the facts hasbeen provided by law.nan G. Anderssoi iCommissioner, Dej:ent of RecordsKenneth R. CobbDirector, Municipal Archivesmm
+<pb n="7" facs="#page-006"/>
+<lb/>I PLACE OF DEATH
+<lb/>IJ BOROOQHOF
+<lb/>STATE OF NEV YORK.
+<lb/>Department of Health of The Oty of New York
+<lb/>BUREAU OF RECOR06
+<lb/>STANDARD CERTIFICATE OF DEATH
+<lb/>Character of premUe?,
+<lb/>whether tenement, Private, /
+<lb/>hotel, hoepital or other place, F^Qlatertd
+<lb/>U DATE OF DEATH4 COLOR OR RACE
+<lb/>Ld,
+<lb/>aSINCHX
+<lb/>MARRI
+<lb/>W!t Z..2- ipIL?
+<lb/>(HSobUi) (0,7) (Ymw&gt;
+<lb/>ijn ui
+<lb/>(tCr^ tba word)
+<lb/>"7 herwjy eertijy vuA tha foregoing particuiars
+<lb/>(Noa. 1 to 14 inc^uiva) ara correct aa near aa the
+<lb/>same can ba ascertained, andJ further certify tlmi
+<lb/>I attended tha daeeMed from 19
+<lb/>to f 7 . 19 $^ a thcd I Mat aav
+<lb/>rMonth)
+<lb/>, 1.lC.k£
+<lb/>(Day) (Yaar)
+<lb/>6 DATE OF BIRTH
+<lb/>ir LESS than
+<lb/>7 AGE
+<lb/>'«
+<lb/>• u
+<lb/>8 OCCUPATION
+<lb/>'■ *) Trads, profesaion, or
+<lb/>particular kind of work,
+<lb/>(b) General nature of industry,
+<lb/>business or establtshmant In
+<lb/>which empteysd (or employer)..
+<lb/>9 BIRTHPLACE
+<lb/>C?tate or country) U6.S-
+<lb/>/ 9 \ How long in
+<lb/>\ A / U. 8. (if oT for-
+<lb/>rign birth)
+<lb/>1
+<lb/>0
+<lb/>t
+<lb/>10 NAME OF
+<lb/>FATHER
+<lb/>m
+<lb/>(S) How lonedmt in City
+<lb/>of New York
+<lb/>11 BIRTHPLACE
+<lb/>OF FATHER
+<lb/>(State or country)
+<lb/>12 MAIDEN NAME
+<lb/>OF MOTHER™
+<lb/>18 BIRTHPLACE
+<lb/>OF MOTHER
+<lb/>(Stato or country)
+<lb/>al^ on the-jLlUlday of.„yJj?!r;±3teL 19i^^
+<lb/>that death occurred on the dai£stated above
+<lb/>and that the cause of death was as foUows:
+<lb/>(iuration yra -..mos. ds.
+<lb/>Contribatory.
+<lb/>(Beeondaqr)
+<lb/>duration .yra. mos..
+<lb/>(3r4, iWitness my hand thifl.../i:!..l.day qLX^^. 2.^^'
+<lb/>14 especial INFORMATION required in deaths in boepitals «iwl inatitu-
+<lb/>tmna and in death.** of noD'-rerideiit'i and reeent reeidents.
+<lb/>FILED ^
+<lb/>'aAMlg.-g/"'
+<lb/>RTAKER
+<lb/>BURIAL
+<pb n="8" facs="#page-007"/>
+<lb/>v;'!v.. X:-/• • V X^:f- . V..&gt;,i , t v. ] / I ' ''lI ' 'f/» .Vk:'\1;-:o.&lt;.j &gt; INEW YORK CITY DEPARTMENT OF RECORDS AND INFORMATION SERVICESMUNICIPAL ARCfflVES31 Chambers Street ^New York, N.Y. 10007This exact copy of a._certificate should not be accepted unless the raisedseal of The Department of Records and Information Services is affixed thereon. Thereproduction or alteration of this transcript is prohibited by Section 3.21 of the New YorkCity Health Code.In issuing this copy of the record, the Department of Records and Information Servicesdoes not certify to the truth of the statements made thereon, as no inquiry to the facts hasbeen provided by law.dan G. AnderssoiCommissioner, Depent of RecordsKenneth R. CobbDirector, Municipal Archives-i ♦ 1'ii"V.: 'v■7
+<pb n="9" facs="#page-008"/>
+<lb/>TO PHYSICIANS
+<lb/>1  The attendiuK phyifcian must furnish a wrtificate to the Departmrat of Heakh ̂ Wn Mh» Item ".'rr'"'" '
+<lb/>must be furnished by him forthwith (Sanitary Code, Sections 33 and 90).
+<lb/>2 AU physicians practicing in The City of New York (including those m public institutions)must be registered in the Bureau of Records (Sanitary Code, Section 218).
+<lb/>3  If a person dies from criminal violence or by a casualty w by suldde, or
+<lb/>while In appSSt health, or when unattended by a phyaldan or In prison, or m smy smjiU^
+<lb/>or manner, it shall be the duty of any citizen who nuybeOTnc aware of
+<lb/>mich person to report such death forthwith to the office of the chief m^ical ezammer, ̂  to a
+<lb/>officer who shaU forthwith notify the officer in charge of the sUtion how u^e
+<lb/>such person died. Any person who shall wilfully neglect or refuse to report such d«^ w wto
+<lb/>without written order from a medical examiner shall wilfully touch, remove or oisturo rhe bo-ay ̂
+<lb/>ly such person, or \rilfuUy touch, remove, or disturb the clothing, or anySrS^^^tyofaLdem;anor. (Inserted by Laws 191S, Chapter 284, Sectmn 2. In effect
+<lb/>[anuary 1,1918.) , , / i,
+<lb/>4. Certificates wUl be returned for additional Information which give any of the foUowmg
+<lb/>without explanation, as the sole cause of death:
+<lb/>Abortion, Hemorrhaffe, Meningitis, PhleWds,
+<lb/>v\\ Cellulltls, Gimjrene, Metritls, l^acmla,
+<lb/>^ Childbirth, Gastritis, Miscarriage, ^tlcaemla,
+<lb/>\^Convul8lon8, Eryiripelas, Peritonitis, Tetanus.
+<lb/>(Any one of these may be the result of an injury, and thus be a mbject for mvestigatioo by a
+<lb/>Medical Examiner. If it is not, the certificate should make that fact plain.)
+<lb/>5. No certificate giving "Heart failure," "Dropsy," or other inere symptom as the sole
+<lb/>cause of death will be accepted, unless accompanied by a satisfactory wntten exi^anation.
+<lb/>6. Statement of Occupation.—Precise statement of occupation is vwy importan^ so ̂ t the
+<lb/>relative healthfulness of various pursuiu can be known. The question applim to mch ̂  ev^
+<lb/>person, irrespective of age. For many occupations a single word or term on t^ ̂  line be
+<lb/>e. g.. Former or PlanUr, Physician, Compositor, Architect, Locomotuo Engineer, Ctod Enpnecr,
+<lb/>Stationary Fireman, etc. But in many cases, especially in industrial emjdoyments, it is necessary
+<lb/>to know (a) the kind of work and also ffi) the nature of the buslneae or industry, ̂  therefore^
+<lb/>additional line is provided for the latter statement it should be used only when nwdeiL Asexamplcss-
+<lb/>fo) Spinner, (b) Cotton MiU; (a) Salesman, (b) Grocery; (a) Foreman, (b) AntomofnU FaOory.
+<lb/>TO UNDERTAKERS
+<lb/>fj.
+<lb/>1. No burial permit can be obtained without a proper certificate.
+<lb/>2. Certificates must be written throughout in black ink.
+<lb/>3. No certificate will be accepted which is mutilated. Illegible, Inaccurate,^ or uy porti^
+<lb/>of which has been erased. Interlined, corrected or altered, as all sudi changes impair its value
+<lb/>as a public record.
+<lb/>I hereby c^ify thajL I have been employed as undertaker by»
+<lb/>the deceased.
+<lb/>(RElATraMHIP)
+<lb/>for the burial or cremation of the remains of deceased.
+<lb/>ClWMC}
+<lb/>obtain &amp; pe&lt;
+<lb/>Sixnature
+<pb n="10" facs="#page-009"/>
+<lb/>\
+<lb/> ' V
+<lb/>.,V - y.'VI:V .'/\V■\t-itf-'-y/X 'I ' sV wX- ;\j.;x.Vv.T*-' . INEW YORK CITY DEPARTMENT OF RECORDS AND INFORMATION SERVICESMUNICIPAL ARCHIVES31 Chambers StreetNew York, N.Y. 10007This exact copy of a._certiflcate should not be accepted unless the raisedseal of The Department of Records and Information Services is affixed thereon. Thereproduction or alteration of this transcript is prohibited by Section 3.21 of the New YorkCity Health Code.In issuing this copy of the record, the Department of Records and Information Servicesdoes not certify to the truth of the statements made thereon, as no inquiry to the facts hasbeen provided by law.IG. Anderssoi iCommissioner, Deplent of RecordsKenneth R. CobbDirector, Municipal ArchivesA
+<pb n="11" facs="#page-010"/>
+<lb/>.8740LOCATIONHtory H.Pisosway[j196757Ola Palter DieoswayJanuary 21s'^ 1933. LOCATION 66-10-26237489IjjiiNAMELOCATIONHarry F. Dlsosv/a\66-OO-uO10/24/53L2PtreJH 
+<pb n="12" facs="#page-011"/>
+<lb/>AISLE JJ
+<lb/>CRYPT 78
+<lb/>CYPRESS Hills Abbey
+<lb/>SECTION 15
+<lb/>OWNER CONTRACT DATE
+<lb/>AFFIDAVIT
+<lb/>BOOK PAGE
+<lb/>Harry F. Disosway
+<lb/>Harry H. Disosway
+<lb/>WILL DATED
+<lb/>LETTERS TESTAMENTARY DATE
+<lb/>#338 6/15/26
+<lb/>#336-A- 6/15/26
+<lb/>310
+<lb/>1821
+<lb/>Can. let.-1/20/33
+<lb/>AISLE JJ
+<lb/>CRYPT 83
+<lb/>CYPRESS Hills Abbey
+<lb/>SECTION 15
+<lb/>CONTRACT DATE AFFIDAVIT
+<lb/>BOOK PAGE
+<lb/>FILE
+<lb/>ca^|i^7-i|7ao/5^Harry F. Disosway
+<lb/>LolaPDlscswuy
+<lb/>WILL DATED
+<lb/>LETTERS TESTAMENTARY DATE
+<lb/>^338 6/15/25
+<lb/>f338-B 6/15/25
+<lb/>310
+<lb/>1822
+<lb/>AISLE FJ"
+<lb/>CRYPT 88 Cypress Hills Abbey
+<lb/>SECTION 15
+<lb/>Harry F. Disosway
+<lb/>Harry F. Disosway
+<lb/>WILL DATED
+<lb/>LETTERS TESTAMENTARY DATE
+<lb/>CONTRACT DATE
+<lb/>#338 6/15/26
+<lb/>#3380 6/15/26
+<lb/>310
+<lb/>1822
+<lb/>AFFIDAVIT
+<lb/>Can.let.-l^20/33
+<pb n="13" facs="#page-012"/>
+<lb/>^epherd
+<lb/>BEAU
+<lb/>TLAWN
+<lb/>ver Hill
+<lb/>FLORAL
+<lb/>HiLL
+<lb/>LAUREL aurel Green I
+<lb/>Orcoi Valley
+<lb/>BIK-I.SEC. 17
+<lb/>Chung Weh Kung S
+<lb/>Uflrden ol Merno'y
+<lb/>Blocl. t 1 - 2
+<lb/>Block 3
+<lb/>Bik. 4 Memory
+<lb/>QueeN3 CO
+<lb/>CO.
+<lb/>T-.
+<lb/>MCLROSf .y^AY
+<lb/>lotyt Bfotk SocftofU
+<lb/>m/ fŷ oss AT/Ak OwrA/y
+<lb/>OCYPRESS HILLS CEMETERY
+<lb/>KINGS&amp;QUEENS COUNTIES
+<lb/>WCSTMI/Ysrc^ WAY
+<lb/>JAMAICA mma /ej#. 19 4 4 '9if&gt;Avr,
+<lb/>Ttfffiyton Two ^ ̂ «
+<lb/>N m cu Offie# accessible by any of the followiihg: Jamaica BMT line toINC. I U-iM-SUHjas Cypress .Hills station - Independent subway -A" train to East New York station,
+<lb/>and chanqe to No. 56 bus or BMT train to cemetery.
+</ab>
+    </body>
+  </text>
+</TEI>

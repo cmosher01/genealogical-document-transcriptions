@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>harrison hornby misc info fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-014.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-015" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-015.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-016" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-016.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-017" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-017.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-018" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-018.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-019" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-019.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-020" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-020.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-021" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-021.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-022" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-022.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-023" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-023.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-024" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/harrison_hornby_misc_info_fixed/p-024.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>SLICING TOUR 0? HOMBY FORKS
+<lb/>lo Ols? tot^r "bagias here at the schoolhousee laao'K the "building ^?as here in
+<lb/>l873i? 'hiit we donH kaow l^iow long csfors that» It served the eoaniiinity uaiil
+<lb/>the eonsolldatlon of the area sehcols in the early 1950"s® la 1958 the
+<lb/>"building was acquired "by Frederick L» RogBXBi, then Town Supervisors) for
+<lb/>use as a local mus©im»
+<lb/>2c The church was "sullt in 1852® It was a Prestytcrian Ch'.ireh uatil 189?® The
+<lb/>Prsshytsrians iiad no resident 'pastor during-^ Biost of this tim©8 A Methodist
+<lb/>group had formsd and r.iet la hoiaes and, sehcolhoiisss® They and a few Baptists
+<lb/>ffiergsd. and organised as a Oongrogatior.al ̂ &gt;!urch« Coming and Eliidra x&gt;s.storE
+<lb/>eaa© to aid in the orj^niEationj) sad the ̂ ongrSi^itional Society was liisor=
+<lb/>porsted on D8csin"ber 27s 1897» taking over the chviroh as its hoirie® The first
+<lb/>trustsss were Henry %,rrison» Ksnry Wheat,, and Alvah Gifford® Kary Eddy
+<lb/>was eleric® and the first psr-iisnent resident pastor was the Hq^s, Mrs., i-ydia
+<lb/>Allen® Tjja church was served as pastor "by Kiss Bachel Brooks as a student}
+<lb/>Rev® ^.arles Allen (Lydia'.s son)} Hev® Waltax* Graastoai aga5.n the B©v® Alleaf.
+<lb/>andf in more resent times, Miss Rachel Brooks-, who retired from here la 19&amp;3f
+<lb/>Charles Briem# a. student Einisterj and the laco'to Herrill® Binea thea
+<lb/>the %v» Myron Johnson b^.s served as supply pastor^,
+<lb/>The l&gt;uildingj,of Kcdifi©d GrseR Revival design, has 'undergone some changes;,
+<lb/>"but the "basic structure reffia ginally the.re ;-?a,a a balcony is Aa ad~
+<lb/>dition for "^ijaday School roo3es and coBsp.iJnity. projects with a "basement kitchen
+<lb/>was eonstructed in 1963® ^" ajor ctenges v/sre ii-ads in the interior decor of
+<lb/>■tbG sanct'uary at that tir-ie® Criginslly there wore church sheds for horse-
+<lb/>dirawn vehlclesc The Murray properly next doer was deeded to 'the chm-ch "by
+<lb/>Elisa M'array and served as a parsonage XRitil recently. The chimes were
+<lb/>given in memory of Bx't, Kent Phillips by his wife-: Mrs, Irene Phillips®
+<lb/>3® In this area now known as Wh'ltney Birk fno Baptist '-^hurch was built in the
+<lb/>Eummar of l8'37 and dedicated --.nat fall^ It had two s-lairu-ays that lad to
+<lb/>the ,^llery around three- sidss of the ehurc:!,. Bingors occupied 'the end
+<lb/>gallery® The cost was about SlOOO, part of -which was paid by cloth woven
+<lb/>in neighborhood looms, by labor, and local huilalng materials,, Ths Bap---
+<lb/>tists Gsassd to function as a ci-.-'rch horo, and in 192^ the building ^;as
+<pb n="2" facs="#page-001"/>
+<lb/>thriv^ing chwrehs y i- '.-j
+<lb/>iTiay v5.sit it there r Itj toD» has an additionB
+<lb/>Whitney Pcyk Kas fov-nded 'bj'" I'Jr® CH«ria Whitr^ey of Kidgefield Parks Hew cfer-
+<lb/>seye a fox-T!;er resident of Hornby and one of 110 Hornby men who enlisted in
+<lb/>the 103rc lev: lo:d; Lift-vbrj' in the ''ivil K :% i^hitney beceaio Interested
+<lb/>in fctmding a Civil Hn;: Horsorial in Hortiby ^'orl-rs aiid raised most of the
+<lb/>money for it In Bidgef:!.elds t'lougii he raised more fiinds for the isemorial in
+<lb/>Goming upm his ratui"-: to this ares4
+<lb/>'i^e ffioniiiseat was dedicated at the arsnual Horsioy Picaie in 1927 on the grotind
+<lb/>do!X3ted by the Hew "iork State Eaptist Oonventiers
+<lb/>•%o '•J'hs original ]5art of the -^'iys Y&amp;H was the Irish Hill sohoolho'iisSo It
+<lb/>■bailt ill 1882 fox- $425« and was moved to Hornby Forks after the consolidation
+<lb/>of the schools»
+<lb/>5c "^ere was a beautiful Victorian bouse on the site of the Grange Hall, built
+<lb/>Daniel Lanes the founder of the Lane Bridge Gompanyo Across the road was
+<lb/>his cam and blacksmith shop, not? used as the town bamo
+<lb/>6e Ihe Tocm Hall was bu'lc somfevvlno bauwee/i iS80 and. l884c fhe land was deeded
+<lb/>to the town by Efeniej, H» aiid Emiiaa Lane on Viarch 15s: iSSOo la l^S^i- Super^
+<lb/>visor No Bo vStanton's books show a Tom Hall inventory of 62 chairs^ ^ benches^
+<lb/>1 -table. 6 lamps and chjiHiasyso and i stove asid pipe received fros Michael Ho
+<lb/>SandSj ex^Tom Clerk&lt;.
+<lb/>Frofe ^'h Clayton in his Hig/tory of Steuben ^'ounty (I879) says?, "Hornby
+<lb/>Forks contained somo thirty roaidericasj 2 stores,, a shingl® millj, a shingle
+<lb/>and saw mill, 3 blacksmith shops,, 2 -wagon shops, 2 shoe shops, a turrilng and
+<lb/>rake factory, a schcolhouse, 2 churohea. and the only post-office in the
+<lb/>Kom'by Porks became the center of the totm becfjuse the meeting of three
+<lb/>creeks here f-i.imished rower for the operation of the various millsc
+<lb/>According to Clayton, Isaac Gocdsell kept the first tavern iJi Horace Forkso
+<lb/>Between the store which is nos the McIntoRh bouse and the To-;ra Ifell comer,
+<lb/>the-xe -was another store ri-uj by Town Justice Clark Smith, who also operated
+<lb/>a shae-jiiaker's shop in a small b'uilding nearby^
+<pb n="3" facs="#page-002"/>
+<lb/>7e Mclmtosh home zemaliisd a stozs' uatil .19621 It ;ls iEteresiiug to note
+<lb/>that a creek runs bsmsath a oornec of iit
+<lb/>8e .Another store tfs,© rvn by the b'beats just up the hill and between the two
+<lb/>ms the Wheat and Hot'fsll fesdj. buoitwlieatj sair® sad ahij^gle i^;llle
+<lb/>9o This buildingj now the Horrick home, was tha Hortiby Hotel» Garolya Rogers
+<lb/>Gardner lias a printed card which is an invila&amp;ion to a "Sccial Hop" oa
+<lb/>November 12s, 1875? worded as followst "Yoiu.rsGlf and lady are sost respect"
+<lb/>fully invited to sttend a social party at the Hornby Hotel* Good musle
+<lb/>has been engaged, and ao pains will be spared to jieke the occasion pleasant
+<lb/>and enjoyable* Yo^a:'s respsctfullrf, Prop'r? G* F, Grangers"
+<lb/>The whole second floor was a ballroom, and., ^dien Hejxry liheat moved there»
+<lb/>he ted i.t divided into bedx'ooniGs
+<lb/>Let us now ratiam to the "te-ldge in the middle of towTis
+<lb/>Along the creek to the left of this road wore,, according to our maps* a
+<lb/>saloon and post=-office and a blacksiaith shop. At one tine there '^as a
+<lb/>mill-race- in this area* later on^ as late as the 1920''Sj there was a
+<lb/>cheese faotoryo The buildin.g ms later purchased by the Qoodriches and
+<lb/>mads into a house®
+<lb/>You can see that Hcmby Forks uns once a bissy, thri-Ving village and that,
+<lb/>lilce many other sjsa.li to&gt;.JnSf it tes declined and has become inainly resi--^
+<lb/>dential since the advent of the autoHobile and ".odern jnanufaeturing®
+<pb n="4" facs="#page-003"/>
+<lb/>venture into Hornby's wooded wonder||E^wnship:i;rth&amp;^ernvTier has something of beauty aiiHjhistpry to offer its resi-dentsf yi^^ and sightseers,and one of the most colorful isthe- of Hornby. ,s'fc»adsny ofthem still unpavOpens up abrilliant vista - from its peaksoverlooking the deep va^eys, tothe hidden ponds, its hisfpricand well-kept cemeteries^, thestone fences, thousands olP acresof state forest and its people,who are fiercely proud of their.heritage.One of the best times for aride over Hornby's woodlandroads is just before dusk on aclear day. The sunsets are spectacular. And during faU foliagetime, the palette of colors issomething out of a travel folder,rivaling anything New Englandhas to offer.A tipj though, for the uninitiated visitors: Stop by a touristbooth or the Chamber of Commerce office first and get aSteuben County map before venturing out on your expedition.It's something you'll want tohave in your car's glove compartment all the tinje, and especially when exploring the backroads of Hornby.Hornby's history dates back tothe early years of the 19th century (18 not too long after thefirst settlements in the Land ofthe Painted, Post along theW' confluence ofi threeV . rivers, which ■. join to formv • the Chemimg.V River. The late ,Bob Shaddockmade it easy,for us torememberthose threeP66r rivers when hecoined the |phrase, "Land iof the Concanoga" (Conhocton- iCanisteo-Tioga.) iOne of the more recent histories of the Hornby township was Icompiled in 1972-73 by Maxine :Barber, who was then a graduatestudent. She titled her work \"Hornby: A Wide Spot in the !Ro noting that her paper"concentrates upon the lore aboutand of the people of Hornby"Here are some of the tales anddetails gleaned from her work:When the area was first settledin 1814 by Asa and Uriah Nash,Hornby was part of the Land ofthe Painted Post, which includedCorning and Painted Post as weUas Hornby and land running towhat is now the Chemung County line. Hornby itself was legally formed in 1826 and was separated from the Town of Campbellin 1831. The town is nestled inthe hills near the tenter bf theeast border of Bteuben County,bounded by Schtiyler County onthe north. Town of Corning onthe south, Chemting County onthe east and the Town bf Campbell on the west;jtThe town wasjhamed for JohnHornby, an Englishmaif whowas an extensivedando^rier inGenesee Coiintry" and owner oftwo-fifths intefOst in the^Pul:^teney Associatiph. d v.The town's surface is high androlling, intersected by deep, narrow valleys. The town's mainsettlement, known locaUy asHornby Forks or The Forks, gotits name from the three creeksthat come together there. Thevalleys are formed by Dry Run,Post and Borden creeks.First settlement was the Nastsettlement north of the Forks. Thesecond was on West HiU in thesouthwestern section bf the townin 1815, and the third w^ &amp;ePalmer settlement in 1816 at theFour Corners south of The Forks.Early crops included wheatand oats. Many families tradedgrains, animal hides and maplesugar for what they couldn'tmake themselves. The town settlers didn't face any problemswith uhft-iendly Indians becausethe area was mainly ah Indianhimttng ground. ' ', In the early days of settlement, there was an abundance ofwild animals including wolves,foxes, wildcats and panthers.Since ithey destroyed crops, yard:fowl and cattle, they had to be ;exterminated by hunting. Therewas ajbounty Of $10 for wolves,and 50 cents for foxes and wildcats. 'This bounty has never beenremoved from town records.Th^ejwere, no roads in Hornby in its earliest days - onlytrails'and paths through thedense! forest! The first was builtin 1822 and is in the general areaof what is now Route 414.Sambel Lilly came up PostCreekj in 1822 with a family ofnine children and $2,300 in debtsand opened a claim on the Pul-teney Estate in an area nowknown as Ferenbaugh. Withhard labor, he cleared 104 acresof tiniberland himself. At thattime, goods for Hornby settlerswere Received by wagons goingup Popt Creek to Watkins andreturning by way of Horseheads.Whpn Lfily went to Bath to payon his land one day, an agentasked him about roads in Hornby. LiUy told the land agent therewere none. The agent told Lillyif he would open a road, thework bone would apply as payment pn his land at the rate of $1per rod. That first year Lillyopened 180 rods of road, andanother 89 roads the next year. Itmade travel from the easternpart of Hornby into the growingsettlement of KnoxviUe, nowCorning Northside, much easieiand faster. Trade in exchange for goodswas a way of life for early Hornby residents who, when theywent to the larger communityof KnoxvUle and later Corningto shop, loaded their wagonswith their farm produce inexchange for their own necessities. But stm, cash exchangedhands - with 35 bushels of oats.sold in Corning'bringing $20. Ar1868 diary ofi.n Hornby familyindicated: "Wife and 1 went toCorning, got her a dress - $3got myself a vest and pair ofpants - $6, half pound tobacco -, half pound tea $.36. Took aload of wood to Mrs. Suffereen ■$3 1/2; bought a horse of Mrs.Fish - $60." Many necessitieswere still made by hand at homeand another diary indicated thain 1867, a Hornby housewifesewed two shirts for 75 centsworth of materials and made apair of overaUs for her husbandfor 38 cents.(Next: Hornby in the mid-1800swas a bustling township witheverything a resident needed.)(Dick Peer is a retired editor ofThe Leader (iS6i- His columiappears Sunday through Thursday. Write him at 138 High Road,Corning, or call 93&amp;0601.)
+<pb n="5" facs="#page-004"/>
+<lb/>^800s(Secorm of. three columns on thehistory'of the Town of Hornbycompiled in the early '70s'as agraduate student project of Max-ine Barber. Today, a look at earlyHornby's "downtown" and thestory of the Post Office Battle.)' During its heyday in tjtiBfinid-die 18003", "downtown" liorhbywasadnistling place.; Ttiusi-li^ss'^islction hadmdved.frioin"TheVFpiir Corners'" soutiipfThe Fprks to the forks pf thej creeks ;t)gcause of the need'fbr'•iwater-pbwen Nes.tled in the valley 1^, thection wereipnce.three-stores, a tannery three:blacksmith shops, b'roCarriagehh^erkhops (one. of whidli also(tns^^kk)ffins), a ppstoffice, ast-ihih. cider mill andJ:wochurPhes with three congf ega-■ tiohs.{In the same area were: ashingle mill, ice house,, shoemaker's shop, barber shop andthe;-home of the resident doctor.And there were schools: By1867, there were 12 of thememploying 24 teachers educatingthe 492 students listed in the census - but with dayday enrollment only about a quarter ofschools' budgetthat year wasteachers beingtance. In 1858,.-Mrs. Hattiemitted a bill tpnirk ithetowii,; s- t„ supervisor forPeer - $8.03 in wagesfor teachingbetween April18 and July 20,1958, while anoth-. er teacher a couple of years laterwas paid $26 for teaching fourmonths. • IDuring its earliest years, thetown's population peaked at1,365 residents in 1830, dippingto 1,048 after the area that is nowthe Town of Campbell was"taken off" the initial townlines. A half-century later, in■ 1890, the figxxre was down to1,011, many of the town's youngpeople having left the land for ,city life and employment in thegrowing Corning Glass Works.During that same period, theCorning census jumped from1,674 in 1840 to 10,025 ill 1890. ButstiU many of the town's earliestfamilies stuck to their jrpots andtoday more than |o families;■ whose ancesto.rs:liyed"&amp;centimy ago are kfill tkefe andthe 1990 cehsus listed the town'spopulationas 1,665, Being a remptajto^hship andoff the "beatenJbHck,1,maildeliveryvwas spotty to tepost office in Thelfptks, ekab-lishedin 1834. E^fiS'flithe stagefrom;KnbxyiUd (n^Northside) was deliverihg letters once a weekilncreasing thatservice to twice a week the nextyear. It was a hi^ event, in townwhen the stage arrived, with thetownspeople gathering at nightoutside the poskpfficp to;awaitthe arrival of the stage.Despite its srriall population,the town at one tihie'had two.post offices, the second being ina small settlement baUed ShadyGrove, east of "The JForks, established in 1889. The residentsaround that area^petitioned thePost .Office Department to havethe. name "Shady.Grove'' fortheir post office,.but it was notto be. The POillepktineht saidthere were too many "ShadyGroves" in the U.S. and theyshould pick another nanje. The 'townspeople met and settled onthe name "Dy named forJesse t)yke Bixby, bneof the oldest pioneers in the area. Afterjust two years pf service - and alot of "politicking" and rivalryby those in The Forks - the Dyke.Post Office was closed in 1891 inwhat patrons called "a politicalmaneuv' A diary of the period revealed thp'story: "Ja1891: Heard this evening that thePO Deparfmerit had sent noticethat the Dyke PO would be dis-continugd the l5th of the month.The Forks knaves and blacklegshave at last succeeded in theirdevilish schemes."Religion alsb played an important role in the lives of earlyHornby settlers. The HornbyBaptist Chiirch Was organized in1825 as the Jersey BaptistChurch. Jn 1837, the congregation moved into its new buildingat The Forks. Membershipdeclined over the years as families moved from town and in1924, the building was moved toTuscarora and became the present-day Tuscarora BaptistChurch. 'The next, church formedwas the Methodist Episcopal in1828, but a "divisiipn of sentiment" occurred over the, yearsand most of the members leftand organized the WesleyanChurch with,its building beingerected in Shady Grove-Dyke in1877. Presbyterians organized achurch in 1831 and built theiredifice in 1852. StiU standing atThe Forks and used for worshipfrom:time to time is the HornbyCorigregatiohal United Churchof Christ,-started in 1887.(Next: Hornby folk tales and Uleading dignitary - Bray DickinTHOUGHT FOR THE DAY:Those who are wiUing to facethe music may someday lead thband. ;.h ADO YOUiREMEMBER ...when "penny Iphfers" were invogue and w^rb worn with a re:penny in tile vamp?LAUGHLIld you hearabout the rooster who told a mibehaving baby chick that if hismother could see him now, she'roU over in her gravy?(Dick Peer is a retired editor oThe Leader (1961-87). His columappears Sunday through Thursday.-Write him at 138 High RoacCorning, or call 936-06
+<pb n="6" facs="#page-005"/>
+<lb/>HORNBY UNEARTHED
+<lb/>NEWSLETTER PUBLISHED BY
+<lb/>-HORNBY HISTORICAL SOCIETY-
+<lb/>185 SOUTH PLACE - CORNING, NY 14830
+<lb/>DECEMBER 1999
+<lb/>OFFICERS
+<lb/>President: Richard Johnson
+<lb/>Vice President: Susan Moore
+<lb/>Secretary: Marleah Johnson
+<lb/>xicudulc;!* Joiii nmEDUIl
+<lb/>BOARD OF DIRECTORS
+<lb/>Milton Adams Susan Moore
+<lb/>Laura Lehman
+<lb/>Richard Pierce
+<lb/>Francis Hamilton
+<lb/>HORNBY HISTORICAL SOCIETY BUSINESS NEWS
+<lb/>•  On October 19, eleven members were present to enjoy a pot luck supper at the
+<lb/>Congregational Church Hall. It marked an enjoyable evening as the last meeting of the
+<lb/>season. The museum had fifty five visitors during the summer months which is about
+<lb/>average compared to recent years.
+<lb/>• New Members - Please welcome the following new members: Shelle Kamp,
+<lb/>Rochester, NY, who is searching the Goodsell family; Paul McLaughlin, Coming,
+<lb/>NY; Bert and Marge Rhodes, Barboursville, VA and Esther Griffin, Binghamton, NY.
+<lb/>Please remeihber to check your mailing label for the expiration date of your
+<lb/>membership. Yearly dues are still $3.00 for an individual and $5.00 for couples.
+<lb/>• New Acquisitions at the Museum - Nancy LeFevre of Wilmington, DE has donated
+<lb/>a copy of the marriage certificate of Frank A. Taylor of the Town of Orange, Schuyler
+<lb/>County and Mary E. Travis of Campbell dated November 24, 1881. They are the
+<lb/>grandparents of Nancy's husband Edmund. (More to follow on Frank Taylor's
+<lb/>mother, Sarah Scott Taylor.) Bert Rhodes has donated pictures, letters and other
+<lb/>documents relating to the Stephens family of Hornby. It is all still being sorted out but
+<lb/>so far proves to be a wonderful collection of artifacts. Many thanks to Nancy and Bert
+<lb/>for thinking of the Historical Society.
+<lb/>• Memorial Donation - has been made by the family of Pearl Stanton Benedict. Pearl
+<lb/>passed away on November 14 at the age of 89 and was a member of the Historical
+<lb/>Society for many years.
+<lb/>HISTORIAN'S NOTES
+<lb/>By Susan Moore
+<lb/>Have received more feedback on the "Hornby Hospital" and Doctor Hiram White.
+<lb/>John Adams writes that Doctor White vaccinated him for small pox when he was very
+<lb/>young. Ruth Haradon writes the same and both say that they still have large scars as a
+<lb/>result. Ruth adds that Jim McLaughlin's wife Annette, known as Nettie, was a nurse and
+<lb/>was at their house when Ruth's young brother and sister were very ill. John's sister, Ruth
+<pb n="7" facs="#page-006"/>
+<lb/>Rowley, writes that she remembers Doc White's automobile. "He and my Dad (Clarence
+<lb/>Adams) had the first two in Hornby and they were loud !"
+<lb/>In response to the June 1999 newsletter query regarding 'TVluttonville Road", received
+<lb/>the following from Eunie Taggart of Hornby; Her father, Jake Divens, who passed away
+<lb/>about four years ago, used to say that the section of road from Hornby Road to Dyke
+<lb/>Road, now called Chambers Road, was Muttonville. Seems there used to be a large sheep
+<lb/>farm there. (Thanks to George Rogers for getting this message to me.)
+<lb/>The museum and Historical Society are very fortunate to have in its possession several
+<lb/>diaries and transcriptions of diaries of early Hornby folk. They offer a valuable,
+<lb/>descriptive and sometimes humorous view of everyday farm and family life. The following
+<lb/>excerpts are from the diary of Sarah Ann Scott Taylor (1833 - 1892). Sarah, along with
+<lb/>her husband Addison Jerome Scott (1828 - 1909) and five children, lived in the town of
+<lb/>Orange, Schuyler County, near Switzer Hill Road. Their children were: Frank (1854 - ̂
+<lb/>1917); Ella, bom abt. 1857; Scott, bom abt. 1861; Adelbert (Dell), bom abt. 1864 and
+<lb/>Willie bom March 29, 1871. In 1881 son Frank married Mary Elizabeth Travis (1863 -
+<lb/>1931). Her parents, Elisha and Clarissa Travis from Putnam County, NY, settled in
+<lb/>Homby in 1851. Their farm was in the northwest section of Homby on what is now called
+<lb/>the Duran Road on the Schuyler County line.
+<lb/>Sarah Scott Taylor acquired her Schuyler County property by a deed dated April 28,
+<lb/>1870 which describes a fifty acre parcel of land that was formerly in Steuben County. (A
+<lb/>portion of the town of Orange was in Homby before Schuyler County was incorporated in
+<lb/>1854). Many of the people's names Sarah mentions can be found on the 1873 Orange
+<lb/>Township atlas as living near her. Sarah was a hard working, busy woman who enjoyed
+<lb/>her family and friends, not unlike women today!
+<lb/>The diary begins on May 2, 1870:
+<lb/>moved on the farm sloped to Alonzo Gaylords bought one pail 35 cts 1 box matches 15, I sack
+<lb/>flour fourteen shillings
+<lb/>May 3: started the plow and went to look for cow but no luck
+<lb/>May 4: plowed and builtfence Mrs Potter and Mrs. Speilman called in the afternoon
+<lb/>May 5. plowed and drew a load of straw and built pigpen. Mrs. Rolfe called and gave me a pail of
+<lb/>milk
+<lb/>May 17: Jerome and Frank plow... news of grandpas death Mrs Speelman called
+<lb/>"May 18: Started Frank to plowing and done chores and went to funeral to Monterey
+<lb/>May 20: Jerome and Scott went after the oats to Greys got backpurt dark Mrs. Speelman brought me
+<lb/>a pail of rising and I made bread and had good luck
+<lb/>May 24: puled stumps and drew stone off the oat field... made a shirt for Dell and four towels on
+<lb/>machine children went to school
+<lb/>May 29: got up done chores eat and had Mr. Spielman, wife and son to dinner took a walk in the
+<lb/>woods
+<lb/>June 5. a long lonesome day... I feel as ifwe had no sabbath because I have no privilege of church or
+<lb/>sabbath school
+<lb/>June 6: wenttoHueys got wagon drew a couple lod rails and builtfence all afternoon I done
+<lb/>housework and churned
+<lb/>June 7: Jerome worked on road Mrs Potter called in afternoon for me to hem a couple ruffles for
+<lb/>Ellas dress done housework hot enough to melt
+<lb/>June 12. ...called to Ebenezar Hollys bought of Mr. Ackley all the down and dead wood in the glen
+<lb/>for five dollars to be paid thisfall
+<pb n="8" facs="#page-007"/>
+<lb/>June 13: Jerome and Delia and selfwent to Coopers Plains took dinner to fathers and went down to
+<lb/>P Post and got a ton ofplaster for 6 dollars Ella kept house got home 10 o 'clock
+<lb/>June 25: Frank plowed in fomoon and went with hisfather to Monterey in afternoon I made pair
+<lb/>pants for deac Holley Mrs. Barlkey called we had a good time
+<lb/>June 26: ... went out in meadow picked some strawberrys Sister and hus come we had a short cake
+<lb/>fat with butter sugar berrys and cream and had a good time eating it we had a nice shower of rain for
+<lb/>which I feel thankful
+<lb/>July 2: ... went to Spiel mans come home and had ague chill and sick head ache made out to do
+<lb/>chores [Sarah is expecting her fifth child and continues being sick with "ague chill" for the next several
+<lb/>days.]
+<lb/>Aug. 3: ...the wind blew and it rained like fury I done milking cowjumps over me and spilt all milk
+<lb/>Sept. 27: ... went dunning toAbram Switzer got 2 dollars
+<lb/>March 8, 1871: we are all on sick list Retta and Ella ironed I sewed
+<lb/>March 9: Ella papered and helped do housework Jerome is very bad with head ache
+<lb/>March 12: a rainy lonesome morning I feel most discouraged Jerome more comfortabel Ella a large
+<lb/>sty on her eye and very painful Franks neck very bad with a swelling the two little boys well
+<lb/>March 14: Jerome better and tapped 7 maple trees Frank helped him I baked bread
+<lb/>March 15: a very stormy day all on the grunt list
+<lb/>March 18: Deacon H called and brought a bowl of honey and stewing ofplums Netty Switzer and R.
+<lb/>Barkley called Ella done a good days workfor little girl
+<lb/>March 19: Charley and Manty come this day Mr B and wife and Mr Potter called and Orison Potter
+<lb/>night come and I am very tired it had not seem like the Sabbath
+<lb/>March 20: ... Cornelius Harring called to see about letting or selling a piece of land to us. Scott bit
+<lb/>on leg bad by Spielmans dog
+<lb/>March 25: ... took contract for a piece ofland of Cornelius Harring
+<lb/>March 29: Woke wi th a heavy chill Sent for Mrs Potter and Mrs Barkley and I had a young son at 8
+<lb/>in morning weighed 71/2
+<lb/>March 31: Miss Ella and Lola Potter were here to tea went up there in the evening 1 wrote a letter to
+<lb/>grandma...
+<lb/>April 3: got up in morning and went to work atfence in afternoon I laid a bedjust as near
+<lb/>discouraged as a woman could be
+<lb/>April 5: ...went to work on the road we put in a new stringer in the bridge ...went to work over on the
+<lb/>farm in the afternoon splitting rails
+<lb/>April 9: Easter Sunday we had eggsfor breakfast Elder Green preached a sermon... get thine house
+<lb/>in order for thou shalt die and not live ... / went to bed tired and low spirited
+<lb/>April 10: ... finished the day by going to bedfeelingfriendless
+<lb/>April 11: ... Ella Potter come down and brought me some berries 1 changed my mind about friends
+<lb/>April 12: ...I did nothing but take care ofbaby Taylor and found it hard work
+<lb/>April 28: rained in forenoon Jerome, Frank and Scott went to little lake fishing a heavy
+<lb/>thundershower spoilt their sport did not get but 2 mulets
+<lb/>Jan. 2, 1874: got up at 6 got breakfast and went to cleaning house put up bed in back room and went
+<lb/>to make bees wax Jerome come from plains and brought mother I made cake and pies and got supper
+<lb/>sat up till 12 oclock
+<lb/>Jan. 7: ... I made mince pies and churned read aloud in evening
+<lb/>Jan. 9: Frank went to barn fork fell from scafold and struck one tine in his cheek had to lie down
+<lb/>before breakfast... MrAckley and wife called in evening had quite an argument on the subject of
+<lb/>baptism and Lords supper got supper after ten oclock went to bed at ten past Eleven
+<lb/>Jan 10: ... to Mr Speilmans to a visiting party all went off pleasant had roast turkey, oysters and
+<lb/>baked spare rib got home at ten minits past 12
+<lb/>Jan 12: got up six found 4 inches deep of snow the children went to school all but Dell I made
+<lb/>beeswax and strained Honey
+<lb/>Jan. 22: ...1 baked 5 loaves bread and 2 apple pies and commenced cleaning in back bedroom went to
+<lb/>WAdSwitzers and made a visit...got home at 1/2 to 10 had a good time
+<pb n="9" facs="#page-008"/>
+<lb/>Jan. 23: ... I am lame in my head and sholders as I cantwork Frankwentto VanAmburghs at a party
+<lb/>got home and to bed at 1/4 to one
+<lb/>Jan. 27: Jerome and Frank made smokehouse...
+<lb/>Jan. 30: took out sholders and smoked them and cut wood and done chores and I washed a boiler of
+<lb/>white clothes the little ones to school
+<lb/>Feb. 1, 1874: Jerome and selfwent to Plains ...we got to the plains at halfpast 3 met Low Carpenter
+<lb/>and Mrs Dean and Dora Dunkley had a time ofrejoicing over the new born son of Brother Adelbert and
+<lb/>Sister Calysta staid all night
+<lb/>Feb. 5: Jerome went to mill got the grist Frank brought it home on sleighs 1 sewed on little Willys
+<lb/>dress
+<lb/>Feb. 12: ...One of Jacob Frost children was buried
+<lb/>Feb. 13: ... 7 baked bread buiscuit and cake and mince pies churned and now feel most tired out 20
+<lb/>minits to eleven going to bed Levi Mill buried
+<lb/>Feb21: Frank helped me paper Ella mop the floor little boys sawed wood and done chores I baked
+<lb/>3 loaves bread and one tin buiscuit I washed a shirt for Frank after 10 oclock at night so we can go to
+<lb/>meeting tomorrow if it is pleasant 11 ocl
+<lb/>Feb23: Jerome went to Monterey and tapped trees Frank helped me wash Ella done house work
+<lb/>little boys to school
+<lb/>March 2: ... Ella and selfmade carpet and put it down in back room Dell brought sap and boild
+<lb/>Scott went to school
+<lb/>March 6: Jerome and Frank drew wood this forenoon Frank went school last day all went and to
+<lb/>Spelling School I baked bread while they were gone
+<lb/>December 27 marks the 102nd anniversary of the incorporation of the Hornby
+<lb/>Congregational Church. In 1897, the Presbyterians and Methodists chose by vote to
+<lb/>combine their congregations whose respective memberships had been declining for a
+<lb/>number of years.
+<lb/>The Presbyterian Church was formed in Hornby on September 14, 1831 and meetings
+<lb/>were held at the home of Chester Knowlton which stood near the south east comer of
+<lb/>Rogers and Hornby Roads. Rev. B.B. Smith delivered the first sermon and Josiah Wheat
+<lb/>was named clerk as well as an elder. Also chosen as elders were Francis Northway and
+<lb/>Sampson Bixby. Elders named in subsequent years, among others, were Henry Gardner,
+<lb/>S.R. Hungerford, C.G. Wheat and Andrew Hyslop. Among the first members were the
+<lb/>families of Haradon, Gibbs, Rockwell, Harrison and Palmer.
+<lb/>In 1851, tmstees Marcus Gaylord, Henry Gardner, S. R. Hungerford, D.L. Wheat, and
+<lb/>D.D. Stanton began taking steps towards building a church. The stmcture, which still
+<lb/>stands today, was built in the fine Greek Revival style of architecture and was completed
+<lb/>in 1852.
+<lb/>The Methodist Episcopal Church was formed in 1828 with Sylvester Brooks its leader
+<lb/>for the next ten years when he was succeeded by Levi Coye. In 1843, a division of
+<lb/>sentiment occurred with the result being the organization of the Wesleyans who came to
+<lb/>the aid of the Presbyterians when they were building their church. As a result of this aid,
+<lb/>the Wesleyans were allowed to share the Presbyterian church building on alternate
+<lb/>Sundays. This continued until 1877 when the Wesleyans dedicated their own church in
+<lb/>Dyke or Shady Grove and this church is still active today.
+<lb/>The Methodist Episcopal Church was left with a very small number of members but
+<lb/>managed to stay together. Meetings were held in the homes of Abel Palmer and Daniel
+<pb n="10" facs="#page-009"/>
+<lb/>Goodsell for several years. In 1863, under the leadership of Rev. A.H. ShurtlifF, they
+<lb/>reorganized and meetings were held for a time in the Baptist church which stood in
+<lb/>Hornby Forks. The Presbyterians, as they did with the Wesleyans, came to the assistance
+<lb/>of the M.E. Church and allowed this sect the use of their meeting house which they did for
+<lb/>a number of years.
+<lb/>By 1897, the Presbyterian congregation had dwindled to only 16 members and the
+<lb/>Methodists no longer reported to conference. There was difficulty in securing a resident
+<lb/>pastor. The Baptist organization was suffering with the same problems. Talk of a union
+<lb/>had been going on for several years before 1897 but the offer was declined by the
+<lb/>Wesleyans. A joint meeting of the Presbyterians, Methodists and Baptists was held on
+<lb/>August 1, 1897 with the Presbyterians voting to invite the others to unite with them under
+<lb/>a Congregational form of government. A paper to that effect was signed by all the
+<lb/>Presbyterians and Methodists and a few Baptists. At a meeting held on Sept. 4, the
+<lb/>Baptists decided not to unite. Another petition was circulated with forty signatures
+<lb/>received and the decision was made to go ahead with the merger and transfer the property
+<lb/>from the Presbytery to a local Congregational society. Invitations to help organize the
+<lb/>church were sent to the Rev. N.E. Fuller of Coming, the Rev. Thomas K. Beecher and the
+<lb/>Rev. Samuel Eastman both of Park Church, Elmira. After several meetings, the church
+<lb/>was incorporated on December 27, 1897 with^Hen^^^^IIajTiggp, Henry W. Wheat and
+<lb/>Alva Gifford as trustees and Mary E. Eddy as clerk.
+<lb/>In September of 1959 the Junior Fellowship of the Hornby Congregational Church held
+<lb/>a re-enactment of the historic merger. Representing their great grandparents were Pamela
+<lb/>Kniffen as Mary Hyslop, Kay Rogers as Carrie Erwin Rogers, Edith Lehman as Kate
+<lb/>Hendrick Stewart and Kathleen Cox as Alice Coye Gifford.
+<lb/>Other roles included Nancy Goodrich as Lloyd Stewart, Janet DeMonstoy as Hannibal
+<lb/>Howell, Dawn Easling as Eben Stephens, Jean Lehman as Esther Stephens, Mrs. Ruth
+<lb/>Mclntosh as Addie Stephens, and Christine Goodrich as E.J. Easterbrooks.
+<lb/>Additional parts were: Anita Mclntosh as Delinda Dickinson Easterbrooks, David
+<lb/>Sowersby as V.T. Brouwere, clerk of the Baptist Church, Kay Elwell as Mrs. Brouwere,
+<lb/>David Mclntosh as the Rev. Samuel Eastman, John Hudson as the Rev. N.E. Fuller,
+<lb/>Richard Elwell as a reporter from The Corning Journal, Fay Lehman as Mrs. Lydia Allen,
+<lb/>the first resident pastor. Paul Mclntosh and Robert DeMonstoy welcomed the
+<lb/>congregation and Cynthia Hovey and Diane Stermer closed the program.
+<lb/>Sources:
+<lb/>History of Steuben County. 1879 by W.W. Clayton
+<lb/>The Evening Leader, October 26, 1952
+<lb/>The Evening Leader, September 20, 1959
+<lb/>Minutes of the Homt^ Congregational Church
+<lb/>Happy Heifdays T@ All and B@st Wfsh@s f@r th@ H@w Y@arl
+<pb n="11" facs="#page-010"/>
+<lb/>Susan Moore
+<lb/>185 South PI
+<lb/>Corning NY -14830-2219
+<lb/>Barry Mosher
+<lb/>4 Van Sant Rd.
+<lb/>Newark, DE 19711
+<lb/>mi
+<lb/>PM
+<lb/>MS
+<lb/>-Hornli*-'
+<lb/>^Historical Society-
+<lb/>m:
+<lb/>pflf
+<lb/>-FOUNDED-DECEMBER 30,1957-
+<lb/>-PROVISIONAL CHARTER-SEPTEMBER 30,1960-
+<lb/>-ABSOLUTE CHARTER-JANUARY 24,1979-
+<pb n="12" facs="#page-011"/>
+<lb/>HORNBY UNEARTHED
+<lb/>NEWSLETTER PUBLISHED BY
+<lb/>-HORNBY HISTORICAL SOCIETY-
+<lb/>185 SOUTH PLACE - CORNING, NY 14830
+<lb/>MARCH 2000
+<lb/>OFFICERS
+<lb/>President: Richard Johnson
+<lb/>Vice president: Susan Moore
+<lb/>Secretary: Marleah Johnson
+<lb/>Treasurer: BillHaradon
+<lb/>BOARD OF DIRECTORS
+<lb/>Milton Adams Susan Moore
+<lb/>Laura Lehman
+<lb/>Richard Pierce
+<lb/>Francis Hamilton
+<lb/>HORNBY HISTORICAL SOCIETY BUSINESS NEWS
+<lb/>• Election of Officers will be held at the first regular meeting of the year in May.
+<lb/>Watch for the announcement in The Leader for the date and time. We will be voting
+<lb/>for a full slate of officers for yearly terms and two Director's terms which are held for
+<lb/>two years. Please plan on attending - your vote does coimt. For those unable to
+<lb/>attend, you may contact any officer with your nomination and/or vote.
+<lb/>• New Acquisitions at the Museum: Bertram Rhodes of Barboursville, Va, has
+<lb/>donated many letters and photos pertaining to the Stephens family, of which he is a
+<lb/>descendant. Included in the photos are several daguerreotypes dated to the mid
+<lb/>1800's. See Historian's Notes below for transcriptions of three of the letters. Many
+<lb/>thanks to Bert for sharing these historically valuable documents with the Historical
+<lb/>Society.
+<lb/>• The Thomas Stanton Society: Emma Lou Stanislav, member of the Hornby
+<lb/>Historical Society, writes to invite anyone intested in joining the Thomas Stanton
+<lb/>Society to do so by contacting her at 901 12th Box 16, Onawa, lA 51040. Emma Lou
+<lb/>is secretary of that organization. If you have Stantons in your ancestry (and many
+<lb/>from Hornby do) you just might learn about an unknown "cousin" or two.
+<lb/>For those of you on-line, visit George Rogers' Homby Web site at
+<lb/>http://www.rootsweb.com/~websites/newyork.html
+<lb/>George has done a fantastic job in compiling genealogy on many of the early Homby
+<lb/>families and the history of the town. If you're doing research on your Homby ancestors,
+<lb/>you won't be disappointed.
+<lb/>4c * 4i 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c * 4c 4c 4i 4c 4e 4e 4c 4c 4c 4c 4i 4c 4i 4&lt; 4c 4c 4c 4c 4c 4c 4c * 4c
+<lb/>The Homby Historical Society moums the loss of Charles Robert Stanton, who died
+<lb/>on December 30, 1999 in Coming. Bob was a long-time supporter of Homby and its
+<lb/>history. His friendly, outgoing manner and hearty laugh will be missed by all his friends
+<lb/>and family.
+<pb n="13" facs="#page-012"/>
+<lb/>HISTORIAN'S NOTES
+<lb/>By Susan Moore
+<lb/>The Stephens family were relative "latecomers" to Hornby, arriving from Orange
+<lb/>County about 1869. Holloway Whitfield Stephens, his wife Maria Mills Stephens and
+<lb/>their seven children settled in the area of Monterey and Hornby Roads.
+<lb/>Holloway W. was bom in 1816, a son of Ebenezer B. and Maria Jacques Stephens.
+<lb/>Ebenezer met an early death in 1820 at age thirty while employed as goaler or sheriff in
+<lb/>Goshen. Holloway W. and his two brothers William and Ebenezer, Jr. were raised by
+<lb/>their paternal grandparents, Holloway and Amy Cooley Stephens.
+<lb/>William died in 1833 at the age of twenty as the result of a gunshot wound. He is
+<lb/>buried in the Old Fullerton cemetery. Slate Hill, Orange County, NY as are many other
+<lb/>members of the Stephens family.
+<lb/>Ebenezer Jr.lead quite a varied and accomplished life. In 1841 he was admitted to the
+<lb/>Bar in Illinois, moved west, and in 1887 established the law firm of Wright &amp; Stephens
+<lb/>in Arapahoe, Nebraska. Ebenezer, Jr. was a Free Mason, was licensed as a local preacher
+<lb/>in the Methodist Episcopal Church and designed a bridge for which he was issued a
+<lb/>patent. The bridge would be constructed so the floors would raise off their foundations
+<lb/>when hit by high water, float on the surface of the water and at the same time be used for
+<lb/>crossing. (No word as to the usage and success of this design.)
+<lb/>Meanwhile, back in Hornby, Holloway W. and his family were achieving
+<lb/>accomplishments of their own. Son Robert L. enlisted in the Civil War at the age of
+<lb/>sixteen as a drummer boy. He served throughout the war and was the last surviving
+<lb/>member of his regiment, the 124th New York Field Artillery, when he passed away in
+<lb/>1934.
+<lb/>Son John B. M. Stephens graduated from the University of Rochester and began a
+<lb/>clerkship with a law firm in that city. He was admitted to the Bar in 1886 and was
+<lb/>elected to the office of Supreme Court Judge in 1918, a position he held until his
+<lb/>retirement in 1928. Judge Stephens died in 1933.
+<lb/>Daughter Maria J. married Charles R. Adams and lived at the Adams homestead on
+<lb/>Rogers Road. They were the parents of Winifred, Clarence, Mildred and Georgia
+<lb/>Adams. Maria's brother Eben B. Stephens married Esther Underwood of Hornby where
+<lb/>they raised their four children. Earl, Addie, Holly J. and Robert R.
+<lb/>Holloway Whitfield Stephens was a successful Hornby farmer and citizen. He served
+<lb/>as Justice of the Peace in 1878. Holloway was stricken and died in the voting booth at
+<lb/>Hornby Forks on Election Day, February 13, 1894. His wife Maria died in 1907 and both
+<lb/>are buried at the Hornby Central Valley cemetery.
+<lb/>Following are transcriptions of three letters that were among the papers of Ebenezer
+<lb/>Stephens, Jr. The first was written to him by his mother Mariah who married a Benjamin
+<lb/>Corey after the death of her husband Ebenezer, Sr.
+<lb/>Slate Hill July 4, 1844
+<lb/>Dear and Well Beloved Son I receivedyour letter and purused it with the greatest pleasure. I have been
+<lb/>looking for you out to see us but I have looked in vain. I have allmost gave up ever seeing you again but if
+<lb/>we never meet again in this world I hope we may be prepared to meet in a world where there is no sickness
+<lb/>nor sorrow. I do not enjoy myself at all. My health is very poor. My mouth and throat is very sore. The
+<lb/>Doctor says it is past cure he thinks it is the canker and my throat is growing up. The rest of our friends
+<pb n="14" facs="#page-013"/>
+<lb/>are well Your uncle Holloway Stephens is married to his house keeper it happened a few weeks ago. They
+<lb/>had a daughter to begin with most a year old I suppose you have heard before this time that your old
+<lb/>friend Juliet is married not to your cousin Holloway [son of the Uncle Holloway mentioned above] but to
+<lb/>Mr. Cortright. I think you and Holley did not court her right. She staid with Holloway and though you
+<lb/>would not know it, he went to Newburgh to live. She thought she would stay with someone else but it
+<lb/>appeared he was made acquainted with the fact. But 1 think you have not forgotten her. I understand you
+<lb/>have turned you childfor her. You mother says she heard she said she [wasn't?] you had married some
+<lb/>little wench. John Oakley is married to Elizabeth Davis. His mother is dead She died last May of
+<lb/>consumption. His sister Susan died lastfall Simeion Stoddard and his wife died with in a few weeks.
+<lb/>Eight out of Judge [Fisher?] ./Siot/Tv with —fever. It is now raging over the hill at Chester. Your brother
+<lb/>and his family [Holloway Whitfield and Maria Mills Stephens] are all well and send their respects to you
+<lb/>andyour wife. Holley luis gone today with the band to Middletown and Goshen. I dont know as I hme
+<lb/>anything more to write. I Acjpe you will come and see us as soon as you can. IfI could travel I would soon
+<lb/>come to see you. Adaline [Dumsing?] writes for me and send her respects to you. Your cousin Holley
+<lb/>Stephens has e:q&gt;erienced religion. Give my love to Elizabeth [wife Elizabeth Sarah Craddock]. Tell her I
+<lb/>would be much pleased to see her and kiss Julietfor me.
+<lb/>From Your affectionate Mother
+<lb/>Mariah Corey
+<lb/>Your gram^ather and mother often speak about you with teens in eyes. Write as soon as convenient pay the
+<lb/>postage if you plectse.
+<lb/>There is no physician that draws breath
+<lb/>can save me from the power of death
+<lb/>I soon must go and leave you all
+<lb/>because the Lord doesfor me call
+<lb/>Mariah Jacques Stephens Corey died three months later on October 7, 1844.
+<lb/>The next letter was written by Elizabeth Sarah Craddock Stephens who is mentioned
+<lb/>in the above letter. She is writting to her daughter Sarah (Sallie) who just a few days
+<lb/>previous was married to Thomas A. Rhodes.
+<lb/>Stephens Hotell, Broadway,
+<lb/>New York, Sept. [1865]
+<lb/>My Dear Daughter,
+<lb/>I write you afew lines to let you know we are well and in the great City ofNew York, so
+<lb/>you can know where tofind us when you come. We left Middletown Fridday morning we went all around in
+<lb/>the county Thursday and bid them all good by. Andrew got a horse and Buggy Wednesday afternoon and I
+<lb/>went to the Nite party. We drove about twenty miles. The Nite Party was at Elis Pitts, Esaphrin and Kate
+<lb/>was there. We had a nice time. Many inquires was made cfteryou and much love and good wishes for you
+<lb/>and Tommy was sent. Oh, Sallie you do not know how lonely I felt after you and Tommy left. I went up to
+<lb/>my room but Oh I could not stay there it seemed to me you were deexL I went to Mrs. Tuckers and staid
+<lb/>until I thought diner was ready, went back got diner and left. Hollie, Andrew &amp; your Pa was drinking all
+<lb/>four noon on the strength of your marriage. Andrew said I must excuse them, as Stephens did not have
+<lb/>Daughters to marry every day. Well Sallie I hope this will find yoti both well and happy, yes I have not the
+<lb/>least doubt but you both are happy. I hope Tommysfoot is entirely well. I have been so uneasy about it for
+<lb/>fear he would neglect it. I hope you have arived safe in Jamestown and found all well. Remember my kind
+<lb/>regards to Mrs. Rhodes &amp; family and much lovefor your selfand Tommy. Write soon and tell me when
+<lb/>you will be on leve. I forgot to tell you Mrs. Tomson is very low. She sends her love to you and says she
+<lb/>was so discqrpointed in not seeing you before you left for she thinks she will not live to see you again. She
+<lb/>said Lib cryed all Tuesday and Wednesday because she could no go to see you before you left. I wish yoti
+<lb/>would write to Lib also Maria [Jones?] &amp; Esaphrin and tell them what time you will be through Middletown
+<lb/>and if you cant stop to see them, let them know &amp; they will be at the cars to see you. Dontfail, for they are
+<lb/>very anxious to see you. Your Aunt Maria says I must tell you to stop and come out to see her. She was
+<pb n="15" facs="#page-014"/>
+<lb/>very sick Wednesday morning so she could not come to see you married Well I must stop. Your Pa and
+<lb/>Robert [Sallie's brother] send their love to you andyour better half. I hope toseeyou both soon. Nomore
+<lb/>now but remain your Mother - E. S. Stephens
+<lb/>According to Stephens family papers, Ebenezer's son Robert, mentioned above,
+<lb/>"married in Nebraska and had two or three children. He died in a logging accident about
+<lb/>1880". The following letter, written by Robert's widow Carrie to her father-in-law, bears
+<lb/>this out.
+<lb/>Arapahoe Fumas county Neb May 12, 1880
+<lb/>Dear Father Yours of 16th was received andyou can not inagin the releif it gave me to hecnfrom you.
+<lb/>We are all well. Baby has been quite sick but is well again. We are having dreadful dry weather here
+<lb/>every thing is dryingTijJTTiwrgi/itigto hcr,'e my housefinished and move to myself as soon as posible. I
+<lb/>am glad to hear you are coming out to see me. I am much obliged to you to think you are going to help me
+<lb/>with my three little Children. Your kindness will never be forgotten and will always be cherished in my
+<lb/>memory. I am going to do better and try and reach that blessed land Robbert was much better before he
+<lb/>died than he used to be he did not sware eny more he often said he wanted to see you. Sell the cultavator
+<lb/>and stove if you can to help me get a new stove my old stove is no account. Please send me Robberts age.
+<lb/>Tell me how soon you will be out I have to buy windows and doors yetfor my house. The children talks
+<lb/>about grandpa and they are gladyou are coming out to see them. 1 will sendyou a bill of the expensis the
+<lb/>neighbors is going to each give me a days breaking andput in some sod com. Well 1 will close for this
+<lb/>time hoping to hear from you soon. I remain as ever you daughter.
+<lb/>Carrie Stephens
+<lb/>Apparently, Ebenzer the minister, and his son had been somewhat estranged over the
+<lb/>years, yet written in Ebenezer's hand on the back of the letter is "Robert reformed before
+<lb/>he died." The letter was significant enough to Ebenezer to keep with his papers over the
+<lb/>years and it survived all the moves he made out West and back. There is no further- —
+<lb/>information as to the fate of Carrie Stephens and her three children. ; ^
+<lb/>Barry Mosher
+<lb/>4 Van Sant Rd.
+<lb/>Newark DE 19711
+<lb/>va-f li.i
+<pb n="16" facs="#page-015"/>
+<lb/>HORNBY UNEARTHED
+<lb/>NEWSLETTER PUBLISHED BY
+<lb/>-HORNBY HISTORICAL SOCIETY-
+<lb/>185 SOUTH PLACE - CORNING, NY 14830
+<lb/>JUNE 2000
+<lb/>OFFICERS
+<lb/>President: Richard Johnson
+<lb/>Vice President: Susan Moore
+<lb/>Secretary: Marleah Johnson
+<lb/>Treasurer: BillHaradon
+<lb/>BOARD OF DIRECTORS
+<lb/>Milton Adams Susan Moore
+<lb/>Laura Lehman
+<lb/>Richard Pierce
+<lb/>Francis Hamilton
+<lb/>HORNBY HISTORICAL SOCIETY BUSINESS NEWS
+<lb/>• May 16 meeting; Eleven present. Annual elections held with the same slate of
+<lb/>officers reelected. Milton Adams was reelected to the Board of Directors. The
+<lb/>Historical Society by-laws were amended to include a collections policy for the
+<lb/>museum. New York State, under its museum chartering program, is now requiring all
+<lb/>chartered museums to have a collection management policy in place. A collections
+<lb/>committee comprised of members Susan Moore, Milton Adams and Marleah Johnson
+<lb/>has been formed which recommends items for accession to and deaccession from the
+<lb/>collections of the Hornby Historical Society. For the past several years the Historical
+<lb/>Society has requested donors sign an itemized receipt for items donated to the
+<lb/>museum. The new policy will reflect little change in the way collections are handled,
+<lb/>but an important step has been taken by making the collection management policy a
+<lb/>part of the by-laws.
+<lb/>•  June 20 meeting: 15 present. A pot luck supper was enjoyed by all followed by a
+<lb/>brief business meeting. Mark your calendars. Dates for Historical Society
+<lb/>meetings have been set for July 18, September 19, and October 17. All are held at
+<lb/>the Congregational Church Hall at 7 p.m. To all members, please note the expiration
+<lb/>date on the mailing label of this newsletter. It should read June 2001 or later. Dues
+<lb/>are still $3.00 for a single membership, $5.00 for a family and may be paid to any
+<lb/>officer. Thanks to everyone for your continued support.
+<lb/>• The Hornby Museum will be open beginning Sunday, July 2 and will continue
+<lb/>every Sunday through August 27. Hours are 1-5 p.m. Please stop by and see our
+<lb/>new items on display.
+<lb/>HISTORIAN'S NOTES
+<lb/>By Susan J. Moore
+<lb/>Several interesting items have been discovered since the last newsletter. The
+<lb/>following was sent my way via e-mail from George Rogers who is always keeping me
+<lb/>up-to-date with information he receives through his Hornby web page. This is an excerpt
+<lb/>from the Autobiography of Edwin Payson Gibbs, written in 1906, and submitted by his
+<pb n="17" facs="#page-016"/>
+<lb/>great grandson Frank Lilbum Wells. It deseribes a family farm in the pioneer days of
+<lb/>Hornby and a subsequent move to the west. We know that many Hornby families made
+<lb/>their way west during the 1840's and '50's, but it isn't veiy often we have the opportunity
+<lb/>of hearing a "hands on" aecount of the move there.
+<lb/>/ was bom July 13, 1838
+<lb/>Iwas bom July 13, 1838, (so my mother said, 1 don V remember the date myself) in the town ofHornby,
+<lb/>Steuben County, State of New York. My father was Alanson Gibbs and my mother was Sophronia Gqylord
+<lb/>My Father was bom in Vermont, Town of Westminister. His ancestors came from England and landed at
+<lb/>Cape Cod My Grandfather Gibbs moved to New York from Vermont with hisfamily about 1825. The
+<lb/>family consisted of three boys and I think four girls, my father being the youngest boy. My earliest
+<lb/>recollections are of the New York home. A long house standing in a little valley with a large hill on one
+<lb/>side of the road called Pine Hill and on the other side was tillable land and a large maple wood in which
+<lb/>was my father's sugar bush. I can recollect seeing them make maple sugar there. I can also recollect
+<lb/>seeing them make shingles. They would go upon the side of the hill, cut the pine trees, saw them into
+<lb/>blocks and roll them down the hill into the yard near the house. There they were split and shaved and
+<lb/>bunched in the lean-to of the house. This work was done in winter and the sugar was made in early spring.
+<lb/>I have heard my father say that the currency of that country was pine shingles and maple sugar. I can
+<lb/>remember attending school there and getting a severe flogging because I wouldn't rub out a mark [I had
+<lb/>made] on the seat I sat on with a dead coal that I picked upfrom the fire place. The teachers name was
+<lb/>James Wheat.
+<lb/>This was a hard country to make a farm. It was all timber, mostly hemlock and beech and all had to be
+<lb/>cleared, then the land was a stiff clayfull of stone. Winters long and summers short. Myfather got it into
+<lb/>his head there was an easier place tofarm and in 1843 he went to Illinois and took a look at that country
+<lb/>which pleased him. Again in 1844 he went back and staid all summer, bottght a claim with a house on it
+<lb/>andput in the fall of same year. Sold his farm there and in the spring of 1845 moved hisfamily to
+<lb/>Whiteside County, Illinois. I happened to be one of the family, which consisted at that time of two boys and
+<lb/>two girls. I was the oldest boy 7 years and my brother Rufus Leroy, 2 1/2 years. The oldest girl was
+<lb/>Philena Augusta, 12 years, andLydiaAnn, 5years.
+<lb/>Alanson's land patent for 80 acres of land is dated July 1, 1845 as is that of his older
+<lb/>half-brother Luther Gibbs. Sophronia Gaylord Gibbs' sister, Emeline Gaylord Jennings
+<lb/>and her husband Squire W. Jennings also received a land patent on that date. Another of
+<lb/>Sophronia's sisters, Candaee Gaylord Sands, with husband John P. Sands, later settled in
+<lb/>Whiteside County in 1848.
+<lb/>I can remember the Journey very well
+<lb/>This was before the time of Railroads; at least I think there was but one Railroad in the state ofNew York
+<lb/>at that time which was a short coal roadfrom Coming to Blossburg. I can remember the journey very well.
+<lb/>We were put on a canal boat at Tompkins [Watkins Glen], at the head of Seneca Lake and towed through
+<lb/>the lake by a steamboat to the foot of the lake [at WeedsportJ. There we struck the canal and were towed
+<lb/>with horses to Buffalo on Lake Erie. There we were put on a lake steamboat called the Illinois. A both my
+<lb/>only recollection of this boat ride on the lakes is that... / was quite sea sick. I can recollect landing at
+<lb/>Monitor Island to take on wood and also recollect seeing the young Indians shoot with their bows and
+<lb/>arrows. The passengers would put pennies in the end of the cords of wood and the boy would shoot at it, if
+<lb/>he hit it, he had the penny, if he didn't hit it he didn't lose anything unless he lost his arrow. But they hit it
+<lb/>most every time.
+<lb/>I can remember landing in Chicago. Chicago was but a small place at that time; there were no wharfs nor
+<lb/>docksfor the boats to run up to. They got as close to shore as the depth of water wouldpermit and rtjn out
+<lb/>gangplanks onto the sand and the passengers walked the planks. The goods were unloaded right on the
+<lb/>beach. Most of the city was on Lake Street and I think all the business houses were there. There were two
+<pb n="18" facs="#page-017"/>
+<lb/>hotels at that time. Lake Street was paved with planks and 1 can recollect seeing water squirt up through
+<lb/>the spaces between the planks as the teams would cross them. Myfather had a wagon and some of his
+<lb/>household goods on the boat. At Chicago he bought a pair of horses and loaded his family and goods into
+<lb/>it and started for his claim which was about 120 miles west on Rock River. The first eight miles out a
+<lb/>swamp and he got stuck in the mud three or four times before getting to the eight mile house which is now
+<lb/>Oak Park. There we found higher ground andfrom there to our new home was made without further
+<lb/>trouble.
+<lb/>The next item was submitted by Carla Monday Church of Flushing, Michigan. Carla
+<lb/>has donated copies of several papers pertaining to her great grandfather, William H.
+<lb/>Monday, who served in the Civil War. William, a Hornby resident, served with Co. F,
+<lb/>50th Regiment, NY Engineers. He and his wife Polly moved to Michigan after the war
+<lb/>where he died in 1906. This "General Affidavit" was filed by Polly when she was
+<lb/>applying for widow's benefits.
+<lb/>19 November 1907, Polly A. Monday, aged 77... declares as follows: That she was married to William
+<lb/>H. Monday on the 13th day ofJune 1854 by a Justice of the Peace at Hornby, Steuben County, NY; that
+<lb/>she was married once previously to Alexander Calkins at Hornby Steuben Co. New York; that she has no
+<lb/>record of these dates except those made by the second husband in theirfamily Bible; that while living at
+<lb/>Hornby, NY herfirst husband went fishing in the spring of the year in the Chemung River with a neighbor
+<lb/>and said first husband fell into the river and was drowned; that the man who went with him got help and
+<lb/>tried to find the body but was not able to find it; that the water was high and the body was neverfound and
+<lb/>she has been informed that no record of death could be obtained because of notfinding the body; that the
+<lb/>law in that state did not provide for making such records at that time; that the second husband the said
+<lb/>soldier was never marriedpreviously to his marriage to herself; that she has not remarried since the death
+<lb/>of her late husband William H. Monday; that said husbands life was not insured and at his death he left no
+<lb/>property; that claimantfiles herewith the best evidence obtainable at this time and requests that said
+<lb/>evidence be accepted in lien of that called for; that marriage and death records were not ahvays made in
+<lb/>those days and she has not been able tofind such records.
+<lb/>A terrific discovery was made by Marleah Johnson, secretary of the Hornby
+<lb/>Congregational Church. She found a copy of the "Session Record Book of the Hornby
+<lb/>Church" dated September 14,1831 to December 30,1888. You may recall that the
+<lb/>members of the Presbyterian and Methodist churches voted to combine their
+<lb/>congregations to form the Congregational Church in 1897. (Hornby Historical Society
+<lb/>Newsletter, December, 1999). The original book was received by the Presbyterian
+<lb/>Historical Society in Philadelphia, PA in 1963. Thanks to the forethought of Jessie
+<lb/>Wheat of Coming who transcribed the book, we have this important record of the
+<lb/>founding of the church. Since early meetings were held in homes and the church itself
+<lb/>was not built until 1852, it is tmly amazing that the original book survived. At the
+<lb/>inception of the Presbyterian Church, the Town of Hornby had been incorporated for only
+<lb/>five years.
+<lb/>Hornby September Nth 1831
+<lb/>The committee appointed by the Presbytery of Bath to form a church in the town of Hornby met
+<lb/>according to appointment at the school house near Chester Knowlton's in said town. A sermon was
+<lb/>delivered from "Acts 16th - 30" by B.B. Smith. Adjourned to the house of Mr. Knowlton. Meeting opened
+<lb/>by prayer. Seven candidates presented themselves by letter. Thirteen others presented them.selves as
+<pb n="19" facs="#page-018"/>
+<lb/>candidates for admission. Proceeded to the examination of the candidates. Nine o 'clock in the evening
+<lb/>business not completed Adjourned till nine o 'clock next morning. Closed by prayer.
+<lb/>September 15th. Met according to adjournment meeting. Opened by prayer -proceeded to the
+<lb/>examination of the other candidates. There being no objection, to either of the candidates proceeded to
+<lb/>organize the church by reading the confession of faith which was assented to by each candidate.
+<lb/>Administered the ordincmce of baptism to two of said candidates. Each candidate consented to the
+<lb/>covenant and were declared to be a Church of Christ. The Church then proceeded to choose B.B. Smith
+<lb/>[Rev. Benjamin B. Smith] moderator and Josiah Wheat clerk. Closed by prayer.
+<lb/>Those members admitted at that first meeting were; Sampson Bixby, Anna Haradon,
+<lb/>Josiah Wheat, Francis Northway, Lucy Northway, Eleanor Gibbs, Sally Knowlton, Rhoda
+<lb/>Jennings, Tryphena Northway, Luther Northway, Rufus Gibbs, Alanson Gibbs, Polly
+<lb/>Gibbs, Rachel Gibbs, Johin Gardner, Nathan O. Rockwell, and Minerva Cross.
+<lb/>The second meeting November 19th 1831. josianK  opd Samson Bixby
+<lb/>were chosen as Elders and were ordained. Additional members included Mary F. Remer,
+<lb/>Pricilla Harrison, Sylvia Jewett, Mary Wheat, Sally Granger, Lydia Ann Gaylord,
+<lb/>Sophronia Gaylord, Lyman C. Wheat, Samuel Northway, Elsey Harrison, and Lois
+<lb/>Palmer.
+<lb/>Over the course of the next five decades, many more members were admitted,
+<lb/>dismissed, baptized, married or died. More on the early minutes of the Hornby
+<lb/>Presbyterian Church will appear in future newsletters.
+<lb/>Bany Mosher
+<lb/>4 Van Sant Rd.
+<lb/>Newark, DE 19711
+<pb n="20" facs="#page-019"/>
+<lb/>HORNBY UNEARTHED
+<lb/>NEWSLETTER PUBLISHED BY THE
+<lb/>-HORNBY HISTORICAL SOCIETY-
+<lb/>DECEMBER 2000
+<lb/>ikikikik^^kitidsikif^kicieTk
+<lb/>OFFICERS
+<lb/>President: Richard Johnson
+<lb/>Vice President: Susan Moore
+<lb/>Secretary: Marleah Johnson
+<lb/>Treasurer: Bill Haradon
+<lb/>BOARD OF DIRECTORS
+<lb/>Milton Adams Susan Moore
+<lb/>Laura Lehman
+<lb/>Richard Pierce
+<lb/>Francis Hamilton
+<lb/>HORNBY HISTORICAL SOCIETY BUSINESS NEWS
+<lb/>A pot luck supper was enjoyed by all at the October 17 meeting. Fifteen members
+<lb/>were present. A report was given by Sue Moore on the status of sales of "Lillian's
+<lb/>Hornby". (See below).
+<lb/>Membership: As of the September newsletter, the Historical Society has received
+<lb/>seven new members for a total of twenty three this year. Total membership is at fifty
+<lb/>eight individuals/families and has more than tripled since 1996!
+<lb/>New Acquisitions at the Museum: Many thanks to Paul Dodge for finding another
+<lb/>large box of items from the Dodge home. Included in this group are letters, ledgers,
+<lb/>diaries, almanacs, and over fifty photos. And thanks to members George Rogers,
+<lb/>Marleah Johnson and Tom Wolf, we have additions to the genealogy files of Giffbrd,
+<lb/>Smith, Kinyoun, Ganung, Catlin, Oldfield, and Blandin.
+<lb/>Repairs at the Museum: The broken window in the back room was recently fixed.
+<lb/>Thanks to George Eddy, owner of George's Glass &amp; Mirror in South Coming, for
+<lb/>donating the repair of the window and to Dick Pierce for his work in getting the
+<lb/>window out and repaired one back in. We're very happy to report that the museum
+<lb/>now has a new porch deck and the outhouse roofs have been restored with new cedar
+<lb/>shingles. Dan Bulkley has done an outstanding job on these repairs. Many thanks to
+<lb/>the Town of Hornby for supplying the labor and special thanks to Ellie Conneil for
+<lb/>donating the cost of the shingles. The outhouses were badly deteriorated and in
+<lb/>danger of being lost but now will continue to be an important and historic part of the
+<lb/>museum grounds for years to come.
+<lb/>Congratulations to Kitty Pierce who has recently been appointed as Historian for the
+<lb/>Town of Lindley. As an active, long-time member of the Hornby and Steuben County
+<lb/>Historical Societies, Kitty will undoubtedly add much to her new post.
+<pb n="21" facs="#page-020"/>
+<lb/>Horaby Historical Society member Paul McLaughlin passed away on October 19,2000.
+<lb/>He was bom on October 16, 1918 in Hornby, a son of Daniel and Catherine Hendrick
+<lb/>McLaughlin. Our sincerest sympathy is extended to all his family.
+<lb/>"Lillian's Hornby" a Great Success!
+<lb/>Sales of "Lillian's Homby" were brisk at the Craft Fair held at the Homby Fire Hall on
+<lb/>October 7th and 8th.
+<lb/>Wiimers of the three raffle drawings at the Historical Society table were:
+<lb/>50/50 - Crystal Bills
+<lb/>Copy of "Lillian's Homby" - Sheri Johnson
+<lb/>Historical Society note paper and pen - Lynn Wetherill
+<lb/>Thanks to Susan Moore, Kitty and Dick Pierce, and Sylvia Radford
+<lb/>for manning the booth for the weekend.
+<lb/>And a special thank you to everyone who wrote and called with their compliments about
+<lb/>the book. We know Lillian would be pleased.
+<lb/>Copies of "Lillian's Homby" are still available for sale just in time for Christmas. Please
+<lb/>send your check, payable to the Homby Historical Society, in the amount of $38.00
+<lb/>(includes shipping and handling) to Susan Moore, 185 South Place, Coming, NY 14830.
+<lb/>HISTORIAN'S NOTES
+<lb/>By Susan Moore
+<lb/>A few of the early entries from the minutes of the Homby Presbyterian Church,
+<lb/>founded in 1831, were written up in the June 2000 newsletter. Following is a
+<lb/>continuation of those minutes:
+<lb/>July 22nd 1832 Meeting at Chester Knowlton's. Sermon by B.B. Smith. George H.
+<lb/>Wheat and Manervia Northway presented themselves as candidates for the church were
+<lb/>examined and admitted. Manervia Northway baptized. Seven children baptized (viz)
+<lb/>Thankful Downer, Lucy and Calvin Clark children of Herman Northway, Dana Leavitt,
+<lb/>Mary Jane, Emery Orrin and Lucy Read children of Josiah Wheat. Sacrament
+<lb/>administered. Closed by prayer.
+<lb/>December 28th 1833 Session of the church met, opened by prayer. The following
+<lb/>persons presented themselves for admission into this church by letters which were read
+<lb/>and approved (viz) Henry Gardner and Caty Gardner his wife, Aaron Harwood and
+<lb/>Susan Harwood his wife... taken into the church December 29th 1833. John Harrison
+<lb/>presented himself as a candidate for the church was examined and admitted.
+<pb n="22" facs="#page-021"/>
+<lb/>Periodically, the minutes were examined and approved by a moderator from the
+<lb/>Presbytery at various locations such as Painted Post, Coming or Big Flats. Such was the
+<lb/>case in 1834 by Isaac W. Platt, in 1842 by F.L. Whiting, in 1847 by P.L. de St.Croix, in
+<lb/>1850 by Morrison Huggins, and in 1854 by Robert McMath. The last noted review of the
+<lb/>minutes was done on February 24,1858 by C.C. Carr who wrote, "Signed as approved,
+<lb/>with the following exceptions; writing very poor and no evidence that the session -
+<lb/>meetings were opened or closed with prayer."
+<lb/>Occasionally an item of a personal nature would be recorded. The church considered
+<lb/>itself to have every right to question a member if their behavior outside of prayer
+<lb/>meetings seemed to threaten their spiritual well being. The vows of marriage were
+<lb/>particularly sacred as in the case of Josiah and Mary Hilton. Josiah, bom 1790 in
+<lb/>Vermont, was accepted into the Homby Presbyterian Church in 1844 by letter from the
+<lb/>church in Big Flats. By 1846 he was ordained an Elder.
+<lb/>There seems to be some contusion, though, as to the tme identification of Josiah's
+<lb/>wife Mary. In a genealogy of the Hilton family, it states that Mary's maiden name was
+<lb/>Northway. Indeed, the church minutes record a Mary Arm Northway admitted in 1840.
+<lb/>But there is also named a Mrs. Mary Hilton who was received by letter from the
+<lb/>Congregational Church of Dorset, Vermont in 1848. Following is an account of events
+<lb/>pertaining to the marriage of Josiah and Mary Hilton. (All spellings are as written.)
+<lb/>March 9th 1850 Session met at call of the moderator after some informal
+<lb/>conversation as to the Separation of Mrs Hilton from hur husband - it was deemed
+<lb/>advisable to cite Mrs Hilton to appear before Session to be held at Henry Gardners
+<lb/>home March 23 - at 2 pm to answer the following... Common form charges Mrs Hilton
+<lb/>of unchristian conduct -
+<lb/>1. Specification Leaving hur husband Josiah Hilton in the night about the third of
+<lb/>January and
+<lb/>2. Refusing to return Admited with this qualification with out reform
+<lb/>Session met at call of Mod - March 23 - at the house of H. Gardner and opened with
+<lb/>prayer Memebers present Rev. John Gray S.P. Hungerford Josiah Hilton Henry
+<lb/>Gardner Charges read specifications stated and Partis agreed to Pact of the business
+<lb/>before session involving both Mr and Mrs Hilton
+<lb/>Mrs Hilton after admitting that she had left hur husband asserts that Mr. Josiah
+<lb/>Hilton her husband had requested hur to leave several times
+<lb/>Mr Rowley being present was Requested to assist Mrs Hilton and accepted.
+<lb/>Session apointed Mr Hilton Prosecutor on common form charges Mr Rowley then
+<lb/>offered the following Letter which was read See Letter It was acknowledge as Mr
+<lb/>Hilton then by consent of parties both was allowed to state grievens and difficulties
+<lb/>Mr Hilton said he fastened hur out of the Door
+<lb/>Mr Rowley said Mr Hilton told him ifshe thought more of her money than she Did of
+<lb/>him he would Leave hur. Hilton admitted this Mr and Mrs Hilton both admitted they
+<lb/>have talked up the matter ofseparation and set times or times to move or part - they have
+<lb/>parted and both refuse to confess and live together according to the covnant vows -
+<pb n="23" facs="#page-022"/>
+<lb/>Session resolved in view of the facts before session that Josiah Hilton and Mary his
+<lb/>wife be and hereby are suspendedfrom the communion of the church untill they give
+<lb/>evidence of repentance Closed with prayer
+<lb/>Met at the School hous May 4th
+<lb/>Opened with prayer present Rev. J. Gray S.P. Hungerford H. Gardner papers
+<lb/>from Mr &amp; Mrs Hilton were presented (sin papers) enquires were made statements
+<lb/>conflicting Resolved that the Sentence be publicly Read - Closed with prayer
+<lb/>Henry Gardner Church clerk
+<lb/>Apparently, Josiah and Mary Hilton continued to live apart. According to the 1850
+<lb/>Hornby census, Josiah, age 59, was living in the household of a Henry Martin, age 18.
+<lb/>There is a Mary Hilton, age 65, living by herself next door to VanRensaleer Hilton, age
+<lb/>35, possibly her son, with his wife Wiltha (Wealthy in another source) and their three
+<lb/>daughters Georgianna, Sarah and Drusilla. This is the only year Mary appears in the
+<lb/>census.
+<lb/>Then on January 4, 1852; Mrs Mary Hilton appeared before Session and requested
+<lb/>to be restored to the fellowship of the church. On review of whole case with the
+<lb/>statement ofMrs Hilton that she was excited and could not presentfacts that have since
+<lb/>Developed themselves therefore Resolved that she be restored
+<lb/>Closed by prayer Henry Gardner Clk.
+<lb/>As for Josiah, he did not make application to be restored to the church until 1863
+<lb/>which was granted without comment from the Elders. Josiah last appears in the 1870
+<lb/>Hornby census living with his grandson Josiah P. and his family. His death date is
+<lb/>unknown.
+<lb/>In the church minutes, Mary Hilton was granted a letter of dismission "to go to
+<lb/>Illinois" in 1853. Yet in an 1857 list of female members, Mrs. Mary Hilton was
+<lb/>dismissed to Painted Post. More in a future newsletter on other early Presbyterian
+<lb/>Church members.
+<lb/>From a 1929 Dyke School, District 10, program:
+<lb/>Miss Helen M. Doud, Teacher Winifred Morrow, Superintendent
+<lb/>Byron Roloson, Trustee
+<lb/>Pupils:
+<lb/>Clifford Divens Helen Divens Margaret Rudd Adelia RuddClifford Divens Margaret Rudd Adelia Rudd
+<lb/>Charles Green
+<lb/>Dorothy White
+<lb/>Gladys Green
+<lb/>James White
+<lb/>Vemon Wainright Eliza Bumap
+<lb/>Everett Wainright
+<lb/>Clayton Green Milton Adams
+<lb/>Francis White DeWitt VanAlstine
+<lb/>Richard Calkins Nellie Calkins
+<lb/>Winona Wainright
+<lb/>4c * 4c 4c 4c 4! 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c * 4c 4c 4c 4c 4&lt; 4c 4c 4c 4:4c 4:4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c
+<pb n="24" facs="#page-023"/>
+<lb/>Membership Dues: $3.00/individual - $5.00/couple.
+<lb/>Please check the expiration date on your mailing label to be sure you're current.
+<lb/>About the Hornby Historical Society
+<lb/>Regular meetings are held on the third Tuesday of the month from May through October.
+<lb/>Meetings are held at 7 p.m. at the Congregational Church Hall, Hornby Forks,
+<lb/>unless otherwise announced.
+<lb/>The annual Hornby Picnic is held on the first Saturday of August and is considered the
+<lb/>Historical Society's meeting for that month.
+<lb/>The Hornby Museum in Hornby Forks is open during July and August on Sunday
+<lb/>aftemoons from 1-5 p.m.
+<lb/>4c 4c 4; 4c 4c 4c 4c 4i 4c 4c 4c He 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4! 4c 4c 4c !(c
+<lb/>Questions, comments, corrections to this newsletter?
+<lb/>Contact Susan Moore at 185 South Place, Coming, NY 14830.
+<lb/>e-mail: SJMooreHistorian@aol.com
+<lb/>All contributions to this newsletter are welcome!
+<lb/>4c 4c 4c 4c 4c 4c 4c * c* 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c 4c
+<lb/>Visit George Rogers' Hornby web site at:
+<lb/>http://homepages.rootsweb.com/~hornby/Hornby.html
+<lb/>Happy Holidays to All and Best Wishes for the New Year!
+<pb n="25" facs="#page-024"/>
+<lb/>Susan Moore i
+<lb/>nsSSouttiPI. r &gt;
+<lb/>Corning, NY 14830 A, U PM VO
+<lb/>Bany Mosher
+<lb/>4 Van Sant Rd.
+<lb/>Newark, DE 19711
+<lb/>\'9-i \ \ &gt; Afi»ia-7 k I ' I ■ 1111 i 11111 i I i 1111111111111111111 i 11111111111111
+</ab>
+    </body>
+  </text>
+</TEI>

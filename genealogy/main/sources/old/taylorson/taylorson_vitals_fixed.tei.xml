@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>taylorson vitals fixed</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-002.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-003.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-004.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-005" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-005.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-006" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-006.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-007" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-007.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-008" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-008.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-009" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-009.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-010" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-010.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-011" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-011.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-012" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-012.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-013" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-013.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-014" url="https://mosher.mine.nu/images/genealogy/main/sources/old/taylorson/taylorson_vitals_fixed/p-014.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>APPLICATION FOR A BIRTH CERTIFICATE
+<lb/>Page
+<lb/>34
+<lb/>General Certificate Information
+<lb/>Certificate type E/W Birth
+<lb/>Urgency Standard
+<lb/>Service type Quoted
+<lb/>Reference C0L518613/2006
+<lb/>Number of certificates 1
+<lb/>Submitted Date / Time 16/08/2006 01:44
+<lb/>Despatch Date 22/08/2006
+<lb/>Customer Chris Mosher Email cmosher01@yahoo.com Tel. No. +1-203-255-4200
+<lb/>Personal Details
+<lb/>Surname at birth Tayiorson
+<lb/>Forename(s) at birth George Ord
+<lb/>Date of birth
+<lb/>Place of Birth Stockton
+<lb/>Father's surname Tayiorson
+<lb/>Father's forename(s)
+<lb/>Mother's maiden surname
+<lb/>Mother's forename(s)
+<lb/>Mother's surname at birth
+<lb/>GRO Reference Information
+<lb/>Year Qtr District Vol Page Reg Ent no DOR
+<lb/>1848 Mar Stockton 24 212
+<lb/>Entry Year M J S D
+<lb/>D/S Year M J S D
+<lb/>Yes Year M J S D
+<lb/>Despatch date Refund date
+<lb/>Chris Mosher
+<lb/>41 Brook Pine Dr.
+<lb/>Shelton
+<lb/>CT
+<lb/>06484
+<lb/>United States
+<lb/>Customer Ref
+<lb/>Order Ref
+<lb/>Application no COL518613/2006/1 of 3
+<lb/>PSP Ref 189744940
+<lb/>Telephone No (day) +1-203-255-4200
+<lb/>Telephone No (eve) +1-203-944-9487
+<lb/>Cost £7.00
+<lb/>POST 22/08/2006
+<lb/>Compliments of ttie General Register Office
+<pb n="2" facs="#page-001"/>
+<lb/>CERTIFIED COPY OF AN ENTRY OF BIRTH
+<lb/>m
+<lb/>GIVEN AT THE GENERAL REGISTER OFEICE
+<lb/>Application Number
+<lb/>REGISTRATION DISTRICT Stockton and Sedgefield
+<lb/>BIRTH in the Sub-district of..i'^^l?P.99.! in the
+<lb/>Columns:
+<lb/>No. When and Name, if any
+<lb/>where bom
+<lb/>Sex Name and surname Name, surname and Occupation
+<lb/>of father maiden surname of father
+<lb/>of mother
+<lb/>Signature, description and When
+<lb/>residence of informant registered
+<lb/>9  10
+<lb/>Signature of Name entered
+<lb/>registrar after registration
+<lb/>C^^^aivAIf
+<lb/>i M "
+<lb/>//4/
+<lb/>CERTIFIED to be a true copy of an entry in the certified copy of a Register of Births in the District above mentioned.
+<lb/>Given at the GENERAL REGISTER OFFICE, under the Seal of the said Office, the day of. August
+<lb/>BXCB898397
+<lb/>WARNING: A CERTIFICATE IS NOT EVIDENCE OF IDENTITY.
+<lb/>2006
+<lb/>CAUTION: THERE ARE OFFENCES RELATING TO FALSIFYING OR ALTERING A CERTIFICATE
+<lb/>AND USING OR POSSESSING A FALSE CERTMCATE ®CROWN COPYRIGHT
+<lb/>PCL
+<lb/>039887 10107 08/05 SPSL 012032
+<pb n="3" facs="#page-002"/>
+<lb/>APPLICATION FOR A DEATH CERTIFICATE
+<lb/>Page
+<lb/>12
+<lb/>General Certificate Information
+<lb/>Certificate type E/W Death
+<lb/>Urgency Standard
+<lb/>Service type Quoted
+<lb/>Reference C0L518613/2006
+<lb/>Number of certificates 1
+<lb/>Submitted Date / Time 16/08/2006 01:44
+<lb/>Despatch Date 22/08/2006
+<lb/>Customer Chris Mosher Email cmosher01@yahoo.com Tel. No. +1-203-255-4200
+<lb/>Personal Details
+<lb/>Surname at death Taylerson
+<lb/>Forename(s) at death Esther
+<lb/>Date of death
+<lb/>Place of death Stockton
+<lb/>Age at death in years
+<lb/>Occupation of deceased
+<lb/>Marital Status (if female)
+<lb/>Father's surname
+<lb/>Father's forename(s)
+<lb/>Mother's surname
+<lb/>Mother's forename{s)
+<lb/>GRO Ref erence 1 nf orm ation
+<lb/>Year Qtr District Vol Page Reg Ent no DOR
+<lb/>1845 Jun Stockton 24 155
+<lb/>Entry Year M J S D
+<lb/>D/S Year M J S D
+<lb/>Yes Year M J S D
+<lb/>Despatch date Refund date
+<lb/>Chris Mosher
+<lb/>41 Brook Pine Dr.
+<lb/>Sheiton
+<lb/>CT
+<lb/>06484
+<lb/>United States
+<lb/>Customer Ref
+<lb/>Order Ref
+<lb/>Application no COL518613/2006/2 of 3
+<lb/>PSP Ref 189744940
+<lb/>Telephone No (day) +1-203-255-4200
+<lb/>Telephone No (eve) +1-203-944-9487
+<lb/>Cost £7,00
+<lb/>POST 22/08/2006
+<lb/>Compliments of the General Register Office
+<pb n="4" facs="#page-003"/>
+<lb/>CERTIFIED COPY OF AN ENTRY OF DEATH GIVEN AT THE GENERAL REGISTER OFFICE
+<lb/>Application Number
+<lb/>REGISTRATION DISTRICT
+<lb/>Stockton and Sedgefield
+<lb/>1.8.45. DEATH in the Sub-district of.YsUH in the Countics of York and Durham
+<lb/>Columns:-
+<lb/>No. When and
+<lb/>where died
+<lb/>Name and surname
+<lb/>3
+<lb/>Sex
+<lb/>4
+<lb/>Age Occupation Cause of death Signature, description and When Signature of
+<lb/>residence of informant registered registrar
+<lb/>CERTIFIED to be a true copy of an entry in the certified copy of a Register of Deaths in the District above mentioned.
+<lb/>Given at the GENERAL REGISTER OFFICE, under the Seal of the said Office, the l?th day of August 2006
+<lb/>DYB141102 See note overleaf
+<lb/>039895 10103 08/05 SPSL 012028
+<lb/>CAUTION; THERE ARE OFFENCES RELATING TO FALSIFYING OR ALTERING A CERTIFICATE
+<lb/>AND USING OR POSSESSING A FALSE CERTIFICATE ®CROWN COPYRIGHT
+<lb/>WARNING; A CERTIFICATE IS NOT EVIDENCE OF IDENTITY. JSH
+<pb n="5" facs="#page-004"/>
+<lb/>APPLICATION FOR A MARRIAGE CERTIFICATE
+<lb/>Page
+<lb/>12
+<lb/>General Certificate Information
+<lb/>Certificate type E/W Marriage
+<lb/>Urgency Standard
+<lb/>Service type Quoted
+<lb/>Reference COL493176/2006
+<lb/>Number of certificates 1
+<lb/>Submitted Date/Time 03/08/2006 01:37
+<lb/>Despatch Date 09/08/2006
+<lb/>Customer Chris Mosher Email cmosher01@yahoo.com Tel. No. +1-203-255-4200
+<lb/>Personal Details
+<lb/>Man's surname Taylerson
+<lb/>Man's forename(s) Thomas
+<lb/>Woman's surname Taylerson
+<lb/>Woman's forename(s) Ann
+<lb/>Date of marriage
+<lb/>Place of marriage
+<lb/>Name of man's father
+<lb/>Name of woman's father
+<lb/>GRO Reference Information
+<lb/>Year Qtr District Vol Page Reg Ent no DOR
+<lb/>1847 Sept Stockton 24 241
+<lb/>Entry Year M J S D
+<lb/>D/S Year M J S D
+<lb/>Yes Year M J S D
+<lb/>Despatch date Refund date
+<lb/>Chris Mosher
+<lb/>41 Brook Pine Dr.
+<lb/>Shelton
+<lb/>CT
+<lb/>06484
+<lb/>United States
+<lb/>Customer Ref
+<lb/>Order Ref
+<lb/>Application no COL493176/2006/I of 1
+<lb/>PSP Ref 187479745
+<lb/>Telephone No (day) +1-203-255-4200
+<lb/>Telephone No (eve) +1-203-944-9487
+<lb/>Cost £7.00
+<lb/>POST 09/08/2006
+<lb/>Compliments of the General Register Office
+<pb n="6" facs="#page-005"/>
+<lb/>CERTIFIED COPY OF AN ENTRY OE MARRIAGE Given at the GENERAL REGISTER OEEICE
+<lb/>Application Number... COL493 176
+<lb/>'0o\xx^(^^I/w4/Nh
+<lb/>V  T'i.j ■ ■ ■ .-i J-r '. ■ Naiiw an'ij fiiUTiamc.;, /'7;^ /■ ■■ l U/ I Condition;: | lUnk Or Profeajion; ; t lUsldenw at thoTimoW MarrlairaVl' Fnilier'i Namii and s irri«m&lt;i I H*ok or i^feiiion of- jRnok 6r Profeaflioa,' : lUaiden^ at U]« ^nrioof Marrla^V •  f Patlwr'i Name aad Surname. fijAk or IVpf^iion of
+<lb/>FatherNo, / - n Merrlcdo. •
+<lb/>; Marii^ in tbe_, 'p
+<lb/>C
+<lb/>_y&gt;.gnr/iiiigJoJJift Ritnn fltid finrnmntHfi* -
+<lb/>TIm Ufamagc
+<lb/>:'!/ ' -.'was '
+<lb/>;; Bolemnizcd
+<lb/>between us,
+<lb/>in the
+<lb/>Presehcb . „,
+<lb/>z
+<lb/>CERTIFIED to be a true copy of an entry in the certified copy of a register of Marriages in the Registration District of ...Stockton and Sedgefield,.
+<lb/>Given at the General Register Office, under the Seal of the said Office, the gth day of August 2006
+<lb/>MXC733565
+<lb/>This certificate is issued in pursuance of section 65 of the Marriage Act 1949. Sub-.section .3 of that section provides that any cerlitied copy of an entry
+<lb/>purporting to be sealed or stamped with the seal of the General Register Office shall be received as evidence of the maniage to which it relates without any further or
+<lb/>other proof of the entry, and no certified copy purporting to have been given in the said Office shall be of any force or effect unless it is sealed or stamped as aforesaid.
+<lb/>CAUTION: THERE ARE OFFENCES RELATING TO FALSIFYING OR ALTERING A CERTIFICATE AND USING OR POSSESSING A
+<lb/>FALSE CERTIFICATE, ®CROWN COPYRIGHT
+<lb/>WARNING: A CERTIFICATE IS NOT EVIDENCE OF IDENTITY.
+<lb/>0.19895 10105 08/05 SP.SI. Olltllt)
+<lb/>FRS
+<pb n="7" facs="#page-006"/>
+<lb/>APPLICATION FOR A BIRTH CERTIFICATE
+<lb/>Page
+<lb/>6
+<lb/>General Certificate information
+<lb/>Certificate type E/W Birth
+<lb/>Urgency Standard
+<lb/>Service type Quoted
+<lb/>Reference COL493233/2006
+<lb/>Number of certificates 1
+<lb/>Submitted Date / Time 03/08/2006 04:23
+<lb/>Despatch Date 09/08/2006
+<lb/>Customer Chris Mosher Email cmosher01@yahoo.com Tel. No. +1-203-255-4200
+<lb/>Personal Details
+<lb/>Surname at birth Tayierson
+<lb/>Forename(s) at birth Robert
+<lb/>Date of birth
+<lb/>Place of Birth Stockton upon Tees?
+<lb/>Father's surname Tayierson
+<lb/>Father's forename(s) Robert
+<lb/>Mother's maiden surname
+<lb/>Mother's forename(s)
+<lb/>Mother's surname at birth
+<lb/>GRO Reference Information
+<lb/>Year Qtr District Vol Page Reg Ent no DOR
+<lb/>1839 Jun Stockton 24 207 2U,S c/q-
+<lb/>Entry Year M J S D
+<lb/>D/S Year M J S D
+<lb/>Yes Year M J S D
+<lb/>Despatch date Refund date
+<lb/>Chris Mosher
+<lb/>41 Brook Pine Dr.
+<lb/>Shelton
+<lb/>CT
+<lb/>06484
+<lb/>United States
+<lb/>Customer Ref
+<lb/>Order Ref
+<lb/>Appiication no COL493233/2006 / 1 of 1
+<lb/>PSP Ref 187499287
+<lb/>Teiephone No (day) +1-203-255-4200
+<lb/>Teiephone No (eve) +1-203-944-9487
+<lb/>Cost £7.00
+<lb/>POST 09/08/2006
+<lb/>Compliments of the General Register Office
+<pb n="8" facs="#page-007"/>
+<lb/>CERTIFIED COPY OF AN ENTRY OF BIRTH GIVEN AT THE GENERAL REGISTER OFFICE
+<lb/>Application Number. COL493233
+<lb/>REGISTRATION DISTRICT Stockton and Sedgefield
+<lb/>!.§7.7.. BIRTH in the Sub-district of ..?tockton in the County of Durham
+<lb/>Columns:- 1
+<lb/>No. When and
+<lb/>where bom
+<lb/>Name, if any Sex Name and surname Name, surname and Occupation
+<lb/>of father maiden surname of father
+<lb/>of mother
+<lb/>Signature, description and When
+<lb/>residence of informant registered
+<lb/>9  10
+<lb/>Signature of Name entered
+<lb/>registrar after registration
+<lb/>U'J
+<lb/>fW
+<lb/>CERTIFIED to be a true copy of an entry in the certified copy of a Register of Births in the District above mentioned.
+<lb/>Given at the GENERAL REGISTER OFFICE, under the Seal of the said Office, the .7^^. day of
+<lb/>BXCB874129
+<lb/>CAUTION: THERE ARE OFFENCES RELATING TO FALSIFYING OR ALTERING A CERTIFICATE
+<lb/>AND USING OR POSSESSING A FALSE CERTIHCATE ©CROWN COPYRIGHT
+<lb/>WARNING: A CERTIFICATE IS NOT EVIDENCE OF IDENTITY.
+<lb/>039887 10107 08/05 SPSL 012032
+<lb/>August 2006
+<pb n="9" facs="#page-008"/>
+<lb/>CERTIFIED COPY OF AN ENTRY OF BIRTH GIVEN AT THE GENERAL REGISTER OFFICE
+<lb/>Application VM/n^er...
+<lb/>REGISTRATION DISTRICT Stockton on Tees
+<lb/>1837 ptlPTH in the Sub-district of SlOCktOIl in the County of Durham
+<lb/>Columns:-
+<lb/>No. When and
+<lb/>where bom
+<lb/>Name, if any
+<lb/>3
+<lb/>Sex Name and surname Name, surname and Occupation
+<lb/>of father maiden sumame of father
+<lb/>of mother
+<lb/>Signature, description and When
+<lb/>residence of informant registered
+<lb/>9  10
+<lb/>Signature of Name entered
+<lb/>registrar after registration
+<lb/>f tiff I
+<lb/>CERTIFIED to be a true copy of an entry in the certified copy of a Register of Births in the District above mentioned.
+<lb/>Given at the GENERAL REGISTER OFFICE, under the Seal of the said Office, the day of
+<lb/>BXCB898374
+<lb/>CAUTION; THERE ARE OFFENCES RELATING TO FALSIFYING OR ALTERING A CERTIFICATE
+<lb/>AND USING OR POSSESSING A FALSE CERTIFICATE ®CROWN COPYRIGHT
+<lb/>WARNING: A CERTIFICATE IS NOT EVIDENCE OF IDENTITY.
+<lb/>039887 10107 08/05 SPSL 012032
+<lb/>August 2006
+<lb/>POL
+<pb n="10" facs="#page-009"/>
+<lb/>CQ
+<lb/>I, jrrsiE T. OI'fln^KR, of the City of fte'-' Yoi^, ntet© of Rew YofSc,
+<lb/>belnfj of sound, nlnd onA nenorjr, Ao horeby oelfe, tniblldh anfl Aeolore
+<lb/>this to bo riy 1A3T nlll. A?.!r» hereby revoltlnjo and T.io3-ln(;: void
+<lb/>all '.VIII0 and Codloilo herc-.tofoi-e made by ne at any time, in msjiriar
+<lb/>follouinr, th-'.t in to nnyi
+<lb/>J'lliDTi I Sioroby direct tSie pajraent of all ny Just debts and
+<lb/>funerrl e?y,epr;eo as soon aft^&gt;r Rj' decease as is wvonlont.
+<lb/>rTCC.'Xij I F5.ve and becueath to Leona fdainoter, of iSoroeheadc,
+<lb/>Ker.' Ynrb, t!io sum of One Th-usoiKl Dollnrc ($1,000.00), in trust, for
+<lb/>tJiQ follo'.Tip.r" uses and pxa-ponen, to wltj to Jiolcl and beep the same
+<lb/>until tJio death of ny sister, Lrvinia Ttodr, of 004 Herric!: ntreet.
+<lb/>El..'drfi, and to pay from cald trust fond at t?ie tine of the death
+<lb/>of my slrtfu-, a.'ffloient to -rovlde for the pi'Owr tnirlal, funeral
+<lb/>errjon^en and '■.".lecellan'"-oue rjr:!enseR lncurr*ed by re.ason of oeid death
+<lb/>and bur.lal, and to pay for tb.e cost and erection of &amp; norher at the
+<lb/>.CTnve of ny Rlrter, Lrtvinia pjod-:, and to provide for the neoeesfti^
+<lb/>inscription on monument. All the balance of aedd tr-.TOt fund, nfta?
+<lb/>the pajment of the a1:-ov-' e-rponnns, I f-lvo and bequ- atrr. unto otdd L"ona
+<lb/>Edn'.ncter, to be hern aboolutoly. Jv the event th-. t aald I..oonn
+<lb/>Kdia'-nnter predeceareo no, then I Ive, device itrsd beouent!'. the balance
+<lb/>of cold trust fund, aft'-r the peyment of the ©xpenne-n .as a-forp.ef.dd, to
+<lb/>the oTii-ldr'. n of said Loona '".dnlnster, w!to survive her, oodd c};ll&lt;5r"n
+<lb/>Pi
+<lb/>S  beinf;: nou TJielria h!ia.'',":'ee, Catherine Tfirbell end Dafle Mralnster.
+<lb/>o
+<lb/>o
+<lb/>o&gt; Unto ny nl«oe, Jsnr-le E. Bull, now resldiT' at t;: ppan,
+<lb/>H.l'., I five and bequeath ell ny weerlnc apparel end p&lt;?rEonc.l offoots.
+<lb/>POifJvSHi /II tlie rest, renldura end rerminflsr of ay proporty, of
+<lb/>uJiGteVey Tmtitr-S-end phfTovcr situate, 1 e«thorl,se ny orectatrloea
+<lb/>/
+<lb/>Ixeroinafter naned to divide into tm equal parts} one-Jaalf of oeid
+<lb/>X  remainder 1 fdve, device and bequeath unto «y nieoe, lossie E, .!hjll,
+<lb/>o
+<lb/>now resldinfi ct Tapp&amp;xi, K.f. In tb.e event that oald Jessie E. Btall
+<lb/>prsdeoeasea me, then I p^lve, devioe and bequeath the said one-half
+<lb/>w  share, to she wo ad be entitled, unto my nephew, Ce-orRO Elmer
+<lb/>•-5 Harrison, ay nophew, Rufua 7. Edmlnstor, and unto ay nephm?, Keiujeth L.
+<lb/>Bodd, of Elrlvfi, U.y., unto riy uieoe, TTlna Bodd t^afvier, of Bal'-'^wine-
+<pb n="11" facs="#page-010"/>
+<lb/>vllle, H.Y,, an5 unto sny fxeut-nleoe, Alice Htirrlfson Hofher, of
+<lb/>Hanilton, P.Y., or thp ourvivor of tlisn, in equal aluiree, and
+<lb/>slsar© alike.
+<lb/>FIFTilj The renalninc: one-3inlf of qy 3?oflldun2?y eotcte, aforesrld,
+<lb/>I clvfl, devlre and boq^jeath unto r.:y nephew?, fteorF-' alripr V.ETrtr^on, of
+<lb/>Beaver Drsm, I'.Y., and unto tty nop-»ar/, %fus T, rijaninotcr, of llnrneJieatls,
+<lb/>h.!'., in 0 ual charo, fund ali-v.e allhe. Ir; t!;e event thct ny
+<lb/>nephen', ■•eoi'ca Elnor Sh-rrieon, ivredeoear-oa no, then I rtvo, devise and
+<lb/>bequ'ath th&lt;- B.]iaro to tddoh he 'iTould bo entitlfHl unto hlc d.;-.u'd:.T.er,
+<lb/>Alice Harrison './ior'zor. In the event th- .t Kufuc T. bdnlnnter prcfleoc-a'^po
+<lb/>DP., leien I devise and bequeath the ahare tow?doh he TOuld be
+<lb/>entitled under tMo provision, unto Ida I;eli'g-at-.laTr,
+<lb/>niXTHt I hereby nordns.to, con.etitute and appoint Leona Edn.lnei^er,
+<lb/>of !lorp.ehe/uI , ! tru-toe for the urea and nurposee herc"i-nbe'"orc oet
+<lb/>forth, and 2iereby direct t?::at ny ordd trustee R)iall not be reculrr-^l to
+<lb/>provide a bond for t.he f?,ilthful dloo'i-rjoe of h«,r dutt'-n as p^ild trustoe.
+<lb/>dirynPTHl I 'nrnby nor'd- to, oo"atlhztp and appoint f if for eaid
+<lb/>heorjk nc'r-r, of Korr-e'-jrid'', r;.nd nj' nicco, Jesclo E. hull,
+<lb/>aforeeaid, esrecutriooa of thir, r:y lant Will and ?i»ntnnant, 'dth full,
+<lb/>pcrrer to oell, and conv y r4.nj' and all real property of siilc'- I r^ay
+<lb/>deport tide life reload, or -■ofriefiGed, and eneoute deedc of convryonce
+<lb/>t!srefor. In tiie event STrot eltheJ' creoutrix prrdeoeanoG do, t!ien I
+<lb/>nominate, oonctltTt idxd appoint the survivor of then ne sole erecutrlx
+<lb/>with the Bane po-Tcrr. an .'iaroiriabo/e net fojrth.
+<lb/>in w'siirqoF, 1 h. .ve hereunto oet ny hand and real at the
+<lb/>Vill;&gt;ca of ;ioreph(-e,d , 'W.., on the ?th day of July, in t!iG yar One
+<lb/>ThouSiUid Nine Munclr---d and T]drty~nl no.
+<lb/>SitneosoBt
+<lb/>LEAH U, IfTLGCX
+<lb/>RAY n. coorpn
+<pb n="12" facs="#page-011"/>
+<lb/>Tl\c foref-oltv:; Inctruripnt ooiiniotlnf; of two 'Tlt'-iout orannre
+<lb/>or intorlliiectlon, war- o^sVa-orlbed and by ?.
+<lb/>the above tr-otatrljc, or, the Vtli daw of July, 1039, In our preeenoo.
+<lb/>fcr»I she t-jpn and tdO' O no?: owlr-dpod to enc'* of uo o?&gt;r' bad erroGoted
+<lb/>the ecr.e, an'' G&gt;:e, at tJjo sane tine, declared the eaid inotriinent .no
+<lb/>eubscribod by hr-r, tc ?-&gt;e hor loot 5?ill and feotrrient; an;' v.'©,t?:en
+<lb/>joid there, at h^r rec:u*''Ot, sirrned our nmr-'S m attvatlr.'-: v-dtpecnen
+<lb/>thereto, in T-or preconce and in t?if- *&gt;pecer«io of e iC". ot?ie:-.
+<lb/>LEAJ? K. trilXJOS n;eeidln,';- at J?0!^'?E5Tr'ADri, V.Y.
+<lb/>riAy 0, coorrn '".esldinr:
+<pb n="13" facs="#page-012"/>
+<lb/>Cnris Mosher
+<lb/>1211 Brook Drive
+<lb/>Wilmington, DE
+<lb/>June 22, 1981
+<lb/>19803
+<lb/>Registrar of Vital Statistics
+<lb/>Corning, NY 14530
+<lb/>Dear Sirs;
+<lb/>Would you kindly send me one full copy of the Birth
+<lb/>Certificate of the following person:
+<lb/>Hannah Taylorson
+<lb/>sex: Female race: White
+<lb/>father: Thomas Taylorson
+<lb/>mother: imknown
+<lb/>horn: March 30, 1852 Corning, New York
+<lb/>This person is my great-great-grandmother. I will be
+<lb/>using this certificate for genealogical purposes.
+<lb/>Enclosed is S2.C0. Thank You
+<lb/>Very truly yours.
+<lb/>Chris Mosher
+<lb/>7
+<lb/>r
+<pb n="14" facs="#page-013"/>
+<lb/>Chris Mosher
+<lb/>41 Brook Pine Dr.
+<lb/>Shelton, CT 06484-5912
+<lb/>Twila O'Dell
+<lb/>Steuben County Historian
+<lb/>3 Pulteney Sq. E.
+<lb/>Bath, NY 14810-1500
+<lb/>Ms. O'Dell:
+<lb/>I have found an OBITUARY listed on your weh site that I hoped you would be kind
+<lb/>enough to copy for me. The listing is shown as follows:
+<lb/>Last name: TAYLORSON
+<lb/>First name: Robert
+<lb/>Source: Corning Journal (Coming, NY)
+<lb/>Source date: 12/26/1889
+<lb/>Death: 1889, Coming
+<lb/>You may send the copy using the enclosed self-addressed stamped envelope. Please also
+<lb/>find enclosed $1.00.
+<lb/>Thank you,
+<lb/>Chris Mosher
+<pb n="15" facs="#page-014"/>
+<lb/>8f)here. For we,
+<lb/>against genias of
+<lb/>ing Other people's
+<lb/>heerfolly admit the
+<lb/>lite too small for
+<lb/>i  rs a month for
+<lb/>r twovhundred and
+<lb/>Is all the pltlfal
+<lb/>to I Pouf I Any
+<lb/>lan could afford to
+<lb/>without a second
+<lb/>lid probably eaye
+<lb/>^ a year *or two of
+<lb/>! and steady work«
+<lb/>—Kobert Taylorsoii, au uiu losiauui ui
+<lb/>our TiUago, died on Friday, Dec, 20. He
+<lb/>was born in Durham Co., England, in 1797.
+<lb/>In the year 1849 he eDttigratod to this coun
+<lb/>try, a widower,, bringing^ with him three
+<lb/>daughters and one^sou-j^ He was a carpen
+<lb/>ter by trade and came ̂directly to Painted
+<lb/>Post and began to work at hi* ^wdo. In
+<lb/>1850 he married Miss ChrisUno, McLean,'
+<lb/>of Oromarty, Scotland, and the following
+<lb/>year built the house on the comer of Che-
+<lb/>mung and Charles streets, which he occu
+<lb/>pied until his death." His wife and her two
+<lb/>daUghiers. Mrs, Margaret Tobias and Mrs,
+<lb/>Christino ChapmaUi BurriTO him, Ho was
+<lb/>jhrwino caapman, BurriTe mm, jqo was
+<lb/>iU ilULi UJl Irliu Oiuot', X.A.U «uu &gt; t.
+<lb/>a wife, three sons an&lt;^ flve danghters.
+<lb/>His untimely death is lamented by
+<lb/>many friends. .
+<lb/>The Corning Way Nearly as Bad.
+<lb/>A mod-hole ha^ "lifted at the end
+<lb/>of a bridge In Logan County, 0., for
+<lb/>the last ten years, v The'iboet of filling
+<lb/>It up would be less than but (be
+<lb/>damage done to vebicleaIn thn^deoade
+<lb/>ia figured v:at f fTOD, -^^^iHuihauanfc^are
+<lb/>will sometlmea bear and fortmirl^ a
+<lb/>way to iwWniali iteelt-| way to asvoniau imeii. r.
+<lb/>.pop 12^7.0-
+<lb/>ItoliitB
+<lb/>y shonld he care ? What interest
+<lb/>be in economic and honest
+<lb/>listratloQ T Obviously none,
+<lb/>ow, was all this either neo^sary
+<lb/>a good citizen, aldnd neighbor, quiet and
+<lb/>unassuming In his manners, sturdily honest
+<lb/>and faithful to all his cbligntlons.
+<lb/>—S.C.Campbell,of New York,is making
+<lb/>his parents his usual Christmas visit..
+<lb/>The Erie RalD
+<lb/>If a set of men ever wt
+<lb/>save a railfoftd from ban
+<lb/>President King of the ^
+</ab>
+    </body>
+  </text>
+</TEI>

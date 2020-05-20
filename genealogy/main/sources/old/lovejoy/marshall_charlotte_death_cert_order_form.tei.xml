@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>marshall charlotte death cert order form</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2018</date>
+        <availability status="restricted">
+          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>OCR generated transcript has not been corrected.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lovejoy/marshall_charlotte_death_cert_order_form/p-000.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/lovejoy/marshall_charlotte_death_cert_order_form/p-001.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text xml:lang="en-US">
+    <body>
+      <ab rend="grid"><pb n="1" facs="#page-000"/><lb/>_NEW YORK STATE«EPARTMENTOF HEALTH
+<lb/>'vital Records Section, Genealogy Unit
+<lb/>Corning Tower Building, Empire State Plaza
+<lb/>Albany„New York 12237-0023
+<lb/>General information and Application
+<lb/>for Genealogical Services
+<lb/>VITAL RECORDS COPIES CANNOT BE PROVIDED FOR COMMERCIAL PURPOSES.
+<lb/>1. FEE - $11.00 includes search and uncertified copy or notification of no record.
+<lb/>2. Origirtal records of births and marriages for the entire state begin with 1881, deaths begin with 1880, EXCEPT for records
+<lb/>filed in Albany, Buffalo and Yonkers prior to 1914. Applications for these cities should be made directly to the local office.
+<lb/>3. The New York State Department of Health does not have New York City records except for births occurring in Queens and
+<lb/>Richmond counties for the years 1881 through 1897.
+<lb/>4. Please read the Administrative Rule Summary on the reverse side of this sheet which specifies years available for genealogical
+<lb/>research.
+<lb/>To insure a complete search, provide as much Information as possible. Please complete for
+<lb/>type of record requested, birth, death OR marriage.
+<lb/>m
+<lb/>Name at Birth.
+<lb/>Date of Birth
+<lb/>Place of Birth
+<lb/>Father's Name
+<lb/>Mother's Maiden Name
+<lb/>SZ
+<lb/>k.
+<lb/>CQ
+<lb/>Name at Birth.
+<lb/>Date of Birth
+<lb/>Place of Birth
+<lb/>Father's Name
+<lb/>Mother's Maiden Name
+<lb/>0)
+<lb/>(0
+<lb/>(d
+<lb/>Name of Bride _
+<lb/>Name of Groom
+<lb/>Date of Marriage
+<lb/>Piace of Marriage
+<lb/>and/or License
+<lb/>0)ui(0(0
+<lb/>Name of Bride _
+<lb/>Name of Groom
+<lb/>Date of Marriage _
+<lb/>Place of Marriage
+<lb/>and/or License
+<lb/>f
+<lb/>Name at Death CLittrUiug
+<lb/>Death Age at Death ^ i&gt;
+<lb/>Name at Death 11 VA' . Ca
+<lb/>O
+<lb/>Place of Death
+<lb/>Q
+<lb/>Date of Death 1, lyif Age at Death
+<lb/>Place of Death ..jUu-m'SWibI'I't $ g I j
+<lb/>Names of Parents
+<lb/>Name of Spouse A V't a L
+<lb/>Names of Parents
+<lb/>Name of Spouse
+<lb/>ri
+<lb/>l-n
+<lb/>tr
+<lb/>For what purpose is information required?
+<lb/>What is your relationship to person whose record is requested? c-c?-'&gt;o u,
+<lb/>In what capacity are you acting? sc-f
+<lb/>SIGNATURE OF APPLICANT
+<lb/>ADDRESS i
+<lb/>DATE &lt; f
+<lb/>Send record to: (please print)
+<lb/>Name CHfis MosLer
+<lb/>If requesting birth and marriage records, please sign the following
+<lb/>statement:
+<lb/>To the best of my knowledge, the person(s) named in the
+<lb/>applicatioi^re d^eased.Address Rtd^elev A^e
+<lb/>Gitv State Zip Code SIGNATUI^OFAPPLICANT
+<lb/>DOH-1562 (10/91) p. 1 of 2
+<pb n="2" facs="#page-001"/>
+<lb/>Health Commissioner's
+<lb/>Administrative Rules and Regulations
+<lb/>Summary
+<lb/>Genealogical Research
+<lb/>Uncertified copies or abstracts from records of birth, death, and marriage may be provided for
+<lb/>genealogical research purposes subject to the restrictions specified in this summary. All requests
+<lb/>must be submitted in writing and include payment of the applicable statutory fee. The applicant shall
+<lb/>be required to pay the specified fee for the time spent for the search and uncertified copy or
+<lb/>notification of no record.
+<lb/>2. Who Is authorized to do the searching?
+<lb/>Record searches shall be conducted only by the following persons in the files maintained by their
+<lb/>respective agencies:
+<lb/>a. authorized employees of the State Department of Health;
+<lb/>b. a local registrar, deputy registrar, or an authorized employee of the registrar;
+<lb/>c. a town or city clerk, deputy clerk, or an authorized employee of the town or city clerk.
+<lb/>3. What records are available?
+<lb/>a.b.c.d.e.f.
+<lb/>No information shall be released from a record of birth which has been placed in a confidential file
+<lb/>pursuant to Public Health Law Section 4138.
+<lb/>No information shall be released from a record of birth unless the record has been on file for at
+<lb/>least 75 years and the person to whom the record relates is known to the applicant to be
+<lb/>deceased.
+<lb/>No information shall be released from a record of death unless the record has been on file for at
+<lb/>least 50 years.
+<lb/>No information shall tje released from a record of marriage unless the record has been on file for at
+<lb/>least 50 years and the parties to the marriage are known to the applicant to be deceased.
+<lb/>The time periods specified in (3B), (3C), and (3D) are waived if the applicant is a descendant or has
+<lb/>been designated to act on behalf of a descendant of the person whose record is being
+<lb/>requested. A descendant is a person in the direct line of descent. The applicant shall provide
+<lb/>documentation of descendancy prior to the release of information in those instances where a
+<lb/>waiver of the waiting period is requested. A party acting on behalf of a descendant shall further
+<lb/>provide documentation that the descendant authorized the party to make such application.
+<lb/>All uncertified copies, abstracts, or information issued for genealogical research purposes shall be
+<lb/>clearly marked with the statement "For Genealogical Purposes Only."
+<lb/>4. Genealogy Fee Schedule
+<lb/>Fee schedule per one spelling of name. Fee varies depending on requested number of years to be
+<lb/>searched. Unused fees will be refunded.
+<lb/>1-3 years $11.00 31-40 years $51.00
+<lb/>4-10 years $21.00 41 -50 years $61.00
+<lb/>11 -20 years $31.00 51-00 years $71.00
+<lb/>21-30 years $41.00 61-70 years $81.00
+<lb/>DON-1562 (10/91) p. 2 of 2
+</ab>
+    </body>
+  </text>
+</TEI>
