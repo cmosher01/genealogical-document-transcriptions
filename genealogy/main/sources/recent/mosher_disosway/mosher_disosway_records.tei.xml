@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>mosher disosway records</title>
+        <title>Mosher/Disosway Records</title>
         <author/>
         <principal>Christopher Alan Mosher</principal>
       </titleStmt>
@@ -13,7 +13,7 @@
         <pubPlace>Shelton, CT, USA</pubPlace>
         <date>2018</date>
         <availability status="restricted">
-          <p>Copyright © 2018, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <p>Copyright © 2020, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
         </availability>
       </publicationStmt>
@@ -55,22 +55,84 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_disosway_records/p-000.ptif/full/full/0/default.jpg"/>
-    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_disosway_records/p-001.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-000" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_disosway_records/p-000.ptif/40,84,900,1100/full/0/default.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_disosway_records/p-001.ptif/280,200,700,500/full/0/default.jpg"/>
     <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_disosway_records/p-002.ptif/full/full/0/default.jpg"/>
     <graphic xml:id="page-003" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_disosway_records/p-003.ptif/full/full/0/default.jpg"/>
     <graphic xml:id="page-004" url="https://mosher.mine.nu/images/genealogy/main/sources/recent/mosher_disosway/mosher_disosway_records/p-004.ptif/full/full/0/default.jpg"/>
   </facsimile>
   <text xml:lang="en-US">
     <body>
-      <ab rend="grid"><pb n="1" facs="#page-000"/>
-[A transcription of this page is not available.]
+      <ab rend="grid">
+<pb n="1" facs="#page-000"/>
+<hi rend="center">
+<lb/>Mrs. Harry Disosway
+<lb/>requests the honour of your presence
+<lb/>at the marriage of her daughter
+<lb/>Linda Marilyn
+<lb/>to
+<lb/>Mr. Barry Rexford Mosher
+<lb/>on Saturday, the twenty⹀seventh of June
+<lb/>Nineteen hundred and fifty⹀nine
+<lb/>at two⹀thirty o’clock
+<lb/>The Church of the Transfiguration
+<lb/>Manhattan, New York
+</hi>
 <pb n="2" facs="#page-001"/>
-[A transcription of this page is not available.]
-<pb n="3" facs="#page-002"/>
-[A transcription of this page is not available.]
-<pb n="4" facs="#page-003"/>
-[A transcription of this page is not available.]
+<hi rend="center">
+<lb/>Reception
+<lb/>following the ceremony
+<lb/>at the home of the bride
+<lb/>695 East 19th Street
+<lb/>Brooklyn, New York
+</hi>
+
+
+
+
+
+<pb n="3" facs="#page-003"/>
+<lb/>Up Date Addresses B. Mosher 2/14/00
+<lb/>37–51 same
+<lb/>51–55 ” add Thompson Hall 4<hi rend="sup">th</hi> Floor<lb/>for Manlius School
+<lb/>55–56 ”
+<lb/>9/56–6/57 RPI add 96 Oakwood Ave Troy NY
+<lb/>57–59 ”<lb/>Summer of 58 6 weeks at Ft. Bragg NC.
+<lb/>” ” 57 9 Madison St Earlville<lb/>(rented house)
+<lb/>58 taxes—W‐2<lb/>show both<lb/>N. Main St<lb/>Earlville (rental)<lb/>&amp;<lb/>5 W Kendrick Ave<lb/>Hamilton
+<lb/>7/1/59–8/10/59 111 Hall St Assign’d to: (rank 2nd Lt.)
+<lb/>Co D, 2nd Battle Group
+<lb/>60<hi rend="sup">th</hi> Infantry Ft. Devens Mass
+<lb/>8/10/59–9/4/59 ” Assign’d to:
+<lb/>M.P. Detachment (61‒1170‒2)
+<lb/>Ft Devens Mass (rank 2n Lt)
+<lb/>9/4/59–10/20/59 Augusta GA Assignd to
+<lb/>HQ, PMOC*, USA
+<lb/>Ft. Gordon GA
+<lb/>Reported in on Sept 8
+<lb/>*Provost Marshal Officers Corps
+<lb/>Nov‐59–estimate Feb ’60 195 Florence St Assignd back to
+<lb/>Leominster Mass Ft Devens M.P. Det.
+<lb/>Promoted to 1st Lt Jan 61
+<lb/>Feb 60–Jun 61 Ayer Rd Still at M.P. Detachment
+<lb/>Harvard Mass
+
+<pb n="4" facs="#page-002"/>
+<lb/>Jul 61–estimate Oct 61 #17 Green St Claymont<lb/>Brookview Apts
+<lb/>est Oct 61–64 4855 E. Willock Rd
+<lb/>est 64–spring 66 8235 N Essen
+<lb/>est spring 66–fall 66 Dublin Rd rent
+<lb/>est fall 66–Aug 67 Cardinal Dr You turned 1 yr old here Pulaski
+<lb/>est Aug 67–Dec 69 100 Cambridge
+<lb/>69–71 1303 Foulk
+<lb/>71–75 2210 Garfield Ave Roomd Dot’s
+<lb/>74–75 Apt 202 1301 N Harrison St Dorsett Apts<lb/>Wilm. DE
+<lb/>mailing address still 2210 Garfield
+<lb/>Aug 75–Feb 81 1324 Riverside Dr
+<lb/>Mar 81–present 4 VanSant Closed on house 3/2/81
+<lb/>Quit Sun Olin in ’84
+<lb/>1967 Austin Healey 3000 VIN HBJ8L 36775
+
 <pb n="5" facs="#page-004"/>
 [A transcription of this page is not available.]
 </ab>
