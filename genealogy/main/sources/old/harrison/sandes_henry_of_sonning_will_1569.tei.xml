@@ -64,6 +64,10 @@
   </facsimile>
   <text>
 
+
+
+<body>
+
 <pb n="folio 148 recto" facs="#page-000"/>
 
 
@@ -72,9 +76,6 @@
 <lb/>T Henrici
 <lb/>Sandes /
 </head>
-
-<body>
-<ab>
 
 
 
@@ -217,7 +218,6 @@ ringe of the price of xx<hi rend="sup">&#x10192;</hi>, and that the shall have h
 
 
 
-</ab>
     </body>
   </text>
 </TEI>

@@ -64,10 +64,6 @@
   </facsimile>
   <text xml:lang="en-US">
     <body>
-      <ab rend="grid">
-
-
-
         <pb n="350v" facs="#page-000"/>
         <head>
           <persName xml:id="SarahSands" ref="https://mosher.mine.nu/genealogy/?person_uuid=b9c9440b-3100-4100-85cb-b9bac85ccd59"><forename>sarah</forename> <surname>sands</surname></persName>
@@ -297,10 +293,8 @@
 
 
 
-
-
 <pb n="339r" facs="#page-002"/>
-[A transcription of this page is not available.]
+<div><ab>[A transcription of this page is not available.]</ab></div>
 
 
 
@@ -310,6 +304,7 @@
 
 
 <pb n="295r" facs="#page-003"/>
+<div><ab>
         <lb/>In the name of God, amen, I, Iames Sandys of Block Is.
         <lb/>aleas New Shorum in the Colleny of Road Island &amp; Providence Plan
         <lb/>tation being sick &amp; weak of Body but of Sound &amp; perfectt mind
@@ -411,11 +406,12 @@
         <lb/>Is a trew Copy taken out of the originall this <pc>:</pc> 13<hi rend="sup">th</hi> <pc>:</pc> Day of may 1695
         <lb/>p<hi rend="sup">er</hi> me Nath<hi rend="sup">ll</hi> mott
         <lb/>Clerk and Warden
-
+</ab></div>
 
 
 <pb n="296r" facs="#page-005"/>
 <fw type="pageNum" place="top" rend="center">296</fw>
+<div><ab>
 <lb/>Be It Known unto all men by these presence
 <lb/>That I Iames Sands Sen<hi rend="sup">r</hi> of block island alles new shorum
 <lb/>In Road island Colony and providence plantation being by the providence
@@ -455,8 +451,8 @@
 <lb/>formerly In my Last will and testamente I have be bequ[eathed]
 <lb/>to be Imediaettely In his posesion his hayrs or asignes for Ever to
 <lb/>be Delevered at my Deseease for his proper par[tt]iculer youse and bene
-<lb/>fitt as witnes my hand and se<hi read="sup">ll</hi> In the year of our Lord 1694
-<lb/>Febu[ar]y 14<hi read="sup">th</hi> Signd se[al]d In prsants of uss
+<lb/>fitt as witnes my hand and se<hi rend="sup">ll</hi> In the year of our Lord 1694
+<lb/>Febu[ar]y 14<hi rend="sup">th</hi> Signd se[al]d In prsants of uss
 <lb/>At some time be fore Signed and Seald furthe[r ]ad[s] by the [aforesaid]
 <lb/>Iames Sandys Senr that Samuel Sandys Ahall have the [whole half]
 <lb/>of my greatt lott In the Corne neck Into his posession and my son
@@ -474,12 +470,7 @@
 <lb/>signed seld In presenc of
 <lb/>Simon Raye
 <lb/>Nath<hi rend="sup">ll</hi> mott
-
-
-
-
-
-</ab>
+</ab></div>
     </body>
   </text>
 </TEI>
