@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Reynold Bray, probate settlement, 1511</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2021</date>
+        <availability status="restricted">
+          <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title level="u">Estate of Reynold Bray, indenture, 1510-05-06 (O.S.), London</title>;
+        The National Archives of the UK (TNA): <citedRange>CP 54/378/30</citedRange>;
+        digital images, <title level="m">Anglo-American Legal Tradition</title>
+        (<ref target="http://aalt.law.uh.edu/AALT7/H8/C54no378/IMG_0029.htm"/> : accessed 2021-03-27),
+        <citedRange>Henry VIII, Close Rolls, C54/378, entry 30, images 29 to 31 of 49</citedRange>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="low">
+          <p>Diplomatic transcription. Very rough, first pass only.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="enm">Middle English (early 16th century England)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="no-30" url="https://mosher.mine.nu/images/genealogy/main/sources/old/harrison/sandys_bray_tna_cp_54_378_30.ptif/full/full/0/default.jpg"/>
+  </facsimile>
+  <text>
+
+
+
+<body>
+
+<pb n="30" facs="#no-30"/>
+
+
+<ab xml:lang="enm">
+
+
+
+
+
+<lb/>This endenre made the sixt day of may the seconde yere of the riegn of kyng henrye viij<hi rend="sup">th</hi> _ne_ity that There
+<lb/>variaunce and dyscorde hath ben had and yet ys dependyng bytwene sir William Sandis knyght and margerye
+<lb/>his wyffe cosyn and heir to sir Reynold Bray knyght decessid of the oon parte and Edmunde Bray Esquier of
+<lb/>the other parte of for and uppon the right title _test and possession of all and singuler maners lands ten*tis
+<lb/>advowsone rentdsentions __ and hereditiments with thappurten<hi rend="sup">a</hi>nts whereof the seyd sir Reynold with other
+<lb/>or any other p*son or p*sons to the use of the seid sir Reynold and of his heires wthe setsed of estate of enheritaunce
+<lb/>the tyme of the deth of the seid sir Reynold wheruppon and for pacifiyng of the same the seyd partyes by the
+<lb/>inetiaron of the moste ren*ent Fader in god William [Warham] Archebisshop of Caunterbury and chaunceler of englond John
+<lb/>Fyneux knyght chief justice of the piece before the kyng to behold Robert Rede knyght chieff justice of the
+<lb/>comen place and other _fendis to bothe the seyd parties and by thadvyse assent and agrement of bothe
+<lb/>they councellis lerned by fynally accordyd and agreyd in man* and forme ensuyng / wheruppon it is now
+<lb/>coon*ted accorded and agreed bytwene the said parties by theyd p*sents in man* and forme folowyng
+<lb/>that is to sey the seyd Edmnd accordith p*myseth conci*ty aggreith and grauntith to the sied sir
+<lb/>william by theisp*sentis that the seyd sir william sandis and dame margerye his wieff shall have
+<lb/>holde and enioye to them and to the heires of the body of the seid same margie the maners of ~
+<lb/>cleware brokas in cleware ffogley and wo_th mauntell timtynfbery cloythefeld other wise _llis
+<lb/>londis lande hawardis Remenhin* Bukhurst in Sandhurst with thappurten*nce* in the counte of berk
+<lb/>the maner of fioderysyndon otherwise called the maner of macherysyndon with thappurten*nce in
+<lb/>the counte of Glocestre _he maners of _arnardisbury and cheltheth with the appurten*cis in the
+<lb/>counte of midd the manours of_rowater Alburn _ebyngton and lamphin* with thappurten*ce
+<lb/>in the counte of Sussex the maner of Quenehawe with thappurten*ce in the counte of hertford
+<lb/>and the manours of hynton pyperd cherleton on otherwise called haparte with thappurten*ce in
+<lb/>the counte of wiltes and all and singuler londs ten*ts as betwene rents rentious _tes and
+<lb/>other hereditaments with thappurten*te wherof the seid sir reynold bray ioyuthe with other as
+<lb/>eny other p*son or p*sons to the use of the seid sir reynold and of his heires were seased of estate
+<lb/>of enhe_ute the tyme of the deth of the seyd sir reynold in clewthy Fogley and worth e*
+<lb/>mauntell _untyngbery hawardis _yng cwyford remeuhu* sandhurst cokeham bray wi_
+<lb/>_a_ham _enfyld wynkefled maydenhyth hurst est_yng newe wyndeso_e and olde wyndeso_e
+<lb/>in the counte of berk and in _ode rysyndon otherwise called mothe rysyndon and _ot_rabe in
+<lb/>the seid counte of Gloucestre and in _dyrbury Islyngton and cheltheth in the seid counte of
+<lb/>midd in brodewater _ryngton worthyng _aybroke northbarstede pagh* tyrryng rygewyte
+<lb/>alburn _ebyngton and lamphu* in the seid counte of Sussex Quenehawe _ranfeld _ewyng
+<lb/>watton sta_ford and _atheworth in the counte of hertford hynton pypere charleton other
+<lb/>wise called hapyrate in the counte of w_tes and in h_ in the counte of Southe and for defante
+<lb/>of suche yssue the seuierynder therof to the seyd Edmond and to the heires males of the body of the same
+<lb/>Edmunde and for defante of such issue the remaynder therof to the seid margie and to her heires
+<lb/>and that the seyd Edmunde and the heires males of the body of the same Edmunde shall at all ~
+<lb/>tymes here after be fore the ______________ next coming do and suffre to be
+<lb/>done all and eny such thyng and thyngis aswell by _ynes of hym and johane his wieff w___
+<lb/>Warrante agenst thabbot of Bermondsey and his sutessonis as by peton*ees feoffenentis relesses
+<lb/>conf_ations with warante onelie agenst the seid abbot and his successours as shallbe adny_
+<lb/>by the le_ comice_ of the seid sir wiliam and margery as of one of them or of the heires of the same
+<lb/>a_arg_efor to make the seid maners londs and ten*ts and other the p*uysses _re to the same sir
+<lb/>william and mergery and the heires of the body of the same margery with the remaynders on as is a
+<lb/>fore seid or to other p*sons and ther heires att the deno*ation of the seid *i* sir william and margery
+<lb/>or of eyther of them or of the heires of the seid margie to the same uses att the costis and chargis in
+<lb/>the lawe of the seid sir william and margerye and the heires of the seid margery also the seid s* william
+<lb/>and same margery his wieff by theis p*sents con*en and graunten that the seid Edmond shall haue
+<lb/>holde and enioye to hym and the the heires males of his body all  ___ adbowsous and other
+<lb/>hereditaments with thappurten*ts willed and eben to the seid Edmond by the wille of the seid sir ~
+<lb/>reynold beying date the xx<hi rend="sup">th</hi> day of aprill in the xij<hi rend="sup">th</hi>
+yere of the reign of kyng henry the vij<hi rend="sup">th</hi> and
+<lb/>for defante of suche issue the remaynder therof to the seid margery accordyng tot he forme and effect
+<lb/>as ttis conteyned in the seid wille escept such manors landis tentis adbowsons and other hereditament
+<lb/>as the seid Edmond by theis p*sents hath before con*ts and graunted to the seid sir william and
+<lb/>same margery and on this the seid sir william and same margerye graunten by theis p*sents that the seid
+<lb/>Edmond shall haue and enioye to hym and to the heires males of his body The maners of westhay paben__
+<lb/>kempston _anb_y haunte and _eh* with thappurten*ce in the counte of bedd The maners of
+<lb/>_ston __...... bisshopiston and westowne with the appurten*ts in the ~
+<lb/>counte of _* the maners of esthaddon and coty__ with thappurten*ts in the counte of northy the
+<lb/>maners of milton magna and milton p*ua with the appurten*ts in the counte of Ox_ The maner of ~ ~
+<lb/>mawneys with thappurten*ts in the counte Essex The maner of Estham with thappurten*ts in the counte
+<lb/>of som* and alle and singuler londs ten*ts asbowson_ rents re_ons sluces and other heredittiments with
+<lb/>thappurten*ts wherof the seid sir reynold bray ioyuthe with other or any ode_p*son  or p*sons to the vse
+<lb/>of the seyd sir reynold and of his heires were seased of estate of onherirance the tyme of the deth of the seid
+<ld/>sir reynold in Ferueduthe henwyke puddyngton [Hinwick Podington] howghton Osbo*ne craneley etathedew westhay Tatillisdon
+<lb/>hocklyffe thadbowson of the hoppitall or use thaped of
+...
+and for desante of syche yssue the remaynder therof to the seyd margerey and
+<lb/>to her heires for*n __ the seid sir william and margerey and the heires of the same margie conen*te
+<lb/>and graunte that they before the fest of seynt andrew now next comyng shalle doo and suffre to be don alle
+<lb/>and eny ev*ythyng and thyngis aswell by fynes of the seid sir william and margie with warantie
+<lb/>agenst )abbott of Bermondsey and his _ as by _*ees feoffament relesse confi... with
+<lb/>and the heires males of the body of the same Edmond or ~ their _ernes countess resonably adnysed
+<lb/>except the affe_ance of eny wille supposed to be made by the seyd sir Reynold __th the xxj day
+<lb/>of aprill in the xij<hi rend="sup">th</hi> yere of the reigne of
+kyng henry the vij<hi rend="sup">th</hi> for to make the same maners londs
+<lb/>and ten*tis and other the p*ysses to the seid Edmond ~ aboue graunted sure to the same Edmond
+<lb/>and to the heires males of his body comyng with the remaynders on the to seid margie and her heires
+<lb/>or to other p*sons and to their heires by the seid Edmund therto to be named to the same _oses att costt
+<lb/>and charg_ in the lawe of the seyd Edmond and of his heires males of his body. Also the seid Edmond
+<lb/>preyve thissues and p*tis of all the seyd maners londs ten*ts and other the p*mysses to them aboue by ~
+<lb/>theis p*sents gr*ted growen or due si__ the fest of seynt michell tharchangell last past wythout
+<lb/>eny int*uptonlett or impedyment of the seyd Edmond of the heires males of his body or of any ~
+<lb/>other p*sons by their meanes __ the seid dir william and margery by theis p*sents conen*t_ and ~
+<lb/>graunted that they shalle in lyke wyse suffre the seid Edmond to entre haue lebye? and p*ceybe ~
+<lb/>thissices? and p*sites of the seyd maners londs and t*ents and other the p*mysses to the seyd Edmund
+<lb/>by these p*sents graunted growen ordne? such? the seyd feste of saynt michell without int*ruption let
+<lb/>or impediment of the seid sir william and margery and the heires of the seid margery or of any other p*sons
+<lb/>by their meanes. also the seid Edmond graunteth that he before the fest of pentecost next comyng
+<lb/>shall pay and ge_yn to the seid sir william and dame margie all such somes of money <hi rend="sup">t_s</hi>
+<lb/>the seid sir Edmond or any other p*son of p*sons by his co*mandement or meanes haue or hath
+<lb/>receyved of the seid londs and ten*ts to the seid wir william and mergery aboue gr<hi rend="sup">a</hi>unted growen or
+<lb/>ane such? the seid fest of saynt michell Also the seid Edmond conem*_th and grauntith that the seid
+<lb/>sir william and margery his wiff shall haue to them and the the heires of the seid margery all ~
+<lb/>maners londs and ten*ts aduowsous? and other hereditaments purchaced or exchaunged by the seid
+<lb/>sir Reynold by fore the seid xxj day of aprill the seid xij<hi rend="sup">th</hi> yere of the
+reign of kyng henry the vij<hi rend="sup">th</hi>
+<lb/>in the same wille nott comprised nor willed by the seyd dir Reynold to any p*son by the same wille
+<lb/>nor in this p*sent endenture graunted to the seid Edmunde and on that it is conem*t_ and agreid by
+<lb/>twene the seid parties that all aners lands ten*ts and hereditaments wherof the seid sir Reynold
+<lb/>with other or eny other p*son or p*sons to the vse of the seid sir Reynold and his heyres were seased?
+<lb/>of estate of enheritance the tyme of the deth of the same sir Reynold and by the seid sir Reynold ~
+<lb/>purchaces of exchaunged such? the seid xxj<hi rend="sup">th</hi> day of Aprill
+and nott byfore by these p*rents appoynted  or lymetted to ~
+<lb/>the seid sir william and margie nor to the seid Edmund by expresse w_ds that the seid Edmond shall haue
+<lb/>the one moytye therof to hym and to his heires males of his body the remaynder to the seid sir william and
+<lb/>margerye and her heires and the seid sir wiliam and margie shall haue the other moytye to theym and
+<lb/>the heires of the body of the seid margie and for desante of suche issue the remaynder therof to the seid margie and her
+<lb/>of the? body
+<lb/>the heires males of the seid Edmond and for desante of suche issue the remaynder therof to the seid margie and her
+<lb/>heires aboue seid and for ferther witnesses and motice of the p*mysses the seid moste renend ssa? in god and
+<lb/>justices to their p*sents att the desire and instance of the seid parties to eny parte of the seid endentures haue
+<lb/>also putte ther seales
+<lb/>Et memorand
+...
+<lb/>The condicion of this offigacion is suche thatt if the aboue bounden Edmonde on this side the fest of seynt Thomas the
+<lb/>apastel? next comyng after the date aboue writen delyn? or cause to be delyind to the aboue named sir william and
+<lb/>dame margie his wiff or to ther assignes all maner of charters evidents coust rolls rentalls encomyn_ rentes?
+<lb/>ssones? exemplifitaro*us of re_dis mstetis? and mowes? thatt the seid Edmonde hath or eny other p*son or
+<lb/>p*sons to his sole or may resonabely come by con_yng belongyng and touchyng all such maners londs and ?s
+<lb/>?ynted lymettid graunted and assigned by wey of con_*t tot he seid sir william this dame margery as apiered
+<lb/>a p__ of endentures made bytwene the seyd sir william on the on parte and the seid Edmonde on the other
+<lb/>parte beryng date the vj day of may the seconde yere of the reign of kyng henry the viij Thatt their
+<lb/>this obligacion to be void orels to ??
+<lb/>Et memorand
+...
+<lb/>The condcion of this abligacion is such that if the aboue bounden Edmonde Bray wille and tru_e ob?
+<lb/>??? and p*s___ alliant? _ug_ cone*ts graunts p*myses agrements vppon the part of the seid Edmund
+<lb/>con*__  __ grauntes and p*myses to the aboue named sir william sandys and margie his wiff cosyn
+<lb/>and heire to sir Reynold Bray knyght decessid of the oon parte and the sayd Edmonde Bray of the other parte
+<lb/>wherof the d__  the vj day of may the seconde yere of the reign of kyng henry the viij that than? this
+<lb/>abligacion to be void and of non effecte orels to g__ in full strenght and vertue ~
+<lb/>Et memorand
+...
+<lb/>The condicion of this recognisaunce is suche that if the aboue bounden George John and Richard their
+<lb/>heires executours or assignes or eny of them content and paye or do to be contetid and paid to the seid
+<lb/>James yarford to his heires executours or assignes xxth? st[art?*]ing att the fest of the assension of our
+<lb/>lord next comyng which shalbe in the yere of our lord god mdxj? That then this recognisance to be
+<lb/>void orels to stond in full strengh* and v___
+...
+<lb/>The condicion of this recognisaunce is suche that if the aboue bounden George John and Richard ther heires
+<lb/>executours or assignes of eny of them content and pay or do to by contentid and paid to the seid James yarford
+<lb/>to his heires executours or assignes xxth st? att the fest of ascension of aur lord which shalbe in the yere
+<lb/>of our lord god mdxij? that then ? vt ?
+...
+<lb/>The condicion of this recognisaunce is suche that if the aboue bounden George John and Richard ther heires ~
+<lb/>executours or assignes of eny of them content and pay or do to by contentid and paid to the seid James ~
+<lb/>yarford to his heires executours or assignes xxth? in the fest of the ascension of our lord whiche shalbe
+<lb/>in the yere of our lord god mdxiij? That then ? vt ?
+...
+<lb/>The condicion of this recognisaunce is suche that if the aboue bounden George John and Richard ther heires
+<lb/>executours or assignes of eny of them content and pay or do to by contentid and paid to the seid
+<lb/>James yarford to his heires executours or assignes xxth? in the fest of the ascension of our lord whiche
+<lb/>shalbe in the yere of our lord god mdxiiij? That then ? vt sup*?
+
+
+</ab>
+</body>
+</text>
+</TEI>
