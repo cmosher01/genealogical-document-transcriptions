@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Descendants of Hugh Mosher and Rebecca Maxson Through Seven Generations</title>
+                <author/>
+                <principal>Christopher Alan Mosher</principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Christopher Alan Mosher</authority>
+                <pubPlace>Shelton, CT, USA</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction status="low">
+                    <p>OCR generated transcript has not been corrected.</p>
+                </correction>
+                <normalization method="markup">
+                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                </normalization>
+                <punctuation marks="all" placement="internal">
+                    <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+                    <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+                </punctuation>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+                </quotation>
+                <hyphenation eol="all">
+                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                </hyphenation>
+                <interpretation>
+                    <p>Dates, places, and names may be marked up, where useful.</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date/>
+                <rs type="place"/>
+            </creation>
+            <langUsage>
+                <language ident="en-US">English (USA)</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic xml:id="page-cover" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_cover.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-i" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_i.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-iv" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_iv.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-v" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_v.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-vi" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_vi.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-vii" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_vii.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-ix" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_ix.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-x" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_x.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-xi" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_xi.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-xii" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_xii.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-1" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_1.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-2" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_2.ptif/full/640,/0/default.jpg"/>
+        <graphic xml:id="page-3" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/descendants_of_hugh_mosher_1980/dhmrm_1980_3.ptif/full/640,/0/default.jpg"/>
+    </facsimile>
+    <text xml:lang="en-US">
+        <body>
+            <pb n="front cover" facs="#page-cover"/>
+            <pb n="i (title)" facs="#page-i"/>
+            <pb n="iv (errata and addenda" facs="#page-iv"/>
+            <pb n="v (forward)" facs="#page-v"/>
+            <pb n="vi (about the compilers)" facs="#page-vi"/>
+            <pb n="vii (acknowledgements)" facs="#page-vii"/>
+            <pb n="ix" facs="#page-ix"/>
+            <pb n="x" facs="#page-x"/>
+            <pb n="xi" facs="#page-xi"/>
+            <pb n="xii" facs="#page-xii"/>
+            <pb n="1" facs="#page-1"/>
+            <pb n="2" facs="#page-2"/>
+            <pb n="3" facs="#page-3"/>
+        </body>
+    </text>
+</TEI>
