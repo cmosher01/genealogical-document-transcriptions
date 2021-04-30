@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Goodwife Maxson Harndell</title>
+                <author/>
+                <principal>Christopher Alan Mosher</principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Christopher Alan Mosher</authority>
+                <pubPlace>Shelton, CT, USA</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction status="high">
+                    <p>Transcriptions are double-checked.</p>
+                </correction>
+                <normalization method="markup">
+                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                </normalization>
+                <punctuation marks="all" placement="internal">
+                    <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+                    <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+                </punctuation>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+                </quotation>
+                <hyphenation eol="all">
+                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                </hyphenation>
+                <interpretation>
+                    <p>Dates, places, and names may be marked up, where useful.</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date/>
+                <rs type="place"/>
+            </creation>
+            <langUsage>
+                <language ident="en-US">English (USA)</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic xml:id="title" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/goodwife_maxson_harndell_transcription_title.ptif/220,270,1370,1880/400,/!270/default.jpg"/>
+        <graphic xml:id="transcription" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/goodwife_maxson_harndell_transcription.ptif/187,250,1370,1880/400,/0/default.jpg"/>
+        <graphic xml:id="entry1" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/goodwife_maxson_harndell_transcription.ptif/190,840,1340,120/800,/0/default.jpg"/>
+        <graphic xml:id="entry2" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/goodwife_maxson_harndell_transcription.ptif/190,1180,1340,110/800,/0/default.jpg"/>
+        <graphic xml:id="goodwife1" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/goodwife_maxson_harndell_transcription.ptif/900,850,260,110/full/0/default.jpg"/>
+        <graphic xml:id="goodwife2" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/goodwife_maxson_harndell_transcription.ptif/937,1190,225,90/full/0/default.jpg"/>
+    </facsimile>
+    <text xml:lang="en-US">
+        <head>
+            <lb/><hi rend="large">Goodwife Horndall, circa 1646, Newport, Rhode Island</hi>
+            <lb/>
+            <lb/>by Christopher A. Mosher, Shelton, Connecticut, 2021.
+        </head>
+        <body>
+            <div>
+                <p>
+                    <lb/>The <hi rend="italic">FamilySearch</hi> web site has in its database four index entries
+                    that refer to an individual as “<hi rend="bold">Goodwin_</hi>”, the wife of John Horndall. This article
+                    shows that these entries are incorrect, and should instead refer to “<hi rend="bold">Goodwife</hi>”.
+                </p>
+                <head>
+                    <lb/><hi rend="large">Database entries</hi>
+                </head>
+                <p>
+                    <lb/>In the <hi rend="italic">FamilySearch</hi> database “Rhode Island Births and Christenings”,
+                    there are index entries for the mother in each of two events,
+                    <ref target="https://www.familysearch.org/ark:/61903/1:1:V2HH-7PN">birth</ref><hi rend="sup">[<ref target="#bir45">1</ref>]</hi> and
+                    <ref target="https://www.familysearch.org/ark:/61903/1:1:4GHR-N92M">baptism</ref><hi rend="sup">[<ref target="#bap45">2</ref>]</hi>,
+                    of <hi rend="bold">Mary Horndoll</hi> in 1645. There are two additional index entries for
+                    <ref target="https://www.familysearch.org/ark:/61903/1:1:F8Q4-GFQ">birth</ref><hi rend="sup">[<ref target="#bir47">3</ref>]</hi> and
+                    <ref target="https://www.familysearch.org/ark:/61903/1:1:F83F-XMC">baptism</ref><hi rend="sup">[<ref target="#bap45">4</ref>]</hi> of
+                    another child, also named <hi rend="bold">Mary Horndoll</hi>, in 1647. In each of these four entries,
+                    the father is shown as “Jno” and the mother is shown as “<hi rend="bold">Goodwin_</hi>”, that’s
+                    with an underscore character at the end of the name. The underscore may indicate that the end of the
+                    name is omitted or illegible.
+                </p>
+                <head>
+                    <lb/><hi rend="large">Manuscript pages</hi>
+                </head>
+                <p>
+                    <lb/>All four index entries indicate they were extracted from the same FamilySearch microfilm,
+                    <ref target="https://www.familysearch.org/search/catalog/69039">“Records of births, marriages, and
+                        deaths of the Friends Meeting at Newport, R.I.”</ref>, which is available
+                    to the public on-line.<hi rend="sup">[<ref target="#film">5</ref>]</hi> The film contains 143
+                    facsimile images of a set of manuscript pages. The pages are approximately 7x9 inches, although the
+                    size cannot be determined accurately
+                    just by looking at the microfilm. The pages appear to be written on one side only. They all appear to be in
+                    the same handwriting, and written at approximately the same time. As indicated on the first page,
+                    they are a transcript from some original documents, described as “Friends meeting” records at
+                    Newport, Rhode Island. The handwriting is cursive, and very sloppy, with letters being omitted and merged
+                    together. There are many abbreviations. The transcription’s pages are sporadically numbered, with
+                    some pages having no numbers, and many cases of two subsequent pages having the same number.
+                </p>
+                <p>
+                    <lb/>The transcript may be in the same sequence as the original, because some of the page numbers from
+                    the original document are shown. These original page numbers are referred to in the following
+                    overview of the arrangement of the entire set of pages:
+                    <list>
+                        <item>1. Births: surname index, followed by pp. 1-34 of entries</item>
+                        <item>2. Marriages: surname index, followed by pp. 1-26 of entries</item>
+                        <item>3. Deaths: surname index, followed by pp. 1-20 of entries</item>
+                    </list>
+                    The entries themselves are in somewhat chronological order, but not consistently so.
+                </p>
+                <p>
+                    <lb/>The <ref target="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3T-6V7X">first
+                    page</ref><hi rend="sup">[<ref target="#page1">6</ref>]</hi> of this set of manuscripts
+                    has a descriptive title, along with some references this is a copy of some other original item:
+                    <lb/><lb/><anchor facs="#title"/>
+                    <lb/>Records of Births, Marriages,
+                    <lb/>and deaths of the Friends
+                    <lb/>meeting at Newport R.I.
+                    <lb/>
+                    <lb/>Loaned me by J E Woolley the original to
+                    <lb/>take home and return next day before
+                    <lb/>5 P.M. The book cost him $5 00. to have to
+                    <lb/>copy. He never loaned it before -
+                    <lb/>I was living in Lex Arr - His grand
+                    <lb/>mother was Catrin Cook - He gave the
+                    <lb/>book when he died to Shrewsbury Library.
+                    <lb/>Quaker
+                    <lb/>
+                    <lb/>[page is stamped as follows:]
+                    <lb/>NEW YORK GENEALOGICAL AND BIOGRAPHICAL SOCIETY
+                    <lb/>DEC 7 1934
+                </p>
+                <p>
+                    <head>
+                        <lb/><hi rend="large">Horndall births</hi>
+                    </head>
+                </p>
+                <p>
+                    <lb/>In first section, “Births”, the manuscript
+                    <ref target="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3T-6VWW">page
+                        numbered “12”</ref><hi rend="sup">[<ref target="#page12">7</ref>]</hi>
+                    contains the two entries referred to by the <hi rend="italic">FamilySearch</hi> database entries.
+                </p>
+                <p>
+                    <lb/><anchor facs="#transcription"/>
+                    <lb/>There are two entries for daughters named “Mary Horndall”:
+                    <lb/>
+                    <lb/><anchor facs="#entry1"/><hi rend="bold">Mary Horndall d</hi>[aughter of] <hi rend="bold"> Jno &amp; Goodwife 1645</hi>
+                    <lb/>
+                    <lb/><anchor facs="#entry2"/><hi rend="bold">Mary Horndall d</hi>[aughter of] <hi rend="bold"> Jno &amp; Goodwi 6-5-1647</hi>
+                    <lb/>
+                    <lb/>This most likely indicates the elder Mary died sometime before the second Mary was born, say circa 1646.
+                    There are no other births of “Horndall” (or any similar surname) children shown in the manuscript.
+                </p>
+                <p>
+                    <lb/>One observation is that, although the index entries spell the surname as “Horndoll”, a more accurate reading is “Horndall”.
+                </p>
+                <p>
+                    <lb/>In way of a detailed analysis of these entries, for the first entry after the name of the child,
+                    “Mary Horndall”, is a “d” which presumably means “daughter”, since the document does contains entries
+                    with masculine names and “s”, for “son”. This is followed by “Jno” which is a traditional abbreviation for “John”.
+                    After the ampersand, “&amp;”, is the name of the mother. As seen by examining other entries in this document, this position
+                    within the birth entries is reserved for the mother’s <hi rend="italic">given</hi> name. It is never her maiden name, or other surname. In this particular case, the
+                    name is given as “<hi rend="bold">Goodwife</hi>”, which (along with the short form Goody) is a traditional
+                    Puritan form of address for a respected wife.<hi rend="sup">[<ref target="#goodwife">8</ref>]</hi>
+                    The “f” is clearly indicated by its descender extending below the base line, and the ascender extending
+                    up to the same height as the ascender of the “d” earlier in the word.
+                    The entry for the second “Mary Horndall” is very similar, with what appears to be the same parents,
+                    although the mother’s given name is written only as “Goodwi” with the ending of the name being almost
+                    illegible. This illegible section may correspond to the underscore in the “Goodwin_” index extracts.
+                    <anchor facs="#goodwife1"/><anchor facs="#goodwife2"/>
+                    It would be highly unlikely for there to be two different couples,
+                    “John Hordall and Goodwife” and “John Hordall and Goodwi” in the local area within two years of each other,
+                    so we can safely assume these two entries refer to the same parents. Furthermore, it’s
+                    likely the transcriber omitted the ending “fe” from “Goodwife”, rather than the
+                    alternative of <hi rend="italic">adding</hi> an “fe” to the end of “Goodwi”. Also, compare the “n” in Horndall to the ending
+                    of each of the mother’s names. The characteristic “n” shape, with a horizontal curved segment at the
+                    midline level, does not exist at the endings of either of the entries of the mother’s name.
+                </p>
+                <head>
+                    <lb/><hi rend="large">Conclusion</hi>
+                </head>
+                <p>
+                    <lb/>This is not the surname “<hi rend="bold">Goodwin</hi>”, as the index entries claim,
+                    based on two key pieces of evidence present in the original manuscript:
+                    <list>
+                        <item>1. it’s in a position where it would be the <hi rend="italic">given</hi> name of the mother, never the surname
+                        standing alone; and,</item>
+                        <item>2. the descender of the lower case “f” is prominent, especially in the first entry, and could
+                        not possibly be an “n”, which would have no descender.</item>
+                    </list>
+                    Rather, this is the title “<hi rend="bold">Goodwife</hi>” applied to the wife of John Horndall, with her actual name left unspecified.
+                </p>
+                <head>
+                    <lb/><hi rend="large">References</hi>
+                </head>
+                <p>
+                    <hi rend="small">
+                        <lb/><ab id="bir45"><hi rend="sup">1</hi><bibl><title level="u">“Rhode Island Births and Christenings, 1600–1914”</title>, database,
+                        <title level="m">FamilySearch</title>
+                        (<ref target="https://familysearch.org/ark:/61903/1:1:V2HH-7PN"/> : accessed 2021-04-29),
+                        <citedRange>entry for Goodwin_ in birth of Mary Horndoll, 1645</citedRange>.</bibl></ab>
+
+                        <lb/><ab id="bap45"><hi rend="sup">2</hi><bibl><title level="u">“Rhode Island Births and Christenings”</title>
+                        (<ref target="https://familysearch.org/ark:/61903/1:1:4GHR-N92M"/> : accessed 2021-04-29),
+                        <citedRange>database entry for Goodwin_ in baptism of Mary Horndoll, 1645</citedRange>.</bibl></ab>
+
+                        <lb/><ab id="bir47"><hi rend="sup">3</hi><bibl><title level="u">“Rhode Island Births and Christenings”</title>
+                        (<ref target="https://www.familysearch.org/ark:/61903/1:1:F8Q4-GFQ"/> : accessed 2021-04-29),
+                        <citedRange>database entry for Goodwin_ in birth of Mary Horndoll, 1647-07-06</citedRange>.</bibl></ab>
+
+                        <lb/><ab id="bap47"><hi rend="sup">4</hi><bibl><title level="u">“Rhode Island Births and Christenings”</title>
+                        (<ref target="https://www.familysearch.org/ark:/61903/1:1:F83F-XMC"/> : accessed 2021-04-29),
+                        <citedRange>database entry for Goodwin_ in baptism of Mary Horndoll, 1647-07-06</citedRange>.</bibl></ab>
+
+                        <lb/><ab id="film"><hi rend="sup">5</hi><bibl><title level="u">“Records of Births, Marriages, and
+                        Deaths of the Friends Meeting at Newport, R[hode] I[sland]”</title>
+                        (manuscript, 1934, New York Genealogical and Biographical Society);
+                        digital images, <title level="m">FamilySearch</title>
+                        (<ref target="https://www.familysearch.org/search/catalog/69039"/> : accessed 2021-04-25),
+                        FHL microfilm 22488, DGS 7837380.</bibl></ab>
+
+                        <lb/><ab id="page1"><hi rend="sup">6</hi><bibl><title level="u">“Records of Births, Marriages, and Deaths”</title>,
+                        <citedRange>title page</citedRange>
+                        (<ref target="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3T-6V7X"/> : accessed 2021-04-25),
+                        image 3 of 146.</bibl></ab>
+
+                        <lb/><ab id="page12"><hi rend="sup">7</hi><bibl><title level="u">“Records of Births, Marriages, and Deaths”</title>,
+                        <citedRange>births p. 12</citedRange>
+                        (<ref target="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3T-6VWW"/> : accessed 2021-04-25),
+                        image 24 of 146.</bibl></ab>
+
+                        <lb/><ab id="goodwife"><hi rend="sup">8</hi><bibl><title level="m">Wikipedia</title>
+                        (<ref target="https://en.wikipedia.org/w/index.php?title=Goodwife&amp;oldid=1016346427"/> : accessed 2021-04-25),
+                        <title level="u">“Goodwife”</title>, rev. 2021-04-06T17:52:33Z.</bibl></ab>
+                    </hi>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
