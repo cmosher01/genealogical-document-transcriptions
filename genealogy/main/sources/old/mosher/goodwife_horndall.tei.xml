@@ -95,22 +95,22 @@
                     <lb/><hi rend="large">Manuscript pages</hi>
                 </head>
                 <p>
-                    <lb/>All four index entries indicate they were extracted from the same FamilySearch microfilm,
+                    <lb/>All four index entries indicate they were extracted from the same <hi rend="italic">FamilySearch</hi> microfilm,
                     <ref target="https://www.familysearch.org/search/catalog/69039">“Records of births, marriages, and
                         deaths of the Friends Meeting at Newport, R.I.”</ref>, which is available
-                    to the public on-line.<hi rend="sup">[<ref target="#film">5</ref>]</hi> The film contains 143
-                    facsimile images of a set of manuscript pages. The pages are approximately 7x9 inches, although the
+                    to the public online.<hi rend="sup">[<ref target="#film">5</ref>]</hi> The film contains 143
+                    facsimile images of a set of manuscript pages. The pages are approximately 5x7 inches, although the
                     size cannot be determined accurately
                     just by looking at the microfilm. The pages appear to be written on one side only. They all appear to be in
                     the same handwriting, and written at approximately the same time. As indicated on the first page,
                     they are a transcript from some original documents, described as “Friends meeting” records at
                     Newport, Rhode Island. The handwriting is cursive, and very sloppy, with letters being omitted and merged
-                    together. There are many abbreviations. The transcription’s pages are sporadically numbered, with
-                    some pages having no numbers, and many cases of two subsequent pages having the same number.
+                    together. There are many abbreviations. The pages are sporadically numbered, with
+                    some pages having no numbers, and with many cases of two subsequent pages having the same number.
                 </p>
                 <p>
-                    <lb/>The transcript may be in the same sequence as the original, because some of the page numbers from
-                    the original document are shown. These original page numbers are referred to in the following
+                    <lb/>The transcript is probably in the same sequence as the original, because some of the page numbers from
+                    the original document are transcribed. These original page numbers are referred to in the following
                     overview of the arrangement of the entire set of pages:
                     <list>
                         <item>1. Births: surname index, followed by pp. 1-34 of entries</item>
@@ -121,8 +121,8 @@
                 </p>
                 <p>
                     <lb/>The <ref target="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3T-6V7X">first
-                    page</ref><hi rend="sup">[<ref target="#page1">6</ref>]</hi> of this set of manuscripts
-                    has a descriptive title, along with some references this is a copy of some other original item:
+                    page</ref><hi rend="sup">[<ref target="#page1">6</ref>]</hi> of this set of manuscripts has a
+                    descriptive title, along with some reference to it being copied from some other original item:
                     <lb/><lb/><anchor facs="#title"/>
                     <lb/>Records of Births, Marriages,
                     <lb/>and deaths of the Friends
@@ -150,7 +150,7 @@
                     <lb/>In first section, “Births”, the manuscript
                     <ref target="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3T-6VWW">page
                         numbered “12”</ref><hi rend="sup">[<ref target="#page12">7</ref>]</hi>
-                    contains the two entries referred to by the <hi rend="italic">FamilySearch</hi> database entries.
+                    contains the two entries referred to by the <hi rend="italic">FamilySearch</hi> database entries:
                 </p>
                 <p>
                     <lb/><anchor facs="#transcription"/>
@@ -161,14 +161,12 @@
                     <lb/><anchor facs="#entry2"/><hi rend="bold">Mary Horndall d</hi>[aughter of] <hi rend="bold"> Jno &amp; Goodwi 6-5-1647</hi>
                     <lb/>
                     <lb/>This most likely indicates the elder Mary died sometime before the second Mary was born, say circa 1646.
-                    There are no other births of “Horndall” (or any similar surname) children shown in the manuscript.
+                    There are no other births of “Horndall” (or any similar surname) children present in the manuscript.
+                    Although the index entries spell the surname as “Horndoll”, a more accurate reading is “Horndall”.
                 </p>
                 <p>
-                    <lb/>One observation is that, although the index entries spell the surname as “Horndoll”, a more accurate reading is “Horndall”.
-                </p>
-                <p>
-                    <lb/>In way of a detailed analysis of these entries, for the first entry after the name of the child,
-                    “Mary Horndall”, is a “d” which presumably means “daughter”, since the document does contains entries
+                    <lb/>In way of a detailed analysis of these entries, for the first entry, after the name of the child,
+                    “Mary Horndall”, there is the letter “d”. Presumably this means “daughter”, since the document does contains entries
                     with masculine names and “s”, for “son”. This is followed by “Jno” which is a traditional abbreviation for “John”.
                     After the ampersand, “&amp;”, is the name of the mother. As seen by examining other entries in this document, this position
                     within the birth entries is reserved for the mother’s <hi rend="italic">given</hi> name. It is never her maiden name, or other surname. In this particular case, the
@@ -197,7 +195,7 @@
                     <list>
                         <item>1. it’s in a position where it would be the <hi rend="italic">given</hi> name of the mother, never the surname
                         standing alone; and,</item>
-                        <item>2. the descender of the lower case “f” is prominent, especially in the first entry, and could
+                        <item>2. the descender of the lower case “f” is prominent and could
                         not possibly be an “n”, which would have no descender.</item>
                     </list>
                     Rather, this is the title “<hi rend="bold">Goodwife</hi>” applied to the wife of John Horndall, with her actual name left unspecified.
