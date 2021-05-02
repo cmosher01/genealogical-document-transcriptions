@@ -23,11 +23,9 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <correction status="low">
-                    <p>OCR generated transcript has not been corrected.</p>
-                </correction>
+                <correction status="high"/>
                 <normalization method="markup">
-                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                    <p>Paragraphs are maintained, but not line beginnings. Minor errors are silently corrected.</p>
                 </normalization>
                 <punctuation marks="all" placement="internal">
                     <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
@@ -37,11 +35,9 @@
                     <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
                 </quotation>
                 <hyphenation eol="all">
-                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                    <p>Hyphenated words have been joined.</p>
                 </hyphenation>
-                <interpretation>
-                    <p>Dates, places, and names may be marked up, where useful.</p>
-                </interpretation>
+                <interpretation/>
             </editorialDecl>
         </encodingDesc>
         <profileDesc>
@@ -77,10 +73,157 @@
             <pb n="v (forward)" facs="#page-v"/>
             <pb n="vi (about the compilers)" facs="#page-vi"/>
             <pb n="vii (acknowledgements)" facs="#page-vii"/>
+            <ab>
             <pb n="ix" facs="#page-ix"/>
-            <pb n="x" facs="#page-x"/>
+                <head><lb/><hi rend="bold">Hugh Mosher's Disputed Ancestry</hi></head>
+
+            <p>
+                <lb/>Research for this history has been limited to American records, but it may be well to comment on what
+                has been said by persons said to have searched English records. Their reports are rather frustrating,
+                for with only one exception, sources of the information are not given, and few dates are found.
+            </p>
+            <p>
+                <lb/>The Mosiers are said to have been Huguenots living in northeastern France until the persecution
+                culminating in the Massacre of St. Bartholomew's Day in 1572 resulted in their flight to Germany and
+                England. It appears that only one family had gone to England by 1600, and it had settled in Manchester,
+                where it engaged in the weaving and selling of silk. The names of Stephen and James Mosier appear in
+                Manchester in 1580, and Ezekiel in 1607 (said to have died in 1640). Samuel and William were in 1614
+                records.
+            </p>
+            <p>
+                <lb/>William made his will 20 September 1620, and it was proved in the District Probate Registry of Chester,
+                Chester Consistory Court, 21 June 1621. He seems to have been a young man, for he mentioned his mother
+                and had only two children, both minors: John, under 21; and Mary, under 17. He named his "brother"
+                Thomas Rode and wife and siblings: Anne Ramney, John (married), Thomas, Steven, and George. He requested
+                that John, Thomas, and Steven "admitt my said wief (Thomasin) to be Joint partner with them in all
+                theire Tradings and Commersings...."
+            </p>
+            <p>
+                <lb/>Three of the brothers are said to have had sons named Hugh, Thomas' son Hugh being the Hugh Mosier who
+                sailed from England on the James 12 April 1632 for Boston. This Hugh settled in Maine not later than
+                1635 and died in Casco Bay before 26 July 1666, when his eldest son James was named administrator of the
+                estate and James and John Mosier were bonded.
+            </p>
+            <p>
+                <lb/>Stephen is said to have been the father of a Hugh who was in Salem, Massachusetts, in 1636, followed
+                Roger Williams to Rhode Island, received a large grant of land from him in Westerly 4 August 1674, and
+                died in Newport 1694. <hi rend="bold">Not one of these statements is supported by Rhode Island or Massachusetts records</hi>.
+            </p>
+            <p>
+                <lb/>A few English records in the middle-seventeenth century indicate that there were Mosiers elsewhere than
+                in Manchester. On 18 January 1639 Mrs. Stephen Mosyer was
+                <pb n="x" facs="#page-x"/>
+                bequeathed two silver salts in a will by the
+                widow of Philip Hayse of St. Patrick, Exeter (Waters, <hi rend="italic">Genealogical Gleanings in England</hi>, 1185), Mary
+                Mosier died 1653/4 at St. Gregory, London (Index to Prerogative Court of Canterbury, 257, vi Folio
+                95). Thomas Mosier of St. Sepulchre, London, left a will proved June 1654 (ibid., vi Folio 101). On 18
+                February 1664 Susanna Mosier, 27, spinster, of St. Benet Fink, London, was licensed to marry John Ellys,
+                25, bachelor, of Bromley, Co. Kent, at St. Benet Fink, St. Thomas the Apostle, or St. Anthony, "now
+                called the French church in London" (Foster, <hi rend="italic">London Marriage Licences</hi>, 1521-1869, p. 450).
+            </p>
+            <p>
+                <lb/>Despite this paucity of records, when in 1830 it was reported that the English government had advertised
+                in the Untied States for heirs of a Sir Hugh Mosher of the British East India Company, who had amassed a
+                fabulous fortune and died (when?) without issue, American and Canadian Moshers sprang into action, held
+                meetings, constructed sometimes faulty lineages, donated money, and sent agents to England to claim their
+                inheritance. Invariably the agents were never heard from, but nevertheless, every two or three decades
+                the process was repeated.
+            </p>
+            <p>
+                <lb/>A surprising feature of these "lineages" is that the mother of Hugh Mosher of this book is always said
+                to have been Lydia Maxson, though the father was either Hugh Mosier of Maine or Ezekiel of Rhode Island.
+                Accompanying statements contain so many contradictions and errors that none of the can be taken as fact,
+                but all should be studied carefully for possible truths.
+            </p>
+            <p>
+                <lb/>In an article on some descendants of Hugh's son John in <hi rend="italic">History of Muscatine County, Iowa</hi>, 2:505, the
+                tradition is said to be that Hugh descended from a Sir Hugh. The statements that Hugh lived in Bristol,
+                Rhode Island and that colonial records and Dartmouth, Massachusetts, Friends records contain his
+                marriage to Lydia Maxson or Dixon are erroneous. Hugh was not a Friend, and the Dartmouth Friends
+                records begin in 1698.
+            </p>
+            <p>
+                <lb/>It is commonly said that Hugh Mosier of Casco Bay was the father of Hugh Mosher and Lydia Maxson his
+                mother, but there are no records in Maine identifying Hugh's wife, or any children other than James and
+                John, and no early records of Maxsons in Maine. Hugh Mosier was of an earlier generation than Hugh
+                Mosher, but their having the same Christian name could as easily suggest uncle and nephew relationship
+                as father and son. Furthermore, their children and grandchildren settled in different areas of New
+                England and New York until the nineteenth century.
+            </p>
             <pb n="xi" facs="#page-xi"/>
+            <p>
+                <lb/>The tradition that Ezekiel Mosher and Lydia Maxson were parents of Hugh Mosher is found among
+                descendants of his sons Nicholas and Joseph. Ezekiel's sons John, a bachelor; Daniel, with a family; and
+                Hugh are said to have come to Rhode Island, followed shortly by the parents, Ezekiel soon died, and John
+                and Daniel and family were massacred by Indians in 1636 (not a plausible date), leaving Hugh as sole
+                heir. One account mentions a sister about whom nothing was known. Several accounts say that Ezekiel left
+                an immense fortune in Manchester. Still another is that Hugh's siblings, disapproving his wife, managed
+                to have Hugh's share of the fortune entailed until the youngest member of the third generation was of
+                age, this causing the long delay in settlement of the estate.
+            </p>
+            <p>
+                <lb/>The first mention of the three brothers that has come to the attention of the compilers is in the day
+                book of Christopher Mosher (1796-1866) of Albany, New York. He wrote that three Mosher brothers, Hugh,
+                John, and Daniel were the ones who came to America. The next is in the biography of Jonathan Brant
+                Mosher (1808-76) of Chemung county, New York, in <hi rend="italic">History of Tioga, Chemung, Tompkins and Schuyler
+                Counties, New York</hi>, 340c, which says that Hugh was one of three brothers but doesn't name the other two.
+                The name of Ezekiel as the father of the three brothers appears in the story of a meeting in the Palmer
+                House in Chicago 12 October 1883, and reported in an undated clipping from the Monmouth, Illinois
+                <hi rend="italic">Gazette</hi>. Martin Mosher (1812-1900), son of David of Aurora, New York, told the gathering there that his
+                father had commissioned Millard Fillmore, also of Aurora, to seek Ezekiel's will while on a trip to
+                England, that Fillmore had brought back a copy, then in the Fillmore Papers in Aurora, and that Martin
+                had seen it and could produce it. Perhaps it was later turned over to a Mosher, for in 1979 the three
+                repositories of Fillmore Papers in New York--the Aurora Historical Society, the Buffalo and Erie County
+                Historical Society, and the State University College in Oswego--reported that the will was not in their
+                collections.
+            </p>
+            <p>
+                <lb/>That will may have been what Ina Sizer Cassidy, descendant of Martin's great-grandfather Nicholas
+                referred to in a paper she deposited in the American Institute of Genealogy in Chicago, saying that her
+                grandfather John Hurd Covill had records including the advertisement in 1830 for heirs, that she knew
+                where to find all the proof and all the estate, but that "these things we are compelled to keep to
+                ourselves until the time is right to divulge them."
+            </p>
             <pb n="xii" facs="#page-xii"/>
+            <p>
+                Lydia Maxson as Ezekiel's wife appears in 1891 in the compilation of the descendants of James<hi rend="sup">3</hi>
+                (Nicholas<hi rend="sup">2</hi>) who settled in Nova Scotia in 1760.
+            </p>
+            <p>
+                <lb/>In 1926 a Mosher woman, mistaken about her own lineage, knew the story of Ezekiel and appealed to the
+                chief of police in Trenton, New Jersey, to locate her aunt and cousin, who were living there. After a
+                search the police succeeded in finding the two living in modest circumstances, and the <hi rend="italic">New York Times</hi> of
+                2 May carried an article about the two, who had "learned today" that they were among the heirs of a
+                relative Ezekiel Mosher, who had "recently" died in England leaving a fortune of $132,000,000.
+            </p>
+            <p>
+                <lb/>Even today there are still persons living who have contributed to the search for the fortune and who
+                still hope for a share. But Hugh Moshers's "fortune" and his ancestors have both eluded his descendants.
+            </p>
+            <p>
+                <lb/>Other elements in the story of Ezekiel, however, are too similar to what has been said and what is known
+                about Hugh to be dismissed lightly.
+            </p>
+            <p>
+                <lb/>If his sons John and Daniel and Daniel's family were massacred by the Indians, it was not likely that it
+                was in 1636, when Hugh was only three years old, but perhaps in 1656, when Hugh, too, was grown, and
+                only four years away from the first Mosher record in Rhode Island (Hugh's). The doubtful story has been
+                told that two of Hugh's sons were killed in King Philip's War. Was it instead his two brothers some time
+                earlier?
+            </p>
+            <p>
+                <lb/>Lydia Maxson as Ezekiel's wife fits in Rhode Island records perfectly. Hugh's mother is known to have
+                been living in 1677, and in 1680 Lydia and Rebecca Mosher were members of his church in Tiverton. He is
+                not known to have had a daughter Lydia, and the first daughter-in-law Lydia was then about fourteen
+                years in the future. In early colonial days it was common for first cousins to marry, and if Lydia
+                Maxson was a sister of Richard Maxson of Portsmouth, whose widow Rebecca married John Harndell of
+                Newport, here were two marriages of first cousins: Lydia's daughter Mary and son Hugh to Richard's son
+                John and Rebecca.
+            </p>
+            <p>
+                <lb/>The record may yet be found that reveals Hugh's parentage.
+            </p>
+            </ab>
             <pb n="1" facs="#page-1"/>
             <pb n="2" facs="#page-2"/>
             <pb n="3" facs="#page-3"/>
