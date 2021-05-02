@@ -23,11 +23,9 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <correction status="low">
-                    <p>OCR generated transcript has not been corrected.</p>
-                </correction>
+                <correction status="high"/>
                 <normalization method="markup">
-                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                    <p>Paragraphs are maintained, but not line beginnings. Minor errors are silently corrected.</p>
                 </normalization>
                 <punctuation marks="all" placement="internal">
                     <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
@@ -37,11 +35,9 @@
                     <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
                 </quotation>
                 <hyphenation eol="all">
-                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                    <p>Hyphenated words have been joined.</p>
                 </hyphenation>
-                <interpretation>
-                    <p>Dates, places, and names may be marked up, where useful.</p>
-                </interpretation>
+                <interpretation/>
             </editorialDecl>
         </encodingDesc>
         <profileDesc>
@@ -91,7 +87,44 @@
             <pb n="insert: errata 2" facs="#page-err_2"/>
             <pb n="insert: family chart" facs="#page-err_3"/>
             <pb n="vii" facs="#page-vii"/>
-            <pb n="viii" facs="#page-viii"/>
+            <head>CUCKLINGTON PARISH REGISTER 1558-1670</head>
+            <list>
+                <item>John Moger and Denis Browne weare maried the VIIIth.day of September 1566.</item>
+                <item>John Burpotte and Elizabeth Moger weare maried the XIIth.day of January 1566/7.</item>
+                <item>Agnes Moger the daughter of John Moger was baptized the XXth.day of December 1568.</item>
+                <item>Mary the daughter of John Moger was baptized the XXIXth. of September 1570.</item>
+                <item>John Moger and Edeth Crosse weare maried the XVIth. of October 1576.</item>
+                <item>
+                    Edith Moger the daughter of John Moger was baptized the
+                    <pb n="viii" facs="#page-viii"/>
+                    XXVth. of December 1581.
+                </item>
+                <item>John Moger, the sonne of John Moger was baptized the XXVIIth.of October, and the said John was buried the XXVIIth.of November 1584.</item>
+                <item>Robert Moger the sonne of John Moger was baptized the XXIth. of September 1587, beinge St. Matthewes day.</item>
+                <item>Robert Moger the sonne of John Moger was baptized the IIIIth.daie of February 1588/9.</item>
+                <item>John Moger the sonne of John Moger was baptized the XXVIth. daie of July 1590.</item>
+                <item>Edeth the daughter of John Moger was baptized the XXIIth. day of April 1595.</item>
+                <item>Nicholas Moger the sonne of John Moger was baptized the XIXth.of December 1596.</item>
+                <item>Frauncis Moger the daughter of John Moger was buried the IIIIth. of September 1605.</item>
+                <item>Hugh Moger the sonne of Hughe Moger was baptized the Vth. daie of Marche A° Dmi: 1608/9.</item>
+                <item>Edith, daughter to Tho: Moger, baptized the 24 February 1610/1.</item>
+                <item>Edith daughter to Hugh Moger baptized 10 Aprilis 1611.</item>
+                <item>Jhon Moger buried þe 15th. of Januarye, 1611/2.</item>
+                <item>Jhon Moger sonne of Hugh Moger baptised 18 Novemb: 1613.</item>
+                <item>Mabel Moger daughter to Hughe Moger, baptized 11th.February 1615/6.</item>
+                <item>Edithe Moger widow buried 22 April 1619.</item>
+                <item>Dashwood Moger daughter [sic] baptized 29 June 1619.</item>
+                <item>Henrye Moger buried 30 June 1619.</item>
+                <item>Dachwoode, sonne [sic] of Hugh Moger, buried 28 November 1619.</item>
+                <item>Marye, daughter to Hugh Moger, baptized 15 Junii 1621.</item>
+            </list>
+            <head>PARISH REGISTER: WINCANTON, SOMERSET BURIALS, 1640-1680</head>
+            <list>
+                <item>Mr. Hugh Moger, buried 23 January 1656/7.</item>
+                <item>Mrs. Margaret Moger, buried 1 August 1658.</item>
+                <item>Margrett the dafter [sic] of John and Anne Moger, buried 28 October 1661.</item>
+                <item>John Moger was buried 15 August 1670.</item>
+            </list>
             <pb n="ix" facs="#page-ix"/>
             <pb n="x" facs="#page-x"/>
             <pb n="xi" facs="#page-xi"/>
