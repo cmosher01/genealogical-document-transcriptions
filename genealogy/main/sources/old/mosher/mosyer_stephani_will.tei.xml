@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>	Will of Stephen Mosyer, Merchant of London</title>
+                <author/>
+                <principal>Christopher Alan Mosher</principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Christopher Alan Mosher</authority>
+                <pubPlace>Shelton, CT, USA</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><title level="u">	Will of Stephen Mosyer, Merchant of London</title>,
+                    <title level="m">Prerogative Court of Canterbury, Will Registers, Lyon</title>,
+                    <citedRange>folio 273 (<hi rend="italic">recto</hi>, <hi rend="italic">verso</hi>)</citedRange>;
+                    PROB 11/201/392; National Archives, Kew, Richmond, England.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction status="high">
+                    <p>Diplomatic transcription.</p>
+                </correction>
+                <normalization method="markup">
+                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                </normalization>
+                <punctuation marks="all" placement="internal">
+                    <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+                    <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+                </punctuation>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+                </quotation>
+                <hyphenation eol="all">
+                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                </hyphenation>
+                <interpretation>
+                    <p>Dates, places, and names may be marked up, where useful.</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date/>
+                <rs type="place"/>
+            </creation>
+            <langUsage>
+                <language ident="en-US">English (USA)</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic xml:id="page-000" url="https://mosher.mine.nu/ftm/mosher_other Media/England &amp; Wales, Prerogative Court of Canterbury Wills, 1384-1858.jpg"/>
+        <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/40611_310661-00566.jpg"/>
+    </facsimile>
+    <text>
+
+
+
+        <body>
+            <pb n="folio 273 recto" facs="#page-000" />
+
+            <head>
+                <lb/>T<hi rend="sup">m</hi> Stephani
+                <lb/>Mosyer
+            </head>
+
+            <ab xml:lang="en-emodeng">
+                <lb/><hi rend="large">In the name of god amen</hi> I
+                <lb/>Stephen Mosyer of Bridford in the County of Devon Merchant at presen resident
+                <lb/>at London doe make this my present last will and testament I doe will that all such debts
+                <lb/>w<hi rend="sup">ch</hi> are owing and shalbe owing by me at the tyme of my death and as well in my owne
+                <lb/>right as in the right of my Executorshipp of the last will and Testament of my late
+                <lb/>brother Thomas Mosyer deceased shalbe paid and discharged with all Convenient and :
+                <lb/>possible expedition And I doe make my wife Mary my full and sole Executrix of this my
+                <lb/>present last will and Testament And I doe give to my sayd wife Mary for Terme of
+                <lb/>her naturall life all and eny my Coppie hold lands and Tenements w<hi rend="sup">th</hi> the appurtenances
+                <lb/>in the Parish of S<hi rend="sup">t</hi> Salvior in Southwarke in the County of Surry held of the Maner of
+                <lb/>David Garden paying the rent yearly ffive pounds of lawfull English money in the
+                <lb/>moneth of May to my sister Anne Rumney in discharge and satisfaction of ffiue
+                <lb/>pounds yearely given or charged by my late brother George Mosyer deceased vnto
+                <lb/>the sayd Anne Rumney And alsoe fortie shillings yearely to the poore of S<hi rend="sup">t</hi> Thomas
+                <lb/>Hospitall in Southwarke in discharge of soemuch formerly given or charged And alsoe
+                <lb/>I give to my sayd wife Mary for Terme of her naturall life my Tenement with
+                <lb/>the appurtenances in longe lane in the parish of S<hi rend="sup">t</hi> Sepulcher London And I doe will
+                <lb/>and order that my sayd wife may give and dispose the same lands and Tenements
+                <lb/>and euery or any of them to my Sonnes John Mosyer and Joseph Mosyer and my daughter
+                <lb/>Susan or any of them (but to none other) as shee shall thinke fitt in her good discretion And
+                <lb/>I doe will and order that for the lively hood and portions of my my sayd Sonnes John and ~
+                <lb/>Joseph and my daughter Susan, my sayd Executrix shall pay and allowe out of my Estate ~ ~
+                <lb/>to euery of them a Competencie and a respective part as to my sayd Executrix shalbe ~ ~
+                <lb/>thought meete Provided allwaies and my will and mynde is, that if my sayd wife Mary
+                <lb/>doe departe this present life or be married That then and in such case the sayd Excutrix XXXX
+                <lb/>as to my sayd wife to be voide And in such case I doe make my sayd sonne John ~ ~ ~
+                <lb/>Mosyer my Executor And doe order and will that my sayd sonne John Mosyer shall
+                <lb/>or may sell and dispose of Certen of my leases and pay and allowe vnto him selfe and
+                <lb/>the sayd Joseph and Susan respectively such Competencie and portion as to my sayd
+                <pb n="folio 273 verso" facs="#page-001" />
+                <lb/>wife shalbe thought fill (if shee be then liveing) (if dead) the same to be referred to my
+                <lb/>sayd Sonne John Mosyer to allowe such parte or portion to him selfe and to the sayd Joseph
+                <lb/>and Susan or any or either of them as he the sayd John in his conscience and discretion shall ~
+                <lb/>see most meete In testimony whereof I have herevnto put my hand and seale dated
+                <date calendar="julian" datingMethod="julian" when-custom="1647-07-23">the ~ ~
+                <lb/>three and twentith day of July Anno dnĩ one thousand sixe hundred fourtie seaven</date> And in
+                <lb/>the three and Twentith yeare of the Raigne of our Soueraigne Lord King Charles of England
+                <lb/>&amp;c By me Steven Mosyer Sigillat publicat̃ et delibat̃ in pũlia sigmd Johannæ Read signũ
+                <lb/>Elizabetha Minchard et Roberti Minchard Notarij publici
+            </ab>
+            <p xml:lang="la">
+                <lb/><hi rend="large">Probatum</hi> fuit testamentum suprascriptum apud London Coramdilecto
+                <lb/>subditonostro Mgro henrico Smith Clerico Surrogato dilecti Subditinostri domini
+                <lb/>Nathanielis Brent Milibis et legum doctoris Curie prerogative Magistrisive Custodis sive
+                <lb/>constituti
+                <date calendar="julian" datingMethod="julian" when-custom="1647-08-02">
+                Secundo die Mensis Augusti Anno domini Millecimo Sexcentisimo quadragesimo seg=
+                <lb/>simo</date> Juramento Marie Mosyer Relicte dicti defuncti et Executricis in eadem testamento
+                <lb/>nominãt Cui Com̃issa fuit Administrac̃o omniu et singulorum bonorum Surium et cred
+                <lb/>dicti defuncti de bene et fidel̃r Administrando eadem ad sca dei Evangelia Jurat. SK
+            </p>
+        </body>
+    </text>
+</TEI>
