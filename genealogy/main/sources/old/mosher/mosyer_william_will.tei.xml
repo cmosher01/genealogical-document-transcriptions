@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>	Will of William Mosyer</title>
+                <author/>
+                <principal>Christopher Alan Mosher</principal>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Christopher Alan Mosher</authority>
+                <pubPlace>Shelton, CT, USA</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+<!--                <bibl><title level="u">	Will of Stephen Mosyer, Merchant of London</title>,-->
+<!--                    <title level="m">Prerogative Court of Canterbury, Will Registers, Lyon</title>,-->
+<!--                    <citedRange>folio 273 (<hi rend="italic">recto</hi>, <hi rend="italic">verso</hi>)</citedRange>;-->
+<!--                    PROB 11/201/392; National Archives, Kew, Richmond, England.</bibl>-->
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction status="high">
+                    <p>Diplomatic transcription.</p>
+                </correction>
+                <normalization method="markup">
+                    <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+                </normalization>
+                <punctuation marks="all" placement="internal">
+                    <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+                    <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+                </punctuation>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+                </quotation>
+                <hyphenation eol="all">
+                    <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+                </hyphenation>
+                <interpretation>
+                    <p>Dates, places, and names may be marked up, where useful.</p>
+                </interpretation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date/>
+                <rs type="place"/>
+            </creation>
+            <langUsage>
+                <language ident="en-US">English (USA)</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic xml:id="page-000" url="https://mosher.mine.nu/ftm/mosher_other Media/England &amp; Wales, Prerogative Court of Canterbury Wills, 1384-1858(1).jpg"/>
+        <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/40611_311282-00496.jpg"/>
+    </facsimile>
+    <text>
+
+
+
+        <body>
+            <pb n="folio 246 recto" facs="#page-000" />
+
+            <head>
+                <lb/>T<hi rend="sup">m</hi> Stephani
+                <lb/>Mosyer
+            </head>
+
+            <ab xml:lang="en-emodeng">
+                <lb/><hi rend="large">In the name of god amen</hi>
+                <date calendar="julian" datingMethod="julian" when-custom="1613-03-04">The ffourth day of March Anno ~
+                <lb/>dm̃ 1613</date> And in the yeares of the Raigne of our soveraigne Lord Iames by the grace of God ~
+                <lb/>of England ffraunce and Ireland king defendor of the faith &amp;c the Eleaventh And of Scotland the ~
+                <lb/>seaven and ffortith, I william Mosyer Citizen and Cooke of London being sick and weake in body
+                <lb/>but of good and &#xA751;fect remembraunce the lords name be therefore praysed doe make and ordeyne this
+                <lb/>my present Testament and last will in writinge in manner and forme following (That is to say), ~
+                <lb/>ffirst I Com̃end my soule into the handes of Allmightie God Creator of me and of the whole world ~
+                <lb/>And vnto Iesus Christ my Redeemer, and vnto the holy Ghost the sanctifier of me and of all the elect
+                <lb/>people of God trusting and assuredly beleevinge that by the merritte passion and pretious blood shedding ~
+                <lb/>of Iesus Christ my syns art cleerely remitted and &#xA751;doned and the mercy and love of God so fully ~ ~
+                <lb/>purchased and prepared for me, As that after the Dissolution of these my sinfull Dayes my soule ~
+                <lb/>shall enioye eternall blessednes in the kingdome of heaven, My body I Com̃itt to the earth whereof
+                <lb/>it is a member willing that the same be buried in Christian buryall at the Discrec̃ion of myne
+                <lb/>Executrix hereafter named, And as touching such worldly substance as it hath pleased God to
+                <lb/>make me Steward of in this life I Doe dispose of the same as followeth (vĩz<hi rend="sup">t</hi>) ffirst my will
+                <lb/>and my desire is that all such Debts as I shall owe at the tyme of my decease shalbe first duly paid
+                <lb/>and Discharged as myne Executrix hereafter named together w<hi rend="sup">th</hi> my funerall expencs, My debts
+                <lb/>being paid and my funerall expences beinge discharged I Doe give and bequeath as followeth (vĩz<hi rend="sup">t</hi>)
+                <lb/>ffirst whereas I at this present tyme Doe stand seised of an estate in ffee simple of and in A house ~
+                <lb/>or Tenement at the vicarage gate in Estgreenw<hi rend="sup">ch</hi> in the Countie of Kent
+                w<hi rend="sup">th</hi> thappurte uñces
+                <lb/>And of and in six Acres of Marsh land lyinge in twoe &#xA751;cells in Eastgreenew<hi rend="sup">ch</hi> aforesaid And
+                <lb/>of and in one Acree of land lying next to M<hi rend="sup">r</hi> Lamberts landes in Eastgreenew<hi rend="sup">ch</hi> aforesaid And
+                <lb/>of and in one half Acree lying at the vpper end of Broadfeild in Eastgreenew<hi rend="sup">ch</hi> aforesaid, w<hi rend="sup">th</hi>
+                <lb/>said howse and landes are all in the tenure of M<hi rend="sup">r</hi> Pigeon gent or of his Assignee or Assignees
+                <lb/>The w<hi rend="sup">ch</hi> said howse and Seaven Acres and a half of land I Doe wholy give and bequeath vnto
+                <lb/>my sonne George Mosyer and to his heires and assigned for ever, Item I Doe give and bequeath
+                <lb/>vnto my daughter Anne Rumney Twentie shillings to be paid vnto her w<hi rend="sup">th</hi>in convenient ~
+                <lb/>tyme after my decease, Item I Doe give and bequeath vnto Symon Rumney her sonne Twen:
+                <lb/>tie shillings to be paid to him at his full age of one and Twentie yeares, Item I Doe give ~
+                <lb/>and bequeath vnto Suzan Rmney daughter of the said Anne ffortie shillings to be paid to her
+                <lb/>At her day of marriage or age of one and Twentie yeares w<hi rend="sup">ch</hi> shall first happen. Item I Doe ~
+                <lb/>give and bequeath vnto the Company of Cooks of the Cittie of London, The som̃e of ffortie ~
+                <lb/>shillings to be paid to them at their comynge to my ffunerall yf they shall come to the same and
+                <lb/>not otherwise, Item I give will and devise vnto my welbeloved wyfe Dorothy Mosyer, ~
+                <lb/>All those my lands and hereditaments w<hi rend="sup">th</hi> thappurte uñcs scituate lying and being at Blackbrooke
+                <lb/>or Called or knowne by the name of Blackbrooke in the Countie of kent w<hi rend="sup">ch</hi> I late purchased ~
+                <lb/>and bought to me my herres and assignes for ever of one william Erlich. To have and to hold ~
+                <lb/>the same vnto the said Dorothy Mosyer her herres and assignes for ever, vppon the Condicõn ~
+                <lb/>That if my moveable goods and Chattells will not extend to satisfy my Debts that then ~
+                <lb/>my said wife Dorothy Mosyer shall w<hi rend="sup">th</hi> asmuch expedacõn and w<hi rend="sup">th</hi>in as convenient tyme ~
+                <lb/>as may be after my Decease make sale to best advantage of all and every the said lands and ~
+                <lb/>hereditaments w<hi rend="sup">th</hi> thappurte uñcs, And w<hi rend="sup">th</hi> the money thereof proceedinge and com̃inge To ~
+                <lb/>pay and discharge all and every such Debt and Debts as I shall Duly owe either by lawe or ~
+                <pb n="folio 246 verso" facs="#page-001" />
+                <lb/>Conscience at the tyme of my Death. The residue of all and singuler my goods Chattells Debts ~
+                <lb/>and Creditts not before given or bequeathed I Doe wholly give and bequeathe vnto my said ~ ~
+                <lb/>lovinge wife Dorothy Mosyer whome I Doe make the sole Executrix of this my ^ will , ~
+                <lb/>And I Doe hereby renounce all former wills heretofore by me made or Devised. In witnes
+                <lb/>whereof I the said william Mosyer haue herevnto putt my hand and seale the daye and yeres
+                <lb/>aboue written, Item I give and Devise vnto my said wife Dorothy Mosyer one bay Nagg ~~
+                <lb/>towards the payment of my Debts./ The marke of the said W<hi rend="sup">m</hi> Mosyer. This put testament
+                <lb/>confey my two theese and one half theese of paper was subscribed sealed and Delivered as the abso&#xA749;o
+                <lb/>Deede of him the abouenamed william Mosyer and by him Declared to be his last will and ~ ~
+                <lb/>Testament the day and yeares aboue remembred In the presence of Iames Goodyer Snr London
+                <lb/>Iohn Mosyer Timothie Mosyer./
+            </ab>
+
+
+
+
+
+
+
+
+            <p xml:lang="la">
+                <lb/><hi rend="large">Probatum</hi> fuit testamentum suprascriptum apud London coram venerabili ~
+                <lb/>viro Bartholomeo Iseus legum Doctore Surrogato venerabilis vni domini Iohannins Benet ~
+                <lb/>militis legum etiam Doctoris Curie prerogative Cantuarienss Mag̃ri Custodis sive Com̃issarij
+                <lb/>legitime constituti
+                <date calendar="julian" datingMethod="julian" when-custom="1614-04-11">
+                    Undecimo die mensis Aprilis Anno Domini millesimo sexcentesimo Decimo
+                    <lb/>quarto</date> Iuramento Dorothie Mosyer Relicte et Executricis in eodem testamento nominãt Cui
+                <lb/>com̃issa fuit Administrac̃o bonorum Surium et Creditorum dicti defuncti De bene et fideliter ~ ~
+                <lb/>Administrando &amp;c and sancta Dei Evangelia Iurat./ ex /
+            </p>
+        </body>
+    </text>
+</TEI>
