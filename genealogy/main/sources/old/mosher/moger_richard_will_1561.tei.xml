@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Will of Richard Moger of Gillingham, Dorset, England, 1561</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2021</date>
+        <availability status="restricted">
+          <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title level="u">Will of Richard Moger of Gillingham, Dorset, England, 1561</title>,
+        <title level="m">Probate records of the Royal Peculiar of Gillingham, Register of wills</title>;
+        P27/1Reg/10v; Wiltshire and Swindon History Centre, Chippenham, Wiltshire, England;
+        digital images, <title level="m">Ancestry</title>
+        (<ref target="https://www.ancestry.com/imageviewer/collections/61333/images/47286_p27_1reg_10_b_tcl"/> : accessed 2021-05-22).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="high">
+          <p>Diplomatic transcription.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/???.jpg"/>
+  </facsimile>
+  <text>
+
+
+
+<body>
+
+<ab xml:lang="en-emodeng">
+
+<lb/><fw type="pageNum" place="top-left">10B</fw>
+<lb/>Testamenm̃ Robti Moger ꝑbatm̃ viij die May Anno dom̃ 1561.
+<lb/>In the name of god Amen I Robt Moger of the parishe of
+<lb/>Gillinghã beyng whole of mynd &amp; memorie thanks be vnto
+<lb/>almyghty god &amp; sycke yn my body the xv. of ffebruarie
+<lb/>the year of o<hi rend="sup">ꝛ</hi> lord 1559. do make &amp; ordayne my last wyll and
+<lb/>testamet̃ after thys man<hi rend="sup">ꝛ</hi> &amp; forme folowyng fyrst I do gyve and
+<lb/>bequeath my soule vnto almyghty god to o<hi rend="sup">ꝛ</hi> blessed lady saynt
+<lb/>marie the virgyne and to all the blessed company of theabey
+<lb/>&amp; my body to be buaryed yn the churche yeard of Gyllingham
+<lb/>Itm̃ I do gyve to the mother churche of Drisen ij<hi rend="sup">d</hi> And I do
+<lb/>gyve vnto the hygh Altare of Gyllinghã vj<hi rend="sup">d</hi> And I gyve to
+<lb/>the wode lyght ij<hi rend="sup">d</hi> Itm̃ I gyve &amp; bequeath vnto Margarete Marshe
+<lb/>my daughter one cowe And vnto Edith Moger my sons daughter
+<lb/>a reade heafer &amp; a crocke <surplus reason="repeated">&amp; a crocke</surplus> &amp; a pan Also I do gyve &amp;
+<lb/>bequeath vnto Iohn Moger &amp; vnto Robert Moger my sonnes
+<lb/>chyldren to eche of them one steare bullocke of one yere aige
+<lb/>And I do gyve vnto Osmund Moger my sonnes son a mare colte
+<lb/>Also I do gyve vnto Edith Moger the yonger of my sonnes daughters
+<lb/>one brynded heafer of one yeres aige And I do gyve vnto Katheryn
+<lb/>Moger my sonnes Daughter the beste cowes calf to be waned and
+<lb/>kept to her ꝑfyt &amp; vse. And to Iohn Moger my sonnes son a calf
+<lb/>to be waned ij. yeres hereafter for the chylds ꝑfyt &amp; vse. And I
+<lb/>gyve vnto Iohn Newman my daughters son one calf to be waned
+<lb/>for hym a thre yeres hereafter for hys ꝑfyt &amp; vse. And to every god
+<lb/>chyld ij<hi rend="sup">d</hi>. The resydew of my goods my Debtes payed I gyve and
+<lb/>bequeath vnto my son Richard Moger whom I do make &amp; ordayne to
+<lb/>be my heole &amp; sole execut<hi rend="sup">ꝛ</hi> And I make my overseers Edward
+<lb/>Shepeherd &amp; Nicholas Drewer <del rend="overstrike">wytne</del> wytnisses to thys
+<lb/>wyll Thomas Kyng prieste Matthew Nayler n<hi rend="sup">t</hi> other
+
+</ab>
+</body>
+</text>
+</TEI>
