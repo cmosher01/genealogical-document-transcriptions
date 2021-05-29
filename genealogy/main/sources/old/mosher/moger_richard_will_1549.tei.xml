@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Will of Richard Moger, Sojourner, 1549</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2021</date>
+        <availability status="restricted">
+          <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title level="u">Will of Richard Moger, Sojourner, 1549</title>,
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="high">
+          <p>Diplomatic transcription.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/???.jpg"/>
+  </facsimile>
+  <text>
+
+
+
+<body>
+
+<ab xml:lang="en-emodeng">
+
+<pb facs="#page-001"/>
+
+<lb/>INTE
+<lb/>DOMINE
+<lb/>SPERAVI
+
+<lb/><hi rend="large">In the name of god Amen</hi> The xviij<hi rend="sup">th</hi> day of Novemb̃ in the thirde ~
+<lb/>yere of the Reign of our so?eign Lorde kynge Edward vj<hi rend="sup">th</hi> I Richard Moyger sogeonre
+<lb/>vnder Capteyn knevett beyng sikc and diseased in my body but of good and ꝑfett remẽberunce
+<lb/>doo ordeyn and make this my present testament and last wyll in man<hi rend="sup">ꝛ</hi> and forme followyng
+<lb/>That ys to say ffyrste I bequeth my soule to Allmyghtie god my maker and redemer in whome
+<lb/>ys all my hope and trust of salvac̃on and my body to by buryed where yt shall please ~
+<lb/>my frende Iohn Clerck Also I doo geve vnto my brother Willm̃ Moyger all soche lands &amp;
+<lb/>tenements as ys shyfteable betwene hym and me and my house in Sunytmarycray any thinge
+<lb/>that I have heretofore sayd or doon to the contrary notw&#x036d;standynge / Also I bequeathe &amp; geve
+<lb/>to my bedfellowe Iohn Clerck for the paynes that he dooth take w&#x036d; me nowe in my sykenes
+<lb/>ij kelers? ? ? ij barr
+<lb/>and he shall pay the sayd v<hi rend="sup">s</hi> and take the potte / Also I doo give vnto the sayd Iohn Clerk
+<lb/>one Con'lett of redde and blewe one Chafer ij bedsteds and ij pewteer votts / Also I doo bequeth
+<lb/>vnto alde father Briggs my best coke? whiche lyeth at Cantrrbury / The resydewe of all
+<lb/>my goods moveable and vnmoveable I doo geve and bequeth vnto my brother Willm̃ ~ ~
+<lb/>Moyger whome I doo make myn hole executo<hi rend="sup">ꝛ</hi> of this my last wyll wyllynge and desyryng
+<lb/>?hy for to geve vnto ? poore men of the ? parysshe v<hi rend="sup">s</hi> that is to say To alde father
+<lb/>yorketon xij<hi rend="sup">d</hi> To Iohn Clarke xij<hi rend="sup">d</hi> To Richarde Stabyll xij<hi rend="sup">d</hi>
+To Richard Parky? xij<hi rend="sup">d</hi>
+<lb/>and to Iohn Thomson xij<hi rend="sup">d</hi> / In wytnes ?herof to this my present testament and last wyll
+<lb/>I the sayd Richard Moyger have sett myn owne hande and my seale Datedin the Citedell
+<lb/>of bace bolloign the day and yere abovewrytten these men beyng witnes / I Richard Moyger
+<lb/>?has Wood Willm̃ Bankes George lyghtfoote Iohn ?dcoppe Robt Rawlyns Iames ꝑtyridge
+</ab>
+
+<ab xml:lang="la">
+<lb/><hi rend="large">Probatum</hi> fuit hinoĩ testamentum coram Dnõ? Cante? Archiep̃o apd London decimo quarto
+<lb/>die marcij Anno dm̃ Millesimo quingentesimo quadresimo nono Iuramente dute Willielmi ~
+<lb/>Moyger executor in codem testamente noĩate at upprobatum et Iusimiatum Et comissa fuit ~
+<lb/>Administracio omiu et sing̃lo&#xa75d; bono&#xa75d; &amp;c dute decimoti probat executor de bene &amp;c Arde pleno
+<lb/>Iuventario &amp;c exhibend ad sancta die evangelia in debita Iuris forma Iurat
+</ab>
+</body>
+</text>
+</TEI>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Will of Richard Moger of Gillingham, Dorset, England, 1561</title>
+        <title>Will of Robert Moger of Gillingham, Dorset, England, 1561</title>
         <author/>
         <principal>Christopher Alan Mosher</principal>
       </titleStmt>
@@ -18,9 +18,9 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title level="u">Will of Richard Moger of Gillingham, Dorset, England, 1561</title>,
+        <bibl><title level="u">Will of Robert Moger of Gillingham, Dorset, England, 1561</title>,
         <title level="m">Probate records of the Royal Peculiar of Gillingham, Register of wills</title>;
-        P27/1Reg/10v; Wiltshire and Swindon History Centre, Chippenham, Wiltshire, England;
+        P27/1Reg/10B; Wiltshire and Swindon History Centre, Chippenham, Wiltshire, England;
         digital images, <title level="m">Ancestry</title>
         (<ref target="https://www.ancestry.com/imageviewer/collections/61333/images/47286_p27_1reg_10_b_tcl"/> : accessed 2021-05-22).</bibl>
       </sourceDesc>
@@ -59,7 +59,7 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/???.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/Wiltshire, England, Wills and Probate, 1530-1858.jpg"/>
   </facsimile>
   <text>
 
@@ -69,6 +69,7 @@
 
 <ab xml:lang="en-emodeng">
 
+<pb facs="#page-001"/>
 <lb/><fw type="pageNum" place="top-left">10B</fw>
 <lb/>Testamenm̃ Robti Moger ꝑbatm̃ viij die May Anno dom̃ 1561.
 <lb/>In the name of god Amen I Robt Moger of the parishe of
@@ -79,7 +80,7 @@
 <lb/>bequeath my soule vnto almyghty god to o<hi rend="sup">ꝛ</hi> blessed lady saynt
 <lb/>marie the virgyne and to all the blessed company of theabey
 <lb/>&amp; my body to be buaryed yn the churche yeard of Gyllingham
-<lb/>Itm̃ I do gyve to the mother churche of Drisen ij<hi rend="sup">d</hi> And I do
+<lb/>Itm̃ I do gyve to the mother churche of Briston ij<hi rend="sup">d</hi> And I do
 <lb/>gyve vnto the hygh Altare of Gyllinghã vj<hi rend="sup">d</hi> And I gyve to
 <lb/>the wode lyght ij<hi rend="sup">d</hi> Itm̃ I gyve &amp; bequeath vnto Margarete Marshe
 <lb/>my daughter one cowe And vnto Edith Moger my sons daughter
@@ -97,8 +98,8 @@
 <lb/>chyld ij<hi rend="sup">d</hi>. The resydew of my goods my Debtes payed I gyve and
 <lb/>bequeath vnto my son Richard Moger whom I do make &amp; ordayne to
 <lb/>be my heole &amp; sole execut<hi rend="sup">ꝛ</hi> And I make my overseers Edward
-<lb/>Shepeherd &amp; Nicholas Drewer <del rend="overstrike">wytne</del> wytnisses to thys
-<lb/>wyll Thomas Kyng prieste Matthew Nayler n<hi rend="sup">t</hi> other
+<lb/>Shepeherd &amp; Nicholas Brewer <del rend="overstrike">wytne</del> wytnisses to thys
+<lb/>wyll Thomas Kyng prieste Matthew Nayler w&#x036d; other
 
 </ab>
 </body>

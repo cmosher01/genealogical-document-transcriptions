@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Will of John Combe, Junior, of Gillingham, Dorset, England, 1561</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2021</date>
+        <availability status="restricted">
+          <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title level="u">Will of John Combe, Junior, of Gillingham, Dorset, England, 1561</title>,
+        <title level="m">Probate records of the Royal Peculiar of Gillingham, Register of wills</title>;
+        P27/1Reg/10A; Wiltshire and Swindon History Centre, Chippenham, Wiltshire, England;
+        digital images, <title level="m">Ancestry</title>
+        (<ref target="https://www.ancestry.com/imageviewer/collections/61333/images/47286_p27_1reg_10_a1_tcl"/> : accessed 2021-05-25).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="high">
+          <p>Diplomatic transcription.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/Wiltshire, England, Wills and Probate, 1530-1858(3).jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/ftm/mosher_other Media/47286_p27_1reg_10_a2_tcl.jpg"/>
+  </facsimile>
+  <text>
+
+
+
+<body>
+
+<ab xml:lang="en-emodeng">
+<pb facs="#page-001"/>
+<fw>10A</fw>
+<lb/>Testamet̃n Iohn Combe Iuniore ꝑbat Ann Dmi 1561 : viij die May.
+<lb/>In the name of god Amen xiiij<hi rend="sup">th</hi> day of Aprill yn the yere of
+<lb/>o<hi rend="sup">ꝛ</hi> lord god a thousand v. hundred lxi. I Iohn Combe <del rend="overstrike">of</del> the yonger
+<lb/>of Burton yn the pyshe of Gyllinghã yn the dioces of Brayston
+<lb/>of ꝑfecte mynd &amp; memory do make thys my laste wyll &amp; Testa
+<lb/>met̃ yn mañ &amp; forme folowyng : that ys to say fyrst I bequeath my
+<lb/>soule ynto the house of almyghty god &amp; my body to be buryed
+<lb/>in the churche yeard of Gyllynghã afresayd. Itm̃ I gyve &amp;
+<lb/>bequeath to <del rend="overstrike">Mar</del> Martyn ffolyet my browne heafer. Itm̃ to
+<lb/>my brother Christmas I gyve a lytle bull of ij. yeres aige
+<lb/>Itm̃ to Katheryne Moger I gyve ij. chylver hoggs. Itm̃ to Iohn
+<lb/>Crew I gyve my medly coote. Itm̃ I gyve to my syster Isabell
+<lb/>Smyth a chylver hogg Itm̃ I gyve to Wyllyã Moger the elder
+<lb/>half an acre of wheate. Itm̃ I gyve to Agnis ffolyet one
+<lb/>chylver hogg Itm̃ I gyve to Agnis Chyld ij. chylver hoggs Itm̃
+<lb/>I gyve to the po<hi rend="sup">ꝛ</hi> mens boxe of Gyllynghã
+vj<hi rend="sup">d</hi> Itm̃ to the
+<lb/>po<hi rend="sup">ꝛ</hi> mens boxe of Sylton vj<hi rend="sup">d</hi>
+Itm̃ I gyve to Robert harper
+<lb/>iiij<hi rend="sup">d</hi> And to habyter iiij<hi rend="sup">d</hi>
+And to Rychard Poret iiij<supplied reason="illegible"><hi rend="sup">d</hi></supplied>
+<lb/>All the resydew of my goods not bequeathed as well moveab<supplied reason="illegible">le</supplied>
+<lb/>as vnmoveable w&#x036d; the lease of my house that I dwell y<supplied reason="illegible">n</supplied>
+<lb/>I gyve &amp; bequeath to my wyf Mauld whom I make and
+<lb/>ordayne executrice of thys my wyll &amp; testamet̃ And I mak<supplied reason="illegible">e</supplied>
+<lb/>&amp; co̅stitute Stephen Moger overseer of the same Iohn fforward
+<lb/>ꝑson of Sylton Stephen Moger Iohn Crew &amp; herry hopkins
+<lb/>wytnyssyng the ꝑmesse.
+<pb facs="#page-002"/>
+<lb/>Also I the sayd Iohn Combe acknolege &amp; co̅fesse that I gaue delyñed
+<lb/>to Wyllyã Cobyar a <del rend="overstrike">cow</del> cowe of the legacie &amp; bequest of hys
+<lb/>father delyñed yn the ꝑsence of Stephen Moger &amp; Iohn Wyse
+<lb/>Itm̃ I gaue delyñed to Robert Tuamar of Tysbury of my
+<lb/>brother Christmas monay - xx<hi rend="sup">S/</hi>, to the vse &amp;
+<lb/>behaf of my sayd brother.
+<lb/>Itm̃ I owe to Iohn Whealar - v<hi rend="sup">S/</hi>
+<lb/>Itm̃ I owe to the sayd ꝑson of Sylton for iij. weyght of
+<lb/>wooll savyng iiij. pounds p'ce of the weyght - xxiiij<hi rend="sup">S/</hi>
+<lb/>Also I acknowlege &amp; co̅fesse that my brother Thomas Combe
+<lb/>oweth me - viij<hi rend="sup">S/</hi>
+</ab>
+</body>
+</text>
+</TEI>
