@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Will of Osmund Mosier, of Gillingham, Dorset, England, 1615</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2021</date>
+        <availability status="restricted">
+          <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title level="u">Will of Osmund Mosier, of Gillingham, Dorset, England, 1615</title>,
+        <title level="m">Prerogative Court of Canterbury, Will Registers, Sainberbe</title>;
+        PROB11/127, folios 18 (verso), 19 (recto);
+        digital images, <title level="m">Ancestry</title>
+        (<ref target="https://www.ancestry.com/imageviewer/collections/5111/images/40611_311287-00037"/> : accessed 2021-06-06).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="high">
+          <p>Diplomatic transcription.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/England &amp; Wales, Prerogative Court of Canterbury Wills, 1384-1858(10).jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/ftm/mosher_other Media/40611_311287-00038.jpg"/>
+  </facsimile>
+  <text>
+
+
+
+<body>
+
+<pb n="folio 18 verso" facs="#page-001"/>
+<ab xml:lang="en-emodeng">
+<lb/><hi rend="large">Memorandum</hi> &#xA786;hat Osmund Mosier of Gillingham in the Contie of ~
+<lb/>dorset husbandman beinge sicke of bodie but of ꝑfect mynde and memorie did vppon the sixth ~
+<lb/>day of October Anno Dm̃ one thousand six hundred and ffifteene by word of mouth declare ~
+<lb/>his last will in manner and forme followinge or the like in effecte,
+vi⁊<hi rend="sup">t</hi>: ffirst he comended his ~
+<lb/>soule vnto Allmyghtie God and his bodie to the earth, And as for his worldly goodes he disposed
+<lb/>of them as followeth vi⁊<hi rend="sup">t</hi> he gave vnto
+Iohn &#xA786;oppes Children of Gillingham aforesaid iiij<hi rend="sup">&#xA3;</hi> amongst
+<lb/>them, Item he gave vnto Anne Toppe the wife of the said John Toppe eight poundes of wooll ~
+<lb/>Item he gaue vnto his uncle Robert Mathewes Children iiij<hi rend="sup">&#xA3;</hi>
+w<hi rend="sup">ch</hi> he owed him, Item he gaue vnto
+<lb/>the said Robert Mathewe his Coulte Item he gave vnto &#xA786;homas Mathewe his two Children his
+<lb/>&#xA786;wo yearling bullockes, Item he gave vnto his brother William Mosier
+iiij<hi rend="sup">&#xA3;</hi>, Item he gave to ~ ~
+<lb/>Edward Churchills Children and the widowe &#xA786;aylors Children Eight sheepe amonge them All the
+<lb/>Rest and residue of his goodes his debtes paid his ffunerall discharged and his legacies satisfied
+<lb/>he gave vnto his uncle Robert Mathewe aforesaid whome he named and appoointed to bee his Executor
+<lb/>In the presence of Iohn Michell William Burton Iohn Allen and others
+</ab>
+<p xml:lang="la">
+<lb/><hi rend="large">Probatum</hi> fuit &#xA786;estamentum suprascriptum apud London coram venerabili viro ~
+<lb/>mag̃ro Batholomeo Iesopp legum doctore Surrogato venerabilis viri domini Iohannis Benet
+<lb/>militis legum etiam doctoris Curie prerogative Cantuarienses mag̃ri Custodes sine Comissarij
+<lb/>legitime~
+<pb n="folio 19 recto" facs="#page-002"/>
+<lb/>legitimi constituti Septimo die mensis Januarij Anno Domini iuxta cursum et coputacõem
+<lb/>Eccl̃ie Anglicane millesimo sexcentesimo decimo quinto Iuramento Robert Matewe executoris
+<lb/>dicti defuncti de bene et fideliter Administrando &amp;c ad sancta dei Evangelia Iurate. /
+ex<hi rend="sup">ec&#xA75B;</hi>
+</p>
+</body>
+</text>
+</TEI>
