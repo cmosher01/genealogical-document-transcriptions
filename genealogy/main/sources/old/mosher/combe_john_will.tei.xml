@@ -59,8 +59,8 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/Wiltshire, England, Wills and Probate, 1530-1858(3).jpg"/>
-    <graphic xml:id="page-002" url="https://mosher.mine.nu/ftm/mosher_other Media/47286_p27_1reg_10_a2_tcl.jpg"/>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/47286_p27_1reg_10_a1_tcl.ptif/full/full/0/default.jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/images/genealogy/main/sources/old/mosher/47286_p27_1reg_10_a2_tcl.ptif/full/full/0/default.jpg"/>
   </facsimile>
   <text>
 
@@ -71,9 +71,10 @@
 <ab xml:lang="en-emodeng">
 <pb facs="#page-001"/>
 <fw>10A</fw>
-<lb/>Testamet̃n Iohn Combe Iuniore ꝑbat Ann Dmi 1561 : viij die May.
+<lb/>&#xA786;estamet̃n Iohn Combe Iuniore &#xA753;bat Anno Dñi 1561 : viij die May.
 <lb/>In the name of god Amen xiiij<hi rend="sup">th</hi> day of Aprill yn the yere of
-<lb/>o<hi rend="sup">ꝛ</hi> lord god a thousand v. hundred lxi. I Iohn Combe <del rend="overstrike">of</del> the yonger
+<lb/>o<hi rend="sup">ꝛ</hi> lord god a thousand v. hundred lxi. I Iohn Combe
+<del rend="overstrike">of</del> the yonger
 <lb/>of Burton yn the pyshe of Gyllinghã yn the dioces of Brayston
 <lb/>of ꝑfecte mynd &amp; memory do make thys my laste wyll &amp; Testa
 <lb/>met̃ yn mañ &amp; forme folowyng : that ys to say fyrst I bequeath my
@@ -98,18 +99,18 @@ And to Rychard Poret iiij<supplied reason="illegible"><hi rend="sup">d</hi></sup
 <lb/>ordayne executrice of thys my wyll &amp; testamet̃ And I mak<supplied reason="illegible">e</supplied>
 <lb/>&amp; co̅stitute Stephen Moger overseer of the same Iohn fforward
 <lb/>ꝑson of Sylton Stephen Moger Iohn Crew &amp; herry hopkins
-<lb/>wytnyssyng the ꝑmesse.
+<lb/>wytnyssyng the p̃messe.
 <pb facs="#page-002"/>
 <lb/>Also I the sayd Iohn Combe acknolege &amp; co̅fesse that I gaue delyñed
 <lb/>to Wyllyã Cobyar a <del rend="overstrike">cow</del> cowe of the legacie &amp; bequest of hys
 <lb/>father delyñed yn the ꝑsence of Stephen Moger &amp; Iohn Wyse
-<lb/>Itm̃ I gaue delyñed to Robert Tuamar of Tysbury of my
+<lb/>Itm̃ I gaue delyñed to Robert &#xA786;uamar of &#xA786;ysbury of my
 <lb/>brother Christmas monay - xx<hi rend="sup">S/</hi>, to the vse &amp;
 <lb/>behaf of my sayd brother.
 <lb/>Itm̃ I owe to Iohn Whealar - v<hi rend="sup">S/</hi>
 <lb/>Itm̃ I owe to the sayd ꝑson of Sylton for iij. weyght of
-<lb/>wooll savyng iiij. pounds p'ce of the weyght - xxiiij<hi rend="sup">S/</hi>
-<lb/>Also I acknowlege &amp; co̅fesse that my brother Thomas Combe
+<lb/>wooll savyng iiij. poundes p'ce of the weyght - xxiiij<hi rend="sup">S/</hi>
+<lb/>Also I acknowlege &amp; co̅fesse that my brother &#xA786;homas Combe
 <lb/>oweth me - viij<hi rend="sup">S/</hi>
 </ab>
 </body>

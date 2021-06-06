@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Will of John Moger, of London, England, 1591</title>
+        <author/>
+        <principal>Christopher Alan Mosher</principal>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Christopher Alan Mosher</authority>
+        <pubPlace>Shelton, CT, USA</pubPlace>
+        <date>2021</date>
+        <availability status="restricted">
+          <p>Copyright © 2021, Christopher Alan Mosher, Shelton, Connecticut, USA.</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title level="u">Will of John Moger, of London, England, 1591</title>,
+        <title level="m">Prerogative Court of Canterbury, Will Registers, Sainberbe</title>;
+        PROB11/77, folio 401 (recto, verso);
+        digital images, <title level="m">Ancestry</title>
+        (<ref target="https://www.ancestry.com/imageviewer/collections/5111/images/40611_311345-00810"/> : accessed 2021-06-03).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction status="high">
+          <p>Diplomatic transcription.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Only minor normalization where needed, if any, is indicated via markup.</p>
+        </normalization>
+        <punctuation marks="all" placement="internal">
+          <p>All punctuation marks in the source text have been retained, and are represented by appropriate Unicode code points.</p>
+          <p>Punctuation may be marked up with pc elements for clarification, but not exclusively.</p>
+        </punctuation>
+        <quotation marks="all">
+          <p>All quotation marks have been retained, and are represented by appropriate Unicode code points.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>Hyphenated words that appear at the end of a line have been retained. The hyphen, if present, is represented by the Unicode code point, and marked up with a pc element. The break="no" attribute on the lb element indicates that a single word is split across the lines.</p>
+        </hyphenation>
+        <interpretation>
+          <p>Dates, places, and names may be marked up, where useful.</p>
+        </interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+        <rs type="place"/>
+      </creation>
+      <langUsage>
+        <language ident="en-US">English (USA)</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic xml:id="page-001" url="https://mosher.mine.nu/ftm/mosher_other Media/England &amp; Wales, Prerogative Court of Canterbury Wills, 1384-1858(9).jpg"/>
+    <graphic xml:id="page-002" url="https://mosher.mine.nu/ftm/mosher_other Media/40611_311345-00811.jpg"/>
+  </facsimile>
+  <text>
+
+
+
+<body>
+
+<ab xml:lang="en-emodeng">
+<pb n="folio 401 recto" facs="#page-001"/>
+<lb/><hi rend="large">In the name of god: amen</hi> the xxviij<hi rend="sup">th</hi>
+<lb/>daye of Maye a thousand ffyue hundred nynetie one Elizabeth &amp; Regine : xxxiij I Iohn
+<lb/>Moger Citizen and Cooke of London being whole of Bodie and of perfect minde and ~ ~
+<lb/>Remembraunce praise be giuen to Almightie god but yet doubtefull of the Lordes ~ ~
+<lb/>visitacõn and allso my Suddeyne callinge by deathe do constitute and ordeyne ~
+<lb/>this my last will and testament in manner and forme followinge. ffirst I ~ ~
+<lb/>bequeathe my soule vnto the handes of Almightie god my heauenlye father ~
+<lb/>and to Iesus xp̅iste his onlie sonne my Redemer with thassisance of the holie ghost
+<lb/>my daylie Sanctifier in whome and by whome I hope to be in the nomber of the ~
+<lb/>Elete at the generall Resurrection vntill which tyme I committ my Bodie to the earth
+<lb/>Item I will and bequeathe vnto my Brother william Moger Citizen and Cooke of
+<lb/>London all my lande in Bromley in the Countie of Kente that hath ben in varyaunce
+<lb/>betwene hym and me and to his heires for euer. Item I giue and bequeathe vnto my ~
+<lb/>Cosin Oliver Moger the younger sonne of Oliver Moger deceased all y Landes in
+<lb/>Nockoll in the countie of Kente which was my ffather in lawe John Myborn ^ yeoman ? deceased
+<lb/>to hym and to his heires males of his Bodie lawfullie begotten. And for want
+<lb/>of suche yssue of heires males of his bodie lawfullie begotten I do giue my saied landes
+<lb/>in Nockell vnto ffedricke his brother and to the heires males of his Bodie law=
+<lb/>fullie begotten. And for defaulte of suche yssue then I giue and bequeathe my saied
+<lb/>Landes in Nockell vnto Robert Moger his brother: and to the heires males of his
+<lb/>Bodie lawfullie begotten. And for wante of suche heires males of theire Bodies ~
+<lb/>lawfullie begotten then I will and bequeathe my saied Landes in Nockell to my ~
+<lb/>Brother william and his heires for euer. Item I giue and bequeathe to Oliver ~
+<lb/>Moger the younger the somme of twentie pounde to be paied vnto hym when he
+<lb/>shall accomplishe or come to his full age of one and twentie yeres. Item I do giue
+<lb/>and bequeathe vnto ffredricke Moger his Brother the somme of twentie poundes ~
+<lb/>when he shall come to his full age of one and twentie yeres. Item I giue and bequeathe
+<lb/>vnto Robert Moger his Brother the somme of twentie poundes to be paied vnto hym
+<lb/>when he shall accomplishe his full age of one and twentie yeres. Item I do giue and
+<lb/>bequeathe vnto Margaret Moger theire Sister the somme of twentie poundes when
+<lb/>she shall come to her full age of twentie yeres or at the daye of her marriage. Item
+<lb/>I do giue and bequeathe vnto her Sister ffrauncis Moger the somme of twentie
+<lb/>poundes when she shall come to her full age of twentie yeres or at the daye of her
+<lb/>marriage. Item I do giue and bequeathe vnto Iohn Halpenye sonne of Iohn ~
+<lb/>Halpenye of Orpington in the countie of Kent the Somme of twentie poundes
+<lb/>when he shall come to his full age of one and twentie yeres. Item I giue and ~
+<lb/>bequeathe vnto Henry Halpenye his Brother the somme of twentie poundes to be
+<lb/>paied vnto hym when he shall come to his full age of one and twentie yeres. Itm
+<lb/>I do giue and bequeathe vnto Andrewe Halpenye the somme of twentie poundes
+<lb/>to be paied vnto hym when he shall come to his full age of one and twentie yeres
+<lb/>Item I do giue and bequeathe vnto Agnes halpenye theire sister the somme of
+<lb/>twentie poundes to be paied vnto her when she shall come to her full age of twenty
+<lb/>yeres of at the daye of her marriage. Allse my will and intente ys that none
+<lb/>of them shall sell any of their porcoñs of money or Legacey be me giuen before ~
+<lb/>they shall come to theire full ages yf he she or any of them shall so happen to doe
+<lb/>Then my will and intente is that he she or they which so dothe shall have no porc̃on
+<lb/>of money or legacey by me giuen to them. And allso my will is that yf any of
+<lb/>them happen to die them my will is that he or she whoe dyeth then his of her ~
+<lb/>porc̃on so dyinge shall remayne and to be Deuided amongest the rest porc̃on and
+<lb/>porc̃on like. Item I do giue vnto twentie of my ffellowes men and women of þ<hi rend="sup">e</hi>
+<pb n="folio 401 verso" facs="#page-002"/>
+<lb/>poorer sorte tenne poundes to be deuided amongest them and to be paied vnto them within
+<lb/>twentie dayes after my decease. Item I do will and allso bequeathe vnto them within
+<lb/>that my executors and ouerseers hereunder named shall see that all theise my Legaceys
+<lb/>and porc̃ons of money giuen to the children shall after my decease be put forthe to
+<lb/>be ymployed for theire most advauntage and allso taking good suerties and Bandes
+<lb/>for the payment thereof accordinge to my true meaninge and truste in them. All
+<lb/>the rest of my goodes vnbequeated my Legacys paied my ffunerall dischard god
+<lb/>and my Bodie broughte honestlie to the grounde the one halfe I do giue to be given
+<lb/>and deuided amongest the poore of the parishe of Brumley in the countie of Kent
+<lb/>And the other halfe to be devided amongest my Bretheren and Sisters children ~
+<lb/>aforesaied portion and portion like. All whiche goodes vnbequeathed to be sould
+<lb/>and so deuided and giuen aswell to the poore as to my Bretheren and Sisters ~ ~
+<lb/>children: and to be deuided and given by my executors and ouerseers. And of ~
+<lb/>this my last will and testament I do ordeyne and make Iohn Sonckey gentleman one of
+<lb/>my executors: And I do giue vnto hym for his paynes the somme of tenne poundes. And
+<lb/>I do make another of my executors Iames Blandcharde citizen and draper of Londõ
+<lb/>and I do giue vnto hym for his paynes ffyue poundes. Allso I do make my ouerseers ~
+<lb/>william Moger Citizen and Cooke of London and Iohn kinlye of Grenewiche in the
+<lb/>countie of Kent yeoman and do giue vnto them the Somme of ffyue poundes. Item
+<lb/>I do by this my will and last testamente forgiue all and all manner of persons that
+<lb/>oweth vnto me any somme or sommes of money be yt by bill or obligac̅on that is vnd<hi rend="sup">ꝛ</hi>
+<lb/>three pounde sixe shillinges eighte pence. Item I do giue vnto my ffellowe Iohn ~
+<lb/>Osmonde all my chests and upparell in my chaumber in the Rolles. In witnesse
+<lb/>hereof to this my last will and testamente I haue put to my hande and seale the
+<lb/>daie and yere abouewritten and in the presentes of vs hereundernamed Sealed signed
+<lb/>and deliuered in the presence of vs Geoffrey yate Ro? kighleye / ~ / ~ / Iohn Moger
+</ab>
+<p>
+<lb/><hi rend="large">Probatum fuit testamentũ</hi>
+<lb/>Suprascripum apud London coram venerabili viro Magistro Willmo ?ewin legu?
+<lb/>doctore ad excertend? off? Mayistri Custodis suie Comissarij Cuen? ?
+<lb/>Cantuariem? ? Deputat Septimo die mensie Iunij Anno Domini millesimo
+<lb/>quingentesimo nonage simo primo Iuramento Iohannis Sonckey et Iacobi Blanch<hi rend="sup">rd</hi>
+<lb/>Executorum in hmoi? testamento nominat Com? comissa fuit Administraco bonorum
+<lb/>Iurium et cueditorum dci defuncti de bene et fideliter Administrand ad sancto dei
+<lb/>Evangelia Iurat / ~ / ~ / ~ / ex<hi rend="sup">ꝛ</hi>
+</p>
+</body>
+</text>
+</TEI>
